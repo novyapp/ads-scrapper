@@ -1,18 +1,17 @@
 import { chromium } from "playwright";
 import { SWITCH_NEW_GAMES } from "./consts";
-import { IAdItem } from "./types";
+import { Page } from "@playwright/test";
 import fs from "fs";
 import path from "path";
 
 const __dirname = path.resolve();
 
-(async () => {
+export const scraper = async (page: Page) => {
   // Launch a headless browser
   const browser = await chromium.launch({ headless: true });
 
   // Open a new page
   const context = await browser.newContext();
-  const page = await context.newPage();
 
   // Navigate to the desired URL
   await page.goto(SWITCH_NEW_GAMES);
@@ -153,4 +152,4 @@ const __dirname = path.resolve();
   // Close the browser
   await context.close();
   await browser.close();
-})();
+};
