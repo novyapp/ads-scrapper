@@ -1,5 +1,5 @@
 import { chromium } from "playwright";
-import { SWITCH_NEW_GAMES } from "./consts";
+import { OLX_SWITCH_NEW_GAMES } from "./consts";
 import { Page } from "@playwright/test";
 import fs from "fs";
 import path from "path";
@@ -14,7 +14,7 @@ export const scraper = async (page: Page) => {
   const context = await browser.newContext();
 
   // Navigate to the desired URL
-  await page.goto(SWITCH_NEW_GAMES);
+  await page.goto(OLX_SWITCH_NEW_GAMES);
 
   // Select and extract data from the page
   const extractedItems = await page.evaluate(() => {
