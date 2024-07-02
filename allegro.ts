@@ -74,6 +74,8 @@ export const scraperAllegro = async (page: Page) => {
       return filteredItems;
     });
 
+    console.log(extractedItems);
+
     const nextButton = await page.$(
       'a.ml-pagination__link span:has-text("Następna strona")'
     );
