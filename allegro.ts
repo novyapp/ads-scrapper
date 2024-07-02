@@ -11,6 +11,8 @@ export const scraperAllegro = async (page: Page) => {
 
   await page.goto(ALLEGRO_LOC_SWITCH_NEW_GAMES);
   let allExtractedItems = [];
+  let pageCount = 0;
+  const maxPages = 10;
 
   async function handleConsentModal() {
     await page.evaluate(() => {
@@ -21,7 +23,7 @@ export const scraperAllegro = async (page: Page) => {
     });
   }
 
-  while (true) {
+  while (pageCount < maxPages) {
     await handleConsentModal();
 
     const extractedItems = await page.evaluate(() => {
@@ -74,12 +76,12 @@ export const scraperAllegro = async (page: Page) => {
       return filteredItems;
     });
 
-    console.log(extractedItems);
+    allExtractedItems.push(...extractedItems);
 
     const nextButton = await page.$(
       'a.ml-pagination__link span:has-text("Następna strona")'
     );
-    if (nextButton) {
+    if (nextButton && pageCount < maxPages - 1) {
       await nextButton.click();
       await page.waitForLoadState("networkidle");
       await page.waitForSelector(".mlc-card.mlc-itembox", {
@@ -89,6 +91,7 @@ export const scraperAllegro = async (page: Page) => {
     } else {
       break;
     }
+    pageCount++;
   }
 
   const data = JSON.stringify(allExtractedItems, null, 2);
