@@ -2,12 +2,13 @@ import { chromium } from "playwright";
 import fs from "fs";
 import path from "path";
 import { ALLEGRO_LOC_SWITCH_NEW_GAMES } from "./types/allegroLokalnie/const";
-import { Page } from "@playwright/test";
 
 const __dirname = path.resolve();
-export const scraperAllegro = async (page: Page) => {
+
+(async () => {
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
+  const page = await context.newPage();
 
   await page.goto(ALLEGRO_LOC_SWITCH_NEW_GAMES);
   let allExtractedItems = [];
@@ -74,6 +75,8 @@ export const scraperAllegro = async (page: Page) => {
       return filteredItems;
     });
 
+    allExtractedItems = allExtractedItems.concat(extractedItems);
+
     const nextButton = await page.$(
       'a.ml-pagination__link span:has-text("Następna strona")'
     );
@@ -90,10 +93,10 @@ export const scraperAllegro = async (page: Page) => {
   }
 
   const data = JSON.stringify(allExtractedItems, null, 2);
-  const filePath = path.join(__dirname, "data", "allegroLokalnie.json");
+  const filePath = path.join(__dirname, "data", "dballegro.json");
 
   fs.writeFileSync(filePath, data);
 
   await context.close();
   await browser.close();
-};
+})();

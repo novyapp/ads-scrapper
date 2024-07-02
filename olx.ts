@@ -12,7 +12,7 @@ import {
 
 const __dirname = path.resolve();
 
-export const scraper = async (page: Page) => {
+export const scraperOlx = async (page: Page) => {
   // Launch a headless browser
   const browser = await chromium.launch({ headless: true });
 

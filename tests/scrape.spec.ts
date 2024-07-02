@@ -1,5 +1,6 @@
 import { test, expect } from "@playwright/test";
-import { scraper } from "../olx";
+import { scraperOlx } from "../olx";
+import { scraperAllegro } from "../allegro";
 
 const hypothesis = true;
 
@@ -8,8 +9,13 @@ test.describe.configure({ mode: "serial" });
 // Run indefinitely
 test.setTimeout(0);
 
-test("Scrape data", async ({ page }) => {
-  await scraper(page);
+test("Scrape data olx", async ({ page }) => {
+  await scraperOlx(page);
+
+  expect(hypothesis).toBe(true);
+});
+test("Scrape data allegro", async ({ page }) => {
+  await scraperAllegro(page);
 
   expect(hypothesis).toBe(true);
 });

@@ -20,7 +20,7 @@ jobs:
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps
       - name: Run Playwright tests
-        run: npx playwright test
+        run: npx playwright test --project='chromium'
       - name: Commit file changes
         run: |
           git config user.name "github-actions[bot]"
