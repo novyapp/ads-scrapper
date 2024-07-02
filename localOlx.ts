@@ -1,23 +1,24 @@
 import { chromium } from "playwright";
-import { OLX_SWITCH_NEW_GAMES } from "./types/olx/const";
-import { Page } from "@playwright/test";
+
 import fs from "fs";
 import path from "path";
-import { AD_TYPE, IAdItem, IOlxRawData } from "./types/interfaces";
+import { OLX_SWITCH_NEW_GAMES } from "./types/olx/const";
 import {
   getOlxProductCity,
   getOlxProductCondition,
   getOlxProductDate,
 } from "./utils/olx";
+import { AD_TYPE, IAdItem, IOlxRawData } from "./types/interfaces";
 
 const __dirname = path.resolve();
 
-export const scraper = async (page: Page) => {
+(async () => {
   // Launch a headless browser
   const browser = await chromium.launch({ headless: true });
 
   // Open a new page
   const context = await browser.newContext();
+  const page = await context.newPage();
 
   // Navigate to the desired URL
   await page.goto(OLX_SWITCH_NEW_GAMES);
@@ -103,4 +104,4 @@ export const scraper = async (page: Page) => {
 
   // Log the extracted data
   console.log(finalData);
-};
+})();
