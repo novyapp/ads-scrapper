@@ -1190,16 +1190,6 @@
     "city": "Świdnica"
   },
   {
-    "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
-    "title": "DRAGON'S DOGMA DARK ARISEN Nintendo Switch nowa",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e4945/f2f0d4be44258b09a79a786fd21d",
-    "url": "https://allegrolokalnie.pl//oferta/dragons-dogma-dark-arisen-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "bc2bca13-c0c6-4ecb-b1f7-b32634e9baf5",
     "title": "DESTROY ALL HUMANS PL NINTENDO SWITCH NOWA",
     "price": "80",
@@ -1800,6 +1790,16 @@
     "city": "Gorzów Wielkopolski"
   },
   {
+    "id": "8a54d11c-65e5-4c7f-aab1-4f94f956d4df",
+    "title": "Everybody 1-2 Switch Nowa! Folia! Nintendo Switch",
+    "price": "49",
+    "img": "https://a.allegroimg.com/s360x360/1e4c38/01a8c0ee415bbe74aaadc99b1524",
+    "url": "https://allegrolokalnie.pl//oferta/everybody-12-switch-nowa-folia-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
     "id": "45eb8b0e-4f1c-482d-a200-64c03a6292a5",
     "title": "Kirby Return to Dream Land Nowa! Folia! Nintendo Switch",
     "price": "199",
@@ -2378,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
+  },
+  {
+    "id": "ecd90f5a-70db-400b-bda6-0073071a7c37",
+    "title": "Star Ocean the second story r switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e787c/def8e6734ccbb9c0fbee8462c7c5",
+    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-secend-story-r-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
   },
   {
     "id": "ecd90f5a-70db-400b-bda6-0073071a7c37",
@@ -3580,16 +3590,6 @@
     "city": "Gostynin"
   },
   {
-    "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
-    "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/117c74/caf8d2594f7381d70af4296a86a1",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
     "id": "1abb67a9-eca3-42e6-b18b-e5a794b0d8c2",
     "title": "switch HELLO NEIGHBOR 2 EDYCJA KOLEKCJONERSKA po polsku kardridż BIG BOX",
     "price": "199",
@@ -4165,16 +4165,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1eef17/9f8effef479b9c0a98448bfbd619",
     "url": "https://allegrolokalnie.pl//oferta/gra-cuphead-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
-    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
@@ -5978,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
+  },
+  {
+    "id": "a21e52a3-6c03-4bab-9d3f-f3ea19772ba9",
+    "title": "Legend of Zelda: Breath of the Wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1eed46/0c44626140caa847184b90e0d361",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-6rc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "1d83a294-3e3a-4640-8d7a-929428a466ac",
+    "title": "LEGEND OF ZELDA BREATH OF THE WILD NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee0d4/83404863492eb5468ece9176b29f",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-hnp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Białołęka"
   }
 ]
