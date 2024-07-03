@@ -590,16 +590,6 @@
     "city": "Wschowa"
   },
   {
-    "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
-    "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e923b/64e4ff1c4c078e5a7594c39c0d90",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-switch-yugioh-rush-duel-lets-go-go-rush-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
     "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
     "title": "No More Heroes 3 Switch - Wrocław",
     "price": "169",
@@ -1788,6 +1778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Kraków"
+  },
+  {
+    "id": "894cda87-195c-4454-81f3-553184a56ace",
+    "title": "Disco Elysium The Final Cut (Nowa) - Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e04f8/f81e58404bf7ac7169bca362c040",
+    "url": "https://allegrolokalnie.pl//oferta/disco-elysium-the-final-cut-nowa-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "894cda87-195c-4454-81f3-553184a56ace",
@@ -2990,16 +2990,6 @@
     "city": "Gostynin"
   },
   {
-    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
-    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom"
-  },
-  {
     "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
     "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
     "price": "349",
@@ -3588,6 +3578,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "katowice"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   },
   {
     "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
@@ -4200,16 +4200,6 @@
     "city": "Warszawa, Żoliborz"
   },
   {
-    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
-    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
-    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
-  },
-  {
     "id": "6f5c8b25-99e6-4822-adcb-b41ec877b381",
     "title": "Nier Automata Nintendo Switch",
     "price": "155",
@@ -4798,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tomaszowo"
-  },
-  {
-    "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
-    "title": "Final Fantasy X (Switch)",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1ed7ec/08a8f3e14798b13dc19113dfa218",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-switch-agt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
   },
   {
     "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "1e95e52e-6124-430a-8d64-5447ac079c1e",
+    "title": "Doom eternal ultimate edition NS Limited Run",
+    "price": "1 220",
+    "img": "https://a.allegroimg.com/s360x360/1e622d/a54e0fbf4fa89fbb4bf27d87dbac",
+    "url": "https://allegrolokalnie.pl//oferta/doom-eternal-ultimate-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Morąg"
   }
 ]
