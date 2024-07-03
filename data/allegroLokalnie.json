@@ -1,5 +1,15 @@
 [
   {
+    "id": "de8b37b0-4e0e-4095-895f-922f2768997e",
+    "title": "Zelda Breath of the wild, Pokemon scarlet",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s360x360/1edcfd/286c05bd4788b682fd83282fe6b4",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-pokemon-scarlet?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Skludzewo"
+  },
+  {
     "id": "35146607-1a45-4e49-8c32-ac8b8b8cfa4d",
     "title": "Fire Emblem Engage",
     "price": "120",
@@ -320,16 +330,6 @@
     "city": "Szczecin"
   },
   {
-    "id": "b9302c4a-d72f-4683-a15e-f8e5fbbc8708",
-    "title": "Grand Theft Auto The Trilogy Nintendo Switch GTA San Andreas Vice City",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e9d2a/dbe70d964dc582bbbd1adb1082d5",
-    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-nintendo-switch-gta-san-andreas-vice-city?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "ee3980c0-916b-421b-83e3-788c5a5fe313",
     "title": "Gra na Nintendo Switch Zelda",
     "price": "200",
@@ -588,16 +588,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Wschowa"
-  },
-  {
-    "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
-    "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e923b/64e4ff1c4c078e5a7594c39c0d90",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-switch-yugioh-rush-duel-lets-go-go-rush-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
@@ -1800,6 +1790,16 @@
     "city": "Kraków, Kraków"
   },
   {
+    "id": "894cda87-195c-4454-81f3-553184a56ace",
+    "title": "Disco Elysium The Final Cut (Nowa) - Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e04f8/f81e58404bf7ac7169bca362c040",
+    "url": "https://allegrolokalnie.pl//oferta/disco-elysium-the-final-cut-nowa-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "3fd02192-ee14-4f38-a326-1fc1b3e66efa",
     "title": "Hidden Through Time Definite Edition (Nowa) - Nintendo Switch",
     "price": "169",
@@ -2990,14 +2990,14 @@
     "city": "Gostynin"
   },
   {
-    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
-    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
+    "id": "7ef899aa-019f-4fb3-8f8a-ff863d5ae09b",
+    "title": "Pokémon Brilliant Diamond & Shining Pearl Dual Pack Nintendo Switch",
+    "price": "339",
+    "img": "https://a.allegroimg.com/s360x360/1ee0ee/dd4a5dfe45fbad8095be9add159e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-dual-pack-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Radom"
+    "smartPost": false,
+    "city": "Gostynin"
   },
   {
     "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
@@ -3590,14 +3590,24 @@
     "city": "Olsztyn"
   },
   {
-    "id": "350f4a7e-2c68-4824-b7cb-b1a41c4ae6d3",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e10c5/e708af8a4fc482ecb4c6cf95c7c8",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-rv2?navCategoryId=256922",
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Super Mario Bros: Wonder Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1eb5c1/cc50ad2b43659578579843d06258",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "katowice"
+    "city": "Piaseczno"
   },
   {
     "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
@@ -3648,16 +3658,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
-    "title": "Super Mario Bros: Wonder Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1eb5c1/cc50ad2b43659578579843d06258",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
@@ -4188,26 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
-    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
-    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
-  },
-  {
-    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
-    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
-    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
   },
   {
     "id": "6f5c8b25-99e6-4822-adcb-b41ec877b381",
@@ -4798,6 +4778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tomaszowo"
+  },
+  {
+    "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
+    "title": "Final Fantasy X (Switch)",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1ed7ec/08a8f3e14798b13dc19113dfa218",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-switch-agt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   },
   {
     "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
