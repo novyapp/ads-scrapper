@@ -1060,16 +1060,6 @@
     "city": "Katowice"
   },
   {
-    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
-    "title": "Fire Emblem: Engage",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Gdynia, Karwiny"
-  },
-  {
     "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
     "title": "Super Mario Bros: Wonder Nintendo Switch",
     "price": "169",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdynia, Karwiny"
   },
   {
     "id": "aa1e1df1-5cd3-4a32-8025-7dbdeb5d74e1",
@@ -3248,16 +3248,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "40472235-c4fc-40c1-ae8e-edd3ac576d23",
-    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e6e02/f1c0470b4c34a1f2a62dfd109f25",
-    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-pcr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
   },
   {
     "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
