@@ -1100,16 +1100,6 @@
     "city": "Białystok"
   },
   {
-    "id": "14e6acc5-cd74-4dc9-a191-4685d61113db",
-    "title": "Xenoblade Chronicles Definitive Edition Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ea440/1d300ff74856b32fdf7d776e430f",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Katowice"
-  },
-  {
     "id": "87937458-3bb2-480e-9409-708dac95b385",
     "title": "Switch Pokemon Let's go Pikachu .. nowy folia",
     "price": "197",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ełk"
+  },
+  {
+    "id": "d2ca8557-04ef-4168-a0c0-c300e964941f",
+    "title": "Gothic II Nintendo Switch Wydanie POLSKIE!",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1e9dcf/cf0df18c4bfaaf22c6f0d1bba8e6",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-nintendo-switch-wydanie-eu-folia-6wx?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Siedlce"
   },
   {
     "id": "d2ca8557-04ef-4168-a0c0-c300e964941f",
@@ -5400,6 +5400,16 @@
     "city": "Młynice"
   },
   {
+    "id": "cd1fc6a8-36bc-4a16-ab89-6869247ffe4a",
+    "title": "POKEMON LEUCHTENDE PERLE",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e2014/25fd52f24f4fbf263efe9358ec4c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-leuchtende-perle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Młynice"
+  },
+  {
     "id": "1562865f-dbba-4427-9693-ff306fc5b54a",
     "title": "Switch Minecraft - Kartridź Folia PL",
     "price": "109",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wągrowiec"
-  },
-  {
-    "id": "4ea22437-e63e-4979-865a-f3699e7a92b8",
-    "title": "The binding of isaac: repentance Nintendo Switch",
-    "price": "450",
-    "img": "https://a.allegroimg.com/s360x360/1efe32/bfc5fad442da98005573a955f755",
-    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-nintendo-switch-go5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Straszyn"
   }
 ]
