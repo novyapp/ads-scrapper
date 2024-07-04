@@ -1,5 +1,15 @@
 [
   {
+    "id": "b236f1af-c76f-41ee-a9a5-f8b977bf548e",
+    "title": "Pokemon Let's Go Eevee",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ede5a/9c84887544d6a3518ea35651e1fe",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-zxz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
     "id": "06bc9455-353b-4cd4-9158-db5f47fa90d8",
     "title": "Luigi’s Mansion 3",
     "price": "200",
@@ -592,7 +602,7 @@
   {
     "id": "930a6f17-8f09-4edd-bb7c-e6836ccd370c",
     "title": "Super Mario Bros U DELUXE",
-    "price": "125",
+    "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1ec31d/0ebca8ef4cb087324a55644777c3",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-ehe?navCategoryId=256922",
     "promoted": true,
@@ -1292,7 +1302,7 @@
   {
     "id": "1ca04aa0-c9c6-4212-bb35-8e73416c2a33",
     "title": "Fatal Frame Mask of the Lunar Eclipse",
-    "price": "125",
+    "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1e12f0/fd5abb8f4fcaa708cbe65e825e82",
     "url": "https://allegrolokalnie.pl//oferta/fatal-frame-mask-of-the-lunar-eclipse-6wh?navCategoryId=256922",
     "promoted": true,
@@ -1642,22 +1652,12 @@
   {
     "id": "9bfd3036-af46-47cc-8399-aad074f68d4f",
     "title": "Bayonetta 3 Nintendo Switch",
-    "price": "100",
+    "price": "90",
     "img": "https://a.allegroimg.com/s360x360/1e4801/0d1eb2c4413f87190ad0bd149455",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-346?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
-    "city": "Wrocław"
-  },
-  {
-    "id": "97cd099e-a1d3-45e9-b54f-0e6ccd675938",
-    "title": "Battle Axe Nintendo Switch. Nowa w folli",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e4316/ff4edf994b3b942a05a7cc2f97cd",
-    "url": "https://allegrolokalnie.pl//oferta/battle-axe-nintendo-switch-nowa-w-folli-pej?navCategoryId=256922",
-    "promoted": true,
     "smartPost": true,
-    "city": "Żychlin"
+    "city": "Wrocław"
   },
   {
     "id": "4d4bbee9-958b-49e7-bd88-138af535fe1f",
@@ -5830,6 +5830,16 @@
     "city": "Gostynin"
   },
   {
+    "id": "97cd099e-a1d3-45e9-b54f-0e6ccd675938",
+    "title": "Battle Axe Nintendo Switch. Nowa w folli",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e4316/ff4edf994b3b942a05a7cc2f97cd",
+    "url": "https://allegrolokalnie.pl//oferta/battle-axe-nintendo-switch-nowa-w-folli-pej?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żychlin"
+  },
+  {
     "id": "524761cc-d378-4d0f-a1da-ceb17b84a4c3",
     "title": "Bayonetta 3 Nintendo Switch",
     "price": "120",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "47bea1d3-d565-45e7-954d-a267c1349731",
-    "title": "Nintendo Switch River City Saga Three Kingdoms",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e8efe/dfd2cf4c4431adcac06c3c6158ce",
-    "url": "https://allegrolokalnie.pl//oferta/river-city-saga-three-kingdoms?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   }
 ]
