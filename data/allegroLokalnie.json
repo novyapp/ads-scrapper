@@ -1190,6 +1190,16 @@
     "city": "Gdynia, Karwiny"
   },
   {
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Gothic II Complete Classic PL Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
     "title": "Gra Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
@@ -1778,16 +1788,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Gulczewo"
-  },
-  {
-    "id": "79f1e67a-f06d-4769-8382-28431a2acf0b",
-    "title": "POKEMON SWORD STEELBOOK Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e57c2/19a058ff456c86ec25af58e44971",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-steelbook-switch-ssf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "79f1e67a-f06d-4769-8382-28431a2acf0b",
@@ -3330,16 +3330,6 @@
     "city": "Gaszowice"
   },
   {
-    "id": "38750872-00fc-41ff-9547-862241977ead",
-    "title": "Xenoblade Chronicles 1, 2, 3 i Torna. 4 gry. Nowe Folia Nintendo Switch",
-    "price": "629",
-    "img": "https://a.allegroimg.com/s360x360/1e9dd9/f2db82f943c592af5357a4f47575",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-1-2-3-i-torna-4-gry-nowe-folia-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Skierniewice"
-  },
-  {
     "id": "279987b8-f1ca-4693-b804-53d1379e3cd4",
     "title": "Fire Emblem Warriors Three Hopes na Nintendo Switch",
     "price": "110",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "350f4a7e-2c68-4824-b7cb-b1a41c4ae6d3",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e10c5/e708af8a4fc482ecb4c6cf95c7c8",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-rv2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "katowice"
   },
   {
     "id": "350f4a7e-2c68-4824-b7cb-b1a41c4ae6d3",
@@ -4200,16 +4200,6 @@
     "city": "Wrocław, Fabryczna"
   },
   {
-    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
-    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
-    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
-  },
-  {
     "id": "6f5c8b25-99e6-4822-adcb-b41ec877b381",
     "title": "Nier Automata Nintendo Switch",
     "price": "155",
@@ -4778,6 +4768,36 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jantar"
+  },
+  {
+    "id": "c888b3fc-48f9-4b97-aac1-bc505a093e9c",
+    "title": "Tokyo Mirage Sessions FE Encore Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e137c/8cda9bb94d9c8abef94787b4ac8e",
+    "url": "https://allegrolokalnie.pl//oferta/tokyo-mirage-sessions-fe-encore-nintendo-switch-dhs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tomaszowo"
+  },
+  {
+    "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
+    "title": "Final Fantasy X (Switch)",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1ed7ec/08a8f3e14798b13dc19113dfa218",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-switch-agt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
+    "title": "Mario + Rabbids: Kingdom Battle (Switch)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6fae/cde9f8274b399dd9133f5d2d6eaa",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-5bi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   },
   {
     "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
@@ -5380,16 +5400,6 @@
     "city": "Młynice"
   },
   {
-    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
-    "title": "Gra lets sing 2023 Nintendo",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "06faa115-6e76-4896-b127-2aa522a16a79",
     "title": "Minecraft premium pelerynka optifine",
     "price": "150",
@@ -5978,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
