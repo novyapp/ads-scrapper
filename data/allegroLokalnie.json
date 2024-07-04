@@ -1,5 +1,35 @@
 [
   {
+    "id": "298add97-c132-4277-a3f7-329025da13ff",
+    "title": "Super Mario Odyssey",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e6936/7258fa0c427da583ee0799c3055a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-reo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Legnica"
+  },
+  {
+    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
+    "title": "Super Smash Bros Ultimate",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Legnica"
+  },
+  {
+    "id": "89a4bec8-93d0-45e9-a35f-6ec38eda2d9d",
+    "title": "Mario Kart 8 Deluxe",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8791/a4ec26644e8191d3d39d1c98997e",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-xxp?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Legnica"
+  },
+  {
     "id": "e1a68a0d-0af7-480c-97f4-44bf02c10444",
     "title": "Pokemon Violet oraz Pokemon Brilliant Diamond na Nintendo Switch",
     "price": "295",
@@ -92,7 +122,7 @@
   {
     "id": "3375a182-4422-4438-b9fb-3d9b1814c4e6",
     "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
-    "price": "449",
+    "price": "439",
     "img": "https://a.allegroimg.com/s360x360/1eb78f/ea57be7045939944dd0c3ef9565b",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-fall-of-man-premium-ed-nowa?navCategoryId=256922",
     "promoted": true,
@@ -350,16 +380,6 @@
     "city": "Białystok"
   },
   {
-    "id": "64405658-7536-4b11-8bb0-927801708a58",
-    "title": "Metroid Prime Remastered",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e2635/03638ee8407999f9c3d4711f2f86",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-wut?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
     "id": "f5f6b39a-6698-428d-8ca6-de658adadfe5",
     "title": "Red Dead Redemption Nintendo Switch",
     "price": "125",
@@ -565,26 +585,6 @@
     "price": "240",
     "img": "https://a.allegroimg.com/s360x360/1ec791/b2d69fe746a9b66b838e0ccb28bb",
     "url": "https://allegrolokalnie.pl//oferta/radiant-silvergun-nintendo-switch-jpn-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
-  },
-  {
-    "id": "38645cdf-5638-4ae2-80b5-9f1d55ce9afb",
-    "title": "NeoGeo Pocket Color Selection vol.1 - NOWA - Nintendo Swtich",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ee215/2aac770f4affb2fa39e4e13bcb71",
-    "url": "https://allegrolokalnie.pl//oferta/neogeo-pocket-color-selection-vol1-nowa-nintendo-swtich?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "54938072-fc48-470a-ab06-b0e36dcd423e",
-    "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
-    "price": "275",
-    "img": "https://a.allegroimg.com/s360x360/1e574a/c0cf521449468b3781a38dba55a1",
-    "url": "https://allegrolokalnie.pl//oferta/dodonpachi-ressurrection-edycja-limitowana-nintendo-switch-jpn-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
@@ -1190,6 +1190,16 @@
     "city": "Białystok"
   },
   {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Gdynia, Karwiny"
+  },
+  {
     "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
     "title": "Gothic II Complete Classic PL Nintendo Switch",
     "price": "150",
@@ -1770,24 +1780,14 @@
     "city": "Pniewy"
   },
   {
-    "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
-    "title": "Pokemon Scarlet | Violet - Gouging Fire Raging Bolt",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1ee5a3/f38099254b859c1a329dfc052684",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-or-violet-gouging-fire?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Brzozów"
-  },
-  {
-    "id": "b607913a-2ec1-4d01-952e-f0ce186e32a5",
-    "title": "Steelbook The Legend of Zelda Tears of the Kingdom",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1eec60/594dbab740dc99455bc2c27c8996",
-    "url": "https://allegrolokalnie.pl//oferta/steelbook-the-legend-of-zelda-tears-of-the-kingdom-7ch?navCategoryId=256922",
-    "promoted": true,
+    "id": "b83e6b4f-894f-4490-9496-6c6726481f67",
+    "title": "Mario Golf: Super Rush",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eda4f/1d94674b49acbd70368878104507",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-5py?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Ełk"
+    "city": "Budzyń"
   },
   {
     "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "809d61d2-90bd-4c45-95bb-b7ee27fec6c7",
+    "title": "Phoenix Wright: Ace Attorney Trilogy (Nowa) - Nintedo Switch",
+    "price": "184",
+    "img": "https://a.allegroimg.com/s360x360/1e4625/808d0a904f4d9968c4dd7bcc4204",
+    "url": "https://allegrolokalnie.pl//oferta/phoenix-wright-ace-attorney-trilogy-nowa-nintedo-switch-ye6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "e425ceb4-70af-42f5-a356-6518a950e1e1",
@@ -4190,6 +4200,16 @@
     "city": "Rybarzowice"
   },
   {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
+  },
+  {
     "id": "381010c3-25e9-4413-98a9-4922b7b23f9f",
     "title": "Fire emblem warriors three hopes Nintendo switch stan idealny",
     "price": "210",
@@ -5968,15 +5988,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wągrowiec"
-  },
-  {
-    "id": "4ea22437-e63e-4979-865a-f3699e7a92b8",
-    "title": "The binding of isaac: repentance Nintendo Switch",
-    "price": "450",
-    "img": "https://a.allegroimg.com/s360x360/1efe32/bfc5fad442da98005573a955f755",
-    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-nintendo-switch-go5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Straszyn"
   }
 ]
