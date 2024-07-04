@@ -1200,16 +1200,6 @@
     "city": "Gdynia, Karwiny"
   },
   {
-    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
-    "title": "Fire Emblem: Engage",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Gdynia, Karwiny"
-  },
-  {
     "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
     "title": "Gothic II Complete Classic PL Nintendo Switch",
     "price": "150",
@@ -3590,6 +3580,26 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "8dcb2569-a64c-4ae1-8597-2dc3bf5c9918",
+    "title": "GRA SUPER MARIO PARTY SWITCH - KOD DO POBRANIA Z E-SHOP",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e0e96/d30827614217ba52286c5682cb44",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-party-switch-kod-do-pobrania-z-eshop?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Biała Podlaska"
+  },
+  {
+    "id": "6b5eda96-c59b-441e-8f29-b49955d380c3",
+    "title": "Dead cells - Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1ed69c/d5d7c4bd407fa7cfe4b12fc8418a",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-nintendo-switch-5as?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "fb769f19-85d8-498d-b271-df993c82000e",
     "title": "Minecraft Nintendo Switch",
     "price": "105",
@@ -4168,26 +4178,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
-  },
-  {
-    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
-    "title": "Super Mario Odyssey Nintendo switch stan idealny",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włostów"
   },
   {
     "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "f34342e1-8814-4b16-864f-dc66864284cb",
+    "title": "Aragami: Shadow Edition - Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e9e72/0388a0bd4e15b7ca8da567950db8",
+    "url": "https://allegrolokalnie.pl//oferta/aragami-shadwo-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Orzech"
+  },
+  {
+    "id": "efe43f15-99b1-4f3e-ab26-57c49b5160d1",
+    "title": "Mutant wersja japońska Nintendo Switch",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea391/25f4636846caa5ee160f6665fd83",
+    "url": "https://allegrolokalnie.pl//oferta/mutant-wersja-japonska-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sanniki"
   }
 ]
