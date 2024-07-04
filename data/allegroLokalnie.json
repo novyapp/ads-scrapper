@@ -600,6 +600,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "930a6f17-8f09-4edd-bb7c-e6836ccd370c",
+    "title": "Super Mario Bros U DELUXE",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ec31d/0ebca8ef4cb087324a55644777c3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-ehe?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wrocław , Stare Miasto"
+  },
+  {
     "id": "eda7d556-9a9e-4828-ba97-4937ec1a51f9",
     "title": "Radiant Silvergun - Nintendo Switch JPN NOWA",
     "price": "240",
@@ -1188,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "c0c3017f-9e8f-4a03-845d-1ac333cc56e1",
-    "title": "Super Mario RPG Switch",
-    "price": "148",
-    "img": "https://a.allegroimg.com/s360x360/1e1c52/cf28405e414eb91f0fd22858e0cb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-aeq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "c0c3017f-9e8f-4a03-845d-1ac333cc56e1",
@@ -1800,16 +1800,6 @@
     "city": "Pniewy"
   },
   {
-    "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
-    "title": "Pokemon Scarlet | Violet - Gouging Fire Raging Bolt",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1ee5a3/f38099254b859c1a329dfc052684",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-or-violet-gouging-fire?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Brzozów"
-  },
-  {
     "id": "b607913a-2ec1-4d01-952e-f0ce186e32a5",
     "title": "Steelbook The Legend of Zelda Tears of the Kingdom",
     "price": "59",
@@ -2395,6 +2385,26 @@
     "price": "140",
     "img": "https://a.allegroimg.com/s360x360/1ea6b8/c7e340274c258a05f7afba4ab7c6",
     "url": "https://allegrolokalnie.pl//oferta/wwe-2k-battlegrounds-nintendo-switch-4op?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Sącz"
+  },
+  {
+    "id": "d9e23051-0e2c-4657-a4f2-358332002e42",
+    "title": "Super Mario 3D All-Stars  Nintendo Switch",
+    "price": "335",
+    "img": "https://a.allegroimg.com/s360x360/1ea6c0/1cb90c8d488193763e0e6cbbcff6",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nintendo-switch-4se?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Sącz"
+  },
+  {
+    "id": "d9e23051-0e2c-4657-a4f2-358332002e42",
+    "title": "Super Mario 3D All-Stars  Nintendo Switch",
+    "price": "335",
+    "img": "https://a.allegroimg.com/s360x360/1ea6c0/1cb90c8d488193763e0e6cbbcff6",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nintendo-switch-4se?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Sącz"
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Olkusz"
-  },
-  {
-    "id": "2ea98fdf-7898-4a68-a298-f2f910a8872f",
-    "title": "Dragon Quest Builders 2 - Nintendo Switch - Ang",
-    "price": "114",
-    "img": "https://a.allegroimg.com/s360x360/1e3529/2d50419a4aaab459e4d5177ef098",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-2-nintendo-switch-ang-zd3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "2ea98fdf-7898-4a68-a298-f2f910a8872f",
@@ -4800,6 +4800,16 @@
     "city": "Pruszków, Malichy"
   },
   {
+    "id": "b29bb901-21d8-438e-aeab-ac197d631be0",
+    "title": "POKÉMON SHINY RAIKOU 100lvl.",
+    "price": "5",
+    "img": "https://a.allegroimg.com/s360x360/1e1bf3/a4be8d3044c4acd92b9ee45423cc",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-raikou-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
     "id": "5c8ee304-b45a-47ff-bc6a-36f4a4a73b28",
     "title": "Pokemon Let's Go Pikachu, stan idealny.",
     "price": "205",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Straszyn"
-  },
-  {
-    "id": "fabf0fd6-c6e9-41d9-9b6d-f90020fa6a8c",
-    "title": "WARIOWARE Get It Together ! NOWA + PLAKAT Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1ebcb6/749ad3304d70be56463fa5a8f183",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nowa-plakat-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   }
 ]
