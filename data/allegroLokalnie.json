@@ -1,5 +1,25 @@
 [
   {
+    "id": "06bc9455-353b-4cd4-9158-db5f47fa90d8",
+    "title": "Luigi’s Mansion 3",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e7629/699ba1f2478bb6695b0dfeed96d6",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-yim?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "094e36e6-2150-4e7d-ace8-2a9a8cd0d5b1",
+    "title": "Metro Redux I 2 gry na karcie I PL napisy I Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e7d08/55b3a8bb4f6594ba56a3bbfb2054",
+    "url": "https://allegrolokalnie.pl//oferta/metro-redux-i-2-gry-na-karcie-i-pl-napisy-i-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "298add97-c132-4277-a3f7-329025da13ff",
     "title": "Super Mario Odyssey",
     "price": "159",
@@ -1778,16 +1798,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Pniewy"
-  },
-  {
-    "id": "b83e6b4f-894f-4490-9496-6c6726481f67",
-    "title": "Mario Golf: Super Rush",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1eda4f/1d94674b49acbd70368878104507",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-5py?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Budzyń"
   },
   {
     "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
@@ -3575,6 +3585,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "44419e79-6951-474b-8981-e742e322d90b",
-    "title": "Triangle Strategy Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e9bfb/a3d467644acaab18fbb576946c97",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-fwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wągrowiec"
   }
 ]
