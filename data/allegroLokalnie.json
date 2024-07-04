@@ -1760,16 +1760,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
-    "title": "Nintendo Switch/3DS/DS - panel modułowy",
-    "price": "14",
-    "img": "https://a.allegroimg.com/s360x360/1eba64/042d8d4f4a6794a97fd1a66b660c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "KOZIEGŁOWY"
-  },
-  {
     "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
     "title": "Family Trainer - gra Nintendo Switch",
     "price": "149",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Elbląg"
+  },
+  {
+    "id": "d493443a-1f58-47d4-bc50-85f316f96b73",
+    "title": "Paper Mario The Origami King Switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e3183/af39218542d0a384a98e5b018fc7",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-switch-vvu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Tczew"
   },
   {
     "id": "02700a86-732a-410a-bd80-a7083bd13810",
@@ -3600,16 +3600,6 @@
     "city": "Katowice"
   },
   {
-    "id": "c57ac223-10f8-4aaa-a91f-bea05acb6e8d",
-    "title": "Gothic 1 i 2 NocKruka [Switch]",
-    "price": "600",
-    "img": "https://a.allegroimg.com/s360x360/1ed131/7cf37fd24e5fbdfcafde37dbb98f",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-1-i-2-nockruka-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Katowice"
-  },
-  {
     "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
     "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
     "price": "99",
@@ -4195,6 +4185,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e119b/180e764a43eda489d81f7034167d",
     "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintendo-switch-fi3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "500ae353-cc7b-4111-886f-985ac82a120c",
+    "title": "Cereza and The Lost Demon Beyonetta Origins",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e6d65/b9b769804d7a86a712308bbd72b3",
+    "url": "https://allegrolokalnie.pl//oferta/cereza-and-the-lost-demon-beyonetta-origins?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Śródmieście"
@@ -4800,16 +4800,6 @@
     "city": "Reda"
   },
   {
-    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
-    "title": "Final Fantasy XII (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
     "title": "Metroid Dread (Switch)",
     "price": "150",
@@ -5400,6 +5390,26 @@
     "city": "Olsztyn, Olsztyn"
   },
   {
+    "id": "07b997dd-8130-4867-b281-f80d290b8816",
+    "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e08ee/de07a36f4e2e8d8bc5ec568930a0",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-bez-kodu-na-bayonette-1?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "07b997dd-8130-4867-b281-f80d290b8816",
+    "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e08ee/de07a36f4e2e8d8bc5ec568930a0",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-bez-kodu-na-bayonette-1?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
+  },
+  {
     "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
     "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
     "price": "5",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
-  },
-  {
-    "id": "73348980-19b1-47cd-ba53-98285673ac9e",
-    "title": "Super Mario 3D World + Bowser's Fury - 2xAA",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e42b9/59e0173f4b6a9acf65aa496f0d31",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-2xaa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   }
 ]
