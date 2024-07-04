@@ -1412,7 +1412,7 @@
   {
     "id": "caedab25-f82f-4436-8f2d-34ba3427e5e3",
     "title": "Minecraft PL Switch",
-    "price": "105",
+    "price": "104",
     "img": "https://a.allegroimg.com/s360x360/1e1de0/6c61da6347b08adc300ce40379c2",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-k3s?navCategoryId=256922",
     "promoted": true,
@@ -3000,16 +3000,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
-    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1ee722/85e4224c422ba41dc338dd4c24f3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "7ef899aa-019f-4fb3-8f8a-ff863d5ae09b",
     "title": "Pokémon Brilliant Diamond & Shining Pearl Dual Pack Nintendo Switch",
     "price": "339",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "c57ac223-10f8-4aaa-a91f-bea05acb6e8d",
+    "title": "Gothic 1 i 2 NocKruka [Switch]",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s360x360/1ed131/7cf37fd24e5fbdfcafde37dbb98f",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-1-i-2-nockruka-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Katowice"
   },
   {
     "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
@@ -4200,16 +4200,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "500ae353-cc7b-4111-886f-985ac82a120c",
-    "title": "Cereza and The Lost Demon Beyonetta Origins",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e6d65/b9b769804d7a86a712308bbd72b3",
-    "url": "https://allegrolokalnie.pl//oferta/cereza-and-the-lost-demon-beyonetta-origins?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
     "id": "304d81b6-48d3-4a32-8841-d5021d44a462",
     "title": "Bayonetta 3 + steelbook kolekcjonerski",
     "price": "145",
@@ -4795,6 +4785,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e69ed/ae1284d24109a5b83c8bfe165367",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-xdh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
