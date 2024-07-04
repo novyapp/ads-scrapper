@@ -1,5 +1,15 @@
 [
   {
+    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
+    "title": "Super Smash Bros Ultimate",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Legnica"
+  },
+  {
     "id": "89a4bec8-93d0-45e9-a35f-6ec38eda2d9d",
     "title": "Mario Kart 8 Deluxe",
     "price": "159",
@@ -88,16 +98,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Nysa"
-  },
-  {
-    "id": "95bca135-7544-4a17-8ebc-d034f4ca09a2",
-    "title": "Nintendo Switch gra Zelda Link’s Awakening karta jak nowa",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1ecd1f/aa7f211643359a62ab64a0951e26",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-zelda-links-awakening-karta-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Gdańsk"
   },
   {
     "id": "7964a56d-b2c1-415c-8cff-854fde827db0",
@@ -585,26 +585,6 @@
     "price": "240",
     "img": "https://a.allegroimg.com/s360x360/1ec791/b2d69fe746a9b66b838e0ccb28bb",
     "url": "https://allegrolokalnie.pl//oferta/radiant-silvergun-nintendo-switch-jpn-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
-  },
-  {
-    "id": "38645cdf-5638-4ae2-80b5-9f1d55ce9afb",
-    "title": "NeoGeo Pocket Color Selection vol.1 - NOWA - Nintendo Swtich",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ee215/2aac770f4affb2fa39e4e13bcb71",
-    "url": "https://allegrolokalnie.pl//oferta/neogeo-pocket-color-selection-vol1-nowa-nintendo-swtich?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "54938072-fc48-470a-ab06-b0e36dcd423e",
-    "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
-    "price": "275",
-    "img": "https://a.allegroimg.com/s360x360/1e574a/c0cf521449468b3781a38dba55a1",
-    "url": "https://allegrolokalnie.pl//oferta/dodonpachi-ressurrection-edycja-limitowana-nintendo-switch-jpn-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
@@ -1210,6 +1190,26 @@
     "city": "Gdynia, Karwiny"
   },
   {
+    "id": "b83e6b4f-894f-4490-9496-6c6726481f67",
+    "title": "Mario Golf: Super Rush",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eda4f/1d94674b49acbd70368878104507",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-5py?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Budzyń"
+  },
+  {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Gdynia, Karwiny"
+  },
+  {
     "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
     "title": "Gothic II Complete Classic PL Nintendo Switch",
     "price": "150",
@@ -1788,26 +1788,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Pniewy"
-  },
-  {
-    "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
-    "title": "Pokemon Scarlet | Violet - Gouging Fire Raging Bolt",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1ee5a3/f38099254b859c1a329dfc052684",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-or-violet-gouging-fire?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Brzozów"
-  },
-  {
-    "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
-    "title": "Pokemon Scarlet | Violet - Gouging Fire Raging Bolt",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1ee5a3/f38099254b859c1a329dfc052684",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-or-violet-gouging-fire?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Brzozów"
   },
   {
     "id": "b607913a-2ec1-4d01-952e-f0ce186e32a5",
@@ -2398,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "809d61d2-90bd-4c45-95bb-b7ee27fec6c7",
+    "title": "Phoenix Wright: Ace Attorney Trilogy (Nowa) - Nintedo Switch",
+    "price": "184",
+    "img": "https://a.allegroimg.com/s360x360/1e4625/808d0a904f4d9968c4dd7bcc4204",
+    "url": "https://allegrolokalnie.pl//oferta/phoenix-wright-ace-attorney-trilogy-nowa-nintedo-switch-ye6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "809d61d2-90bd-4c45-95bb-b7ee27fec6c7",
@@ -4200,6 +4190,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "15abb07c-6789-417e-b352-22e07972bfd6",
+    "title": "Sifu - Nintendo Switch napisy PL",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1ef523/3297e9eb4164b0e738341550ed15",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-nintendo-switch-napisy-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rybarzowice"
+  },
+  {
     "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
     "title": "LEGO Star Wars Skywalker Saga Switch",
     "price": "100",
@@ -5750,16 +5750,6 @@
     "city": "Jabłonka, Stare Miasto"
   },
   {
-    "id": "89dc5485-f61d-484a-8609-658f69a947e8",
-    "title": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL IV",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e4b91/5f4c92ab45719cbbd7e6bd1096a8",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-heroes-trails-of-cold-steel-iv-rmb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jabłonka, Stare Miasto"
-  },
-  {
     "id": "f15b703b-aaaf-462c-a662-698fa9ed0fbb",
     "title": "Atelier Sophie 2: The Alchemist of the Mysterious",
     "price": "110",
@@ -5988,15 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "44419e79-6951-474b-8981-e742e322d90b",
-    "title": "Triangle Strategy Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e9bfb/a3d467644acaab18fbb576946c97",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-fwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wągrowiec"
   }
 ]
