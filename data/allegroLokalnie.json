@@ -600,6 +600,26 @@
     "city": "Krakow, Swoszowice"
   },
   {
+    "id": "38645cdf-5638-4ae2-80b5-9f1d55ce9afb",
+    "title": "NeoGeo Pocket Color Selection vol.1 - NOWA - Nintendo Swtich",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee215/2aac770f4affb2fa39e4e13bcb71",
+    "url": "https://allegrolokalnie.pl//oferta/neogeo-pocket-color-selection-vol1-nowa-nintendo-swtich?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "54938072-fc48-470a-ab06-b0e36dcd423e",
+    "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
+    "price": "275",
+    "img": "https://a.allegroimg.com/s360x360/1e574a/c0cf521449468b3781a38dba55a1",
+    "url": "https://allegrolokalnie.pl//oferta/dodonpachi-ressurrection-edycja-limitowana-nintendo-switch-jpn-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
+  },
+  {
     "id": "ba6d2674-473f-4144-9cd5-553da657cc2e",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
     "price": "200",
@@ -1178,26 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "23902d86-e7d1-4287-9070-abf092375e0e",
-    "title": "Gra Animal Crossing New Horizons Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ebe84/85e50fb24fa697f44653caf910d9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-nintendo-switch-4it?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "53a08de3-5fba-438d-b22d-87e28eab1c44",
-    "title": "Super mario maker 2 nintendo switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e77fe/f4d65a4c49cba3d2d1f47e4ebef1",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-nintendo-switch-oox?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
@@ -5390,26 +5390,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "06faa115-6e76-4896-b127-2aa522a16a79",
-    "title": "Minecraft premium pelerynka optifine",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e7973/9a7698a84be0859005882db366ff",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-premium-pelerynka-optifine-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sieradz"
-  },
-  {
-    "id": "06faa115-6e76-4896-b127-2aa522a16a79",
-    "title": "Minecraft premium pelerynka optifine",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e7973/9a7698a84be0859005882db366ff",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-premium-pelerynka-optifine-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sieradz"
-  },
-  {
     "id": "938e48f5-8a15-4d66-8197-72f6a09b3fb8",
     "title": "SUPER SMASH BROS Ultimate",
     "price": "190",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
