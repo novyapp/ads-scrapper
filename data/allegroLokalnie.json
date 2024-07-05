@@ -1140,26 +1140,6 @@
     "city": "Poznań, Wilda"
   },
   {
-    "id": "18630dd3-b504-48f5-8d21-049ba20d824a",
-    "title": "Nowa Gra 2 Gry Steven Universe Save The Light + OK KO Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ed5c1/fabe4b974184bf4aad57c12b863e",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-gra-2-gry-steven-universe-save-the-light-ok-ko-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "b83e6b4f-894f-4490-9496-6c6726481f67",
     "title": "Mario Golf: Super Rush",
     "price": "90",
@@ -1198,6 +1178,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "18630dd3-b504-48f5-8d21-049ba20d824a",
+    "title": "Nowa Gra 2 Gry Steven Universe Save The Light + OK KO Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ed5c1/fabe4b974184bf4aad57c12b863e",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-gra-2-gry-steven-universe-save-the-light-ok-ko-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
+    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "53a08de3-5fba-438d-b22d-87e28eab1c44",
@@ -3000,16 +3000,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "625811df-db7d-47ca-957a-5afaa23ab600",
-    "title": "Super Mario Party Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e470f/9a7c2bc94115b9dfcc6b8f21aeda",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-334?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
     "title": "Super Mario Bros Wonder",
     "price": "200",
@@ -3595,6 +3585,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/119a04/c19840cb44319d20d29cec3accad",
     "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "0d1e91b3-866a-4b8c-853a-0634008c0351",
+    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE unikat zadbana",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/115a25/d58a32e0459b99ccb33c65f5782f",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
