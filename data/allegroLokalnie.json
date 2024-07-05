@@ -420,16 +420,6 @@
     "city": "Białystok"
   },
   {
-    "id": "f5f6b39a-6698-428d-8ca6-de658adadfe5",
-    "title": "Red Dead Redemption Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1eec28/e2e169d54e6dae9282fee62a7974",
-    "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-nintendo-switch-32v?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
     "id": "8608cb8d-b9c3-46ea-bb2d-ad0956e04ca9",
     "title": "Super Mario 3D All Stars Nintendo Switch",
     "price": "260",
@@ -1800,16 +1790,6 @@
     "city": "Ełk"
   },
   {
-    "id": "d2ca8557-04ef-4168-a0c0-c300e964941f",
-    "title": "Gothic II Nintendo Switch Wydanie POLSKIE!",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1e9dcf/cf0df18c4bfaaf22c6f0d1bba8e6",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-nintendo-switch-wydanie-eu-folia-6wx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Siedlce"
-  },
-  {
     "id": "2f576f53-ee9a-4407-bfa1-7630318feda5",
     "title": "Potion Permit nintendo switch",
     "price": "210",
@@ -2410,6 +2390,16 @@
     "city": "Poznań"
   },
   {
+    "id": "f1f30c72-83b7-4f1b-8435-a8ee9643e8e9",
+    "title": "Pokémon Shield + Expansion Pass",
+    "price": "360",
+    "img": "https://a.allegroimg.com/s360x360/1edea7/a9fb75b6403b93da5ca610a6be4a",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-expansion-pass-2wo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "199",
@@ -2995,16 +2985,6 @@
     "price": "510",
     "img": "https://a.allegroimg.com/s360x360/1e55dc/7af260a145bba5bd4b8f9e642479",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-poke-ball-plus-nintendo-switch-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrołęka"
-  },
-  {
-    "id": "e27a384b-6af9-42b5-a879-5451691f9f8b",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e2a02/fa5983fc4e6891f08bdd01fe05c7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-yhs?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ostrołęka"
@@ -3610,6 +3590,16 @@
     "city": "Groblice"
   },
   {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
     "id": "8397538f-2158-4ec9-96ac-41271e325076",
     "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
     "price": "549",
@@ -4195,16 +4185,6 @@
     "price": "210",
     "img": "https://a.allegroimg.com/s360x360/1e4c0a/ff89e887419cb87b5397fa6789e5",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "9aeefd0d-27de-4136-9787-359c320a52e9",
-    "title": "Super smash bros ultimate Nintendo switch stan idealny",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s360x360/1e2448/256c9298412790b8ee79ca68eb2b",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "1e95e52e-6124-430a-8d64-5447ac079c1e",
+    "title": "Doom eternal ultimate edition NS Limited Run",
+    "price": "1 220",
+    "img": "https://a.allegroimg.com/s360x360/1e622d/a54e0fbf4fa89fbb4bf27d87dbac",
+    "url": "https://allegrolokalnie.pl//oferta/doom-eternal-ultimate-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Morąg"
   }
 ]
