@@ -1540,16 +1540,6 @@
     "city": "Poznań, Stare Miasto"
   },
   {
-    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
-    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
-    "price": "269",
-    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
-    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "e4aeca06-59bc-470e-b021-5b6934e896a1",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "116",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Pniewy"
+  },
+  {
+    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
+    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
+    "price": "269",
+    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
