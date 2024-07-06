@@ -1800,16 +1800,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "0766efe6-734f-4959-a254-4ee0c954b050",
-    "title": "Aragami 2 Nintendo Switch nową gra w folii ANG okł",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e9548/c8d9dc634f9b971db18a612b04c9",
-    "url": "https://allegrolokalnie.pl//oferta/aragami-2-nintendo-switch-folia-3xa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kościerzyna"
-  },
-  {
     "id": "dc2353e7-809b-49fd-bcf0-aec766c1e397",
     "title": "Zelda Skyward Sword Switch + Amiibo + DODATKI",
     "price": "389",
@@ -1848,6 +1838,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "0766efe6-734f-4959-a254-4ee0c954b050",
+    "title": "Aragami 2 Nintendo Switch nową gra w folii ANG okł",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e9548/c8d9dc634f9b971db18a612b04c9",
+    "url": "https://allegrolokalnie.pl//oferta/aragami-2-nintendo-switch-folia-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kościerzyna"
   },
   {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
@@ -3585,6 +3585,26 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5380,26 +5400,6 @@
     "city": "przyjazn"
   },
   {
-    "id": "5d273dde-ec90-4b1a-bb7c-5da1eeaf5b02",
-    "title": "MARIO+RABBIDS SPARKS OF HOPE",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e3b79/4651585d44f594d622378a0ae68d",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-w5d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
-  },
-  {
-    "id": "5d273dde-ec90-4b1a-bb7c-5da1eeaf5b02",
-    "title": "MARIO+RABBIDS SPARKS OF HOPE",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e3b79/4651585d44f594d622378a0ae68d",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-w5d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
-  },
-  {
     "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
     "title": "Gra lets sing 2023 Nintendo",
     "price": "50",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Orzech"
+  },
+  {
+    "id": "33a2cf7f-aaae-4cc5-8790-27b26a3d3062",
+    "title": "Gra Nintendo Switch Xenoblade Chronicles 2",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s360x360/1e901e/7c9412ff4ba9a8fc5498726ad98b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-xenoblade-chronicles-2-5fc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
   }
 ]
