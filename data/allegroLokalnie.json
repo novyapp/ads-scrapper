@@ -1740,16 +1740,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "5ca88aea-6937-414f-90b6-af95e60366f2",
-    "title": "Castlevania Advance Collection Limited Run #198",
-    "price": "435",
-    "img": "https://a.allegroimg.com/s360x360/1e4a59/859c3176447e807ba7f3f4e84f85",
-    "url": "https://allegrolokalnie.pl//oferta/castlevania-advance-collection-limited-run-198-ao5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "cfee0e10-4f23-49a2-a5a6-1afc86d14e79",
     "title": "F.i.s.t. Forged In Shadow Nintendo Switch",
     "price": "95",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Brzozów"
+  },
+  {
+    "id": "5ca88aea-6937-414f-90b6-af95e60366f2",
+    "title": "Castlevania Advance Collection Limited Run #198",
+    "price": "435",
+    "img": "https://a.allegroimg.com/s360x360/1e4a59/859c3176447e807ba7f3f4e84f85",
+    "url": "https://allegrolokalnie.pl//oferta/castlevania-advance-collection-limited-run-198-ao5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "b607913a-2ec1-4d01-952e-f0ce186e32a5",
