@@ -2,7 +2,7 @@
   {
     "id": "13770d6e-a2a0-4595-92cb-a158d49807ec",
     "title": "The Legend of Zelda Tears of the Kingdom Switch",
-    "price": "168",
+    "price": "167",
     "img": "https://a.allegroimg.com/s360x360/1ec66d/b0fd65974819ae9980c3164fab10",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-5jv?navCategoryId=256922",
     "promoted": true,
@@ -32,7 +32,7 @@
   {
     "id": "54d8229b-acc1-4a4e-874b-fe06bab4d4d7",
     "title": "Super Mario Bros. Wonder Switch",
-    "price": "164",
+    "price": "162",
     "img": "https://a.allegroimg.com/s360x360/1e6740/8d5a62ea446cb1e1bbb6c1cce5a6",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-tjy?navCategoryId=256922",
     "promoted": true,
@@ -3590,6 +3590,16 @@
     "city": "Groblice"
   },
   {
+    "id": "86eda8ac-f0f7-44a8-af49-a0205dadfde6",
+    "title": "Metroid Dread Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1758/abbcd5244a29b487d6eba5caba6d",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-fcg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Wilda"
+  },
+  {
     "id": "de47bc00-c7e3-41a0-95c8-ba67c657028b",
     "title": "Mario Strikers Battle League Football",
     "price": "130",
@@ -5380,26 +5390,6 @@
     "city": "Młynice"
   },
   {
-    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
-    "title": "Gra lets sing 2023 Nintendo",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
-    "title": "Gra lets sing 2023 Nintendo",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "06faa115-6e76-4896-b127-2aa522a16a79",
     "title": "Minecraft premium pelerynka optifine",
     "price": "150",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
