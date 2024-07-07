@@ -22,7 +22,7 @@
   {
     "id": "54d8229b-acc1-4a4e-874b-fe06bab4d4d7",
     "title": "Super Mario Bros. Wonder Switch",
-    "price": "164",
+    "price": "166",
     "img": "https://a.allegroimg.com/s360x360/1e6740/8d5a62ea446cb1e1bbb6c1cce5a6",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-tjy?navCategoryId=256922",
     "promoted": true,
@@ -588,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "b2fb5b32-7ca0-4183-a5f4-83cc50e86336",
+    "title": "Kirby and the Forgotten Land",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ec7bf/27e0155e4ebda463251bba5a5aef",
+    "url": "https://allegrolokalnie.pl//oferta/kieby-ant-the-forgotten-land?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
   },
   {
     "id": "b2fb5b32-7ca0-4183-a5f4-83cc50e86336",
@@ -1198,16 +1208,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "70a8deb1-f1eb-46c4-b462-2547366afc41",
-    "title": "UNIKAT PERSONA 3 PORTABLE PERSONA 4 GOLDEN SWITCH",
-    "price": "949",
-    "img": "https://a.allegroimg.com/s360x360/1ec077/5fa548364f3891683ddd38dca5a6",
-    "url": "https://allegrolokalnie.pl//oferta/unikat-persona-3-portable-persona-4-golden-switch-47d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
   },
   {
     "id": "155bc803-c638-44d1-a10b-4057675ff17e",
@@ -3650,16 +3650,6 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "8dcb2569-a64c-4ae1-8597-2dc3bf5c9918",
-    "title": "GRA SUPER MARIO PARTY SWITCH - KOD DO POBRANIA Z E-SHOP",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e0e96/d30827614217ba52286c5682cb44",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-party-switch-kod-do-pobrania-z-eshop?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Biała Podlaska"
-  },
-  {
     "id": "6b5eda96-c59b-441e-8f29-b49955d380c3",
     "title": "Dead cells - Nintendo Switch",
     "price": "80",
@@ -4058,6 +4048,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "70a8deb1-f1eb-46c4-b462-2547366afc41",
+    "title": "UNIKAT PERSONA 3 PORTABLE PERSONA 4 GOLDEN SWITCH",
+    "price": "949",
+    "img": "https://a.allegroimg.com/s360x360/1ec077/5fa548364f3891683ddd38dca5a6",
+    "url": "https://allegrolokalnie.pl//oferta/unikat-persona-3-portable-persona-4-golden-switch-47d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lublin"
   },
   {
     "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
@@ -4792,7 +4792,7 @@
   {
     "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
     "title": "Final Fantasy X (Switch)",
-    "price": "75",
+    "price": "69",
     "img": "https://a.allegroimg.com/s360x360/1ed7ec/08a8f3e14798b13dc19113dfa218",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-switch-agt?navCategoryId=256922",
     "promoted": false,
