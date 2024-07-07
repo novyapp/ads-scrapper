@@ -1,5 +1,15 @@
 [
   {
+    "id": "13770d6e-a2a0-4595-92cb-a158d49807ec",
+    "title": "The Legend of Zelda Tears of the Kingdom Switch",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s360x360/1ec66d/b0fd65974819ae9980c3164fab10",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-5jv?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wieliczka"
+  },
+  {
     "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
     "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
     "price": "24",
@@ -472,7 +482,7 @@
   {
     "id": "c5a33e89-a7b2-4c34-8f14-f346c825bb02",
     "title": "METRO REDUX 2033+ LAST LIGHT SWITCH",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e05ea/be97e10e4db49ce034c97bf14053",
     "url": "https://allegrolokalnie.pl//oferta/metro-redux-2033-last-light-switch?navCategoryId=256922",
     "promoted": true,
@@ -600,16 +610,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "b2fb5b32-7ca0-4183-a5f4-83cc50e86336",
-    "title": "Kirby and the Forgotten Land",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ec7bf/27e0155e4ebda463251bba5a5aef",
-    "url": "https://allegrolokalnie.pl//oferta/kieby-ant-the-forgotten-land?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "f79c05a1-f0de-46a3-82a0-15470e45acc5",
     "title": "Mariokart 8 Deluxe Nintendo Switch",
     "price": "170",
@@ -702,7 +702,7 @@
   {
     "id": "6222f8fa-15b0-4e9b-9677-633d7d47e2a9",
     "title": "JUST DANCE 2022 SWITCH PUDEŁKOWA",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e4dbd/2ee9adfe436a8d1de08ec8335d1d",
     "url": "https://allegrolokalnie.pl//oferta/just-dance-2022-switch-pudelkowa?navCategoryId=256922",
     "promoted": true,
@@ -3022,7 +3022,7 @@
   {
     "id": "4a65842a-0d2a-4a06-bdf2-a8c87041e3c4",
     "title": "Mario Party Superstars gra",
-    "price": "180",
+    "price": "172",
     "img": "https://a.allegroimg.com/s360x360/1e67b1/827010e84e40a2c4ed14459f51f9",
     "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-gra?navCategoryId=256922",
     "promoted": false,
@@ -3578,6 +3578,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
+  },
+  {
+    "id": "8397538f-2158-4ec9-96ac-41271e325076",
+    "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/11a7f3/d4306da3477984b878303c966d53",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "86eda8ac-f0f7-44a8-af49-a0205dadfde6",
+    "title": "Metroid Dread Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1758/abbcd5244a29b487d6eba5caba6d",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-fcg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Wilda"
   },
   {
     "id": "8397538f-2158-4ec9-96ac-41271e325076",
@@ -4780,26 +4800,6 @@
     "city": "Jantar"
   },
   {
-    "id": "c888b3fc-48f9-4b97-aac1-bc505a093e9c",
-    "title": "Tokyo Mirage Sessions FE Encore Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e137c/8cda9bb94d9c8abef94787b4ac8e",
-    "url": "https://allegrolokalnie.pl//oferta/tokyo-mirage-sessions-fe-encore-nintendo-switch-dhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tomaszowo"
-  },
-  {
-    "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
-    "title": "Final Fantasy X (Switch)",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1ed7ec/08a8f3e14798b13dc19113dfa218",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-switch-agt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
     "title": "Mario + Rabbids: Kingdom Battle (Switch)",
     "price": "100",
@@ -5400,6 +5400,26 @@
     "city": "Sieradz"
   },
   {
+    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
+    "title": "Gra lets sing 2023 Nintendo",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "06faa115-6e76-4896-b127-2aa522a16a79",
+    "title": "Minecraft premium pelerynka optifine",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e7973/9a7698a84be0859005882db366ff",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-premium-pelerynka-optifine-jkg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sieradz"
+  },
+  {
     "id": "938e48f5-8a15-4d66-8197-72f6a09b3fb8",
     "title": "SUPER SMASH BROS Ultimate",
     "price": "190",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
-    "title": "Dungeons III na NS",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
-    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jasienica"
-  },
-  {
-    "id": "e5bd28cf-a55f-498a-9e9e-fa6fefe17a68",
-    "title": "Hyrule Warriors Age of Calamity na NS",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1eaaba/c4a70be649bb84a3f90ec5f35194",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-na-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jasienica"
   }
 ]
