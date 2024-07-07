@@ -1460,16 +1460,6 @@
     "city": "Strzelin"
   },
   {
-    "id": "c0aec3bc-01b2-4e10-9701-f441ae7657fd",
-    "title": "Expeditions a Mudrunner Game",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e1a57/31746912483ca2cd363f1313118f",
-    "url": "https://allegrolokalnie.pl//oferta/expeditions-a-mudrunner-game-sw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilkowice "
-  },
-  {
     "id": "ee8cd930-7ac3-4ea2-8a0c-db7616e014e9",
     "title": "Neo: The World Ends With You, Gra Nintendo Switch [urlop]",
     "price": "88",
@@ -3212,7 +3202,7 @@
   {
     "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
     "title": "Gra Nintendo Switch Lover Pretend",
-    "price": "270",
+    "price": "230",
     "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
     "promoted": false,
@@ -3222,7 +3212,7 @@
   {
     "id": "ac5a3881-25c7-42c1-b136-cfc9375c8add",
     "title": "Gra Nintendo Switch Piofiore Fated Memories",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1e69ef/09e814594d2081977c018730731a",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-piofiore-fated-memories?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
