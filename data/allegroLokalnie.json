@@ -600,16 +600,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "e3d298c2-31b1-414b-93f6-1db7f3e40f44",
-    "title": "HADES NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1eccd8/7a87dee1415b99d9e3190f9f9e48",
-    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-lbo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "eda7d556-9a9e-4828-ba97-4937ec1a51f9",
     "title": "Radiant Silvergun - Nintendo Switch JPN NOWA",
     "price": "240",
@@ -1195,6 +1185,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e42ea/887e3652419497677dde375efac4",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "51efde51-5c91-4726-8566-3867007cd475",
+    "title": "Diablo III Eternal Collection Nintendo Switch jak nowa",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebfe1/9f9555a9485eba1297cf97d71499",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Pasym"
@@ -3600,16 +3600,6 @@
     "city": "Kraków"
   },
   {
-    "id": "18630dd3-b504-48f5-8d21-049ba20d824a",
-    "title": "Nowa Gra 2 Gry Steven Universe Save The Light + OK KO Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ed5c1/fabe4b974184bf4aad57c12b863e",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-gra-2-gry-steven-universe-save-the-light-ok-ko-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
     "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
     "price": "69",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "b22156c0-56f4-496a-a29a-84d7da190f25",
+    "title": "Snipperclips plus - gra na Nintendo switch",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ee826/141c95c749aeb3e3fefac5259f51",
+    "url": "https://allegrolokalnie.pl//oferta/snipperclips-plus-gra-na-nintendo-switch-2f2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łazy"
   }
 ]
