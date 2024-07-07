@@ -2560,16 +2560,6 @@
     "city": "Kraków"
   },
   {
-    "id": "ecd90f5a-70db-400b-bda6-0073071a7c37",
-    "title": "Star Ocean the second story r switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e787c/def8e6734ccbb9c0fbee8462c7c5",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-secend-story-r-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
-  },
-  {
     "id": "d493443a-1f58-47d4-bc50-85f316f96b73",
     "title": "Paper Mario The Origami King Switch",
     "price": "189",
@@ -2612,7 +2602,7 @@
   {
     "id": "9de31e8b-b0e0-42c0-b262-8ebc3c905f2d",
     "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
-    "price": "298",
+    "price": "297",
     "img": "https://a.allegroimg.com/s360x360/1e526c/739b3001433793087d2f634cc8a3",
     "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-i2c?navCategoryId=256922",
     "promoted": false,
@@ -3598,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
-  },
-  {
-    "id": "86eda8ac-f0f7-44a8-af49-a0205dadfde6",
-    "title": "Metroid Dread Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e1758/abbcd5244a29b487d6eba5caba6d",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-fcg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Wilda"
   },
   {
     "id": "de47bc00-c7e3-41a0-95c8-ba67c657028b",
@@ -4810,6 +4790,16 @@
     "city": "Reda"
   },
   {
+    "id": "a47a92ab-29dd-4992-af34-827309ce4a1d",
+    "title": "Final Fantasy X (Switch)",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1ed7ec/08a8f3e14798b13dc19113dfa218",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-switch-agt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
     "title": "Mario + Rabbids: Kingdom Battle (Switch)",
     "price": "100",
@@ -5400,16 +5390,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "06faa115-6e76-4896-b127-2aa522a16a79",
-    "title": "Minecraft premium pelerynka optifine",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e7973/9a7698a84be0859005882db366ff",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-premium-pelerynka-optifine-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sieradz"
-  },
-  {
     "id": "938e48f5-8a15-4d66-8197-72f6a09b3fb8",
     "title": "SUPER SMASH BROS Ultimate",
     "price": "190",
@@ -5988,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
+  },
+  {
+    "id": "e5bd28cf-a55f-498a-9e9e-fa6fefe17a68",
+    "title": "Hyrule Warriors Age of Calamity na NS",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1eaaba/c4a70be649bb84a3f90ec5f35194",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
