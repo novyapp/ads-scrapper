@@ -1460,16 +1460,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
-    "title": "Gothic Classic i Gothic II Complete Classic Switch",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s360x360/1e3171/5edab58845899685de37579e2f15",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-i-gothic-ii-complete-classic-switch-yd7?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "caedab25-f82f-4436-8f2d-34ba3427e5e3",
     "title": "Minecraft PL Switch",
     "price": "104",
@@ -1788,6 +1778,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Brzozów"
+  },
+  {
+    "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
+    "title": "Gothic Classic i Gothic II Complete Classic Switch",
+    "price": "369",
+    "img": "https://a.allegroimg.com/s360x360/1e3171/5edab58845899685de37579e2f15",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-i-gothic-ii-complete-classic-switch-yd7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "5ca88aea-6937-414f-90b6-af95e60366f2",
@@ -2622,8 +2622,8 @@
   {
     "id": "9de31e8b-b0e0-42c0-b262-8ebc3c905f2d",
     "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
-    "price": "297",
-    "img": "https://a.allegroimg.com/s360x360/1e526c/739b3001433793087d2f634cc8a3",
+    "price": "298",
+    "img": "https://a.allegroimg.com/s360x360/1ec82e/f928de9a4cc0add67830c9d9c4c8",
     "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-i2c?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
