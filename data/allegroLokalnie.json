@@ -3000,6 +3000,26 @@
     "city": "Olkusz"
   },
   {
+    "id": "4a65842a-0d2a-4a06-bdf2-a8c87041e3c4",
+    "title": "Mario Party Superstars gra",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e67b1/827010e84e40a2c4ed14459f51f9",
+    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gliwice, Trynek"
+  },
+  {
+    "id": "86006d65-51ab-4a72-a5c5-3d614bb03f1f",
+    "title": "Fire Emblem Warriors Three Hopes Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1eca81/ee22f53f451cb944c830a0ceb104",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-qsb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Olkusz"
+  },
+  {
     "id": "2ea98fdf-7898-4a68-a298-f2f910a8872f",
     "title": "Dragon Quest Builders 2 - Nintendo Switch - Ang",
     "price": "114",
@@ -4175,26 +4195,6 @@
     "price": "155",
     "img": "https://a.allegroimg.com/s360x360/1e7058/356b3ae64e78a9a30e1523df55f9",
     "url": "https://allegrolokalnie.pl//oferta/nier-automata-nintendo-switch-y6x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
-    "id": "d2ea9a05-4528-453d-b7f3-83bba560ca9f",
-    "title": "It Takes Two Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e119b/180e764a43eda489d81f7034167d",
-    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintendo-switch-fi3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
-    "id": "500ae353-cc7b-4111-886f-985ac82a120c",
-    "title": "Cereza and The Lost Demon Beyonetta Origins",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e6d65/b9b769804d7a86a712308bbd72b3",
-    "url": "https://allegrolokalnie.pl//oferta/cereza-and-the-lost-demon-beyonetta-origins?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Śródmieście"
@@ -5400,6 +5400,16 @@
     "city": "Bysław"
   },
   {
+    "id": "fefba7a2-d5df-407b-8f3a-f8927aaddb78",
+    "title": "Pokken Tournament DX",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e55d0/5553a50b45e5ad2e0fbf98a73759",
+    "url": "https://allegrolokalnie.pl//oferta/pokken-tournament-dx-7mt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "71d87efc-72a9-4ca2-996c-0b68887df408",
     "title": "Yoshi crafted World",
     "price": "185",
@@ -5978,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łazy"
+  },
+  {
+    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
+    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Iłża"
   }
 ]
