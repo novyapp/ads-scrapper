@@ -70,16 +70,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "13770d6e-a2a0-4595-92cb-a158d49807ec",
-    "title": "The Legend of Zelda Tears of the Kingdom Switch",
-    "price": "176",
-    "img": "https://a.allegroimg.com/s360x360/1ec66d/b0fd65974819ae9980c3164fab10",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-5jv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
-  },
-  {
     "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
     "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
     "price": "24",
@@ -652,7 +642,7 @@
   {
     "id": "ee3980c0-916b-421b-83e3-788c5a5fe313",
     "title": "Gra na Nintendo Switch Zelda",
-    "price": "200",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e7d7d/f86a91f847df9948bc9c7400c807",
     "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-zelda-b2m?navCategoryId=256922",
     "promoted": true,
@@ -1130,6 +1120,16 @@
     "city": "Białystok"
   },
   {
+    "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
+    "title": "FIFA 22 I Switch I Po Polsku I Folia",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1eb4bf/7d7ba3fd489ab88bbf1e58ecc6d9",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-i-switch-i-po-polsku-i-folia?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "4655b18b-bb31-4a94-bdfa-1b4e95da6bc9",
     "title": "Pokemon scarlet nintendo switch",
     "price": "140",
@@ -1188,16 +1188,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
-    "title": "Lego Marvel Super Heroes 2 Switch PL",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s360x360/1e2b87/9a297c66489aba3e2182eca1fc7e",
-    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-switch-pl-lrc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Olsztyn, Olsztyn"
+  },
+  {
+    "id": "cc3f038c-b855-46f2-92aa-1a9a81c161a4",
+    "title": "NOWE Nintendo Ring Fit Adventure Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e88cc/9272ee8248d5b5846dc16e50c301",
+    "url": "https://allegrolokalnie.pl//oferta/nowe-nintendo-ring-fit-adventure-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pniewy"
   },
   {
     "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
@@ -3000,16 +3000,6 @@
     "city": "Ostrołęka"
   },
   {
-    "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
-    "title": "FIFA 22 I Switch I Po Polsku I Folia",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1eb4bf/7d7ba3fd489ab88bbf1e58ecc6d9",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-i-switch-i-po-polsku-i-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "0569e316-fdef-493f-a84c-2c42e2f68234",
     "title": "Super Monkey Ball Banana Mania Switch",
     "price": "84",
@@ -4200,16 +4190,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "304d81b6-48d3-4a32-8841-d5021d44a462",
-    "title": "Bayonetta 3 + steelbook kolekcjonerski",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1eedc9/395391e54bb2807ea831e87504a5",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-steelbook-kolekcjonerski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
     "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
     "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
     "price": "299",
@@ -4795,6 +4775,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
+    "title": "Metroid Dread (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
