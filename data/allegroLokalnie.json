@@ -2,7 +2,7 @@
   {
     "id": "386e487e-ec69-4a52-bd8e-972a34263b0f",
     "title": "The legend of zelda: breath of the wild",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e3139/47ea535347babe552741b989e249",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-po6?navCategoryId=256922",
     "promoted": true,
@@ -958,16 +958,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "182f73b0-11c3-4fb2-8b3c-5f08ee1d55b2",
-    "title": "The Legend of Zelda - Breath of the Wild Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1ea777/3be24130474e852171f255fc1ce4",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-qsu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "2f578ea4-fee1-42a8-a571-9924a1b0687e",
@@ -4200,16 +4190,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
-    "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ea79e/be5a7fba4dcb9c8a7b5133b1c287",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-nowa-itx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "255a7c0c-a050-4cd2-a884-0541d97da575",
     "title": "Gra Bayonetta 2 na Nintendo Switch",
     "price": "129",
@@ -4795,6 +4775,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
+    "title": "Bayonetta 3 (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1075/8d5d7153430a895272b41df4766a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-uhp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "c46357b4-3a84-4664-9163-f5324f78c644",
+    "title": "Bayonetta 3 Trinity Masquerade Edition [NOWA]",
+    "price": "379",
+    "img": "https://a.allegroimg.com/s360x360/1e1568/003141a946ceac3973e5ae317049",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-ed5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   }
 ]
