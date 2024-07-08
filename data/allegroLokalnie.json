@@ -1,5 +1,15 @@
 [
   {
+    "id": "18ec6618-0564-411e-950e-2547ff736905",
+    "title": "Mario Sparks of Hope NOWA",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e7694/37c2dd254b9e84fabb8f1a6c7e73",
+    "url": "https://allegrolokalnie.pl//oferta/mario-sparks-of-hope-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Pleszew"
+  },
+  {
     "id": "b2e18449-63ea-4c77-9132-0a8594a5c868",
     "title": "Xenoblade Chronicles 2 NOWA",
     "price": "170",
@@ -68,16 +78,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "54d8229b-acc1-4a4e-874b-fe06bab4d4d7",
-    "title": "Super Mario Bros. Wonder Switch",
-    "price": "166",
-    "img": "https://a.allegroimg.com/s360x360/1e6740/8d5a62ea446cb1e1bbb6c1cce5a6",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-tjy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
   },
   {
     "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
@@ -292,7 +292,7 @@
   {
     "id": "3375a182-4422-4438-b9fb-3d9b1814c4e6",
     "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
-    "price": "439",
+    "price": "429",
     "img": "https://a.allegroimg.com/s360x360/1eb78f/ea57be7045939944dd0c3ef9565b",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-fall-of-man-premium-ed-nowa?navCategoryId=256922",
     "promoted": true,
@@ -1178,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "350f4a7e-2c68-4824-b7cb-b1a41c4ae6d3",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e10c5/e708af8a4fc482ecb4c6cf95c7c8",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-rv2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "katowice"
   },
   {
     "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
@@ -2380,16 +2390,6 @@
     "city": "Kraków"
   },
   {
-    "id": "08056bd2-9ff7-444c-80cd-72cad9ddab5a",
-    "title": "Unpacking (Nowa) - Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eb2d0/1b5b7d454987ac5373bbb9b32b0c",
-    "url": "https://allegrolokalnie.pl//oferta/unpacking-nowa-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "a00d1ab4-a0e2-43ae-993e-a72b3e3810ed",
     "title": "Touhou Luna Nights (Nowa) - Nintendo Switch",
     "price": "199",
@@ -2985,16 +2985,6 @@
     "price": "510",
     "img": "https://a.allegroimg.com/s360x360/1e55dc/7af260a145bba5bd4b8f9e642479",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-poke-ball-plus-nintendo-switch-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrołęka"
-  },
-  {
-    "id": "e27a384b-6af9-42b5-a879-5451691f9f8b",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e2a02/fa5983fc4e6891f08bdd01fe05c7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-yhs?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ostrołęka"
@@ -3600,14 +3590,14 @@
     "city": "Groblice"
   },
   {
-    "id": "350f4a7e-2c68-4824-b7cb-b1a41c4ae6d3",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e10c5/e708af8a4fc482ecb4c6cf95c7c8",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-rv2?navCategoryId=256922",
-    "promoted": true,
+    "id": "86eda8ac-f0f7-44a8-af49-a0205dadfde6",
+    "title": "Metroid Dread Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1758/abbcd5244a29b487d6eba5caba6d",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-fcg?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "katowice"
+    "city": "Poznań, Wilda"
   },
   {
     "id": "de47bc00-c7e3-41a0-95c8-ba67c657028b",
@@ -5400,16 +5390,6 @@
     "city": "Kraków, Krowodrza"
   },
   {
-    "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
-    "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1eef1e/7e3342ab40e1a680f4550f7bea94",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-terapagos-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "fefba7a2-d5df-407b-8f3a-f8927aaddb78",
     "title": "Pokken Tournament DX",
     "price": "180",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łazy"
+  },
+  {
+    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
+    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Iłża"
   }
 ]
