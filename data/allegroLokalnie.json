@@ -4800,16 +4800,6 @@
     "city": "Reda"
   },
   {
-    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
-    "title": "Final Fantasy XII (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
     "title": "Metroid Dread (Switch)",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Iłża"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
