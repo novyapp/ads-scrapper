@@ -1550,16 +1550,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "da9c533c-69c1-42e9-a790-82682fc79e47",
-    "title": "Nintendo Switch Mutant Ninja Turtles Ninja Limited",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s360x360/1e4509/9d1188794fe49cdd559323eb7080",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mutant-ninja-turtles-ninja-limited?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
     "title": "Zestaw na Nintendo Switch 5 gier",
     "price": "480",
@@ -2008,16 +1998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zielona Góra"
-  },
-  {
-    "id": "c0ce76c5-b278-471c-b29a-06be9459d264",
-    "title": "Super Mario Odyssey Gra Nintendo Switch Ideał jak Nowa",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ec0e8/f2667d8b4502b0c26b2c71c897ec",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-ideal-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
   },
   {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
@@ -4190,6 +4170,16 @@
     "city": "Warszawa, Śródmieście"
   },
   {
+    "id": "304d81b6-48d3-4a32-8841-d5021d44a462",
+    "title": "Bayonetta 3 + steelbook kolekcjonerski",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1eedc9/395391e54bb2807ea831e87504a5",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-steelbook-kolekcjonerski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
     "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
     "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
     "price": "299",
@@ -4775,16 +4765,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
-    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
-    "title": "Metroid Dread (Switch)",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
@@ -5988,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Iłża"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
