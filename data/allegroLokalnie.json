@@ -1220,16 +1220,6 @@
     "city": "Mędłów"
   },
   {
-    "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
-    "title": "The Legend of Zelda - Breath of the Wild Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ea00e/1a4e02044140a6c976693784388f",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-afi-uxq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "14e6acc5-cd74-4dc9-a191-4685d61113db",
     "title": "Xenoblade Chronicles Definitive Edition Nintendo Switch",
     "price": "150",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Olsztyn, Olsztyn"
+  },
+  {
+    "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
+    "title": "The Legend of Zelda - Breath of the Wild Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ea00e/1a4e02044140a6c976693784388f",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-afi-uxq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "5d637234-8c76-41ce-bccc-a698f2e0e84b",
@@ -2398,16 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Olkusz"
-  },
-  {
-    "id": "f15e8ebe-1363-40d8-a2be-606bce17ba56",
-    "title": "Wiedźmin 3: Dziki Gon, Edycja Kompletna, Dubbing PL, Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1e99e6/e3acd9ab4dae9ae17df8ad745922",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-dubbing-pl-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Uraz"
   },
   {
     "id": "4e182bbe-382a-492e-849e-072d18e162b8",
@@ -3428,6 +3418,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
+  },
+  {
+    "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
+    "title": "The Legend of Zelda - Breath of the Wild Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ea00e/1a4e02044140a6c976693784388f",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-afi-uxq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "d0e64f10-b3c3-41df-8d41-9592faf5e72e",
