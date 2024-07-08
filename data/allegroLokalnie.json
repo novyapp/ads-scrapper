@@ -1220,16 +1220,6 @@
     "city": "Kazimierz Dolny"
   },
   {
-    "id": "7d30b8a3-13ba-4a54-a0bd-d80a0ca7216b",
-    "title": "gra Xenoblade Chronicles 3 na Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e90c3/4765318d4a72a7536f03e6cd7038",
-    "url": "https://allegrolokalnie.pl//oferta/gra-xenoblade-chronicles-3-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Mędłów"
-  },
-  {
     "id": "14e6acc5-cd74-4dc9-a191-4685d61113db",
     "title": "Xenoblade Chronicles Definitive Edition Nintendo Switch",
     "price": "150",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "94b90bf3-c55e-48f8-85ac-580352637c6e",
+    "title": "bakugan champions of vestroia nintendo switch",
+    "price": "49",
+    "img": "https://a.allegroimg.com/s360x360/1e077b/aab1d9e34385bcf4b52420dde13c",
+    "url": "https://allegrolokalnie.pl//oferta/bakugan-champions-of-vestroia-nintendo-switch-o6d?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Olsztyn, Olsztyn"
   },
   {
     "id": "94b90bf3-c55e-48f8-85ac-580352637c6e",
@@ -3585,16 +3585,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/1113b3/d364e8544af48e5ca6d7318d4932",
     "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
-    "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
+  },
+  {
+    "id": "73348980-19b1-47cd-ba53-98285673ac9e",
+    "title": "Super Mario 3D World + Bowser's Fury - 2xAA",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e42b9/59e0173f4b6a9acf65aa496f0d31",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-2xaa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   }
 ]
