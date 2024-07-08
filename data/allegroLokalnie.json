@@ -600,26 +600,6 @@
     "city": "Poznań, Wilda"
   },
   {
-    "id": "8608cb8d-b9c3-46ea-bb2d-ad0956e04ca9",
-    "title": "Super Mario 3D All Stars Nintendo Switch",
-    "price": "260",
-    "img": "https://a.allegroimg.com/s360x360/1ee4c3/54126ea5432288e7522cba818316",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-nqr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "09a79ee3-eb05-4161-afd7-30e7a0491111",
-    "title": "Minecraft Legends Deluxe Edition Nintendo Switch Nowa Folia",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1eba01/c852e9fd4fb8a2311106427aa032",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-legends-deluxe-edition-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Wilda"
-  },
-  {
     "id": "e8411141-cc79-4f5f-9286-234baa60ce17",
     "title": "Mario + Rabbids Sparks of Hope Nintendo Switch",
     "price": "89",
@@ -812,7 +792,7 @@
   {
     "id": "6222f8fa-15b0-4e9b-9677-633d7d47e2a9",
     "title": "JUST DANCE 2022 SWITCH PUDEŁKOWA",
-    "price": "75",
+    "price": "70",
     "img": "https://a.allegroimg.com/s360x360/1e4dbd/2ee9adfe436a8d1de08ec8335d1d",
     "url": "https://allegrolokalnie.pl//oferta/just-dance-2022-switch-pudelkowa?navCategoryId=256922",
     "promoted": true,
@@ -1232,7 +1212,7 @@
   {
     "id": "7d30b8a3-13ba-4a54-a0bd-d80a0ca7216b",
     "title": "gra Xenoblade Chronicles 3 na Nintendo Switch",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e90c3/4765318d4a72a7536f03e6cd7038",
     "url": "https://allegrolokalnie.pl//oferta/gra-xenoblade-chronicles-3-na-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1790,16 +1770,6 @@
     "city": "Pasym"
   },
   {
-    "id": "6253253f-42cf-4af3-81a1-210a3df93e89",
-    "title": "Artbook Legend of Zelda Tears of the Kingdom TotK NOWY",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ee7f1/7b327c594ef081415c0259907953",
-    "url": "https://allegrolokalnie.pl//oferta/artbook-legend-of-zelda-tears-of-the-kingdom-totk-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ełk"
-  },
-  {
     "id": "485e2128-225a-44e6-b426-6d3fc4893b32",
     "title": "Souldiers Nintendo Switch",
     "price": "210",
@@ -1978,16 +1948,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "b607913a-2ec1-4d01-952e-f0ce186e32a5",
-    "title": "Steelbook The Legend of Zelda Tears of the Kingdom",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1eec60/594dbab740dc99455bc2c27c8996",
-    "url": "https://allegrolokalnie.pl//oferta/steelbook-the-legend-of-zelda-tears-of-the-kingdom-7ch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ełk"
   },
   {
     "id": "9fa545a2-9687-46b4-bec6-5b62f56694e9",
@@ -2428,16 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "0fb18aeb-b71a-4ed9-bfbf-670205dee8ec",
-    "title": "Pokken Tournament DX Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e8c2f/a17d541b4d329ba44311d66c267a",
-    "url": "https://allegrolokalnie.pl//oferta/pokken-tournament-dx-switch-kqs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Olkusz"
   },
   {
     "id": "f15e8ebe-1363-40d8-a2be-606bce17ba56",
@@ -3040,6 +2990,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
     "title": "Super Mario Bros Wonder",
     "price": "200",
@@ -3590,11 +3550,41 @@
     "city": "Groblice"
   },
   {
-    "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
-    "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
+    "id": "0d1e91b3-866a-4b8c-853a-0634008c0351",
+    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE unikat zadbana",
     "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "img": "https://a.allegroimg.com/s360x360/115a25/d58a32e0459b99ccb33c65f5782f",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "cfcd3232-0d48-4dd4-9ba2-10f0de1bf5dd",
+    "title": "ASH OF GODS REDEMPTION PL po polsku turowy RPG STRATEGIA jak banner saga",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/11df9b/28ec8637479c85d89ebc11a4bdce",
+    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-pl-po-polsku-turowy-rpg-strategia-jak-banner-saga-avd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "0db74203-4a93-4fa6-b444-ea94cf58c8f6",
+    "title": "YOSHI CRAFTED WORLD 1-2 GRACZY nintendo kardridż",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/1113b3/d364e8544af48e5ca6d7318d4932",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
+    "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4790,6 +4780,26 @@
     "city": "Tomaszowo"
   },
   {
+    "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
+    "title": "Mario + Rabbids: Kingdom Battle (Switch)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6fae/cde9f8274b399dd9133f5d2d6eaa",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-5bi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
+    "title": "Mario + Rabbids: Kingdom Battle (Switch)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6fae/cde9f8274b399dd9133f5d2d6eaa",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-5bi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "7cab37d5-b0d6-4418-963e-9514c9afa8c0",
     "title": "Catherine: Full Body (Switch)",
     "price": "150",
@@ -5390,46 +5400,6 @@
     "city": "Olsztyn, Olsztyn"
   },
   {
-    "id": "5d273dde-ec90-4b1a-bb7c-5da1eeaf5b02",
-    "title": "MARIO+RABBIDS SPARKS OF HOPE",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e3b79/4651585d44f594d622378a0ae68d",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-w5d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
-  },
-  {
-    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
-    "title": "Gra lets sing 2023 Nintendo",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "06faa115-6e76-4896-b127-2aa522a16a79",
-    "title": "Minecraft premium pelerynka optifine",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e7973/9a7698a84be0859005882db366ff",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-premium-pelerynka-optifine-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sieradz"
-  },
-  {
-    "id": "938e48f5-8a15-4d66-8197-72f6a09b3fb8",
-    "title": "SUPER SMASH BROS Ultimate",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e41fa/9111a4f642479fe2123cd176f36a",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-qmu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn, Olsztyn"
-  },
-  {
     "id": "07b997dd-8130-4867-b281-f80d290b8816",
     "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
     "price": "129",
@@ -5730,16 +5700,6 @@
     "city": "Poznań, Wilda"
   },
   {
-    "id": "9bfd3036-af46-47cc-8399-aad074f68d4f",
-    "title": "Bayonetta 3 Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e4801/0d1eb2c4413f87190ad0bd149455",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-346?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
     "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
     "price": "109",
@@ -5988,5 +5948,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "f34342e1-8814-4b16-864f-dc66864284cb",
+    "title": "Aragami: Shadow Edition - Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e9e72/0388a0bd4e15b7ca8da567950db8",
+    "url": "https://allegrolokalnie.pl//oferta/aragami-shadwo-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Orzech"
+  },
+  {
+    "id": "33a2cf7f-aaae-4cc5-8790-27b26a3d3062",
+    "title": "Gra Nintendo Switch Xenoblade Chronicles 2",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s360x360/1e901e/7c9412ff4ba9a8fc5498726ad98b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-xenoblade-chronicles-2-5fc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
