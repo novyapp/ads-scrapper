@@ -600,16 +600,6 @@
     "city": "Białystok"
   },
   {
-    "id": "c5a33e89-a7b2-4c34-8f14-f346c825bb02",
-    "title": "METRO REDUX 2033+ LAST LIGHT SWITCH",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e05ea/be97e10e4db49ce034c97bf14053",
-    "url": "https://allegrolokalnie.pl//oferta/metro-redux-2033-last-light-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "8608cb8d-b9c3-46ea-bb2d-ad0956e04ca9",
     "title": "Super Mario 3D All Stars Nintendo Switch",
     "price": "260",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Tczew"
+  },
+  {
+    "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
+    "title": "Lego Star Wars PL Switch",
+    "price": "101",
+    "img": "https://a.allegroimg.com/s360x360/1e1f95/0acbf1894a2cb06c6e125aea08d0",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-xve?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
@@ -2400,16 +2400,6 @@
     "city": "Uraz"
   },
   {
-    "id": "f15e8ebe-1363-40d8-a2be-606bce17ba56",
-    "title": "Wiedźmin 3: Dziki Gon, Edycja Kompletna, Dubbing PL, Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1e99e6/e3acd9ab4dae9ae17df8ad745922",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-dubbing-pl-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Uraz"
-  },
-  {
     "id": "4e182bbe-382a-492e-849e-072d18e162b8",
     "title": "MINECRAFT - Nintendo Switch",
     "price": "120",
@@ -3595,6 +3585,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5400,16 +5400,6 @@
     "city": "Kraków, Krowodrza"
   },
   {
-    "id": "07b997dd-8130-4867-b281-f80d290b8816",
-    "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e08ee/de07a36f4e2e8d8bc5ec568930a0",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-bez-kodu-na-bayonette-1?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Krowodrza"
-  },
-  {
     "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
     "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
     "price": "5",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łazy"
+  },
+  {
+    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
+    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Iłża"
   }
 ]
