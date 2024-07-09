@@ -60,16 +60,6 @@
     "city": "Dzierżoniów"
   },
   {
-    "id": "5d3ee9d6-10de-45c1-9fae-a28d9c80f4cd",
-    "title": "Super Mario 3D All Stars - Gra NINTENDO SWITCH",
-    "price": "289",
-    "img": "https://a.allegroimg.com/s360x360/1e0711/d867914740138bb0ac739c2fc569",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-gra-nintendo-switch-5do?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Pruszcz Gdański"
-  },
-  {
     "id": "75e777e3-695e-4d79-b3ee-03c424a8c11f",
     "title": "Animal Crossing: New Horizons - Gra NINTENDO SWITCH",
     "price": "169",
@@ -1810,6 +1800,16 @@
     "city": "Warszawa, Wola"
   },
   {
+    "id": "5d637234-8c76-41ce-bccc-a698f2e0e84b",
+    "title": "BioShock The Collection Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ee6f5/2c1b7d174820a5ff6f14369a399d",
+    "url": "https://allegrolokalnie.pl//oferta/bioshock-the-collection-switch-3uf?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
     "title": "Gra Astroneer – Nintendo Switch",
     "price": "89",
@@ -2398,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Uraz"
-  },
-  {
-    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
-    "title": "MINECRAFT - Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilkszyn"
   },
   {
     "id": "23646562-dcb6-4791-8fa9-699699d87d8e",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Iłża"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
