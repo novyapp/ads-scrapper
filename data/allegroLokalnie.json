@@ -210,16 +210,6 @@
     "city": "Pruszcz Gdański"
   },
   {
-    "id": "386e487e-ec69-4a52-bd8e-972a34263b0f",
-    "title": "The legend of zelda: breath of the wild",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e3139/47ea535347babe552741b989e249",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-po6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "6f2d516c-3764-4d05-9f16-15f1b209ca2a",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nowa",
     "price": "120",
@@ -585,16 +575,6 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e1d16/c8b199d2408bb4337769de9a1617",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-mario-maker-2-3zp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Złotoryja"
-  },
-  {
-    "id": "e08149a0-3f3b-4888-97aa-b714adce185f",
-    "title": "Gra Nintendo Switch - Super Smash Bros Ultimate",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e29ec/857c7a2b4cd486247ae128e501b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-smash-bros-ultimate-fjp?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Złotoryja"
@@ -2390,6 +2370,26 @@
     "city": "Gorzów Wielkopolski"
   },
   {
+    "id": "45eb8b0e-4f1c-482d-a200-64c03a6292a5",
+    "title": "Kirby Return to Dream Land Nowa! Folia! Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ed9a0/ca3b0c194820b163b852127fbb67",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-return-to-dream-land-nowa-folia-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
+    "id": "45eb8b0e-4f1c-482d-a200-64c03a6292a5",
+    "title": "Kirby Return to Dream Land Nowa! Folia! Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ed9a0/ca3b0c194820b163b852127fbb67",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-return-to-dream-land-nowa-folia-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
     "id": "d9bf14af-e3f3-49fa-9196-a391ccf2c5cb",
     "title": "Dragon Quest Builders Nintendo Switch",
     "price": "95",
@@ -2978,26 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dmosin"
-  },
-  {
-    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
-    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eae37/663f010444b09dad9ee63012b32e",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wieluń"
-  },
-  {
-    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
-    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eae37/663f010444b09dad9ee63012b32e",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wieluń"
   },
   {
     "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
@@ -4800,6 +4780,16 @@
     "city": "Pruszków, Malichy"
   },
   {
+    "id": "842b43e9-9e7f-480c-a811-10068737974a",
+    "title": "POKÉMON SHINY ENTEI 100lvl.",
+    "price": "5",
+    "img": "https://a.allegroimg.com/s360x360/1e1eca/0492455a44799064d39c80ec0abb",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-entei-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
     "id": "9526a0e2-a4b5-4204-885a-ac2f9138ca27",
     "title": "POKÉMON SHINY SUICUNE 100lvl.",
     "price": "4",
@@ -5390,16 +5380,6 @@
     "city": "Radzyń Podlaski"
   },
   {
-    "id": "cd1fc6a8-36bc-4a16-ab89-6869247ffe4a",
-    "title": "POKEMON LEUCHTENDE PERLE",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/25fd52f24f4fbf263efe9358ec4c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-leuchtende-perle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
-  },
-  {
     "id": "1562865f-dbba-4427-9693-ff306fc5b54a",
     "title": "Switch Minecraft - Kartridź Folia PL",
     "price": "109",
@@ -5988,5 +5968,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Morąg"
+  },
+  {
+    "id": "ed430276-8fc0-4107-a951-797dfd198b88",
+    "title": "Atelier Sophie 2 dla Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e9a53/cf983ea44998a5064d9c67d61f18",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   }
 ]
