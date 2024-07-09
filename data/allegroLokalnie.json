@@ -320,16 +320,6 @@
     "city": "Kielce"
   },
   {
-    "id": "06bc9455-353b-4cd4-9158-db5f47fa90d8",
-    "title": "Luigi’s Mansion 3",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e7629/699ba1f2478bb6695b0dfeed96d6",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-yim?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "094e36e6-2150-4e7d-ace8-2a9a8cd0d5b1",
     "title": "Metro Redux I 2 gry na karcie I PL napisy I Switch",
     "price": "139",
@@ -1200,16 +1190,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kazimierz Dolny"
-  },
-  {
     "id": "14e6acc5-cd74-4dc9-a191-4685d61113db",
     "title": "Xenoblade Chronicles Definitive Edition Nintendo Switch",
     "price": "150",
@@ -1810,6 +1790,16 @@
     "city": "Warszawa, Wola"
   },
   {
+    "id": "5d637234-8c76-41ce-bccc-a698f2e0e84b",
+    "title": "BioShock The Collection Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ee6f5/2c1b7d174820a5ff6f14369a399d",
+    "url": "https://allegrolokalnie.pl//oferta/bioshock-the-collection-switch-3uf?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
     "title": "Gra Astroneer – Nintendo Switch",
     "price": "89",
@@ -1948,6 +1938,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "64db9ec4-eee8-4511-8f74-d6d0fc052088",
+    "title": "Sprzedam Super Mario RPG",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ee1de/bae04d734524b2211b306704a9a1",
+    "url": "https://allegrolokalnie.pl//oferta/sprzedam-super-mario-rpg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
   },
   {
     "id": "748eed99-97da-4c6b-a713-4b80a01683fc",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
-    "title": "Mario RPG Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
   },
   {
     "id": "987b5358-cf85-41dd-8675-65b0f908fa41",
@@ -3600,16 +3590,6 @@
     "city": "Groblice"
   },
   {
-    "id": "1abb67a9-eca3-42e6-b18b-e5a794b0d8c2",
-    "title": "switch HELLO NEIGHBOR 2 EDYCJA KOLEKCJONERSKA po polsku kardridż BIG BOX",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/11356b/3049b82f49b0940f6fdd064faedc",
-    "url": "https://allegrolokalnie.pl//oferta/switch-hello-neighbor-2-edycja-kolekcjonerska-po-polsku-kardridz-big-box?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
     "id": "86483009-87bd-49d8-a194-39afde739c60",
     "title": "Metal Max Xeno Reborn - Swith",
     "price": "110",
@@ -4198,6 +4178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rybarzowice"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   },
   {
     "id": "381010c3-25e9-4413-98a9-4922b7b23f9f",
