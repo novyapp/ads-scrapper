@@ -480,16 +480,6 @@
     "city": "Poznań, Stare Miasto"
   },
   {
-    "id": "eac368cb-46ff-43d7-b066-748df7e30047",
-    "title": "Red dead redemption Nintendo switch GRA",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e21e1/5d5a4f96431fbc58fc33e44930f2",
-    "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kaleń Duża"
-  },
-  {
     "id": "e9b2b8a7-a452-41c9-8209-efeb42f0fc00",
     "title": "Hogward legacy Nintendo switch GRA",
     "price": "129",
@@ -595,6 +585,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e1d16/c8b199d2408bb4337769de9a1617",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-mario-maker-2-3zp?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Złotoryja"
+  },
+  {
+    "id": "e08149a0-3f3b-4888-97aa-b714adce185f",
+    "title": "Gra Nintendo Switch - Super Smash Bros Ultimate",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1e29ec/857c7a2b4cd486247ae128e501b4",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-smash-bros-ultimate-fjp?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Złotoryja"
@@ -1800,16 +1800,6 @@
     "city": "Pasym"
   },
   {
-    "id": "485e2128-225a-44e6-b426-6d3fc4893b32",
-    "title": "Souldiers Nintendo Switch",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e7c06/19efdcd94a54adca92b7132a378b",
-    "url": "https://allegrolokalnie.pl//oferta/souldiers-nintendo-switch-xcz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
     "id": "17ae4f89-fc23-4fee-b07f-92fd2c417e24",
     "title": "Hyrule Warriors: Age of Calamity Switch",
     "price": "145",
@@ -1978,6 +1968,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "48f46d27-2ca3-4682-b051-7e82b986d508",
+    "title": "Starlink battle for atlas prawie cała kolekcja switch, xbox one, ps4",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s360x360/1ee00d/f24651aa4ffa9bb10867ac46e7f0",
+    "url": "https://allegrolokalnie.pl//oferta/starlink-battle-for-atlas-prawie-cala-kolekcja-switch-xbox-one-ps4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   },
   {
     "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
@@ -2962,7 +2962,7 @@
   {
     "id": "741869b0-edaf-49d7-b335-f478da7aa521",
     "title": "Super Mario 3D All Stars Nintendo Switch (stan idealny)",
-    "price": "479",
+    "price": "439",
     "img": "https://a.allegroimg.com/s360x360/1eaeac/acfa5c2f4c5aaf145b2a2b1bee63",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": false,
@@ -2998,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Skawina"
-  },
-  {
-    "id": "d72326db-eddc-472d-8574-e60f3c16d71f",
-    "title": "Gra Xenoblade Chronicles 3 na Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1ec917/d3393aca4d73a23060b3a625f23c",
-    "url": "https://allegrolokalnie.pl//oferta/gra-xenoblade-chronicles-3-na-nintendo-switch-7oc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk, Letnica"
   },
   {
     "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
@@ -4210,6 +4200,16 @@
     "city": "Kraków, Dębniki"
   },
   {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "2944a5fb-c8c3-4ee0-bbc9-766a9ce9549a",
     "title": "Triangle Strategy Tactician's Limited Edition edycja kolekcjonerska Switch",
     "price": "355",
@@ -5400,16 +5400,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "7ebf4912-863d-4495-b3d2-d906ba91280b",
-    "title": "Atari 50 The Anniversary Celebration nintendo",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e8512/81f6774848c7b41f7702eb34afbb",
-    "url": "https://allegrolokalnie.pl//oferta/atari-50-the-anniversary-celebration-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "a261cd6b-26dd-43bb-8f9d-ea244d9c27bf",
     "title": "rabbids party of legends",
     "price": "76",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wągrowiec"
+  },
+  {
+    "id": "4ea22437-e63e-4979-865a-f3699e7a92b8",
+    "title": "The binding of isaac: repentance Nintendo Switch",
+    "price": "450",
+    "img": "https://a.allegroimg.com/s360x360/1efe32/bfc5fad442da98005573a955f755",
+    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-nintendo-switch-go5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Straszyn"
   }
 ]
