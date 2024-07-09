@@ -750,16 +750,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "ee3980c0-916b-421b-83e3-788c5a5fe313",
-    "title": "Gra na Nintendo Switch Zelda",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e7d7d/f86a91f847df9948bc9c7400c807",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-zelda-b2m?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Zyrardow"
-  },
-  {
     "id": "e3d298c2-31b1-414b-93f6-1db7f3e40f44",
     "title": "HADES NINTENDO SWITCH",
     "price": "199",
@@ -1208,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kazimierz Dolny"
   },
   {
     "id": "14e6acc5-cd74-4dc9-a191-4685d61113db",
@@ -1798,6 +1778,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Olsztyn, Olsztyn"
+  },
+  {
+    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
+    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kazimierz Dolny"
   },
   {
     "id": "5d637234-8c76-41ce-bccc-a698f2e0e84b",
