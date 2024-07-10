@@ -1,5 +1,15 @@
 [
   {
+    "id": "cb26bedb-516b-42ca-a4ca-599f1797200e",
+    "title": "Super Mario Odyssey, Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1e358a/338b3d7d4426b40afd633eb09098",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-nih?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Częstochowa, Północ"
+  },
+  {
     "id": "7726a795-5e93-4c6a-840c-a76ba6587bb7",
     "title": "Pokemon Legend Arceus ninendo switch",
     "price": "169",
@@ -2010,6 +2020,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "fe69c1de-f2c1-4168-bb46-bcedcc88d4b5",
+    "title": "The Last Faith The Nycrux Edition (Nowa) - Nintendo Switch",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s360x360/1ede01/25ceaa384b32a178391b702b6562",
+    "url": "https://allegrolokalnie.pl//oferta/the-last-faith-the-nycrux-edition-nowa-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "8de39f0e-50ae-4faf-81ab-9dcef7b12030",
     "title": "Cuphead Edycja Super Deluxe (Nowa) - Nintendo Switch",
     "price": "210",
@@ -2978,26 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "warszawa"
-  },
-  {
-    "id": "ed2a6f51-7a4d-4541-af5c-36d4368256c3",
-    "title": "Hyrule Warriors Age of Calamity",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ecb1b/afe209804e9e84d33a333aaaf27d",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-ujv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "88cc9f60-2366-437a-9e8e-b9f909830375",
-    "title": "Princess Peach: Showtime Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ed1ec/cdfe7e674b6eb0e5e801344004b6",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-switch-s2l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Olkusz"
   },
   {
     "id": "7e394cdc-21ed-468b-86fe-ade84e8f1d56",
@@ -5400,26 +5400,6 @@
     "city": "Strumień"
   },
   {
-    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
-    "title": "Nintendo Labo Variety Kit",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "b5b70d2b-ccc1-4c39-8bd2-48cae9ab9375",
-    "title": "Jumanji Dzikie Przygody gra Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e86e1/e62b8e2d42589bf6ebc00bfa97dc",
-    "url": "https://allegrolokalnie.pl//oferta/jumanji-dzikie-przygody-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Strumień"
-  },
-  {
     "id": "be7a3b76-c519-4344-955d-cb9e2a9a4773",
     "title": "Dragon quest xi echoes of an elusive age switch",
     "price": "200",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
+  },
+  {
+    "id": "af51c381-61de-470f-a945-64ed3339e8ba",
+    "title": "NINTENDO SWITCH LEGO WORLDS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Śrem"
   }
 ]
