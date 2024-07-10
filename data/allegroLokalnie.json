@@ -1440,16 +1440,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "22f36b6d-0501-4705-99b7-9eb2df091057",
-    "title": "F.I.S.T. Forged in Shadow Torch Steelbook (Nintendo Switch)",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e6c4b/86f2b89e45fab5c87cab4b585807",
-    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-steelbook-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Michałowice"
-  },
-  {
     "id": "0f4d7c6a-68da-42d5-8dc5-27119f76fdfe",
     "title": "Figurka Nintendo Amiibo Sephiroth",
     "price": "139",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sanniki"
+  },
+  {
+    "id": "22f36b6d-0501-4705-99b7-9eb2df091057",
+    "title": "F.I.S.T. Forged in Shadow Torch Steelbook (Nintendo Switch)",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e6c4b/86f2b89e45fab5c87cab4b585807",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-steelbook-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Michałowice"
   },
   {
     "id": "3adcc003-5699-4bf9-b6a8-6c6193d43c3b",
@@ -2400,16 +2400,6 @@
     "city": "Poznań"
   },
   {
-    "id": "1b227b2d-0680-4134-a1b3-0e254e4982fc",
-    "title": "Gra Super Mario 3D All Stars",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s360x360/1e47e9/6b3176de487c9177b07164ff0615",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-all-stars-ap2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "adf4cdff-5739-405a-82e1-35887d411b62",
     "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
     "price": "545",
@@ -2432,7 +2422,7 @@
   {
     "id": "b74f983e-075f-4418-a843-db09ae61720a",
     "title": "Super Mario 3D All Stars Nintendo Switch",
-    "price": "335",
+    "price": "330",
     "img": "https://a.allegroimg.com/s360x360/1e2c62/8685b4a8483c9d230dc35b37ee93",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-emo?navCategoryId=256922",
     "promoted": false,
@@ -3595,6 +3585,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/119a04/c19840cb44319d20d29cec3accad",
     "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "0d1e91b3-866a-4b8c-853a-0634008c0351",
+    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE unikat zadbana",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/115a25/d58a32e0459b99ccb33c65f5782f",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
