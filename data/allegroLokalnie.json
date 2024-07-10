@@ -1980,6 +1980,26 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "ed9bdce3-d0d6-4a06-b8f1-14072b9efec7",
+    "title": "PRINCE OF PERSIA THE LOST CROWN! IDEALNY STAN",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e38c4/9fdbc1684113bafae85855f562a5",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-idealny-stan?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Niepołomice, Podgórze"
+  },
+  {
+    "id": "6a0fc4a8-0d7a-4990-afc2-213ca49dafed",
+    "title": "Super Mario 3D All Stars Nowa Folia",
+    "price": "420",
+    "img": "https://a.allegroimg.com/s360x360/1e9750/09b2af634582b0e1c95f759b13dc",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nowa-folia-4s3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mińsk Mazowiecki"
+  },
+  {
     "id": "9abf5cdd-d0d9-4433-a084-fc43d2a9fd10",
     "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY",
     "price": "260",
@@ -2230,16 +2250,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "64db9ec4-eee8-4511-8f74-d6d0fc052088",
-    "title": "Sprzedam Super Mario RPG",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ee1de/bae04d734524b2211b306704a9a1",
-    "url": "https://allegrolokalnie.pl//oferta/sprzedam-super-mario-rpg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
     "id": "8565e7cc-8182-430d-9097-f3419fd21346",
     "title": "Luigis Mansion 3 / Nintendo Switch / Posiadłość Luigiego 3",
     "price": "189",
@@ -2378,26 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zielona Góra"
-  },
-  {
-    "id": "1de311b9-abae-4189-bb2f-c40200940246",
-    "title": "Big Brain Academy Nintendo Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e416f/174d88074fb4b0f26f6fb594d9bd",
-    "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-nintendo-switch-nj4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
-    "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
-    "title": "Gra na Nintendo Switch Hollow Knight",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee8ee/f5f5295d4e9db86a5880e60c249d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-hollow-knight?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Mistrzejowice"
   },
   {
     "id": "1de311b9-abae-4189-bb2f-c40200940246",
@@ -4185,16 +4175,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "e0586f2b-2f92-4e54-8364-55e0579004b6",
-    "title": "Fire Emblem Engage",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee6b2/6cec20e74d2499b9b0d8a342aab5",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-7vp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Mysłowice"
+  },
+  {
+    "id": "af51c381-61de-470f-a945-64ed3339e8ba",
+    "title": "NINTENDO SWITCH LEGO WORLDS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Śrem"
   }
 ]
