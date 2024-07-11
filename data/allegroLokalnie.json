@@ -1200,6 +1200,16 @@
     "city": "Wrocław, Wroclaw"
   },
   {
+    "id": "9a3fe1b0-0ee2-4aa3-b186-3d1a76aed6ed",
+    "title": "Gra Nintendo Switch - Mega Man 11, megaman 11",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e1025/adff4de242d19a55846d1d18fa5d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-mega-man-11-megaman-11?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
     "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
     "title": "nintendo switch +2 joysticki i 2 gry",
     "price": "1 100",
@@ -1788,16 +1798,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
-    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
-    "price": "480",
-    "img": "https://a.allegroimg.com/s360x360/1ef0ad/9da8a3bd4f6d884ad84415853f74",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Mysłowice"
   },
   {
     "id": "4281978f-0987-4f67-8766-23c24df84ea7",
@@ -4800,6 +4800,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "1c1f1279-9cdb-41bd-8b8a-4c8f23649d58",
+    "title": "Gra Nintendo Switch Fire Emblem Three Houses",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e8897/1554848946c598606e7cb2831c0e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-fire-emblem-three-houses-rxp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "ed08bdeb-2f2e-498d-8346-887b20b4898b",
     "title": "Xenoblade Chronicles 2 - klucz DLC",
     "price": "30",
@@ -5385,16 +5395,6 @@
     "price": "70",
     "img": "https://a.allegroimg.com/s360x360/1e51f3/9e343e4b4dcdb52b03ecd2ab55e2",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-iii-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
-    "title": "Let's get fit nintendo switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Twardogóra"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "d21ad935-a9b5-47e4-858b-d21ec2a0e344",
+    "title": "Shin Megami Tensei V Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1eef8f/9541cf5b4b80b65806568c7900da",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-hn2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jabłonka, Stare Miasto"
   }
 ]
