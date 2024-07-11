@@ -1800,16 +1800,6 @@
     "city": "Pasym"
   },
   {
-    "id": "2881ad4a-1a46-4cb5-a09a-67b44f3d4fd7",
-    "title": "Let's build a zoo + dinosaur island NOWA, Folia",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e683c/eac23e8c4c1298851bd58cd88eff",
-    "url": "https://allegrolokalnie.pl//oferta/lets-build-a-zoo-dinosaur-island-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
     "id": "e4bb9b98-179b-4186-be18-20826ce08a42",
     "title": "Astria Ascending Nintendo switch NOWA, kartridż",
     "price": "210",
@@ -2018,6 +2008,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "a4901a16-ecdb-41b0-a200-cfd99b02ebb1",
+    "title": "Mario Rabbids kingdom battle",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e8c74/139f250f44f381e4655d1baf1e91",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-x5i?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
+    "id": "d8ee7288-c780-415f-8161-ee0e8b9fcc62",
+    "title": "Tetris Effect Connected (Nowa)  - Nintendo Switch",
+    "price": "239",
+    "img": "https://a.allegroimg.com/s360x360/1e3fc4/2ee5d9b44b52b8af6db754395503",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-effect-connected-nowa-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "7f10f1b7-7094-4b92-b307-f319507344d9",
+    "title": "Kirby and the Forgotten Land",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e4385/518a8751410e80c18aff4a0ad01d",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-kx4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
   },
   {
     "id": "0fb82a4d-cad2-42f1-b746-1e0118feeb88",
@@ -2378,26 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "c41d64f1-d7ac-4a57-bcd3-2af15343174e",
-    "title": "Final Fantasy 7-8 na Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e7d66/717149cd45c5b7428e3b89c74cd1",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-78-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
-  },
-  {
-    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
-    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
-    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
   },
   {
     "id": "c41d64f1-d7ac-4a57-bcd3-2af15343174e",
@@ -4800,6 +4800,16 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "bbe219e2-4fb9-4801-90de-5b3706ee3f11",
+    "title": "Xenoblades Chronicles 2 Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e0c11/e23da2ce4e638a8c794f047af9a3",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-zy2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
     "id": "914eeaef-feb1-4037-85fe-1800ba38f053",
     "title": "Cztery świetne gry RPG na Nintendo Switch!",
     "price": "260",
@@ -5390,16 +5400,6 @@
     "city": "Poznań"
   },
   {
-    "id": "b4d96202-4db5-478b-8857-041c509b4cb9",
-    "title": "TRIANGLE STRATEGY , NINTENDO SWITCH , NOWA / FOLIA",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1efbb9/533fa600492f97dff49aadbeb87d",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-nowa-folia-g3a?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "35363411-eac1-48f1-acba-f5856cb39c26",
     "title": "SHIN MEGAMI TENSEI V , NINTENDO SWITCH",
     "price": "159",
@@ -5940,6 +5940,16 @@
     "city": "Poznań, Wilda"
   },
   {
+    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
+    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Włochy"
+  },
+  {
     "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
     "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
     "price": "109",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Plewiska"
-  },
-  {
-    "id": "e9519c0e-8f39-4b95-895d-df2a2b53fa39",
-    "title": "Gra \"SponczbobKART RACERS\" -nintendo switch",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1e568e/5823b7184169a9734dd12fda03c1",
-    "url": "https://allegrolokalnie.pl//oferta/gra-kart-racers-nikelodeon-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieluń"
   }
 ]
