@@ -590,16 +590,6 @@
     "city": "Białystok"
   },
   {
-    "id": "7964a56d-b2c1-415c-8cff-854fde827db0",
-    "title": "Super Mario Bros Wonder",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1ed786/ae6a83894a75be28ad3a3917a197",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-67o?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Twardogóra"
-  },
-  {
     "id": "3375a182-4422-4438-b9fb-3d9b1814c4e6",
     "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
     "price": "429",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
+    "title": "Cuphead switch polskie napisy",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
+    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Puchaczów"
   },
   {
     "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
@@ -1790,66 +1790,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "94b90bf3-c55e-48f8-85ac-580352637c6e",
-    "title": "bakugan champions of vestroia nintendo switch",
-    "price": "49",
-    "img": "https://a.allegroimg.com/s360x360/1e077b/aab1d9e34385bcf4b52420dde13c",
-    "url": "https://allegrolokalnie.pl//oferta/bakugan-champions-of-vestroia-nintendo-switch-o6d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn, Olsztyn"
-  },
-  {
-    "id": "5d637234-8c76-41ce-bccc-a698f2e0e84b",
-    "title": "BioShock The Collection Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ee6f5/2c1b7d174820a5ff6f14369a399d",
-    "url": "https://allegrolokalnie.pl//oferta/bioshock-the-collection-switch-3uf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
-    "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
-    "title": "Gra Astroneer – Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1e4d9c/1d75137a424d9c01d06598ee4bf7",
-    "url": "https://allegrolokalnie.pl//oferta/gra-astroneer-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "c3914016-3205-473c-abc3-d50758563b31",
-    "title": "Gra LEGO Przygoda Movie 2 Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1ecce3/43a03e24449cac989a416a301feb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lego-przygoda-movie-2-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "cfee0e10-4f23-49a2-a5a6-1afc86d14e79",
-    "title": "F.i.s.t. Forged In Shadow Nintendo Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1ef639/ecd1a19846e783f1ee4506cd7b9d",
-    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
-    "id": "3adcc003-5699-4bf9-b6a8-6c6193d43c3b",
-    "title": "Asterix & Obelix XXL Collection Nintendo Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1ea975/3f16c88947f2a2928f58026839d0",
-    "url": "https://allegrolokalnie.pl//oferta/asterix-obelix-xxl-collection-nintendo-switch-ncv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn, Olsztyn"
-  },
-  {
     "id": "b987923b-c593-4737-81a6-8364cf429032",
     "title": "DREAMWORKS ALL-STAR KART RACING Nintendo Switch",
     "price": "169",
@@ -2388,6 +2328,66 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Mistrzejowice"
+  },
+  {
+    "id": "9f1075ef-48e5-4335-8197-5d2a81592beb",
+    "title": "Super Mario Wonder Nintendo Switch",
+    "price": "151",
+    "img": "https://a.allegroimg.com/s360x360/1e4930/e58e44d744b796bed6ddd83b691c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-55w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "005ad90c-ee4f-44b4-991b-fefb773d184b",
+    "title": "Dying Light: Platinum Edition - Switch",
+    "price": "205",
+    "img": "https://a.allegroimg.com/s360x360/1e0499/f85c3ddd485b904edc3815d205f3",
+    "url": "https://allegrolokalnie.pl//oferta/dying-light-platinum-edition-switch-peu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrzeszcz Dolny"
+  },
+  {
+    "id": "2528a219-1067-46a8-953b-fcc8c5263840",
+    "title": "Gra Nintendo sonic forces",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1e69de/f9ac18f4476d84a9851b420f3542",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-sonic-forces?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Opole Lubelskie"
+  },
+  {
+    "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
+    "title": "Gra Nintendo super Mario deluxe",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e82e9/1c41ead046caaa1d0f0c4ac6a645",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-deluxe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Opole Lubelskie"
+  },
+  {
+    "id": "8dc0bbfd-36be-4e74-9bd8-8063407b61dd",
+    "title": "Gra na Nintendo super Mario odyssey",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1f84/11f9f2394b179bc820e7f363f812",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-super-mario-odyssey?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Opole Lubelskie"
+  },
+  {
+    "id": "e012e5a9-de74-467a-8328-785587d98106",
+    "title": "Gra Animal Crossing: New Horizons",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ee422/8d1062754a9792ab22856a5a811d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-zy7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mińsk Mazowiecki"
   },
   {
     "id": "9f1075ef-48e5-4335-8197-5d2a81592beb",
@@ -3580,76 +3580,6 @@
     "city": "Tczew"
   },
   {
-    "id": "ca6247d4-a582-442a-9368-b5eb2b2930e6",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e5547/727c9c89434c847669f63e71ffb3",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-27i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Skierniewice"
-  },
-  {
-    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
-    "title": "Neptunia sisters vs sisters (Nintendo switch)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e0274/84ead5234a97b4ebc8d226a62781",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
-  },
-  {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kazimierz Dolny"
-  },
-  {
-    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1eaeb5/98f89d274396aa355b1313835fd5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gaszowice"
-  },
-  {
-    "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
-    "title": "The Legend of Zelda - Breath of the Wild Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ea00e/1a4e02044140a6c976693784388f",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-afi-uxq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "d0e64f10-b3c3-41df-8d41-9592faf5e72e",
-    "title": "Neo: The World Ends With You Nintendo Switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1ebf6b/6df9f9fe4d918d2dc76bafeb647d",
-    "url": "https://allegrolokalnie.pl//oferta/neo-the-world-ends-with-you-nintendo-switch-4xk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Katowice"
-  },
-  {
-    "id": "1df45cdb-01d2-4d57-b13b-76424ddfb105",
-    "title": "Gra Beyond a Steel Sky Steelbook Switch Folia",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1ef1f3/8f429394466da2304bff09328d0a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-beyond-a-steel-sky-steelbook-switch-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
     "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
     "price": "96",
@@ -4500,6 +4430,26 @@
     "city": "Reda"
   },
   {
+    "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
+    "title": "DRAGON'S DOGMA DARK ARISEN Nintendo Switch nowa",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s360x360/1e4945/f2f0d4be44258b09a79a786fd21d",
+    "url": "https://allegrolokalnie.pl//oferta/dragons-dogma-dark-arisen-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "bc2bca13-c0c6-4ecb-b1f7-b32634e9baf5",
+    "title": "DESTROY ALL HUMANS PL NINTENDO SWITCH NOWA",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e161e/405e1aad4c0d9617ad30e97dcd41",
+    "url": "https://allegrolokalnie.pl//oferta/destroy-all-humans-pl-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
     "id": "f4f9950e-b61c-4128-b567-1495c92579e9",
     "title": "Mario Party Superstars Nintendo Switch",
     "price": "185",
@@ -4508,6 +4458,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "e0e3934c-1e8d-4077-90c2-aa83e88b8f3c",
+    "title": "Disco Elysium The Final Cut Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e6f5d/65548da0434d9bb4d59aca104684",
+    "url": "https://allegrolokalnie.pl//oferta/disco-elysium-the-final-cut-nintendo-switch-7ne?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "3e48d83e-9b4a-4111-b317-1d151e71b9fa",
+    "title": "Eastward Nintendo Switch Nowa",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e7a6d/59a6f2a142b882026283737b9153",
+    "url": "https://allegrolokalnie.pl//oferta/eastward-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "d40fbcac-3316-4105-91d1-5fe515fd3d8d",
+    "title": "LEGO DC Super Villains (Super Złoczyńcy) Nintendo Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s360x360/1ee00d/96ac9f094c3f9610138a43edd86d",
+    "url": "https://allegrolokalnie.pl//oferta/lego-dc-super-villains-super-zloczyncy-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
@@ -5978,5 +5958,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "1d83a294-3e3a-4640-8d7a-929428a466ac",
+    "title": "LEGEND OF ZELDA BREATH OF THE WILD NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee0d4/83404863492eb5468ece9176b29f",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-hnp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "ff31da73-3ecf-47b6-abf1-70850673ab02",
+    "title": "Pokemon Shining Pearl Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e1793/2bb543d84c34a1212be0cd248d4d",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-bxo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
