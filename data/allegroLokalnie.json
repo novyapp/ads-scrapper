@@ -2090,6 +2090,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "fba98225-126f-4fdc-9664-6a90a2fd862b",
+    "title": "Pokemon Let's go Pikachu",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e1599/390dc21c469ca071f9cb94f1cd8a",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-brr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław"
+  },
+  {
     "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
     "title": "Nintendo Switch, Super Mario RPG",
     "price": "169",
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
-  },
-  {
-    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
-    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e1ba4/2fa71d2641fb95228a4234ecc26e",
-    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Brzoza"
   },
   {
     "id": "7c8c8f7f-1090-4d83-98b7-d8a13ba32e44",
@@ -5496,7 +5496,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e4fbc/59f112c841339aaf7f33ccc2cad8",
     "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-echoes-of-an-elusive-age-switch-3bd?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Siemianowice Śląskie"
   },
   {
