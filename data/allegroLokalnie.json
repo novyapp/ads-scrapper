@@ -90,16 +90,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "952bc36c-6735-4f0c-8569-35ff7d23c8dd",
-    "title": "Another Code Recollection",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e2a04/4e949a3d4916ad2a50fb350f8f4e",
-    "url": "https://allegrolokalnie.pl//oferta/another-code-recollection-nth?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wilanów"
-  },
-  {
     "id": "dd8a2ff0-0887-4384-9b20-5cb68d77aa45",
     "title": "Disney Classic Games: The Jungle Book, Aladdin, The Lion King (Switch)",
     "price": "139",
@@ -1460,16 +1450,6 @@
     "city": "Białystok"
   },
   {
-    "id": "d40fbcac-3316-4105-91d1-5fe515fd3d8d",
-    "title": "LEGO DC Super Villains (Super Złoczyńcy) Nintendo Switch",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s360x360/1ee00d/96ac9f094c3f9610138a43edd86d",
-    "url": "https://allegrolokalnie.pl//oferta/lego-dc-super-villains-super-zloczyncy-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "0f4d7c6a-68da-42d5-8dc5-27119f76fdfe",
     "title": "Figurka Nintendo Amiibo Sephiroth",
     "price": "139",
@@ -1795,6 +1775,16 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1e7a6d/59a6f2a142b882026283737b9153",
     "url": "https://allegrolokalnie.pl//oferta/eastward-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "d40fbcac-3316-4105-91d1-5fe515fd3d8d",
+    "title": "LEGO DC Super Villains (Super Złoczyńcy) Nintendo Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s360x360/1ee00d/96ac9f094c3f9610138a43edd86d",
+    "url": "https://allegrolokalnie.pl//oferta/lego-dc-super-villains-super-zloczyncy-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
