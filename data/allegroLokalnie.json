@@ -600,6 +600,26 @@
     "city": "Białystok"
   },
   {
+    "id": "7964a56d-b2c1-415c-8cff-854fde827db0",
+    "title": "Super Mario Bros Wonder",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1ed786/ae6a83894a75be28ad3a3917a197",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-67o?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "3375a182-4422-4438-b9fb-3d9b1814c4e6",
+    "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
+    "price": "429",
+    "img": "https://a.allegroimg.com/s360x360/1eb78f/ea57be7045939944dd0c3ef9565b",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-fall-of-man-premium-ed-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
     "id": "2fdfc4d3-1e50-4dcf-99f5-65fb6dad01f3",
     "title": "SMERFY MISJA ZŁOLIŚĆ EDYCJA SMERFASTYCZNA PL (igła!)",
     "price": "109",
@@ -1178,26 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
-  },
-  {
-    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
-    "title": "Cuphead switch polskie napisy",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
-    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Puchaczów"
-  },
-  {
-    "id": "50e3a8af-6bdc-41f7-a66c-ca425a8d3ddb",
-    "title": "Gra kooperacyjna na 2os. Wyprzedaż KOLEKCJI! Unravel Two na Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e3314/1e079876477abec83c98122921e4",
-    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-unravel-two-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
@@ -3590,16 +3590,6 @@
     "city": "Skierniewice"
   },
   {
-    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
-    "title": "Neptunia sisters vs sisters (Nintendo switch)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e0274/84ead5234a97b4ebc8d226a62781",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
-  },
-  {
     "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
     "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
     "price": "170",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "1d83a294-3e3a-4640-8d7a-929428a466ac",
+    "title": "LEGEND OF ZELDA BREATH OF THE WILD NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee0d4/83404863492eb5468ece9176b29f",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-hnp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Białołęka"
   }
 ]
