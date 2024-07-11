@@ -1200,6 +1200,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "50e3a8af-6bdc-41f7-a66c-ca425a8d3ddb",
+    "title": "Gra kooperacyjna na 2os. Wyprzedaż KOLEKCJI! Unravel Two na Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e3314/1e079876477abec83c98122921e4",
+    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-unravel-two-na-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
     "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
     "price": "179",
@@ -1788,26 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tczew"
-  },
-  {
-    "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
-    "title": "Gra Astroneer – Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1e4d9c/1d75137a424d9c01d06598ee4bf7",
-    "url": "https://allegrolokalnie.pl//oferta/gra-astroneer-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "c3914016-3205-473c-abc3-d50758563b31",
-    "title": "Gra LEGO Przygoda Movie 2 Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1ecce3/43a03e24449cac989a416a301feb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lego-przygoda-movie-2-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Jaworzno"
   },
   {
     "id": "cfee0e10-4f23-49a2-a5a6-1afc86d14e79",
@@ -3450,6 +3440,16 @@
     "city": "Reda"
   },
   {
+    "id": "b6cfd0df-dc01-467f-ba75-69309fed7eb5",
+    "title": "Nintendo Labo Variety Kit 6w1 Rewelacyjna zabawa super wyjątkowy prezent",
+    "price": "429",
+    "img": "https://a.allegroimg.com/s360x360/1eac5a/000739064eedb7857d5977d293ef",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-6w1-rewelacyjna-zabawa-dla-dzieci-i-doroslych?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
     "id": "d7a65b64-e301-42da-b635-b9d907a07723",
     "title": "Super Mario 3d All Stars Nintendo Switch",
     "price": "370",
@@ -3588,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
+  },
+  {
+    "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
+    "title": "The Legend of Zelda - Breath of the Wild Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ea00e/1a4e02044140a6c976693784388f",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-afi-uxq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
@@ -4185,16 +4195,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e1bdb/eeed8ec64f2aa347d11caaa3b5aa",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "9c3ceb70-eb32-49e4-b4a2-f9fcb969e95e",
-    "title": "Gra Starlink Battle for Atlas na konsole Nintendo Switch Nowa",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e0b6d/9dadf08f4a1799f39798188ed956",
-    "url": "https://allegrolokalnie.pl//oferta/gra-starlink-battle-for-atlas-na-konsole-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "2052cc1e-dd52-4d2f-ae42-0170a2d3329f",
+    "title": "F.I.S.T Forged in Shadow Torch limited ed - nowa",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e8021/2a156c334c4894d1b804455f4d36",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-limited-ed-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
