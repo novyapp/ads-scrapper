@@ -2070,16 +2070,6 @@
     "city": "Gulczewo"
   },
   {
-    "id": "79f1e67a-f06d-4769-8382-28431a2acf0b",
-    "title": "POKEMON SWORD STEELBOOK + GRA Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e57c2/19a058ff456c86ec25af58e44971",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-steelbook-switch-ssf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
     "id": "11a5dfad-0d38-4710-be5b-5a6195616e08",
     "title": "Gra na konsolę Nintendo Switch Splatoon 2",
     "price": "190",
@@ -2098,6 +2088,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "79f1e67a-f06d-4769-8382-28431a2acf0b",
+    "title": "POKEMON SWORD STEELBOOK + GRA Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e57c2/19a058ff456c86ec25af58e44971",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-steelbook-switch-ssf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   },
   {
     "id": "63ada307-b558-41bf-a3b6-21fa6c70b417",
