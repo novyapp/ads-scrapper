@@ -1620,26 +1620,6 @@
     "city": "Ciechanów"
   },
   {
-    "id": "0f4d7c6a-68da-42d5-8dc5-27119f76fdfe",
-    "title": "Figurka Nintendo Amiibo Sephiroth",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1ec1d6/231449f348308948258a551fd493",
-    "url": "https://allegrolokalnie.pl//oferta/figurka-nintendo-amiibo-sephiroth?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "18da9f79-27ab-4e1f-a6f4-1c4bf7265b5f",
-    "title": "Green Hell Switch edycja kolekcjonerska",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e296c/03a06639407d81223292a5940cdf",
-    "url": "https://allegrolokalnie.pl//oferta/green-hell-switch-edycja-kolekcjonerska?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Komorniki"
-  },
-  {
     "id": "c212146d-bc75-42d2-96dc-f6811622a195",
     "title": "Pokemon Let's go Pikachu! Nintendo Switch",
     "price": "155",
@@ -1798,6 +1778,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "szadek"
+  },
+  {
+    "id": "0f4d7c6a-68da-42d5-8dc5-27119f76fdfe",
+    "title": "Figurka Nintendo Amiibo Sephiroth",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1ec1d6/231449f348308948258a551fd493",
+    "url": "https://allegrolokalnie.pl//oferta/figurka-nintendo-amiibo-sephiroth?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
   },
   {
     "id": "7dbebd49-c407-4586-ab43-f421332cd8e9",
@@ -2388,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraśnik"
+  },
+  {
+    "id": "48f46d27-2ca3-4682-b051-7e82b986d508",
+    "title": "Starlink battle for atlas prawie cała kolekcja switch, xbox one, ps4",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s360x360/1ee00d/f24651aa4ffa9bb10867ac46e7f0",
+    "url": "https://allegrolokalnie.pl//oferta/starlink-battle-for-atlas-prawie-cala-kolekcja-switch-xbox-one-ps4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   },
   {
     "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
