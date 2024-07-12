@@ -1,5 +1,15 @@
 [
   {
+    "id": "2b1c2515-fecb-4a08-88f0-de5844fd7503",
+    "title": "It Takes Two Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s360x360/1eee04/32091f774876993d8c98b30b0eba",
+    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintendo-switch-mqq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
     "id": "901c1690-f171-450b-8352-f716992b2c98",
     "title": "Super Mario Bros. Wonder Nintendo Switch",
     "price": "149",
@@ -590,16 +600,6 @@
     "city": "Radzyń Podlaski"
   },
   {
-    "id": "6497fab5-8c38-4c09-9b84-0f35d0d120cb",
-    "title": "Nintendo Switch Sports",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e9d52/4d03976541689556aa7bc8678e07",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-erv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rybnik, Śródmieście"
-  },
-  {
     "id": "f0909675-2ca7-4091-8481-029b997646d1",
     "title": "Everybody 1-2 Switch!",
     "price": "65",
@@ -1180,14 +1180,14 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
-    "title": "Animal Crossing Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e6c38/533c9998488ab375bd4512f058d0",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-72k?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Grunwald"
+    "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
+    "title": "Nowa Bayonetta Origins, Cereza and The Lost Demon - Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e204b/df8e3d7d4c7683f6015edf4ac675",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-origins-cereza-and-the-lost-demon-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "2f578ea4-fee1-42a8-a571-9924a1b0687e",
@@ -1335,16 +1335,6 @@
     "price": "149",
     "img": "https://a.allegroimg.com/s360x360/1e5d98/0aeb7a4a4713bf9b50eea65dfb38",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-nowa-folia-krakow?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Kraków"
@@ -1785,6 +1775,46 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e614e/d16c37774f9ea02231ac2f6ea860",
     "url": "https://allegrolokalnie.pl//oferta/shantae-half-genie-hero-ultimate-edition-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "1e1c9a91-79dc-42aa-9100-433654f92693",
+    "title": "Temtem nintendo switch NOWA , Folia",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e4b08/e732924e48c8aa15c7341edb0b32",
+    "url": "https://allegrolokalnie.pl//oferta/temtem-nintendo-switch-nowa-folia?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "2881ad4a-1a46-4cb5-a09a-67b44f3d4fd7",
+    "title": "Let's build a zoo + dinosaur island NOWA, Folia",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e683c/eac23e8c4c1298851bd58cd88eff",
+    "url": "https://allegrolokalnie.pl//oferta/lets-build-a-zoo-dinosaur-island-nowa-folia?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "1e1c9a91-79dc-42aa-9100-433654f92693",
+    "title": "Temtem nintendo switch NOWA , Folia",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e4b08/e732924e48c8aa15c7341edb0b32",
+    "url": "https://allegrolokalnie.pl//oferta/temtem-nintendo-switch-nowa-folia?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "2881ad4a-1a46-4cb5-a09a-67b44f3d4fd7",
+    "title": "Let's build a zoo + dinosaur island NOWA, Folia",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e683c/eac23e8c4c1298851bd58cd88eff",
+    "url": "https://allegrolokalnie.pl//oferta/lets-build-a-zoo-dinosaur-island-nowa-folia?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Pasym"
@@ -2970,36 +3000,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "edfc828c-c743-4144-9a18-208cbac63434",
-    "title": "La-Mulana 1&2 Hidden Treasures Edition Nintendo Switch",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1ec645/0c204b8d4684a82ada4778c73a9d",
-    "url": "https://allegrolokalnie.pl//oferta/lamulana-12-hidden-treasures-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "warszawa"
-  },
-  {
-    "id": "4b0c4454-a330-427f-91b8-4cb00358b467",
-    "title": "Ori and the Blind Forest",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1edb47/377d484c4512a8f8a5d917a5c428",
-    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-blond-forest?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "warszawa"
-  },
-  {
-    "id": "4b0c4454-a330-427f-91b8-4cb00358b467",
-    "title": "Ori and the Blind Forest",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1edb47/377d484c4512a8f8a5d917a5c428",
-    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-blond-forest?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "warszawa"
-  },
-  {
     "id": "bb8927cb-60cc-43c5-8d92-5e9bc9832bba",
     "title": "Ori and the Will of the Wisps",
     "price": "95",
@@ -3590,14 +3590,24 @@
     "city": "Olkusz"
   },
   {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": true,
+    "id": "e1438b53-be20-4f5a-bc56-f5b4b74f48cc",
+    "title": "Samba de Amigo: Party Central Nintendo Switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e7247/9aeac18e476cb8348b37bcfa88f2",
+    "url": "https://allegrolokalnie.pl//oferta/samba-de-amigo-party-central-nintendo-switch-uc6?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Kraków"
+    "city": "Bydgoszcz, Fordon"
+  },
+  {
+    "id": "308b02e9-0ccf-4eb3-b33a-6cf531a3e0ae",
+    "title": "Bayonetta 3 Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1e0b09/714687294f1fb4b6e70cc5a8aa54",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hyu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Olkusz"
   },
   {
     "id": "e1438b53-be20-4f5a-bc56-f5b4b74f48cc",
@@ -4185,6 +4195,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "e0586f2b-2f92-4e54-8364-55e0579004b6",
+    "title": "Fire Emblem Engage",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ee6b2/6cec20e74d2499b9b0d8a342aab5",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-7vp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5975,16 +5995,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Śrem"
-  },
-  {
-    "id": "b3c73b0a-90df-4e08-b049-4492f255af12",
-    "title": "NINTENDO SWITCH HARRY POTTER COLLECTION",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1ee270/31c2f2944b4cb13e251bb7ab275a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-harry-potter-collection-apg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
