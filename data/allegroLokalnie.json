@@ -1190,6 +1190,16 @@
     "city": "Rudnik nad Sanem"
   },
   {
+    "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "73",
+    "img": "https://a.allegroimg.com/s360x360/1ec0f0/be380b4e4cabb7c3b0f336c62b4b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
     "title": "Mario + Rabbids Sparks of Hope Switch",
     "price": "101",
@@ -1790,16 +1800,6 @@
     "city": "Warszawa, Rembertów"
   },
   {
-    "id": "6dcfc100-0324-4708-8905-b09f8f583d55",
-    "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna Nintendo Switch UNIKAT",
-    "price": "320",
-    "img": "https://a.allegroimg.com/s360x360/1e0d7f/39ccef9e4a0a9481673b825d132f",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-nintendo-switch-unikat?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Rembertów"
-  },
-  {
     "id": "3a8f8c68-342e-484e-ba7f-68793f607b33",
     "title": "OCTOPATH TRAVELER / NINTENDO SWITCH / 3xA",
     "price": "190",
@@ -2385,6 +2385,16 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e437d/76f7dd0a419ca0da37d36de2b893",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
+    "id": "c78f2445-fbbe-47ba-b042-24060e12716e",
+    "title": "Bayonetta Cereza",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ef232/6df94aae43f6b89b0f5a37bd5992",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-cereza-2m2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Widzew"
@@ -3580,14 +3590,14 @@
     "city": "Wejherowo"
   },
   {
-    "id": "ba731a97-9d79-4bb5-8d9f-d6cb612a0178",
-    "title": "Mario + Rabbids Kingdom Battle Switch",
-    "price": "88",
-    "img": "https://a.allegroimg.com/s360x360/1e8476/1c44091449fa834050b639c65091",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-77j?navCategoryId=256922",
+    "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
+    "title": "Switch Splatoon 2 .. nowy folia",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e8265/41edfdf24510b80be652d3537420",
+    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-nowy-folia-exy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Piotrków trybunalski"
+    "city": "Łódź, Górna"
   },
   {
     "id": "ae1b2f67-c604-488b-8d2c-089905db7ea2",
@@ -4180,11 +4190,11 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "0e09d3a0-604a-4200-b828-1c0965f3bc2c",
-    "title": "Gra Arms na Nintnendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e016a/aa806bb7483fbc8dffa4eb81d5a8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-arms-na-nintnendo-switch?navCategoryId=256922",
+    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
+    "title": "Gra Bayonetta 2 na Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
@@ -4790,16 +4800,6 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "bbe219e2-4fb9-4801-90de-5b3706ee3f11",
-    "title": "Xenoblades Chronicles 2 Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e0c11/e23da2ce4e638a8c794f047af9a3",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-zy2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Targówek"
-  },
-  {
     "id": "914eeaef-feb1-4037-85fe-1800ba38f053",
     "title": "Cztery świetne gry RPG na Nintendo Switch!",
     "price": "260",
@@ -5378,6 +5378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jaworzno"
+  },
+  {
+    "id": "b5b70d2b-ccc1-4c39-8bd2-48cae9ab9375",
+    "title": "Jumanji Dzikie Przygody gra Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e86e1/e62b8e2d42589bf6ebc00bfa97dc",
+    "url": "https://allegrolokalnie.pl//oferta/jumanji-dzikie-przygody-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Strumień"
+  },
+  {
+    "id": "be7a3b76-c519-4344-955d-cb9e2a9a4773",
+    "title": "Dragon quest xi echoes of an elusive age switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e4fbc/59f112c841339aaf7f33ccc2cad8",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-echoes-of-an-elusive-age-switch-3bd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Siemianowice Śląskie"
   },
   {
     "id": "63c95594-df1d-4663-944d-847d4b19ef42",
