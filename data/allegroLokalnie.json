@@ -600,6 +600,16 @@
     "city": "Rybnik, Śródmieście"
   },
   {
+    "id": "094e36e6-2150-4e7d-ace8-2a9a8cd0d5b1",
+    "title": "Metro Redux I 2 gry na karcie I PL napisy I Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e7d08/55b3a8bb4f6594ba56a3bbfb2054",
+    "url": "https://allegrolokalnie.pl//oferta/metro-redux-i-2-gry-na-karcie-i-pl-napisy-i-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
     "title": "Super Smash Bros Ultimate",
     "price": "184",
@@ -1200,16 +1210,6 @@
     "city": "Puchaczów"
   },
   {
-    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
-    "title": "Cuphead switch polskie napisy",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
-    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Puchaczów"
-  },
-  {
     "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
     "title": "Lego Star Wars PL Switch",
     "price": "101",
@@ -1500,16 +1500,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "caedab25-f82f-4436-8f2d-34ba3427e5e3",
-    "title": "Minecraft PL Switch",
-    "price": "103",
-    "img": "https://a.allegroimg.com/s360x360/1e1de0/6c61da6347b08adc300ce40379c2",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-k3s?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "9948cdd0-b859-48b5-9c8d-ca3631055dd3",
     "title": "Darksiders 3 Nintendo Switch",
     "price": "70",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "KOZIEGŁOWY"
+  },
+  {
+    "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
+    "title": "Gra Astroneer – Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1e4d9c/1d75137a424d9c01d06598ee4bf7",
+    "url": "https://allegrolokalnie.pl//oferta/gra-astroneer-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Jaworzno"
   },
   {
     "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
@@ -3000,16 +3000,6 @@
     "city": "warszawa"
   },
   {
-    "id": "bb8927cb-60cc-43c5-8d92-5e9bc9832bba",
-    "title": "Ori and the Will of the Wisps",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e5be0/2d349f4843d68e6e1131a3d31870",
-    "url": "https://allegrolokalnie.pl//oferta/oto-and-the-will-of-the-wisps?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "warszawa"
-  },
-  {
     "id": "c33383ce-edcf-4e46-a27b-a020b34ce03e",
     "title": "Okami HD Remastered Nintendo Switch",
     "price": "149",
@@ -3610,6 +3600,16 @@
     "city": "Kraków"
   },
   {
+    "id": "01b96155-4589-492e-aa47-9597f3113a57",
+    "title": "Trek to Yomi Switch Nowa Folia",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s360x360/1e1b90/578f1d854b01b6761b58032452c0",
+    "url": "https://allegrolokalnie.pl//oferta/trek-to-yomi-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "308b02e9-0ccf-4eb3-b33a-6cf531a3e0ae",
     "title": "Bayonetta 3 Switch",
     "price": "95",
@@ -3712,7 +3712,7 @@
   {
     "id": "d0e64f10-b3c3-41df-8d41-9592faf5e72e",
     "title": "Neo: The World Ends With You Nintendo Switch",
-    "price": "75",
+    "price": "70",
     "img": "https://a.allegroimg.com/s360x360/1ebf6b/6df9f9fe4d918d2dc76bafeb647d",
     "url": "https://allegrolokalnie.pl//oferta/neo-the-world-ends-with-you-nintendo-switch-4xk?navCategoryId=256922",
     "promoted": false,
@@ -4195,6 +4195,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1ee6b2/6cec20e74d2499b9b0d8a342aab5",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-7vp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "4320fbca-e83a-49cb-9054-698e81536834",
+    "title": "Warioware Move It!",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "ad237c7a-53eb-439f-b4ea-1fc8b6366ba6",
-    "title": "Gra Rabbids Party of Legends na Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e008d/4a2f982b4faf8a86a14d82cc7a24",
-    "url": "https://allegrolokalnie.pl//oferta/gra-rabbids-party-of-legends-na-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sławno"
   },
   {
     "id": "ad237c7a-53eb-439f-b4ea-1fc8b6366ba6",
