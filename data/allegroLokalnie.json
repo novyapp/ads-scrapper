@@ -266,7 +266,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e9469/9986cd4a4f89a688198f3ed6b699",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-na-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Wrocław, Krzyki"
   },
   {
@@ -276,17 +276,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eef77/1743b2a54f27a81039cbe3ee620c",
     "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-na-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "2f6ba65c-42c3-4648-a640-bf3be5918e94",
-    "title": "Pokémon Violet na Nintendo Switch - Odkryj Magiczny Świat Paldei!",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1ecc96/5de245dd41129ba420e2523ac34f",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-na-nintendo-switch-odkryj-magiczny-swiat-paldei?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Wrocław, Krzyki"
   },
   {
@@ -1800,16 +1790,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "31c6b2fe-4130-46d1-8618-09692f5738d1",
-    "title": "Dorfromantik Switch",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s360x360/1e8d5c/494aa6f947ea83f182e24df506fe",
-    "url": "https://allegrolokalnie.pl//oferta/dorfromantik-switch-ckq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "09cdd0f2-a81b-43a2-a732-b18fad9f3230",
     "title": "Blade Runner Switch",
     "price": "300",
@@ -2395,6 +2375,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1ed343/4f42e6714c98a35833e7b6335d74",
     "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-nintendo-switch-jcv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zielona Góra"
+  },
+  {
+    "id": "1de311b9-abae-4189-bb2f-c40200940246",
+    "title": "Big Brain Academy Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e416f/174d88074fb4b0f26f6fb594d9bd",
+    "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-nintendo-switch-nj4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Zielona Góra"
