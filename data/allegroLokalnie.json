@@ -770,16 +770,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "84dad3ad-cea3-40c6-ab68-6a633b5e459a",
-    "title": "WIEDŹMIN EDYCJA KOMPLETNA SWITCH PL DYSTRYBUCJA DODATKI UNIKAT",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e5999/5e26810d4713bc1abb9488cd91e4",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-switch-pl-dystrybucja-dodatki-unikat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "199",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "84dad3ad-cea3-40c6-ab68-6a633b5e459a",
+    "title": "WIEDŹMIN EDYCJA KOMPLETNA SWITCH PL DYSTRYBUCJA DODATKI UNIKAT",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1e5999/5e26810d4713bc1abb9488cd91e4",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-switch-pl-dystrybucja-dodatki-unikat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
@@ -4712,7 +4712,7 @@
   {
     "id": "ed08bdeb-2f2e-498d-8346-887b20b4898b",
     "title": "Xenoblade Chronicles 2 - klucz DLC",
-    "price": "40",
+    "price": "35",
     "img": "https://a.allegroimg.com/s360x360/1e3531/a9f0eddc422cb39954df2ad8e297",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-klucz-dlc?navCategoryId=256922",
     "promoted": false,
