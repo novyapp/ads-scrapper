@@ -392,7 +392,7 @@
   {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
-    "price": "195",
+    "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
     "promoted": true,
@@ -402,7 +402,7 @@
   {
     "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
     "title": "Pokémon Sword na konsolę Nintendo Switch",
-    "price": "200",
+    "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1ea515/04a574904fd58a5c581058259d92",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1200,16 +1200,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
-    "title": "Cuphead switch polskie napisy",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
-    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Puchaczów"
-  },
-  {
     "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
     "title": "Lego Star Wars PL Switch",
     "price": "101",
@@ -1498,6 +1488,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "caedab25-f82f-4436-8f2d-34ba3427e5e3",
+    "title": "Minecraft PL Switch",
+    "price": "103",
+    "img": "https://a.allegroimg.com/s360x360/1e1de0/6c61da6347b08adc300ce40379c2",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-k3s?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "9948cdd0-b859-48b5-9c8d-ca3631055dd3",
@@ -1790,14 +1790,14 @@
     "city": "KOZIEGŁOWY"
   },
   {
-    "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
-    "title": "Gra Astroneer – Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1e4d9c/1d75137a424d9c01d06598ee4bf7",
-    "url": "https://allegrolokalnie.pl//oferta/gra-astroneer-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Jaworzno"
+    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
+    "title": "Cuphead switch polskie napisy",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
+    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Puchaczów"
   },
   {
     "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
@@ -2400,16 +2400,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "5b39e934-3e05-4722-8a0d-cfba0e390d2c",
-    "title": "EL SHADDAI: ASCENSION OF THE METATRON HD REMASTER",
-    "price": "265",
-    "img": "https://a.allegroimg.com/s360x360/1ef098/37502c224d35b5d341de6ce71698",
-    "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-remaster?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
     "title": "2 gry na Nintendo Switch",
     "price": "209",
@@ -2482,7 +2472,7 @@
   {
     "id": "6bcdc616-a54e-4898-b418-f2b149804499",
     "title": "Kirby and the Forgotten Land Nintendo Switch",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1ed343/4f42e6714c98a35833e7b6335d74",
     "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-nintendo-switch-jcv?navCategoryId=256922",
     "promoted": false,
@@ -2492,7 +2482,7 @@
   {
     "id": "1de311b9-abae-4189-bb2f-c40200940246",
     "title": "Big Brain Academy Nintendo Switch",
-    "price": "85",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1e416f/174d88074fb4b0f26f6fb594d9bd",
     "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-nintendo-switch-nj4?navCategoryId=256922",
     "promoted": false,
@@ -3000,6 +2990,16 @@
     "city": "warszawa"
   },
   {
+    "id": "bb8927cb-60cc-43c5-8d92-5e9bc9832bba",
+    "title": "Ori and the Will of the Wisps",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1e5be0/2d349f4843d68e6e1131a3d31870",
+    "url": "https://allegrolokalnie.pl//oferta/oto-and-the-will-of-the-wisps?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "warszawa"
+  },
+  {
     "id": "c33383ce-edcf-4e46-a27b-a020b34ce03e",
     "title": "Okami HD Remastered Nintendo Switch",
     "price": "149",
@@ -3430,6 +3430,16 @@
     "city": "Wojcieszow"
   },
   {
+    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
+    "title": "Cuphead switch polskie napisy",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
+    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Puchaczów"
+  },
+  {
     "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
     "title": "Xenoblade Chronicles Definitive Edition",
     "price": "179",
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "01b96155-4589-492e-aa47-9597f3113a57",
-    "title": "Trek to Yomi Switch Nowa Folia",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s360x360/1e1b90/578f1d854b01b6761b58032452c0",
-    "url": "https://allegrolokalnie.pl//oferta/trek-to-yomi-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "01b96155-4589-492e-aa47-9597f3113a57",
