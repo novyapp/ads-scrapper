@@ -210,16 +210,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "d514bdbd-a783-4fa9-915d-a6a7707c7abc",
-    "title": "PERSONA 5 ROYAL",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e75d3/a3ce65b744f289cc4d3ae1d1d64a",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-vmq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "9904ef38-c259-4c02-98f8-2445b9d5dd93",
     "title": "Paper Mario The Thousand-Year D",
     "price": "190",
@@ -595,6 +585,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1ec968/41f2c8864997ae69c01917678691",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-m2u?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Pruszcz Gdański"
+  },
+  {
+    "id": "bf3161c1-bc31-4d9e-ba84-a3c2a708fbc7",
+    "title": "Pokemon Let's Go Pikachu - Gra Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ea98e/1cfab3d44e17835291712aa0b285",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-gra-nintendo-switch-pbk?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Pruszcz Gdański"
@@ -1800,16 +1800,6 @@
     "city": "Warszawa, Rembertów"
   },
   {
-    "id": "3a8f8c68-342e-484e-ba7f-68793f607b33",
-    "title": "OCTOPATH TRAVELER / NINTENDO SWITCH / 3xA",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e57a3/962a0c8542b6aecb5a13c8df28d9",
-    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-nintendo-switch-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "31c6b2fe-4130-46d1-8618-09692f5738d1",
     "title": "Dorfromantik Switch",
     "price": "300",
@@ -2400,14 +2390,14 @@
     "city": "Łódź, Widzew"
   },
   {
-    "id": "c78f2445-fbbe-47ba-b042-24060e12716e",
-    "title": "Bayonetta Cereza",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1ef232/6df94aae43f6b89b0f5a37bd5992",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-cereza-2m2?navCategoryId=256922",
+    "id": "6bcdc616-a54e-4898-b418-f2b149804499",
+    "title": "Kirby and the Forgotten Land Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1ed343/4f42e6714c98a35833e7b6335d74",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-nintendo-switch-jcv?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Łódź, Widzew"
+    "city": "Zielona Góra"
   },
   {
     "id": "6bcdc616-a54e-4898-b418-f2b149804499",
@@ -3600,6 +3590,16 @@
     "city": "Łódź, Górna"
   },
   {
+    "id": "ba731a97-9d79-4bb5-8d9f-d6cb612a0178",
+    "title": "Mario + Rabbids Kingdom Battle Switch",
+    "price": "88",
+    "img": "https://a.allegroimg.com/s360x360/1e8476/1c44091449fa834050b639c65091",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-77j?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piotrków trybunalski"
+  },
+  {
     "id": "ae1b2f67-c604-488b-8d2c-089905db7ea2",
     "title": "Syberia Trilogy I Switch I Po Polsku I Dubbing",
     "price": "299",
@@ -4200,16 +4200,6 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
-    "title": "Gra Bayonetta 2 na Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
     "title": "Civilization VI Nintendo Switch",
     "price": "119",
@@ -4795,6 +4785,16 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1ec7ea/14e7c881449a8ff199a61cbe5cd2",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-shin-megami-tensei-v?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
+    "id": "bbe219e2-4fb9-4801-90de-5b3706ee3f11",
+    "title": "Xenoblades Chronicles 2 Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e0c11/e23da2ce4e638a8c794f047af9a3",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-zy2?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Targówek"
