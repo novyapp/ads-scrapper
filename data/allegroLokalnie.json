@@ -740,16 +740,6 @@
     "city": "Warszawa, Praga-Południe"
   },
   {
-    "id": "2fdfc4d3-1e50-4dcf-99f5-65fb6dad01f3",
-    "title": "SMERFY MISJA ZŁOLIŚĆ EDYCJA SMERFASTYCZNA PL (igła!)",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1eccf4/004a33084adebc59594849b94616",
-    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-edycja-smerfastyczna-pl-igla?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
     "id": "69c76a28-7519-4aec-bf48-6d0e09cfbdca",
     "title": "Gra Nintendo Switch - Super Mario Bros Wonder",
     "price": "200",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Rudnik nad Sanem"
+  },
+  {
+    "id": "2fdfc4d3-1e50-4dcf-99f5-65fb6dad01f3",
+    "title": "SMERFY MISJA ZŁOLIŚĆ EDYCJA SMERFASTYCZNA PL (igła!)",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1eccf4/004a33084adebc59594849b94616",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-edycja-smerfastyczna-pl-igla?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
@@ -1800,6 +1800,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
+    "title": "Bayonetta 3 Trinity Masquerade Edition",
+    "price": "799",
+    "img": "https://a.allegroimg.com/s360x360/1e0511/e201e5914270b0f16c9cfceb2ec6",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
     "title": "Crysis Remastered Steebook Limited Run (Switch)",
     "price": "199",
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Targówek"
-  },
-  {
-    "id": "274cdbe4-6e6a-4d1d-96aa-b2a049962f5f",
-    "title": "THE BINDING OF ISAAC: REPENTANCE (SWITCH) EGZ NOWY",
-    "price": "333",
-    "img": "https://a.allegroimg.com/s360x360/1e2388/508341904cc99cd4f4ba1da053a2",
-    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-switch-egz-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
   },
   {
     "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
