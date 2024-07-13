@@ -700,16 +700,6 @@
     "city": "Kaleń Duża"
   },
   {
-    "id": "de8b37b0-4e0e-4095-895f-922f2768997e",
-    "title": "Zelda Breath of the wild, Pokemon scarlet",
-    "price": "240",
-    "img": "https://a.allegroimg.com/s360x360/1edcfd/286c05bd4788b682fd83282fe6b4",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-pokemon-scarlet?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Skludzewo"
-  },
-  {
     "id": "69c76a28-7519-4aec-bf48-6d0e09cfbdca",
     "title": "Gra Nintendo Switch - Super Mario Bros Wonder",
     "price": "200",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "de8b37b0-4e0e-4095-895f-922f2768997e",
+    "title": "Zelda Breath of the wild, Pokemon scarlet",
+    "price": "240",
+    "img": "https://a.allegroimg.com/s360x360/1edcfd/286c05bd4788b682fd83282fe6b4",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-pokemon-scarlet?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Skludzewo"
   },
   {
     "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
@@ -2990,16 +2990,6 @@
     "city": "warszawa"
   },
   {
-    "id": "bb8927cb-60cc-43c5-8d92-5e9bc9832bba",
-    "title": "Ori and the Will of the Wisps",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e5be0/2d349f4843d68e6e1131a3d31870",
-    "url": "https://allegrolokalnie.pl//oferta/oto-and-the-will-of-the-wisps?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "warszawa"
-  },
-  {
     "id": "c33383ce-edcf-4e46-a27b-a020b34ce03e",
     "title": "Okami HD Remastered Nintendo Switch",
     "price": "149",
@@ -3430,6 +3420,16 @@
     "city": "Wojcieszow"
   },
   {
+    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
+    "title": "Cuphead switch polskie napisy",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
+    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Puchaczów"
+  },
+  {
     "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
     "title": "Xenoblade Chronicles Definitive Edition",
     "price": "179",
@@ -3558,6 +3558,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
+    "title": "Metroid Prime Remastered (Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1fe2/7fb339b04406b6886bc2091e9aac",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "b6cfd0df-dc01-467f-ba75-69309fed7eb5",
+    "title": "Nintendo Labo Variety Kit 6w1 Rewelacyjna zabawa super wyjątkowy prezent",
+    "price": "429",
+    "img": "https://a.allegroimg.com/s360x360/1eac5a/000739064eedb7857d5977d293ef",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-6w1-rewelacyjna-zabawa-dla-dzieci-i-doroslych?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
+    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
+    "title": "Super Mario 3d All Stars Nintendo Switch",
+    "price": "370",
+    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   },
   {
     "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
@@ -4160,36 +4190,6 @@
     "city": "Kalisz"
   },
   {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "e0586f2b-2f92-4e54-8364-55e0579004b6",
-    "title": "Fire Emblem Engage",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee6b2/6cec20e74d2499b9b0d8a342aab5",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-7vp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "4320fbca-e83a-49cb-9054-698e81536834",
     "title": "Warioware Move It!",
     "price": "150",
@@ -4758,6 +4758,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
+  },
+  {
+    "id": "93dc4b7b-d337-4330-b9ee-be403fcfb43d",
+    "title": "Crisis Core Final Fantasy VII Reunion",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ead35/3f5a803a4fde9b03763e099af864",
+    "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-6sd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sucha"
+  },
+  {
+    "id": "d2fc5e48-263f-41f7-8a90-855bf3005ea3",
+    "title": "Star Wars The Skywalker Saga Switch PL",
+    "price": "101",
+    "img": "https://a.allegroimg.com/s360x360/1e8d11/edba9f55412b8a2f8919df8ebe24",
+    "url": "https://allegrolokalnie.pl//oferta/star-wars-the-skywalker-saga-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "9a4064c2-3c17-475b-b426-bd9eb415f852",
+    "title": "Asterix & Obelix XXXL: The Ram From Hibernia",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1ed704/2f258a74430bafdd2df52b2f4c1e",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-obelix-xxxl-the-ram-from-hibernia-hkl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "93dc4b7b-d337-4330-b9ee-be403fcfb43d",
@@ -5958,35 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
-  },
-  {
-    "id": "a21e52a3-6c03-4bab-9d3f-f3ea19772ba9",
-    "title": "Legend of Zelda: Breath of the Wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eed46/0c44626140caa847184b90e0d361",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-6rc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "1d83a294-3e3a-4640-8d7a-929428a466ac",
-    "title": "LEGEND OF ZELDA BREATH OF THE WILD NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ee0d4/83404863492eb5468ece9176b29f",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-hnp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "ff31da73-3ecf-47b6-abf1-70850673ab02",
-    "title": "Pokemon Shining Pearl Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e1793/2bb543d84c34a1212be0cd248d4d",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-bxo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   }
 ]
