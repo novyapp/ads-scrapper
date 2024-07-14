@@ -250,16 +250,6 @@
     "city": "Dzierżoniów"
   },
   {
-    "id": "58beeacf-bab3-4e29-815b-47612e9083e8",
-    "title": "Luigi mansion 2 hd",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eef68/ae48a73e46028c0a11b3c06aeef2",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-2-hd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Zawada"
-  },
-  {
     "id": "afe7fb99-7ce4-49ab-8c74-da35fd6cd365",
     "title": "The Legend of Heroes: Trails of Cold Steel IV",
     "price": "199",
@@ -1750,6 +1740,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
+    "title": "Animal Crossing: New Horizons Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/11c5c6/7fd919c343568c14db4a72914017",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-qta?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krotoszyn"
+  },
+  {
     "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
     "title": "SUPER MARIO 3D ALL-STARS / NOWA / NINTENDO SWITCH",
     "price": "499",
@@ -2430,19 +2430,9 @@
     "city": "Ruda Śląska, Ruda"
   },
   {
-    "id": "6bcdc616-a54e-4898-b418-f2b149804499",
-    "title": "Kirby and the Forgotten Land Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ed343/4f42e6714c98a35833e7b6335d74",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-nintendo-switch-jcv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "1de311b9-abae-4189-bb2f-c40200940246",
     "title": "Big Brain Academy Nintendo Switch",
-    "price": "80",
+    "price": "70",
     "img": "https://a.allegroimg.com/s360x360/1e416f/174d88074fb4b0f26f6fb594d9bd",
     "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-nintendo-switch-nj4?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Plewiska"
+  },
+  {
+    "id": "e9519c0e-8f39-4b95-895d-df2a2b53fa39",
+    "title": "Gra \"SponczbobKART RACERS\" -nintendo switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e568e/5823b7184169a9734dd12fda03c1",
+    "url": "https://allegrolokalnie.pl//oferta/gra-kart-racers-nikelodeon-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieluń"
   }
 ]
