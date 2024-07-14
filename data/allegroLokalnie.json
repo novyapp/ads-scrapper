@@ -1180,16 +1180,6 @@
     "city": "Kraków"
   },
   {
-    "id": "094e36e6-2150-4e7d-ace8-2a9a8cd0d5b1",
-    "title": "Metro Redux I 2 gry na karcie I PL napisy I Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e7d08/55b3a8bb4f6594ba56a3bbfb2054",
-    "url": "https://allegrolokalnie.pl//oferta/metro-redux-i-2-gry-na-karcie-i-pl-napisy-i-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
     "title": "Lego Marvel Super Heroes 2 Switch PL",
     "price": "96",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdynia, Karwiny"
   },
   {
     "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
@@ -1698,6 +1698,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
+    "title": "SUPER MARIO 3D ALL-STARS / NOWA / NINTENDO SWITCH",
+    "price": "499",
+    "img": "https://a.allegroimg.com/s360x360/1e676b/d63d0b2940a8b9ccb0fcb7463c0e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nowa-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Biała Podlaska"
   },
   {
     "id": "583e9479-d40a-4e23-b3f3-7adcad50411c",
@@ -4190,16 +4200,6 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
-    "title": "Gra Bayonetta 2 na Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
     "title": "Civilization VI Nintendo Switch",
     "price": "119",
@@ -5390,6 +5390,26 @@
     "city": "Piaseczno"
   },
   {
+    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
+    "title": "Minecraft nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
+    "title": "Zestaw na Nintendo Switch 4 gier",
+    "price": "375",
+    "img": "https://a.allegroimg.com/s360x360/1e9562/b19a4a7341e08e6096663ba7a28e",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-na-nintendo-switch-3-gry?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
     "title": "WARIO WARE GET IT TOGETHER NOWA FOLIA",
     "price": "180",
@@ -5848,16 +5868,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
-    "title": "Zestaw na Nintendo Switch 5 gier",
-    "price": "480",
-    "img": "https://a.allegroimg.com/s360x360/1ecd53/4e3c73f54a40a1d49522c0134d92",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-na-nintendo-switch-3-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "d21ad935-a9b5-47e4-858b-d21ec2a0e344",
