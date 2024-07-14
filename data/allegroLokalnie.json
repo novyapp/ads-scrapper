@@ -1,13 +1,13 @@
 [
   {
-    "id": "4d7fe773-587c-45f8-9308-49bb9c5647c2",
-    "title": "The Legend of Zelda Tears of The Kingdom",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e9f6f/87558dd9427d81e213f4f9acda4f",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gqe?navCategoryId=256922",
+    "id": "f7c64595-e209-4acc-98ad-aeb5e313d429",
+    "title": "kingdom hearts melody of memory switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s360x360/1e990b/50a595d6473483c3881ecb555cd8",
+    "url": "https://allegrolokalnie.pl//oferta/kingdom-hearts-melody-of-memory-switch-6x4?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
-    "city": "Sulęcinek"
+    "smartPost": true,
+    "city": "zamość"
   },
   {
     "id": "1ecb9c6b-4115-4e6b-8b2d-a7104924cb0b",
@@ -730,16 +730,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
-    "title": "Super Smash Bros Ultimate",
-    "price": "184",
-    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Legnica"
-  },
-  {
     "id": "c1c38990-9417-4bb2-921c-32d157ecda84",
     "title": "Dziedzictwo Hogwartu Nintendo Switch PL",
     "price": "155",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
+    "title": "Super Smash Bros Ultimate",
+    "price": "184",
+    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Legnica"
   },
   {
     "id": "a5ff33a4-470c-46dd-b37f-565b9cee0f31",
