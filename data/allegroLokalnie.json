@@ -1800,16 +1800,6 @@
     "city": "Gulczewo"
   },
   {
-    "id": "dc2353e7-809b-49fd-bcf0-aec766c1e397",
-    "title": "Zelda Skyward Sword Switch + Amiibo + DODATKI",
-    "price": "329",
-    "img": "https://a.allegroimg.com/s360x360/1e417c/d410e11b44dc867f61d03f1e9bc9",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-switch-dodatki?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Gulczewo"
-  },
-  {
     "id": "11a5dfad-0d38-4710-be5b-5a6195616e08",
     "title": "Gra na konsolę Nintendo Switch Splatoon 2",
     "price": "190",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraśnik"
+  },
+  {
+    "id": "48f46d27-2ca3-4682-b051-7e82b986d508",
+    "title": "Starlink battle for atlas prawie cała kolekcja switch, xbox one, ps4",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s360x360/1ee00d/f24651aa4ffa9bb10867ac46e7f0",
+    "url": "https://allegrolokalnie.pl//oferta/starlink-battle-for-atlas-prawie-cala-kolekcja-switch-xbox-one-ps4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   },
   {
     "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
@@ -5400,26 +5400,6 @@
     "city": "Strumień"
   },
   {
-    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
-    "title": "Nintendo Labo Variety Kit",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "b5b70d2b-ccc1-4c39-8bd2-48cae9ab9375",
-    "title": "Jumanji Dzikie Przygody gra Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e86e1/e62b8e2d42589bf6ebc00bfa97dc",
-    "url": "https://allegrolokalnie.pl//oferta/jumanji-dzikie-przygody-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Strumień"
-  },
-  {
     "id": "be7a3b76-c519-4344-955d-cb9e2a9a4773",
     "title": "Dragon quest xi echoes of an elusive age switch",
     "price": "200",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
+  },
+  {
+    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
+    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   }
 ]
