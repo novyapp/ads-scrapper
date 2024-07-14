@@ -1,5 +1,15 @@
 [
   {
+    "id": "7e8b4983-d059-469d-93dc-af8622d5bab5",
+    "title": "Super Mario Bros Wonder",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e75e4/8d13b9dd4bfa96ac2eac8977d1d1",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-237?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Mysłowice"
+  },
+  {
     "id": "14633764-e0b6-496f-b856-660c4084f8b1",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "121",
@@ -1800,16 +1810,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "31c6b2fe-4130-46d1-8618-09692f5738d1",
-    "title": "Dorfromantik Switch",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s360x360/1e8d5c/494aa6f947ea83f182e24df506fe",
-    "url": "https://allegrolokalnie.pl//oferta/dorfromantik-switch-ckq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "09cdd0f2-a81b-43a2-a732-b18fad9f3230",
     "title": "Blade Runner Switch",
     "price": "300",
@@ -2995,6 +2995,16 @@
     "price": "249",
     "img": "https://a.allegroimg.com/s360x360/1ec645/0c204b8d4684a82ada4778c73a9d",
     "url": "https://allegrolokalnie.pl//oferta/lamulana-12-hidden-treasures-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "warszawa"
+  },
+  {
+    "id": "4b0c4454-a330-427f-91b8-4cb00358b467",
+    "title": "Ori and the Blind Forest",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1edb47/377d484c4512a8f8a5d917a5c428",
+    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-blond-forest?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "warszawa"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
-  },
-  {
-    "id": "a21e52a3-6c03-4bab-9d3f-f3ea19772ba9",
-    "title": "Legend of Zelda: Breath of the Wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eed46/0c44626140caa847184b90e0d361",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-6rc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   }
 ]
