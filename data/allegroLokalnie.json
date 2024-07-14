@@ -252,7 +252,7 @@
   {
     "id": "afe7fb99-7ce4-49ab-8c74-da35fd6cd365",
     "title": "The Legend of Heroes: Trails of Cold Steel IV",
-    "price": "199",
+    "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1ec738/4f7cf7a14d5287db2e9dc18b7d06",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-heroes-trails-of-cold-steel-iv-4lh?navCategoryId=256922",
     "promoted": true,
@@ -1828,6 +1828,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "ea91757a-d4f3-4bbe-9363-43a8481e5551",
+    "title": "Super Mario Bros. Wonder (gra)",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ea133/e4ce2b1f4379a2f99720834cb66f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
   },
   {
     "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
@@ -4790,16 +4800,6 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "b9838d75-f4b1-4607-9968-55859c518d28",
-    "title": "Gra Nintendo Switch Sonic Frontiers",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e12c3/5cd1802e4bfb9fb82e540a0d2a00",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-sonic-frontiers?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Targówek"
-  },
-  {
     "id": "a0b1bb29-7dd9-47d5-99f0-cbd71bf0f626",
     "title": "Gra Nintendo Switch Shin Megami Tensei V",
     "price": "110",
@@ -5388,6 +5388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
+    "title": "Nintendo Labo Variety Kit",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jaworzno"
   },
   {
     "id": "b5b70d2b-ccc1-4c39-8bd2-48cae9ab9375",
