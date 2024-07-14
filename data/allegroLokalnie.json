@@ -730,16 +730,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
-    "title": "Hades Nintendo Switch EU nowa",
-    "price": "389",
-    "img": "https://a.allegroimg.com/s360x360/1e85c9/951acf3041f293fdf6ab0443a1e3",
-    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-eu-nowa-hjl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "199",
@@ -1200,6 +1190,16 @@
     "city": "Białystok"
   },
   {
+    "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
+    "title": "Hades Nintendo Switch EU nowa",
+    "price": "389",
+    "img": "https://a.allegroimg.com/s360x360/1e85c9/951acf3041f293fdf6ab0443a1e3",
+    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-eu-nowa-hjl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
     "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
     "title": "Fire Emblem: Engage",
     "price": "120",
@@ -1292,7 +1292,7 @@
   {
     "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "137",
+    "price": "136",
     "img": "https://a.allegroimg.com/s360x360/1e94f8/7304a5154d40a4808b88ab2c4f35",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-hox?navCategoryId=256922",
     "promoted": true,
