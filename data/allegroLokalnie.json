@@ -610,16 +610,6 @@
     "city": "Pruszcz Gdański"
   },
   {
-    "id": "bf3161c1-bc31-4d9e-ba84-a3c2a708fbc7",
-    "title": "Pokemon Let's Go Pikachu - Gra Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ea98e/1cfab3d44e17835291712aa0b285",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-gra-nintendo-switch-pbk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Pruszcz Gdański"
-  },
-  {
     "id": "6f2d516c-3764-4d05-9f16-15f1b209ca2a",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nowa",
     "price": "120",
@@ -760,6 +750,16 @@
     "city": "Rybnik, Śródmieście"
   },
   {
+    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
+    "title": "Super Smash Bros Ultimate",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Legnica"
+  },
+  {
     "id": "c1c38990-9417-4bb2-921c-32d157ecda84",
     "title": "Dziedzictwo Hogwartu Nintendo Switch PL",
     "price": "150",
@@ -778,6 +778,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "7964a56d-b2c1-415c-8cff-854fde827db0",
+    "title": "Super Mario Bros Wonder",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1ed786/ae6a83894a75be28ad3a3917a197",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-67o?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Twardogóra"
   },
   {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
@@ -2530,16 +2540,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
-    "title": "Super Smash Bros Ultimate",
-    "price": "184",
-    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Legnica"
-  },
-  {
     "id": "582410f8-4e21-4d91-8d91-eb63d4e4de98",
     "title": "xenoblade chronicles 3",
     "price": "119",
@@ -2558,16 +2558,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "7964a56d-b2c1-415c-8cff-854fde827db0",
-    "title": "Super Mario Bros Wonder",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1ed786/ae6a83894a75be28ad3a3917a197",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-67o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Twardogóra"
   },
   {
     "id": "3375a182-4422-4438-b9fb-3d9b1814c4e6",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieluń"
+  },
+  {
+    "id": "7c4600cd-8bb4-4eb2-9b89-d96728f31616",
+    "title": "NBA 2K21 Nintendo Switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1e6934/3ba155754556afb763bb85b5f4e2",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k21-nintendo-switch-bhx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
