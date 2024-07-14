@@ -590,14 +590,14 @@
     "city": "Dzierżoniów"
   },
   {
-    "id": "59491ec1-ce5e-434d-beac-6b5768cfa0f3",
-    "title": "Tony Hawk's Pro Skater 1+2 SWITCH",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e9cf4/d00a0c3c40e7b99db0614d0c464d",
-    "url": "https://allegrolokalnie.pl//oferta/tony-hawks-pro-skater-1-2-switch-ste?navCategoryId=256922",
+    "id": "75e777e3-695e-4d79-b3ee-03c424a8c11f",
+    "title": "Animal Crossing: New Horizons - Gra NINTENDO SWITCH",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ec968/41f2c8864997ae69c01917678691",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-m2u?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
-    "city": "Dzierżoniów"
+    "smartPost": false,
+    "city": "Pruszcz Gdański"
   },
   {
     "id": "75e777e3-695e-4d79-b3ee-03c424a8c11f",
@@ -1510,16 +1510,6 @@
     "city": "Żychlin"
   },
   {
-    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
-    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
-    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "efe43f15-99b1-4f3e-ab26-57c49b5160d1",
     "title": "Mutant wersja japońska Nintendo Switch",
     "price": "105",
@@ -1748,6 +1738,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
+    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
@@ -5400,16 +5400,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
-    "title": "Minecraft nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
     "title": "WARIO WARE GET IT TOGETHER NOWA FOLIA",
     "price": "180",
@@ -5995,6 +5985,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Śrem"
+  },
+  {
+    "id": "b3c73b0a-90df-4e08-b049-4492f255af12",
+    "title": "NINTENDO SWITCH HARRY POTTER COLLECTION",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1ee270/31c2f2944b4cb13e251bb7ab275a",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-harry-potter-collection-apg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
