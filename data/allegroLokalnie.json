@@ -2610,16 +2610,6 @@
     "city": "Jazgarzewszczyzna"
   },
   {
-    "id": "84dad3ad-cea3-40c6-ab68-6a633b5e459a",
-    "title": "WIEDŹMIN EDYCJA KOMPLETNA SWITCH PL DYSTRYBUCJA DODATKI UNIKAT",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e5999/5e26810d4713bc1abb9488cd91e4",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-switch-pl-dystrybucja-dodatki-unikat?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "3375a182-4422-4438-b9fb-3d9b1814c4e6",
     "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
     "price": "429",
@@ -4800,6 +4790,16 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "b9838d75-f4b1-4607-9968-55859c518d28",
+    "title": "Gra Nintendo Switch Sonic Frontiers",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e12c3/5cd1802e4bfb9fb82e540a0d2a00",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-sonic-frontiers?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
     "id": "a0b1bb29-7dd9-47d5-99f0-cbd71bf0f626",
     "title": "Gra Nintendo Switch Shin Megami Tensei V",
     "price": "110",
@@ -5390,26 +5390,6 @@
     "city": "Poznań"
   },
   {
-    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
-    "title": "Nintendo Labo Variety Kit",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
-    "title": "Nintendo Labo Variety Kit",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
     "id": "b5b70d2b-ccc1-4c39-8bd2-48cae9ab9375",
     "title": "Jumanji Dzikie Przygody gra Nintendo Switch",
     "price": "140",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
   }
 ]
