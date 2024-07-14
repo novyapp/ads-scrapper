@@ -660,16 +660,6 @@
     "city": "Reda"
   },
   {
-    "id": "1796b248-10f3-4d50-85e7-5014274c2519",
-    "title": "The Legend of Zelda: Skyward Sword HD",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e85bd/066bf16b4b36a07306dbb7f05ae8",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-fn2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mysłowice"
-  },
-  {
     "id": "72499922-9bd8-4b92-877a-24bcb231347b",
     "title": "Barbie DreamHouse Adventures Nintendo Switch",
     "price": "90",
@@ -1198,16 +1188,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
@@ -3000,14 +2980,14 @@
     "city": "Garwolin"
   },
   {
-    "id": "02700a86-732a-410a-bd80-a7083bd13810",
-    "title": "Gry nintendo switch",
-    "price": "999",
-    "img": "https://a.allegroimg.com/s360x360/1ece0a/bbab9639471c8f69bb8c55c093e6",
-    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-mnn?navCategoryId=256922",
+    "id": "210b2650-69a9-4f87-b141-c356bc35c8fb",
+    "title": "Paper Mario the Thousand Year Door",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1ee7f3/906128004d629512c04de463f414",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-wur?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Garwolin"
+    "smartPost": false,
+    "city": "Przemyśl"
   },
   {
     "id": "210b2650-69a9-4f87-b141-c356bc35c8fb",
@@ -4790,6 +4770,16 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "914eeaef-feb1-4037-85fe-1800ba38f053",
+    "title": "Cztery świetne gry RPG na Nintendo Switch!",
+    "price": "260",
+    "img": "https://a.allegroimg.com/s360x360/1edbef/5bdd36c9413f942813285233e197",
+    "url": "https://allegrolokalnie.pl//oferta/cztery-swietne-gry-rpg-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
     "id": "c0bdbff0-6c56-43e0-9340-865b3a9ac49c",
     "title": "Vampyr ---Switch ---",
     "price": "65",
@@ -5390,16 +5380,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
-    "title": "Minecraft nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "bbebb3ef-8c3c-40ca-8f99-9f4660031b80",
     "title": "Baldur’s Gate I & II Enhanced Edition",
     "price": "479",
@@ -5988,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
+  },
+  {
+    "id": "a21e52a3-6c03-4bab-9d3f-f3ea19772ba9",
+    "title": "Legend of Zelda: Breath of the Wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1eed46/0c44626140caa847184b90e0d361",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-6rc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "1d83a294-3e3a-4640-8d7a-929428a466ac",
+    "title": "LEGEND OF ZELDA BREATH OF THE WILD NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee0d4/83404863492eb5468ece9176b29f",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-hnp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Białołęka"
   }
 ]
