@@ -1190,16 +1190,6 @@
     "city": "Białystok"
   },
   {
-    "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
-    "title": "Lego Star Wars PL Switch",
-    "price": "101",
-    "img": "https://a.allegroimg.com/s360x360/1e1f95/0acbf1894a2cb06c6e125aea08d0",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-xve?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
     "title": "FIFA 22 I Switch I Po Polsku I Folia",
     "price": "199",
@@ -2400,6 +2390,16 @@
     "city": "Kraśnik"
   },
   {
+    "id": "ac237fc0-8e4a-462f-b4fe-ff5b37ab0333",
+    "title": "THE LEGEND OF ZELDA: Link's Awakening",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e1f31/63ed05534935af36ac223996b11b",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-cn6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
     "title": "Dreamcutter Switch tylko kartrydż z grą",
     "price": "99",
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pelplin"
-  },
-  {
-    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
-    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ee25d/8f3e191c4a54841858fa880c52ce",
-    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
   },
   {
     "id": "8befc788-a939-4056-82ab-453f163e6e4b",
@@ -4200,6 +4190,16 @@
     "city": "Młynice"
   },
   {
+    "id": "73af0311-fc3f-4430-bcee-c16b7e75bfc2",
+    "title": "Sayonara Wild hearts",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1ece8a/b018fe7742d98f238d9bb5d740ae",
+    "url": "https://allegrolokalnie.pl//oferta/sayonara-wild-hearts?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Młynice"
+  },
+  {
     "id": "e90610b3-4959-4ef0-8b84-7f727918d21c",
     "title": "Nintendo switch Hot wheels Unleashed 2",
     "price": "100",
@@ -4785,16 +4785,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e12c3/5cd1802e4bfb9fb82e540a0d2a00",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-sonic-frontiers?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Targówek"
-  },
-  {
-    "id": "a0b1bb29-7dd9-47d5-99f0-cbd71bf0f626",
-    "title": "Gra Nintendo Switch Shin Megami Tensei V",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1ec7ea/14e7c881449a8ff199a61cbe5cd2",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-shin-megami-tensei-v?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Targówek"
@@ -5985,6 +5975,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Śrem"
+  },
+  {
+    "id": "b3c73b0a-90df-4e08-b049-4492f255af12",
+    "title": "NINTENDO SWITCH HARRY POTTER COLLECTION",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1ee270/31c2f2944b4cb13e251bb7ab275a",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-harry-potter-collection-apg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
