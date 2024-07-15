@@ -1,5 +1,15 @@
 [
   {
+    "id": "fd0f08a0-59c3-486f-9faa-5488e8a5efdc",
+    "title": "Grand Theft Auto: The Trilogy - The Definitive Edition NS",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e5720/8b53056e4cac9891deacec1a10c3",
+    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-the-definitive-edition-ns?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pogorzela"
+  },
+  {
     "id": "066ce83a-c6ef-4e0f-abdf-46ba5b63104a",
     "title": "Gra Nintendo Switch - Octopath Traveler",
     "price": "179",
@@ -1185,16 +1195,6 @@
     "price": "73",
     "img": "https://a.allegroimg.com/s360x360/1ec0f0/be380b4e4cabb7c3b0f336c62b4b",
     "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
-    "title": "Lego Star Wars PL Switch",
-    "price": "101",
-    "img": "https://a.allegroimg.com/s360x360/1e1f95/0acbf1894a2cb06c6e125aea08d0",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-xve?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
@@ -3000,26 +3000,6 @@
     "city": "Złotoryja"
   },
   {
-    "id": "652baf60-8e64-431a-a239-0abce8d612a2",
-    "title": "Gra Nintendo Switch - Super Mario Maker 2",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e1d16/c8b199d2408bb4337769de9a1617",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-mario-maker-2-3zp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Złotoryja"
-  },
-  {
-    "id": "e08149a0-3f3b-4888-97aa-b714adce185f",
-    "title": "Gra Nintendo Switch - Super Smash Bros Ultimate",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e29ec/857c7a2b4cd486247ae128e501b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-smash-bros-ultimate-fjp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Złotoryja"
-  },
-  {
     "id": "46ca95b5-1035-429f-b6ce-c661fdedc977",
     "title": "Disney Classic Games Collection Nintendo Switch",
     "price": "225",
@@ -3598,6 +3578,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
+    "title": "Nowe Labo Robot Kit Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ea106/69bdf86c43e3afd2db5546fcebe8",
+    "url": "https://allegrolokalnie.pl//oferta/nowe-labo-robot-kit-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
+    "title": "Gra Nintendo Switch Lover Pretend",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "POZNAŃ, Stare Miasto"
+  },
+  {
+    "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
+    "title": "Nowe Labo Robot Kit Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ea106/69bdf86c43e3afd2db5546fcebe8",
+    "url": "https://allegrolokalnie.pl//oferta/nowe-labo-robot-kit-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
+    "title": "Gra Nintendo Switch Lover Pretend",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "POZNAŃ, Stare Miasto"
   },
   {
     "id": "ac5a3881-25c7-42c1-b136-cfc9375c8add",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
-  },
-  {
-    "id": "a21e52a3-6c03-4bab-9d3f-f3ea19772ba9",
-    "title": "Legend of Zelda: Breath of the Wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eed46/0c44626140caa847184b90e0d361",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-6rc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   }
 ]
