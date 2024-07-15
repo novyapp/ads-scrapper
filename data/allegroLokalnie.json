@@ -60,16 +60,6 @@
     "city": "Poznań"
   },
   {
-    "id": "4fe0c289-f800-4332-b9d5-f3634078a2e4",
-    "title": "Mario Wonder Box Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s360x360/1e85ff/f43471744951a87c8cc54a118d6f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-wonder-box-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Targówek"
-  },
-  {
     "id": "a4ccf339-c41e-4995-a659-30a15fe821bb",
     "title": "Xenoblade Chronicles 3 Nintendo Switch",
     "price": "155",
@@ -710,16 +700,6 @@
     "city": "Karczewice"
   },
   {
-    "id": "e176d8c6-9a9d-4c8f-b32a-e0ab34fe59b7",
-    "title": "NARCOS RISE OF THE CARTEL NINTENDO SWITCH",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s360x360/1e1d30/b8fb21c745f09ea5dfb52fbff3b9",
-    "url": "https://allegrolokalnie.pl//oferta/narcos-rise-of-the-cartel-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Radzyń Podlaski"
-  },
-  {
     "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
     "title": "Super Smash Bros Ultimate",
     "price": "179",
@@ -1188,6 +1168,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
+    "title": "Lego Star Wars PL Switch",
+    "price": "101",
+    "img": "https://a.allegroimg.com/s360x360/1e1f95/0acbf1894a2cb06c6e125aea08d0",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-xve?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "e176d8c6-9a9d-4c8f-b32a-e0ab34fe59b7",
+    "title": "NARCOS RISE OF THE CARTEL NINTENDO SWITCH",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s360x360/1e1d30/b8fb21c745f09ea5dfb52fbff3b9",
+    "url": "https://allegrolokalnie.pl//oferta/narcos-rise-of-the-cartel-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radzyń Podlaski"
   },
   {
     "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
@@ -1788,16 +1788,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Gulczewo"
-  },
-  {
-    "id": "11a5dfad-0d38-4710-be5b-5a6195616e08",
-    "title": "Gra na konsolę Nintendo Switch Splatoon 2",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1eab79/b586ca154fff82ad2b5cc3f5af80",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-konsole-nintendo-switch-splatoon-2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Brwinów"
   },
   {
     "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
@@ -4200,6 +4190,16 @@
     "city": "Jarosław"
   },
   {
+    "id": "0775202d-eb61-4569-8641-f9fd5e276dbe",
+    "title": "GOTHIC classic nintendo",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1ee73b/b181bae04db4bff0894d6cb66b11",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-nintendo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
+  },
+  {
     "id": "98a4b939-6825-4598-ab81-c1454d8f51b7",
     "title": "ARMS nintendo switch",
     "price": "149",
@@ -5985,16 +5985,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Śrem"
-  },
-  {
-    "id": "b3c73b0a-90df-4e08-b049-4492f255af12",
-    "title": "NINTENDO SWITCH HARRY POTTER COLLECTION",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1ee270/31c2f2944b4cb13e251bb7ab275a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-harry-potter-collection-apg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
