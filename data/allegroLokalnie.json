@@ -1,5 +1,15 @@
 [
   {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
     "id": "2c4ff44b-4546-4054-bf8b-119b9a260cef",
     "title": "Fire Emblem Warriors Three Hopes Limited Edition",
     "price": "250",
@@ -190,16 +200,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "7e8b4983-d059-469d-93dc-af8622d5bab5",
-    "title": "Super Mario Bros Wonder",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e75e4/8d13b9dd4bfa96ac2eac8977d1d1",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-237?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mysłowice"
-  },
-  {
     "id": "14633764-e0b6-496f-b856-660c4084f8b1",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "121",
@@ -362,7 +362,7 @@
   {
     "id": "afe7fb99-7ce4-49ab-8c74-da35fd6cd365",
     "title": "The Legend of Heroes: Trails of Cold Steel IV",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1ec738/4f7cf7a14d5287db2e9dc18b7d06",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-heroes-trails-of-cold-steel-iv-4lh?navCategoryId=256922",
     "promoted": true,
@@ -575,16 +575,6 @@
     "price": "95",
     "img": "https://a.allegroimg.com/s360x360/1e33f5/8a050ad84cbea4a67dbdae1f874a",
     "url": "https://allegrolokalnie.pl//oferta/expeditions-a-mudrunner-game-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "488f3578-995a-4988-988c-0a6ce40cf47c",
-    "title": "Sniper Elite III: Ultimate Edition Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e048e/7ff173594db9b39d7dcd21123edc",
-    "url": "https://allegrolokalnie.pl//oferta/sniper-elite-iii-ultimate-edition-nintendo-switch-u67?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
@@ -2990,6 +2980,16 @@
     "city": "Pelplin"
   },
   {
+    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
+    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee25d/8f3e191c4a54841858fa880c52ce",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "8befc788-a939-4056-82ab-453f163e6e4b",
     "title": "Blasphemous Nintendo switch",
     "price": "199",
@@ -3578,16 +3578,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wejherowo"
-  },
-  {
-    "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
-    "title": "Switch Splatoon 2 .. nowy folia",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e8265/41edfdf24510b80be652d3537420",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-nowy-folia-exy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   },
   {
     "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
@@ -4790,6 +4780,16 @@
     "city": "Białystok"
   },
   {
+    "id": "9a4064c2-3c17-475b-b426-bd9eb415f852",
+    "title": "Asterix & Obelix XXXL: The Ram From Hibernia",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1ed704/2f258a74430bafdd2df52b2f4c1e",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-obelix-xxxl-the-ram-from-hibernia-hkl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
     "id": "ad237c7a-53eb-439f-b4ea-1fc8b6366ba6",
     "title": "Gra Rabbids Party of Legends na Switch",
     "price": "90",
@@ -5975,16 +5975,6 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1ef00c/a676d2be4c029b959c9ffb33c025",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gqu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "1256ae0f-a074-4d8b-b83b-23e0e69f1e51",
-    "title": "Pokemon Schild Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1ed06c/2db4d2b44132868fc31d6414ee4e",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-schild-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
