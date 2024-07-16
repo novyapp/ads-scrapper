@@ -1290,6 +1290,26 @@
     "city": "Białystok"
   },
   {
+    "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
+    "title": "Crash Bandicoot 4 - Its about time Switch PL",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e94f8/7304a5154d40a4808b88ab2c4f35",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-hox?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "b367f8eb-9894-4367-899a-a57ddb89ba22",
+    "title": "Mario + Rabbids: Kingdom Battle Switch",
+    "price": "114",
+    "img": "https://a.allegroimg.com/s360x360/1ef82f/a56bf3754f35bdc5d64b248e1ee5",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-nqv?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "421dd695-8035-4df9-80d1-58c008c579cc",
     "title": "Vengeful Guardian Moonrider Switch NOWY",
     "price": "115",
@@ -1378,6 +1398,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "d2fc5e48-263f-41f7-8a90-855bf3005ea3",
+    "title": "Star Wars The Skywalker Saga Switch PL",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e8d11/edba9f55412b8a2f8919df8ebe24",
+    "url": "https://allegrolokalnie.pl//oferta/star-wars-the-skywalker-saga-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "67e02bcd-3feb-4b88-a182-25d3a83a834b",
@@ -1768,36 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "0e39ce71-4711-47d3-b568-148dd9f55886",
-    "title": "Luigi Mansion 3 Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e5465/4055a7a54c9fa474432be54c2716",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-switch-t4i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "21923715-0584-4766-bcdb-a0f89b678f05",
-    "title": "Maneater Switch",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1e7cf9/d4a5ee7843c9956efcca8b8a48da",
-    "url": "https://allegrolokalnie.pl//oferta/maneater-switch-xiv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "46977eaa-d9e4-4335-a7b2-91082e0436c6",
-    "title": "Need for Speed Hot Pursuit Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e641d/ef479fe94fcdb1bc5d4d492f9af7",
-    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-switch-ilp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "0e39ce71-4711-47d3-b568-148dd9f55886",
@@ -3600,6 +3600,46 @@
     "city": "Wrocław"
   },
   {
+    "id": "fa3ed1d1-2a72-469d-bca7-c4eeae976b00",
+    "title": "Ring Fit Adventure na Nintendo Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1efa58/009187af43caa855e764905e491c",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-jtp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
+    "title": "Nowe Labo Robot Kit Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ea106/69bdf86c43e3afd2db5546fcebe8",
+    "url": "https://allegrolokalnie.pl//oferta/nowe-labo-robot-kit-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
+    "title": "Gra Nintendo Switch Lover Pretend",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "POZNAŃ, Stare Miasto"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
+  },
+  {
     "id": "2cdaf615-7123-4266-859f-ec26520c28a1",
     "title": "Gra Switch Splatoon 2 Cartridge",
     "price": "180",
@@ -4200,36 +4240,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
-    "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e94f8/7304a5154d40a4808b88ab2c4f35",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-hox?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "b367f8eb-9894-4367-899a-a57ddb89ba22",
-    "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "114",
-    "img": "https://a.allegroimg.com/s360x360/1ef82f/a56bf3754f35bdc5d64b248e1ee5",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-nqv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "e0586f2b-2f92-4e54-8364-55e0579004b6",
     "title": "Fire Emblem Engage",
     "price": "130",
@@ -4798,16 +4808,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sucha"
-  },
-  {
-    "id": "d2fc5e48-263f-41f7-8a90-855bf3005ea3",
-    "title": "Star Wars The Skywalker Saga Switch PL",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e8d11/edba9f55412b8a2f8919df8ebe24",
-    "url": "https://allegrolokalnie.pl//oferta/star-wars-the-skywalker-saga-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "9a4064c2-3c17-475b-b426-bd9eb415f852",
