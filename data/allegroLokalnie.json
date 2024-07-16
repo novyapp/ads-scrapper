@@ -590,16 +590,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
-    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
     "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
     "price": "99",
@@ -802,7 +792,7 @@
   {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
-    "price": "199",
+    "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
     "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
     "promoted": true,
@@ -1738,16 +1728,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "cb57188e-02ff-4e59-9e83-ed575db5c9a4",
-    "title": "Harvest Moon: One World Nintendo Switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s360x360/1eb96f/0b2f455b4d3589621ec7ce894add",
-    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-one-world-nintendo-switch-4ir?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Strzelin"
   },
   {
     "id": "65a26b9f-0f9e-4f1c-a4f5-321427bc0713",
@@ -4190,6 +4170,26 @@
     "city": "Młynice"
   },
   {
+    "id": "0775202d-eb61-4569-8641-f9fd5e276dbe",
+    "title": "GOTHIC classic nintendo",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1ee73b/b181bae04db4bff0894d6cb66b11",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-nintendo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
+  },
+  {
+    "id": "98a4b939-6825-4598-ab81-c1454d8f51b7",
+    "title": "ARMS nintendo switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e59df/f6ab7354403abd3679e086ed73df",
+    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-3nb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
+  },
+  {
     "id": "98a4b939-6825-4598-ab81-c1454d8f51b7",
     "title": "ARMS nintendo switch",
     "price": "149",
@@ -5390,16 +5390,6 @@
     "city": "Nowogrodziec"
   },
   {
-    "id": "b840d8f3-afa9-4c26-bf4b-f00f0ec9d96c",
-    "title": "let's get fit nintendo switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1e1279/20a2517b4d73960f8dde0acc0d65",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-vsa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
     "title": "Wonder boy nintendo switch",
     "price": "99",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "2052cc1e-dd52-4d2f-ae42-0170a2d3329f",
+    "title": "F.I.S.T Forged in Shadow Torch limited ed - nowa",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e8021/2a156c334c4894d1b804455f4d36",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-limited-ed-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
