@@ -1790,26 +1790,6 @@
     "city": "Łódź, Widzew"
   },
   {
-    "id": "bf6cc554-0d75-4e73-b3f3-6a220505523b",
-    "title": "Final Fantasy X X-2",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ef4c6/47b19d7c4e1e8eac92bce49f8f79",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-x2-f65?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "bf6cc554-0d75-4e73-b3f3-6a220505523b",
-    "title": "Final Fantasy X X-2",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ef4c6/47b19d7c4e1e8eac92bce49f8f79",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-x2-f65?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
     "id": "d29aad1a-4a86-48ad-9ccf-0b2711a41abf",
     "title": "Final Fantasy pixel edition",
     "price": "399",
@@ -2400,6 +2380,16 @@
     "city": "Przemyśl"
   },
   {
+    "id": "f0a2b8af-f32a-4a08-bbff-82594582b34a",
+    "title": "Octopath Traveller 2 Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ef833/1fb9f3ed46c79adc1923643a007c",
+    "url": "https://allegrolokalnie.pl//oferta/octopath-traveller-2-nintendo-switch-ko4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rybnik"
+  },
+  {
     "id": "63ada307-b558-41bf-a3b6-21fa6c70b417",
     "title": "Wiedźmin 3 dziki gon po polsku Nintendo Switch",
     "price": "222",
@@ -2988,16 +2978,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Olkusz"
-  },
-  {
-    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
-    "title": "MINECRAFT - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilkszyn"
   },
   {
     "id": "4e182bbe-382a-492e-849e-072d18e162b8",
@@ -4200,6 +4180,16 @@
     "city": "Olkusz"
   },
   {
+    "id": "cb234219-b8f7-4d9d-a0a4-58e51d20542a",
+    "title": "Rabbids Party of Legends",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1efb5a/4bda45634577b1a7a9d5cc9892d1",
+    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-zff?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "a8c0e015-6202-49cb-a23f-6fdfebf5de46",
     "title": "Monopoly Madness Nintendo Switch",
     "price": "35",
@@ -4788,16 +4778,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "KACZORY"
-  },
-  {
-    "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
-    "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e3b32/cbfab8474d03a598ea3ef298292b",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-mno?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Osielsko"
   },
   {
     "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
   }
 ]
