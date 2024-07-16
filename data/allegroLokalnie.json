@@ -590,16 +590,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "b4082cb4-500a-491b-80d4-8c464e13b37a",
-    "title": "BALDUR'S GATE - ENHANCED EDITION I & II Nintendo Switch",
-    "price": "389",
-    "img": "https://a.allegroimg.com/s360x360/1e2708/066f575f48d7913adad38f22b46b",
-    "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-enhanced-edition-i-ii-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "5623ae28-4e40-4517-bc25-e4a46931e362",
     "title": "Snowrunner Nintendo Switch PL",
     "price": "85",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "2f578ea4-fee1-42a8-a571-9924a1b0687e",
+    "title": "Gra na Nintendo Switch Princess Peach; Showtime!",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e69c9/2c5787644a0ab1c335bd3d858895",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-princess-peach-showtime?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Straszyn"
   },
   {
     "id": "2f578ea4-fee1-42a8-a571-9924a1b0687e",
@@ -1790,16 +1790,6 @@
     "city": "Ślesin"
   },
   {
-    "id": "5b46bc2a-6bdb-4b37-97c6-1c85a7d0634a",
-    "title": "Mario Strikers: Battle League Football",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1eac33/0f837e194b88832870f59ec67550",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-ibk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Bałuty"
-  },
-  {
     "id": "ec73ab8b-09d8-47ec-99f5-4a7e0d77f169",
     "title": "Super Mario Odyssey",
     "price": "170",
@@ -2385,6 +2375,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eb394/18c354254e8e8521965fc745798d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
+    "title": "Pokemon Sword Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6668/415244aa4f8596585309602a043c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
@@ -5390,16 +5390,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
-    "title": "Let's get fit nintendo switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "4a09b12b-d0f2-4955-b355-bf9d6d05461a",
     "title": "NINTENDO Hogwarts Legacy",
     "price": "170",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Włochy"
+  },
+  {
+    "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
+    "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
+    "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
