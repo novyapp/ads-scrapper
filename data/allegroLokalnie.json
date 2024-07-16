@@ -1,15 +1,5 @@
 [
   {
-    "id": "78872799-050f-4bf2-b8e9-cada1a69bdc6",
-    "title": "Luigi mansion 2 hd",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e5279/087151d7448ca1ead37671139072",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-2-hd-f3f?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Zawada"
-  },
-  {
     "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
     "title": "METROID PRIME REMASTERED 3xA",
     "price": "149",
@@ -3000,6 +2990,16 @@
     "city": "Sosnowiec"
   },
   {
+    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
+    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ee25d/8f3e191c4a54841858fa880c52ce",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "8befc788-a939-4056-82ab-453f163e6e4b",
     "title": "Blasphemous Nintendo switch",
     "price": "199",
@@ -3588,26 +3588,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wejherowo"
-  },
-  {
-    "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
-    "title": "Switch Splatoon 2 .. nowy folia",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e8265/41edfdf24510b80be652d3537420",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-nowy-folia-exy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
-    "title": "Switch Splatoon 2 .. nowy folia",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e8265/41edfdf24510b80be652d3537420",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-nowy-folia-exy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   },
   {
     "id": "ba731a97-9d79-4bb5-8d9f-d6cb612a0178",
@@ -5995,6 +5975,16 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1ef00c/a676d2be4c029b959c9ffb33c025",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gqu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "1256ae0f-a074-4d8b-b83b-23e0e69f1e51",
+    "title": "Pokemon Schild Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ed06c/2db4d2b44132868fc31d6414ee4e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-schild-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
