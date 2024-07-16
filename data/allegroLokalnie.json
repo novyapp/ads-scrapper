@@ -1780,6 +1780,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
+    "title": "Bayonetta Cereza",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e85e1/3d8826c44c969d6088e4e119364e",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-cereza-fft?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
     "id": "5e8f05f3-b229-4819-8402-8ef088c952d2",
     "title": "Bayonetta 2 nowa",
     "price": "200",
@@ -1788,16 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Widzew"
-  },
-  {
-    "id": "bf6cc554-0d75-4e73-b3f3-6a220505523b",
-    "title": "Final Fantasy X X-2",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ef4c6/47b19d7c4e1e8eac92bce49f8f79",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-x2-f65?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
   },
   {
     "id": "bf6cc554-0d75-4e73-b3f3-6a220505523b",
@@ -4790,6 +4790,26 @@
     "city": "Reda"
   },
   {
+    "id": "950cf0e6-d4cc-42ae-b3bf-73253be4ef33",
+    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM",
+    "price": "240",
+    "img": "https://a.allegroimg.com/s360x360/1e1f1e/0f3ea5d84a46ac545df85eb32b9b",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wmm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "KACZORY"
+  },
+  {
+    "id": "950cf0e6-d4cc-42ae-b3bf-73253be4ef33",
+    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM",
+    "price": "240",
+    "img": "https://a.allegroimg.com/s360x360/1e1f1e/0f3ea5d84a46ac545df85eb32b9b",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wmm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "KACZORY"
+  },
+  {
     "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
     "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
     "price": "119",
@@ -5375,26 +5395,6 @@
     "price": "149",
     "img": "https://a.allegroimg.com/s360x360/1e3154/e00dd75e4f73a03f0b14513dba0a",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-nowa-folia-4jn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "b4d96202-4db5-478b-8857-041c509b4cb9",
-    "title": "TRIANGLE STRATEGY , NINTENDO SWITCH , NOWA / FOLIA",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1efbb9/533fa600492f97dff49aadbeb87d",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-nowa-folia-g3a?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "b4d96202-4db5-478b-8857-041c509b4cb9",
-    "title": "TRIANGLE STRATEGY , NINTENDO SWITCH , NOWA / FOLIA",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1efbb9/533fa600492f97dff49aadbeb87d",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-nowa-folia-g3a?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieluń"
+  },
+  {
+    "id": "7c4600cd-8bb4-4eb2-9b89-d96728f31616",
+    "title": "NBA 2K21 Nintendo Switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1e6934/3ba155754556afb763bb85b5f4e2",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k21-nintendo-switch-bhx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
