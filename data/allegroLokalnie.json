@@ -770,16 +770,6 @@
     "city": "Reda"
   },
   {
-    "id": "72499922-9bd8-4b92-877a-24bcb231347b",
-    "title": "Barbie DreamHouse Adventures Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1efce4/8ac55307440fad29c084ca14f89e",
-    "url": "https://allegrolokalnie.pl//oferta/barbie-dreamhouse-adventures-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "120",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Rudnik nad Sanem"
+  },
+  {
+    "id": "72499922-9bd8-4b92-877a-24bcb231347b",
+    "title": "Barbie DreamHouse Adventures Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1efce4/8ac55307440fad29c084ca14f89e",
+    "url": "https://allegrolokalnie.pl//oferta/barbie-dreamhouse-adventures-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
