@@ -1800,16 +1800,6 @@
     "city": "Łódź, Bałuty"
   },
   {
-    "id": "1af690d4-e70c-4f39-9129-15b5f29899d2",
-    "title": "Legend of Zelda: Breath of the Wild",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e8788/e08d0db341448ab6724b5a81ef25",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-mli?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Bałuty"
-  },
-  {
     "id": "3be1386a-9082-4d27-ba7c-315d4b8f8337",
     "title": "Mario & Sonic At The Olympic Games Tokyo 2020",
     "price": "170",
@@ -3530,6 +3520,16 @@
     "city": "Sławno"
   },
   {
+    "id": "2d7da1b0-e94c-4ee3-a507-2375f050303e",
+    "title": "Darkest Dungeon kolekcjonerska edycja signature edition - unikat !",
+    "price": "999",
+    "img": "https://a.allegroimg.com/s360x360/1e2584/4453481c42b1b5baff314335bba9",
+    "url": "https://allegrolokalnie.pl//oferta/darkest-dungeon-kolekcjonerska-edycja-signature-edition-unikat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rudnik nad Sanem"
+  },
+  {
     "id": "7d3a96df-7d58-402f-9d1b-8cffd5cd65ca",
     "title": "Pokemon Let’s Go Pikachu + Poke Ball Plus Nintendo Switch limited",
     "price": "510",
@@ -4780,6 +4780,26 @@
     "city": "Wroclaw"
   },
   {
+    "id": "8ac90abd-4bac-4bed-b9fa-6924c4025a7b",
+    "title": "Mario Wonder - GADŻETY - SWITCH",
+    "price": "14",
+    "img": "https://a.allegroimg.com/s360x360/1e99a1/29b7dc93487cac7fb92c72628766",
+    "url": "https://allegrolokalnie.pl//oferta/mario-wonder-gadzety-switch-672?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "1c6b33c9-fe54-4f2f-b70b-f5486b4e08b2",
+    "title": "Gra Super Mario Bros u deluxe nintendo switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e818b/c3b3de5f47c0b33e095a73aaf3c0",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-bros-u-deluxe-nintendo-switch-gp2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
+  },
+  {
     "id": "91ad0c83-a69a-4259-b72c-62b33fd529a6",
     "title": "Gra NBA 2k22 nintendo switch",
     "price": "50",
@@ -5380,26 +5400,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "4a09b12b-d0f2-4955-b355-bf9d6d05461a",
-    "title": "NINTENDO Hogwarts Legacy",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e423d/802dadbc4cbcbd70f88e9d7477c2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-hogwarts-legacy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "5a36e5b1-bcf7-4530-adad-b72cdffc749c",
-    "title": "Distraint Collection - Switch (Nowa)",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1eb96d/59eb96c54097ad8557d5a8bc72db",
-    "url": "https://allegrolokalnie.pl//oferta/distraint-collection?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "4f512ebf-5b42-471f-b9ea-6e1f46d91974",
     "title": "Shin Megami Tensei V - Switch",
     "price": "115",
@@ -5975,6 +5975,26 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
     "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "bb1e690a-bf21-42c4-89cd-b1fb8f7b7078",
+    "title": "THE LEGO MOVIE 2 VIDEOGAME Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e2ec2/b64fc4d7414ca84e0995176dc3f5",
+    "url": "https://allegrolokalnie.pl//oferta/the-lego-movie-2-videogame-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "d4d48faa-3ea1-435a-8d6d-e72bf585b646",
+    "title": "GAME BUILDER GARAGE Nintendo SWITCH NOWA",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1ee691/0b57d94547998073ad98a5f5112f",
+    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
