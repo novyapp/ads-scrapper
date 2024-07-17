@@ -4200,6 +4200,16 @@
     "city": "Groblice"
   },
   {
+    "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
+    "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
     "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
     "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
     "price": "219",
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "255a7c0c-a050-4cd2-a884-0541d97da575",
-    "title": "Gra Bayonetta 2 na Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e1965/a48c45e74a0c89feb668b24e90a6",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-dx2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
   },
   {
     "id": "37ce04b2-4f3a-402c-afbc-ea040bbc7687",
@@ -5400,6 +5400,16 @@
     "city": "Warszawa, Żoliborz"
   },
   {
+    "id": "935baf5d-0498-4610-9762-114ae00f4bce",
+    "title": "Mario Odyssey na Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e4ebf/5f8e61a643fbafd2b0ad9e2d2efd",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-na-nintendo-switch-jqi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Żoliborz"
+  },
+  {
     "id": "c45e92c8-4ffe-4974-9741-25206c00f7cb",
     "title": "Dragon Quest Builders 2 - Nintendo Switch - Ang",
     "price": "120",
@@ -5968,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "e100f998-a825-4158-a335-86371fc52de4",
+    "title": "Eastward Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ec9c1/7490c22b4ae0afec9045a430dae7",
+    "url": "https://allegrolokalnie.pl//oferta/eastward-nintendo-switch-yyg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
+    "id": "e0827944-9776-44dd-afc4-c993b1459ccb",
+    "title": "Zestaw Ring Fit Adventure dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e5af9/61454f30411eb36d9ff041e88aea",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-ring-fit-adventure-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bieńczyce"
   }
 ]
