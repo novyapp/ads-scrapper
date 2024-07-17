@@ -830,16 +830,6 @@
     "city": "Pleszew"
   },
   {
-    "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
-    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
-    "price": "24",
-    "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1197,6 +1187,16 @@
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
+    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
+    "price": "24",
+    "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
     "city": "Bydgoszcz"
   },
   {
@@ -1952,7 +1952,7 @@
   {
     "id": "4d4d7de1-4f8e-4b32-8912-bd7283f67307",
     "title": "Gra nintendo switch the legend of zelda teras of kingdoms",
-    "price": "150",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1ed8b5/7cdd668c47b493021f2ca7878c64",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-the-legend-of-zelda-teras-of-kingdoms?navCategoryId=256922",
     "promoted": false,
