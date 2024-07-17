@@ -800,16 +800,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
-    "title": "Everybody 1-2-Switch!",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e74c5/2a327be943a0838238971b138c90",
-    "url": "https://allegrolokalnie.pl//oferta/everybody-12switch-77p?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1197,6 +1187,16 @@
     "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-origins-cereza-and-the-lost-demon-nintendo-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
+    "title": "Everybody 1-2-Switch!",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e74c5/2a327be943a0838238971b138c90",
+    "url": "https://allegrolokalnie.pl//oferta/everybody-12switch-77p?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
     "city": "Bydgoszcz"
   },
   {
@@ -1800,6 +1800,26 @@
     "city": "Gdańsk"
   },
   {
+    "id": "0a448a06-d509-4ec7-96bc-4696776b9d8f",
+    "title": "Gra do NINTENDO SWITCH SPORT GAMES 30 in 1",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e3a85/636db68d4a168b531f1f0a1c9dfb",
+    "url": "https://allegrolokalnie.pl//oferta/gra-do-nintendo-switch-sport-games-30-in-1?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rokow"
+  },
+  {
+    "id": "74b35b71-1e07-4e04-9a2a-da175908e872",
+    "title": "Gra MINECRAFT do NINTENDO SWITCH",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1e2a29/d39b18414730b8544c84a0e86fb1",
+    "url": "https://allegrolokalnie.pl//oferta/gra-minecraft-do-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rokow"
+  },
+  {
     "id": "06a7b78b-0cd3-4d2c-9548-7be890588d82",
     "title": "Dark Souls Remastered Switch",
     "price": "100",
@@ -1832,7 +1852,7 @@
   {
     "id": "a603384f-cecd-4044-8142-2e5b9aec284e",
     "title": "Pokemon lets go pikachu gra nintendo switch",
-    "price": "100",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1eee51/734c50ba4e47ac01575c3fb8ba09",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-gra-nintendo-switch-mql?navCategoryId=256922",
     "promoted": false,
@@ -2378,26 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Biała Podlaska"
-  },
-  {
-    "id": "8399d8e6-c878-4635-a4b0-99d905a7b2b1",
-    "title": "Gra Ring Fit Adventure +Ring Fit + Opaska na nogę (CAŁY ZESTAW)",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e9d66/69c3150a4fe69083823333c8be22",
-    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
-    "title": "Let's Get Fit + Opaski",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2127/0e8fe1c34ac6a5626cc961570236",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-opaski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
   },
   {
     "id": "8399d8e6-c878-4635-a4b0-99d905a7b2b1",
@@ -4788,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "255a7c0c-a050-4cd2-a884-0541d97da575",
+    "title": "Gra Bayonetta 2 na Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e1965/a48c45e74a0c89feb668b24e90a6",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-dx2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   },
   {
     "id": "37ce04b2-4f3a-402c-afbc-ea040bbc7687",
