@@ -2400,6 +2400,26 @@
     "city": "Radom, Michałów"
   },
   {
+    "id": "09cdd0f2-a81b-43a2-a732-b18fad9f3230",
+    "title": "Blade Runner Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1e6fee/c8c791664569b127a3b5b5ad632d",
+    "url": "https://allegrolokalnie.pl//oferta/blade-runner-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "182f47c6-dc34-4576-9582-162e2ad0b512",
+    "title": "Lego 2k Drive Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e8eda/a263a232437bb1c384d14e5c8270",
+    "url": "https://allegrolokalnie.pl//oferta/lego-2k-drive-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
     "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
     "title": "Super Mario 3d World Switch Steelbook",
     "price": "100",
@@ -3578,26 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ostrołęka"
-  },
-  {
-    "id": "0569e316-fdef-493f-a84c-2c42e2f68234",
-    "title": "Super Monkey Ball Banana Mania Switch",
-    "price": "82",
-    "img": "https://a.allegroimg.com/s360x360/1ecefe/d8e5e8264571b101c86565eba12b",
-    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-mania-switch-dfe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "dd0f135e-89ba-48b3-ac9d-a9d52b695da4",
-    "title": "Gra Nintendo Switch Ring Fit Adventure - NOWA",
-    "price": "289",
-    "img": "https://a.allegroimg.com/s360x360/1efc3f/41d45ec143c596e1ebb45b7c1c3a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-ring-fit-adventure-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "86006d65-51ab-4a72-a5c5-3d614bb03f1f",
@@ -4790,6 +4790,16 @@
     "city": "Olsztyn"
   },
   {
+    "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
+    "title": "Bayonetta 3    switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed925/e2e094044761be589dd738e71a64",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wroclaw"
+  },
+  {
     "id": "8ac90abd-4bac-4bed-b9fa-6924c4025a7b",
     "title": "Mario Wonder - GADŻETY - SWITCH",
     "price": "14",
@@ -5390,16 +5400,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
-    "title": "Let's get fit nintendo switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "4a09b12b-d0f2-4955-b355-bf9d6d05461a",
     "title": "NINTENDO Hogwarts Legacy",
     "price": "170",
@@ -5690,16 +5690,6 @@
     "city": "Sieradz"
   },
   {
-    "id": "938e48f5-8a15-4d66-8197-72f6a09b3fb8",
-    "title": "SUPER SMASH BROS Ultimate",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e41fa/9111a4f642479fe2123cd176f36a",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-qmu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn, Olsztyn"
-  },
-  {
     "id": "07b997dd-8130-4867-b281-f80d290b8816",
     "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
     "price": "129",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Włochy"
+  },
+  {
+    "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
+    "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
+    "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
