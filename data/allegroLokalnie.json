@@ -1190,6 +1190,26 @@
     "city": "Straszyn"
   },
   {
+    "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "74",
+    "img": "https://a.allegroimg.com/s360x360/1ec0f0/be380b4e4cabb7c3b0f336c62b4b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "74",
+    "img": "https://a.allegroimg.com/s360x360/1ec0f0/be380b4e4cabb7c3b0f336c62b4b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
     "title": "Mario + Rabbids Sparks of Hope Switch",
     "price": "101",
@@ -1780,26 +1800,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
-    "title": "Crysis Remastered Steebook Limited Run (Switch)",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ea1da/77f6da24478b8275ceffcc3a655d",
-    "url": "https://allegrolokalnie.pl//oferta/crysis-remastered-steebook-limited-run-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
-    "title": "Crysis Remastered Steebook Limited Run (Switch)",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ea1da/77f6da24478b8275ceffcc3a655d",
-    "url": "https://allegrolokalnie.pl//oferta/crysis-remastered-steebook-limited-run-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "0511ca72-0eda-4241-be41-5d20ed88e59b",
     "title": "STAR OCEAN THE SECOND STORY R  (SWITCH) + SOUNDTRACK",
     "price": "477",
@@ -2385,6 +2385,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e37bd/dda6d3c24bb7ac71a62f0add816a",
     "url": "https://allegrolokalnie.pl//oferta/avatar-the-last-airbender-quest-for-balance?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "965d93d5-35eb-43be-a30d-a282396932da",
+    "title": "The Legend Of Zelda Link's Awakening",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e0fcc/09e58e734268be029bf3eaf78178",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-4jy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -2978,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radzyń Podlaski"
-  },
-  {
-    "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
-    "title": "Family Trainer - gra Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eca3e/798f6908489880bc298c97991bde",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-gra-nintendo-switch-ooy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ochota"
   },
   {
     "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "d21ad935-a9b5-47e4-858b-d21ec2a0e344",
+    "title": "Shin Megami Tensei V Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1eef8f/9541cf5b4b80b65806568c7900da",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-hn2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jabłonka, Stare Miasto"
   }
 ]
