@@ -780,16 +780,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
-    "title": "Monster Hunter Rise + Steelbook",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Czarnów"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
+    "title": "Monster Hunter Rise + Steelbook",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Czarnów"
   },
   {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
@@ -1798,16 +1798,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "19dd842a-2ef1-4377-ae73-0b5dcddf93f9",
-    "title": "SNUFKIN: MELODY OF MOOMINVALLEY (SWITCH) EGZ NOWY",
-    "price": "239",
-    "img": "https://a.allegroimg.com/s360x360/1eb1fe/0949622b42ab9cc544145d67e36d",
-    "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-switch-egz-nowy-ynf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
   },
   {
     "id": "0511ca72-0eda-4241-be41-5d20ed88e59b",
@@ -2848,16 +2838,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
-  },
-  {
-    "id": "5b39e934-3e05-4722-8a0d-cfba0e390d2c",
-    "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
-    "price": "259",
-    "img": "https://a.allegroimg.com/s360x360/1e860a/26a6d83d4862866801c3f0a04695",
-    "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-remaster?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
   },
   {
     "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
@@ -5390,6 +5370,26 @@
     "city": "Warszawa"
   },
   {
+    "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
+    "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e455c/8809682847a7927e4130e6fdc607",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-nzd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kownaciska"
+  },
+  {
+    "id": "2f546471-bb55-4e93-8ea0-9747f48d643e",
+    "title": "Super Mario Wonders",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e34eb/ac079d6d444b89a480f2832bbb05",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonders-anu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "a6025714-5e5e-478f-881a-bb4e2b70a3fe",
     "title": "Dark Souls Remastered Nintendo",
     "price": "139",
@@ -5968,25 +5968,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Szubin"
-  },
-  {
-    "id": "919d5e4a-f9b8-4697-b5ce-ce902ffb4be4",
-    "title": "Bayonnetta 3  na Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1ed1d7/d127835b4226b601913aba2e41b2",
-    "url": "https://allegrolokalnie.pl//oferta/bayonnetta-3-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "d21ad935-a9b5-47e4-858b-d21ec2a0e344",
-    "title": "Shin Megami Tensei V Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1eef8f/9541cf5b4b80b65806568c7900da",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-hn2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jabłonka, Stare Miasto"
   }
 ]
