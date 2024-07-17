@@ -1,5 +1,15 @@
 [
   {
+    "id": "6661c1df-156c-410b-a912-47473a88c0ea",
+    "title": "Mario Party SuperStars Nintendo Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1ed7e3/d698ba4b4effaa99382a7dc661fa",
+    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-nintendo-switch-tcl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Lublin"
+  },
+  {
     "id": "20b6ab61-687c-4c5f-a1cc-977c7cec64ea",
     "title": "Super Mario Bros Deluxe oraz Super Mario RPG Nintendo Switch",
     "price": "300",
@@ -585,16 +595,6 @@
     "price": "55",
     "img": "https://a.allegroimg.com/s360x360/1e9803/a498bc53434a9ffb3dc7bccf7f19",
     "url": "https://allegrolokalnie.pl//oferta/xiii-nintendo-switch-hun?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "b4082cb4-500a-491b-80d4-8c464e13b37a",
-    "title": "BALDUR'S GATE - ENHANCED EDITION I & II Nintendo Switch",
-    "price": "389",
-    "img": "https://a.allegroimg.com/s360x360/1e2708/066f575f48d7913adad38f22b46b",
-    "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-enhanced-edition-i-ii-nintendo-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
@@ -1198,6 +1198,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Straszyn"
+  },
+  {
+    "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "74",
+    "img": "https://a.allegroimg.com/s360x360/1ec0f0/be380b4e4cabb7c3b0f336c62b4b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
@@ -3600,16 +3610,6 @@
     "city": "Ostrołęka"
   },
   {
-    "id": "e27a384b-6af9-42b5-a879-5451691f9f8b",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e2a02/fa5983fc4e6891f08bdd01fe05c7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-yhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrołęka"
-  },
-  {
     "id": "0569e316-fdef-493f-a84c-2c42e2f68234",
     "title": "Super Monkey Ball Banana Mania Switch",
     "price": "82",
@@ -4198,6 +4198,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   },
   {
     "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
@@ -4800,16 +4810,6 @@
     "city": "Reda"
   },
   {
-    "id": "0911d6db-f32e-4b7e-a04d-fed863df6176",
-    "title": "Arms (Nintendo Switch)",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1edbfb/ded1687f4a96b5cbefd840ddfe10",
-    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-d6m?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "f4f9950e-b61c-4128-b567-1495c92579e9",
     "title": "Mario Party Superstars Nintendo Switch",
     "price": "190",
@@ -5400,6 +5400,16 @@
     "city": "Wrocław, Fabryczna"
   },
   {
+    "id": "ea0c8b7c-f2ea-474b-95d0-960f6c2d4b28",
+    "title": "Transformers Battlegrounds Nintendo",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e6378/17ad5edc4594a2550ba0cd35abbf",
+    "url": "https://allegrolokalnie.pl//oferta/transformers-battlegrounds-nintendo-wyn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
+  },
+  {
     "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
     "title": "Shin Megami Tensei III nintendo switch",
     "price": "70",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
-  },
-  {
-    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
-    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Włochy"
   }
 ]
