@@ -810,16 +810,6 @@
     "city": "Czarnów"
   },
   {
-    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
-    "title": "Pokemon Shining Pearl",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
+    "title": "Pokemon Shining Pearl",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   },
   {
     "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
@@ -2183,7 +2183,7 @@
     "id": "3322e02f-06e4-4575-8f4f-bd7136621706",
     "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY",
     "price": "269",
-    "img": "https://a.allegroimg.com/s360x360/1e6854/b8ee74c84bc598186bcd1cef595e",
+    "img": "https://a.allegroimg.com/s360x360/1ef3a5/68c25cd04f8f98eb0c0996cb2b3d",
     "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-e3k?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
