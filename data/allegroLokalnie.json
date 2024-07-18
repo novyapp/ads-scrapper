@@ -60,16 +60,6 @@
     "city": "Kraków"
   },
   {
-    "id": "9be8282d-84d8-4595-a8fd-eb854f5954be",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ebf58/3bddf26c48dbb440c202438ecd71",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-gce?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "6e9e3ead-3c99-4609-bb89-6724e344dd4a",
     "title": "Luigi Mansion 3 Switch",
     "price": "210",
@@ -542,7 +532,7 @@
   {
     "id": "66cd1eda-f787-4c8e-be25-da2f049f014c",
     "title": "[Nintendo Switch] Mario Kart 8 Deluxe",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e05b7/01e4630d4530b82c6172dd43d013",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-deluxe-xhe?navCategoryId=256922",
     "promoted": true,
@@ -1210,6 +1200,16 @@
     "city": "Wrocław, Wroclaw"
   },
   {
+    "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
+    "title": "Gra Nintendo Switch Disgaea 5 Complete",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e35f7/3e9fe38a421aaca6da5f77593f53",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-disgaea-5-complete-7fw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
     "id": "95a93666-ac38-4015-8f26-6449b045e4eb",
     "title": "Gra Aragami: Shadow Edition Nintendo Switch",
     "price": "125",
@@ -1800,16 +1800,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "cf90dbf2-971c-4435-9d4d-732f423b5ffc",
-    "title": "Bayonetta origins cereza nad the lost demon nowa",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1ea524/dfd491e8452981df68de75e466df",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-nad-the-lost-demon-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "7c2c62b9-c92a-405f-a049-23e74841b9ea",
     "title": "Switch Little Friends: Dogs & Cats  .. kartridż",
     "price": "98",
@@ -1848,6 +1838,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "5ab57482-80c6-45c0-b3e6-f66bec6b211b",
+    "title": "Zelda - Breath of the Wild - Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1eed22/db445ea04ca0871bdb0300d0cdf0",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-nintendo-switch-jms?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
   },
   {
     "id": "3857fdd0-b65c-46ba-8fe9-1dabc9810915",
