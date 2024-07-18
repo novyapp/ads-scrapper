@@ -600,6 +600,26 @@
     "city": "Piaseczno"
   },
   {
+    "id": "196b3a2a-3d51-4d82-9f94-b18f6ae19a77",
+    "title": "Paper Mario The Origami King",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e5d7e/83c56b5e4f9facc61e43934d849b",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-rlj?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ziębice"
+  },
+  {
+    "id": "f19c195e-3ef5-4604-9e76-87e21cb5c3a7",
+    "title": "THE LEGEND OF ZELDA: TEARS OF THE KINGDOM NA NINTENDO SWITCH",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ec909/34b13960441a80b2d4e17c76adc0",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-na-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
     "id": "5a799f2f-010c-4ae7-95fc-7cdebc315103",
     "title": "POKEMON SCARLET NA NINTENDO SWITCH *SZYBKA WYSYKA*",
     "price": "169",
@@ -1175,26 +1195,6 @@
     "price": "135",
     "img": "https://a.allegroimg.com/s360x360/1ed7c9/1ad90f3f4be3a485f605176ad1c2",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-tales-of-vesperia-definitive-edition-bandai-namco?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
-    "title": "Gra Nintendo Switch Burnout Paradise remastered",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
-    "title": "Gra Nintendo Switch Disgaea 5 Complete",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e35f7/3e9fe38a421aaca6da5f77593f53",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-disgaea-5-complete-7fw?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
@@ -2082,7 +2082,7 @@
   {
     "id": "eb2d20a4-bcbc-4fab-b065-dd2a17b44959",
     "title": "Gra Captain Toad Treasure Tracker",
-    "price": "125",
+    "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1ea139/373b425e47a188d1e9367059e37a",
     "url": "https://allegrolokalnie.pl//oferta/gra-captain-toad-treasure-tracker-cuz?navCategoryId=256922",
     "promoted": false,
@@ -2102,7 +2102,7 @@
   {
     "id": "71723ef3-f1e7-4893-ac28-831f4e86cc4b",
     "title": "Gra Mario Tenis Aces",
-    "price": "168",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e95c3/efc35a2f449bb1aea5c7e2d8bbb3",
     "url": "https://allegrolokalnie.pl//oferta/gra-mario-tenis-aces?navCategoryId=256922",
     "promoted": false,
@@ -2112,7 +2112,7 @@
   {
     "id": "30f4f52a-1b9e-42bc-a828-b615d80dfeea",
     "title": "Gra Paper Mario",
-    "price": "170",
+    "price": "162",
     "img": "https://a.allegroimg.com/s360x360/1e77ef/be85e8004a9b90edfb77bd8ac0e8",
     "url": "https://allegrolokalnie.pl//oferta/gra-paper-mario?navCategoryId=256922",
     "promoted": false,
@@ -2375,6 +2375,26 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
     "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
+    "title": "Asterix i Obelix Slap Them All! Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e6509/7afb94a4495898cf033a465d8801",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "a4ace9ee-a865-4e46-9f48-744857c7cab5",
+    "title": "No Straight Roads Switch",
+    "price": "35",
+    "img": "https://a.allegroimg.com/s360x360/1e0845/e3ffb31543f9b924bfb2ea256037",
+    "url": "https://allegrolokalnie.pl//oferta/no-straight-roads-switch-u6r?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -4180,26 +4200,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
-    "title": "Metroid Prime Remastered (Switch)",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1fe2/7fb339b04406b6886bc2091e9aac",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
-    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "01b96155-4589-492e-aa47-9597f3113a57",
     "title": "Trek to Yomi Switch Nowa Folia",
     "price": "65",
@@ -4800,6 +4800,26 @@
     "city": "Pasym"
   },
   {
+    "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
+    "title": "Mario + Rabbids: Kingdom Battle - Gold Edition Nintendo Switch Nowa",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e1bdb/eeed8ec64f2aa347d11caaa3b5aa",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "51efde51-5c91-4726-8566-3867007cd475",
+    "title": "Diablo III Eternal Collection Nintendo Switch jak nowa",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebfe1/9f9555a9485eba1297cf97d71499",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
     "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
     "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
     "price": "120",
@@ -5375,26 +5395,6 @@
     "price": "7",
     "img": "https://a.allegroimg.com/s360x360/1ef7e3/75909eb44cbca674b0319a11410d",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-goughing-fire-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "842b43e9-9e7f-480c-a811-10068737974a",
-    "title": "POKÉMON SHINY ENTEI 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1e1eca/0492455a44799064d39c80ec0abb",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-entei-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "9526a0e2-a4b5-4204-885a-ac2f9138ca27",
-    "title": "POKÉMON SHINY SUICUNE 100lvl.",
-    "price": "4",
-    "img": "https://a.allegroimg.com/s360x360/1e7d21/e3e01eb743bd8f2d66ebd8143c58",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-suicune-100lvl?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
