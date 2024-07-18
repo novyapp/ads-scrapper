@@ -1380,16 +1380,6 @@
     "city": "Kalisz"
   },
   {
-    "id": "70a8deb1-f1eb-46c4-b462-2547366afc41",
-    "title": "UNIKAT PERSONA 3 PORTABLE PERSONA 4 GOLDEN SWITCH",
-    "price": "949",
-    "img": "https://a.allegroimg.com/s360x360/1ec077/5fa548364f3891683ddd38dca5a6",
-    "url": "https://allegrolokalnie.pl//oferta/unikat-persona-3-portable-persona-4-golden-switch-47d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
-  },
-  {
     "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
     "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
     "price": "135",
@@ -1780,26 +1770,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "c29a5a89-48e0-4d53-81e6-969e5fae1720",
-    "title": "Gra Astroneer – Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1e4d9c/1d75137a424d9c01d06598ee4bf7",
-    "url": "https://allegrolokalnie.pl//oferta/gra-astroneer-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "c3914016-3205-473c-abc3-d50758563b31",
-    "title": "Gra LEGO Przygoda Movie 2 Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1ecce3/43a03e24449cac989a416a301feb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lego-przygoda-movie-2-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
     "id": "dc2353e7-809b-49fd-bcf0-aec766c1e397",
     "title": "Zelda Skyward Sword Switch + Amiibo + DODATKI",
     "price": "329",
@@ -1828,6 +1798,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "1be39d4f-2a0d-42ca-a130-d84ddd13f3e1",
+    "title": "Pokemon Sword - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eaf1e/708feacb43c18801b0652210886a",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-b76?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "72fdef39-9da9-4294-8dce-ff1e759e5317",
+    "title": "Xenoblades Chronicles 2 - Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e9773/5e4051fe41c0a364b4ecd81d5cb8",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-lr7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
   },
   {
     "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
@@ -3010,6 +3000,16 @@
     "city": "Kraśnik"
   },
   {
+    "id": "ff9799a1-b50f-4f87-8343-a27093ff25cc",
+    "title": "SUPER MARIO ODYSSEY",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1ed9fb/8809c2194fcfb6c6c886b7430e2d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-3fr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
     "id": "ac237fc0-8e4a-462f-b4fe-ff5b37ab0333",
     "title": "THE LEGEND OF ZELDA: Link's Awakening Nintendo Switch (bardzo dobry)",
     "price": "185",
@@ -3595,16 +3595,6 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e1d16/c8b199d2408bb4337769de9a1617",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-mario-maker-2-3zp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Złotoryja"
-  },
-  {
-    "id": "e08149a0-3f3b-4888-97aa-b714adce185f",
-    "title": "Gra Nintendo Switch - Super Smash Bros Ultimate",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e29ec/857c7a2b4cd486247ae128e501b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-smash-bros-ultimate-fjp?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Złotoryja"
@@ -4858,6 +4848,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "70a8deb1-f1eb-46c4-b462-2547366afc41",
+    "title": "UNIKAT PERSONA 3 PORTABLE PERSONA 4 GOLDEN SWITCH",
+    "price": "949",
+    "img": "https://a.allegroimg.com/s360x360/1ec077/5fa548364f3891683ddd38dca5a6",
+    "url": "https://allegrolokalnie.pl//oferta/unikat-persona-3-portable-persona-4-golden-switch-47d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lublin"
   },
   {
     "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
