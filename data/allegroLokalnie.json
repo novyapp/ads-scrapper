@@ -756,7 +756,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eee88/ff0a66904087a35a745dccb6858f",
     "url": "https://allegrolokalnie.pl//oferta/sifu-vengeance-edition-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Pleszew"
   },
   {
@@ -856,7 +856,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e1b02/7d25dc0a4810b4d0b6a71ca4b83a",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nowa-jvb?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Pleszew"
   },
   {
@@ -866,7 +866,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ece81/b121ba3a42e4bc6bc8cb3b35d0e8",
     "url": "https://allegrolokalnie.pl//oferta/unicorn-overlord-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Pleszew"
   },
   {
@@ -876,7 +876,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e7694/37c2dd254b9e84fabb8f1a6c7e73",
     "url": "https://allegrolokalnie.pl//oferta/mario-sparks-of-hope-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Pleszew"
   },
   {
@@ -1532,7 +1532,7 @@
   {
     "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
     "title": "Zestaw na Nintendo Switch 4 gier",
-    "price": "375",
+    "price": "360",
     "img": "https://a.allegroimg.com/s360x360/1e9562/b19a4a7341e08e6096663ba7a28e",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-na-nintendo-switch-3-gry?navCategoryId=256922",
     "promoted": true,
@@ -1820,6 +1820,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "1347cd44-9194-460d-a5c1-58d5c04b97da",
+    "title": "Gra Red Dead Redemption Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1eec1e/911428414ddfb00141c1bdba0d4f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-red-dead-redemption-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "304087c2-fefa-41dd-b6af-cf3c84da3428",
     "title": "Gra Pikmin 4 Nintendo Switch",
     "price": "179",
@@ -1973,7 +1983,7 @@
     "id": "59b0a62a-7865-40b9-9f0f-29650ff5a914",
     "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
     "price": "259",
-    "img": "https://a.allegroimg.com/s360x360/1e3ae5/e28d523049638435ee7a49c02b2c",
+    "img": "https://a.allegroimg.com/s360x360/1e4f76/3c9cac42417d9310f141c814af72",
     "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -2378,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "33ca2b6e-4586-4727-a3fa-2a37cd537e47",
+    "title": "It takes two - Nintedno Switch - Kartridź",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e2700/951c832d433f91a8b33ce86c69b2",
+    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintedno-switch-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Białołęka"
   },
   {
     "id": "33ca2b6e-4586-4727-a3fa-2a37cd537e47",
@@ -4180,16 +4200,6 @@
     "city": "Wrocław, Krzyki"
   },
   {
-    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s360x360/1ebae3/2eb5745e4afcbac664d8747b1506",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "87937458-3bb2-480e-9409-708dac95b385",
     "title": "Switch Pokemon Let's go Pikachu .. nowy folia",
     "price": "197",
@@ -5390,6 +5400,16 @@
     "city": "Reda"
   },
   {
+    "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
+    "title": "Bayonetta 3 (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1075/8d5d7153430a895272b41df4766a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-uhp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "08f592e2-746e-4ea2-b4e9-07b3f8c81995",
     "title": "Xenoblade Chronicles Definitive Edition (Switch)",
     "price": "200",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "0f817f4f-5733-4884-b4cb-95a8d350948f",
-    "title": "Metroid Dread Special Edition NINTENDO SWITCH",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s360x360/1e6072/a1bf35a24a70aadb3a1d18b0c287",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-special-edition-nintendo-switch-2q7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
-    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
-    "title": "The Legend of Zelda: Link's Awakening Limited",
-    "price": "679",
-    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
   }
 ]
