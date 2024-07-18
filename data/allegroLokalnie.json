@@ -1800,16 +1800,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "cf90dbf2-971c-4435-9d4d-732f423b5ffc",
-    "title": "Bayonetta origins cereza nad the lost demon nowa",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1ea524/dfd491e8452981df68de75e466df",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-nad-the-lost-demon-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "7c2c62b9-c92a-405f-a049-23e74841b9ea",
     "title": "Switch Little Friends: Dogs & Cats  .. kartridż",
     "price": "98",
@@ -3000,6 +2990,16 @@
     "city": "Łomnica"
   },
   {
+    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
+    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1ba4/2fa71d2641fb95228a4234ecc26e",
+    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Brzoza"
+  },
+  {
     "id": "7c8c8f7f-1090-4d83-98b7-d8a13ba32e44",
     "title": "Starlink: Bitwa o Atlas Nintendo Switch",
     "price": "55",
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Przemyśl"
-  },
-  {
-    "id": "db7a514f-27a3-474c-b500-efbc115c6bb5",
-    "title": "Dead Cells: Action Game of the Year Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e4bc4/d4e5f28e40d5827bb1195d96bebf",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-nintendo-switch-ndw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "db7a514f-27a3-474c-b500-efbc115c6bb5",
@@ -4800,6 +4790,16 @@
     "city": "Pasym"
   },
   {
+    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
+    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
     "id": "857b7eef-42d8-493d-a45c-1b390c776874",
     "title": "Gra Titan Quest Nintendo Switch jak nowa",
     "price": "90",
@@ -5385,16 +5385,6 @@
     "price": "4",
     "img": "https://a.allegroimg.com/s360x360/1e7d21/e3e01eb743bd8f2d66ebd8143c58",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-suicune-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "b29bb901-21d8-438e-aeab-ac197d631be0",
-    "title": "POKÉMON SHINY RAIKOU 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1e1bf3/a4be8d3044c4acd92b9ee45423cc",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-raikou-100lvl?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
+    "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
+    "price": "5",
+    "img": "https://a.allegroimg.com/s360x360/1eef1e/7e3342ab40e1a680f4550f7bea94",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-terapagos-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
