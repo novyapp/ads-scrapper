@@ -1300,16 +1300,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
-    "title": "FIFA 22 I Switch I Po Polsku I Folia",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1eb4bf/7d7ba3fd489ab88bbf1e58ecc6d9",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-i-switch-i-po-polsku-i-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
     "title": "Scribblenauts Showdown Gra Nintendo Switch",
     "price": "35",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
+    "title": "FIFA 22 I Switch I Po Polsku I Folia",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1eb4bf/7d7ba3fd489ab88bbf1e58ecc6d9",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-i-switch-i-po-polsku-i-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "7c2c62b9-c92a-405f-a049-23e74841b9ea",
@@ -3092,7 +3092,7 @@
   {
     "id": "274cdbe4-6e6a-4d1d-96aa-b2a049962f5f",
     "title": "THE BINDING OF ISAAC: REPENTANCE (SWITCH) EGZ NOWY",
-    "price": "369",
+    "price": "339",
     "img": "https://a.allegroimg.com/s360x360/1e2388/508341904cc99cd4f4ba1da053a2",
     "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-switch-egz-nowy?navCategoryId=256922",
     "promoted": false,
@@ -4250,6 +4250,16 @@
     "city": "Jarosław"
   },
   {
+    "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
+    "title": "FIFA 22 I Switch I Po Polsku I Folia",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1eb4bf/7d7ba3fd489ab88bbf1e58ecc6d9",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-i-switch-i-po-polsku-i-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
     "title": "Neptunia sisters vs sisters (Nintendo switch)",
     "price": "140",
@@ -4785,16 +4795,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1ebfe1/9f9555a9485eba1297cf97d71499",
     "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
-    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
