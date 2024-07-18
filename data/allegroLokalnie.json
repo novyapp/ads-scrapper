@@ -1,5 +1,25 @@
 [
   {
+    "id": "b1b00198-e916-4c36-b7c1-3440c29e9fe6",
+    "title": "Super Mario RPG Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ecceb/78ebea6f449cbbd081b5a9016a18",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-b4v?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
+  },
+  {
+    "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
+    "title": "Alwa's Collection Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1eb378/82273d684076b45047aeec1aa5af",
+    "url": "https://allegrolokalnie.pl//oferta/alwas-collection-switch-pdb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
+  },
+  {
     "id": "c8f02cc7-83ed-4b73-a181-9c0b2bdc7c41",
     "title": "YOOKA-LAYLEE AND THE IMPOSSIBLE LAIR Switch",
     "price": "47",
@@ -578,26 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Dzierżoniów"
-  },
-  {
-    "id": "9904ef38-c259-4c02-98f8-2445b9d5dd93",
-    "title": "Paper Mario The Thousand-Year D",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e7376/aa91d0a3419688664d4a57770613",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilkowice "
-  },
-  {
-    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
-    "title": "Mario Odyssey NINTENDO SWITCH ideał",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e8d32/01d6bed64fc7bbe433d6c736aa19",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
   },
   {
     "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
@@ -1198,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
-    "title": "No More Heroes 3 Switch - Wrocław",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
@@ -3010,6 +3000,16 @@
     "city": "Reda"
   },
   {
+    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
+    "title": "Pokemon Shining Pearl",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -3600,16 +3600,6 @@
     "city": "Tomaszów Lubelski"
   },
   {
-    "id": "6786ed86-ee08-461f-9263-fec1721d33be",
-    "title": "Monster Hunter Stories 2 Nintendo SWITCH",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e73b4/37888f6045759b2b64ff5c82e5b8",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-nintendo-switch-tqx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Toruń"
-  },
-  {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
     "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
     "price": "50",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
+  },
+  {
+    "id": "86483009-87bd-49d8-a194-39afde739c60",
+    "title": "Metal Max Xeno Reborn - Swith",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e16eb/241381cf419a8d887deffb786f6a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-max-xeno-reborn-swith?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Głogów"
   },
   {
     "id": "86483009-87bd-49d8-a194-39afde739c60",
@@ -5400,16 +5400,6 @@
     "city": "Dębno"
   },
   {
-    "id": "8a094510-a190-4e1d-8382-1012b9438fa4",
-    "title": "Nowa Construction Machines Simulator NSW Polski!",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1edc10/926bf29d44779dcd4bad1e13cd1a",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-construction-machines-simulator-nsw-niemiecki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Koszalin"
-  },
-  {
     "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
     "title": "Switch Gothic PL pudełko NOWA",
     "price": "190",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczawin"
+  },
+  {
+    "id": "ae7cd707-0018-4ced-89e5-33d54debbf3e",
+    "title": "Gry Nintendo switch-minceraft i snipperclips plus",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed24c/b8630c15436983d4e6a9b9b3f17a",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switchminceraft-i-snipperclips-plus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Supraśl"
   }
 ]
