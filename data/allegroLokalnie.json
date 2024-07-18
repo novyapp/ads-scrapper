@@ -1180,26 +1180,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "6f2d516c-3764-4d05-9f16-15f1b209ca2a",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nowa",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e1b02/7d25dc0a4810b4d0b6a71ca4b83a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nowa-jvb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pleszew"
-  },
-  {
-    "id": "36b386d8-1ed6-411e-a064-ffd836c9fe9a",
-    "title": "Unicorn Overlord NOWA",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ece81/b121ba3a42e4bc6bc8cb3b35d0e8",
-    "url": "https://allegrolokalnie.pl//oferta/unicorn-overlord-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pleszew"
-  },
-  {
     "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
     "title": "Gra Nintendo Switch Disgaea 5 Complete",
     "price": "130",
@@ -1788,16 +1768,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Pniewy"
-  },
-  {
-    "id": "5d637234-8c76-41ce-bccc-a698f2e0e84b",
-    "title": "BioShock The Collection Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ee6f5/2c1b7d174820a5ff6f14369a399d",
-    "url": "https://allegrolokalnie.pl//oferta/bioshock-the-collection-switch-3uf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "27e428d5-3fee-42ac-a436-1e4bbe1ad692",
@@ -3000,6 +2970,36 @@
     "city": "ciechanów"
   },
   {
+    "id": "0d1ce6c2-fd46-471b-b83f-e7475c4e3a46",
+    "title": "New SUPER MARIO BROS. U DELUXE",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e3e4a/e0dc08834908b1663bb757c5afaa",
+    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-ols?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
+    "id": "48f46d27-2ca3-4682-b051-7e82b986d508",
+    "title": "Starlink battle for atlas prawie cała kolekcja switch, xbox one, ps4",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s360x360/1ee00d/f24651aa4ffa9bb10867ac46e7f0",
+    "url": "https://allegrolokalnie.pl//oferta/starlink-battle-for-atlas-prawie-cala-kolekcja-switch-xbox-one-ps4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
+  },
+  {
+    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
+    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1ba4/2fa71d2641fb95228a4234ecc26e",
+    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Brzoza"
+  },
+  {
     "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
     "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
     "price": "80",
@@ -3598,16 +3598,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Przemyśl"
-  },
-  {
-    "id": "db7a514f-27a3-474c-b500-efbc115c6bb5",
-    "title": "Dead Cells: Action Game of the Year Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e4bc4/d4e5f28e40d5827bb1195d96bebf",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-nintendo-switch-ndw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "cf29f0e2-38c9-4710-8f81-6914226cb1f1",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
+    "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
+    "price": "5",
+    "img": "https://a.allegroimg.com/s360x360/1eef1e/7e3342ab40e1a680f4550f7bea94",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-terapagos-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
