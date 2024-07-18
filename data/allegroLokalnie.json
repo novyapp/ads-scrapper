@@ -930,16 +930,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
-    "title": "Pokémon Sword na konsolę Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ea515/04a574904fd58a5c581058259d92",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Zacisze"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
+    "title": "Pokémon Sword na konsolę Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ea515/04a574904fd58a5c581058259d92",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Zacisze"
   },
   {
     "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
