@@ -3600,6 +3600,16 @@
     "city": "Poznań"
   },
   {
+    "id": "ed2a6f51-7a4d-4541-af5c-36d4368256c3",
+    "title": "Hyrule Warriors Age of Calamity",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ecb1b/afe209804e9e84d33a333aaaf27d",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-ujv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "7e394cdc-21ed-468b-86fe-ade84e8f1d56",
     "title": "SAKUNA Of Rice and Ruin golden harvest edition",
     "price": "269",
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz, Fordon"
-  },
-  {
-    "id": "2c849131-86de-4420-8994-e9a75d36900f",
-    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/11d1d6/15a9b6aa4496991429c4ad26329d",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarosław"
   },
   {
     "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
+    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Serock"
   }
 ]
