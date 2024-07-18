@@ -870,16 +870,6 @@
     "city": "Pleszew"
   },
   {
-    "id": "18ec6618-0564-411e-950e-2547ff736905",
-    "title": "Mario Sparks of Hope NOWA",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e7694/37c2dd254b9e84fabb8f1a6c7e73",
-    "url": "https://allegrolokalnie.pl//oferta/mario-sparks-of-hope-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pleszew"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "18ec6618-0564-411e-950e-2547ff736905",
+    "title": "Mario Sparks of Hope NOWA",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e7694/37c2dd254b9e84fabb8f1a6c7e73",
+    "url": "https://allegrolokalnie.pl//oferta/mario-sparks-of-hope-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pleszew"
   },
   {
     "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
@@ -2212,7 +2212,7 @@
   {
     "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
     "title": "The legend of zelda Link's awakening collectors edition",
-    "price": "750",
+    "price": "650",
     "img": "https://a.allegroimg.com/s360x360/1e5072/2580bb3b4bef9e049ca8d792d122",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-collectors-edition?navCategoryId=256922",
     "promoted": false,
@@ -2982,7 +2982,7 @@
   {
     "id": "7c8c8f7f-1090-4d83-98b7-d8a13ba32e44",
     "title": "Starlink: Bitwa o Atlas Nintendo Switch",
-    "price": "59",
+    "price": "55",
     "img": "https://a.allegroimg.com/s360x360/1ef7b4/b292a16849dbbddedc65457f9f26",
     "url": "https://allegrolokalnie.pl//oferta/starlink-bitwa-o-atlas-nintendo-switch?navCategoryId=256922",
     "promoted": false,
