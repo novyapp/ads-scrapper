@@ -1770,6 +1770,26 @@
     "city": "Gdańsk"
   },
   {
+    "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
+    "title": "Switch Sonic Forces",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "78b55fed-e173-4147-8ac0-219604928dd5",
+    "title": "Switch Crash Bandicoot N-sane Trilogy",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e8258/e2d9cf1946428bb0ca63d31b263e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-crash-bandicoot-nsane-trilogy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "247f9c6a-08b3-4894-a84f-388cbfd546bb",
     "title": "Luigi mansion’s 2 HD",
     "price": "180",
@@ -1778,16 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Podolsze"
-  },
-  {
-    "id": "72fdef39-9da9-4294-8dce-ff1e759e5317",
-    "title": "Xenoblades Chronicles 2 - Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e9773/5e4051fe41c0a364b4ecd81d5cb8",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-lr7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
   },
   {
     "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
@@ -2240,16 +2250,6 @@
     "city": "Końskie"
   },
   {
-    "id": "c2bb50ab-5dc8-4048-a9d2-81a920ef0711",
-    "title": "Minecraft Dungeons Ultimate Edition Używana Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e09af/d6e21ea74abab3c635553089a54c",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-ultimate-edition-uzywana-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Końskie"
-  },
-  {
     "id": "65a26b9f-0f9e-4f1c-a4f5-321427bc0713",
     "title": "Zelda breath of the wild Nintendo switch ideal",
     "price": "164",
@@ -2378,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "75f32a6a-f81e-4268-850d-61d174505622",
+    "title": "Pokemon Let's Go Eevee",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e34d2/0676abea412bb45338ed2d0b3e92",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-43g?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Częstochowa, Tysiąclecie"
   },
   {
     "id": "75f32a6a-f81e-4268-850d-61d174505622",
@@ -5978,25 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
-  },
-  {
-    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
-    "title": "NINJA JajaMaru - The Great Yokai Battle",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
-    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "528d5995-d1f6-4f3a-a28f-8ac990101f05",
-    "title": "Switch Fitness Boxing nowa",
-    "price": "148",
-    "img": "https://a.allegroimg.com/s360x360/1ef943/e5715bc24c8688788a4e97eca10b",
-    "url": "https://allegrolokalnie.pl//oferta/switch-fitness-boxing-nowa-6vr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sarnów"
   }
 ]
