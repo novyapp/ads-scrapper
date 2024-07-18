@@ -910,16 +910,6 @@
     "city": "Warszawa, Zacisze"
   },
   {
-    "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
-    "title": "Crash Bandicoot 4: Najwyższy czas SWITCH PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea3a9/c1f1d0a94a038df93cc3d0d9c418",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-cg7?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1200,14 +1190,14 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
-    "title": "Gra Nintendo Switch Disgaea 5 Complete",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e35f7/3e9fe38a421aaca6da5f77593f53",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-disgaea-5-complete-7fw?navCategoryId=256922",
-    "promoted": true,
+    "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
+    "title": "Crash Bandicoot 4: Najwyższy czas SWITCH PL",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea3a9/c1f1d0a94a038df93cc3d0d9c418",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-cg7?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Wrocław, Wroclaw"
+    "city": "Dzierżoniów"
   },
   {
     "id": "95a93666-ac38-4015-8f26-6449b045e4eb",
@@ -1800,6 +1790,16 @@
     "city": "Mikołów"
   },
   {
+    "id": "cf90dbf2-971c-4435-9d4d-732f423b5ffc",
+    "title": "Bayonetta origins cereza nad the lost demon nowa",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1ea524/dfd491e8452981df68de75e466df",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-nad-the-lost-demon-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "7c2c62b9-c92a-405f-a049-23e74841b9ea",
     "title": "Switch Little Friends: Dogs & Cats  .. kartridż",
     "price": "98",
@@ -1838,6 +1838,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
+    "title": "Lego Star Wars - Skywalker Saga - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e4015/5f9aa9f5434989d457cb6e63ed88",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-nintendo-switch-ty5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
+    "title": "Goodbye World - Switch (Nowa)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1eb844/aee49e3c474ba50887ff60cfe588",
+    "url": "https://allegrolokalnie.pl//oferta/goodbye-world-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "5ab57482-80c6-45c0-b3e6-f66bec6b211b",
@@ -3580,26 +3600,6 @@
     "city": "Złotoryja"
   },
   {
-    "id": "e08149a0-3f3b-4888-97aa-b714adce185f",
-    "title": "Gra Nintendo Switch - Super Smash Bros Ultimate",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e29ec/857c7a2b4cd486247ae128e501b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-super-smash-bros-ultimate-fjp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Złotoryja"
-  },
-  {
-    "id": "46ca95b5-1035-429f-b6ce-c661fdedc977",
-    "title": "Disney Classic Games Collection Nintendo Switch",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s360x360/1e0fd5/0ca9b2d4405a9d10040acf16fb61",
-    "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-collection-nintendo-switch-623?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pelplin"
-  },
-  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "199",
@@ -4200,6 +4200,26 @@
     "city": "Łomnica"
   },
   {
+    "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
+    "title": "Nowe Labo Robot Kit Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ea106/69bdf86c43e3afd2db5546fcebe8",
+    "url": "https://allegrolokalnie.pl//oferta/nowe-labo-robot-kit-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
+  },
+  {
     "id": "2cdaf615-7123-4266-859f-ec26520c28a1",
     "title": "Gra Switch Splatoon 2 Cartridge",
     "price": "180",
@@ -4775,26 +4795,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "e0586f2b-2f92-4e54-8364-55e0579004b6",
-    "title": "Fire Emblem Engage",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee6b2/6cec20e74d2499b9b0d8a342aab5",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-7vp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "4320fbca-e83a-49cb-9054-698e81536834",
-    "title": "Warioware Move It!",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5400,6 +5400,26 @@
     "city": "Wilczyce"
   },
   {
+    "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
+    "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1e3a4c/a9d45e5b4328a4cca117ceaec9e5",
+    "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-edycja-kolekcjonerska-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Zwierzyniec"
+  },
+  {
+    "id": "ed1eab9e-607a-4f58-9a76-484eec65dbb3",
+    "title": "Poradnik kompendium Zelda breath of the wild",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e70d1/e7a4eea34fb48cba4ef46d34d4ca",
+    "url": "https://allegrolokalnie.pl//oferta/poradnik-kompendium-zelda-breath-of-the-wild?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "bb6e1f5a-3da4-42b4-b2e7-0e31e8916173",
     "title": "Gra Sonic & Mario at the Olympic Nintendo Switch",
     "price": "200",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Twardogóra"
-  },
-  {
-    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
-    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radzyń Podlaski"
-  },
-  {
-    "id": "cd1fc6a8-36bc-4a16-ab89-6869247ffe4a",
-    "title": "POKEMON LEUCHTENDE PERLE",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/25fd52f24f4fbf263efe9358ec4c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-leuchtende-perle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
   }
 ]
