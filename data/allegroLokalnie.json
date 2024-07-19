@@ -950,16 +950,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
-    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1195,6 +1185,16 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
+    "title": "Gra Nintendo Switch Disgaea 5 Complete",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e35f7/3e9fe38a421aaca6da5f77593f53",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-disgaea-5-complete-7fw?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
@@ -1798,16 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
-    "title": "Switch Sonic Forces",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
-    "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
   },
   {
     "id": "78b55fed-e173-4147-8ac0-219604928dd5",
@@ -2928,6 +2918,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
+    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
