@@ -1580,16 +1580,6 @@
     "city": "Mysłowice"
   },
   {
-    "id": "7dbebd49-c407-4586-ab43-f421332cd8e9",
-    "title": "Bloodrayne Revamped  Nintendo Switch",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s360x360/1e7530/c0bae7394a43967ed5f161311aca",
-    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-revamped-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "09f4dc6c-c530-400e-b2c0-0026237d1de0",
     "title": "Super Bomberman R Nintendo Switch",
     "price": "130",
@@ -1778,6 +1768,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "7dbebd49-c407-4586-ab43-f421332cd8e9",
+    "title": "Bloodrayne Revamped  Nintendo Switch",
+    "price": "499",
+    "img": "https://a.allegroimg.com/s360x360/1e7530/c0bae7394a43967ed5f161311aca",
+    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-revamped-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
