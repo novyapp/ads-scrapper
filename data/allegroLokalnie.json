@@ -590,6 +590,16 @@
     "city": "Poznań"
   },
   {
+    "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
+    "title": "Pokemon Brilliant Diamond Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1e6bff/81da53e7481d9bd8e37b5e0336cd",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-mzd?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "fdbbd11e-26f6-4910-8e8e-f82c7bf651da",
     "title": "Pokemon Let's Go Pikachu Nintendo Switch",
     "price": "175",
@@ -1175,16 +1185,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e35f7/3e9fe38a421aaca6da5f77593f53",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-disgaea-5-complete-7fw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "95a93666-ac38-4015-8f26-6449b045e4eb",
-    "title": "Gra Aragami: Shadow Edition Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e0a5f/cfc39abe4cacbb77cc8d36d2ff08",
-    "url": "https://allegrolokalnie.pl//oferta/gra-aragami-shadow-edition-nintendo-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
@@ -1790,6 +1790,16 @@
     "city": "Kraków, Zwierzyniec"
   },
   {
+    "id": "db0016c3-7759-4aeb-991e-e02adadd7bd3",
+    "title": "Gra Dying Light Platinum Edition na konsolkę Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e058d/8be456824486bcc240536623b237",
+    "url": "https://allegrolokalnie.pl//oferta/gra-dying-light-platinum-edition-na-konsolke-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki"
+  },
+  {
     "id": "cc3b09c0-9be7-422e-a72d-db222aadb3e0",
     "title": "Pokemon Violet, gra na Nintendo Switch",
     "price": "160",
@@ -2375,16 +2385,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e0ecd/fb0690194bb193ee48563c982265",
     "url": "https://allegrolokalnie.pl//oferta/life-is-strange-true-colors-nintendo-switch-jak-nowa-angielska-wersja-ihl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Prądnik Biały"
-  },
-  {
-    "id": "9d23fd4f-d1ad-477c-b797-fdc85524a903",
-    "title": "Pokemon Sword Nintendo Switch gra",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1eb858/54f50e854d3e86a806dbc2ee2f85",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-gra-5ez?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
   }
 ]
