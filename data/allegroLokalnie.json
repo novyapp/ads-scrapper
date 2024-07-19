@@ -410,16 +410,6 @@
     "city": "Lublin"
   },
   {
-    "id": "5d1ff3e2-8c2b-4a79-9dd5-dcbbf1a37c89",
-    "title": "Paper Mario the Thousand Year Door - OKAZJA!!",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e5ac1/83787f984264a1bfdd9967daaca5",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-okazja?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Glogów"
-  },
-  {
     "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
     "title": "Super Mario Bros Wonder Nintendo Switch",
     "price": "169",
@@ -585,16 +575,6 @@
     "price": "145",
     "img": "https://a.allegroimg.com/s360x360/1e6bff/81da53e7481d9bd8e37b5e0336cd",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-mzd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "fdbbd11e-26f6-4910-8e8e-f82c7bf651da",
-    "title": "Pokemon Let's Go Pikachu Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e74bc/38dd50624e5db3524ddad87e8649",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-switch-nd7?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
@@ -970,16 +950,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
-    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e2a2a/8c2d1c02408ba7d1a52824333e41",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1168,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Czudec"
+  },
+  {
+    "id": "1fd98ef0-1c80-480f-885a-b46fc4ad52d5",
+    "title": "Gra Nintendo Switch - Tales of Vesperia - Definitive Edition Bandai Namco",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1ed7c9/1ad90f3f4be3a485f605176ad1c2",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-tales-of-vesperia-definitive-edition-bandai-namco?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
+    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e2a2a/8c2d1c02408ba7d1a52824333e41",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
   },
   {
     "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
@@ -1788,16 +1778,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
-    "title": "Crysis Remastered Steebook Limited Run (Switch)",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ea1da/77f6da24478b8275ceffcc3a655d",
-    "url": "https://allegrolokalnie.pl//oferta/crysis-remastered-steebook-limited-run-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
@@ -5995,6 +5975,16 @@
     "price": "769",
     "img": "https://a.allegroimg.com/s360x360/1e7217/ab99f2bb44deb928f7213ba352f5",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-dodatki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
+    "id": "82567d23-5191-4e3e-9e83-1eb45d30b53a",
+    "title": "ZESTAW 16 GIER NINTENDO SWITCH ZELDA MARIO",
+    "price": "1 959",
+    "img": "https://a.allegroimg.com/s360x360/1e67fd/e356736a47dd8970ef1107fd9998",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-16-gier-nintendo-switch-zelda-mario?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
