@@ -1170,16 +1170,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
-    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e2a2a/8c2d1c02408ba7d1a52824333e41",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
     "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
     "title": "Gra Nintendo Switch Burnout Paradise remastered",
     "price": "110",
@@ -1778,6 +1768,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
+    "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
+    "price": "650",
+    "img": "https://a.allegroimg.com/s360x360/1e8270/635d7ad442edb2c6ff770314f733",
+    "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Zwierzyniec"
+  },
+  {
+    "id": "db0016c3-7759-4aeb-991e-e02adadd7bd3",
+    "title": "Gra Dying Light Platinum Edition na konsolkę Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e058d/8be456824486bcc240536623b237",
+    "url": "https://allegrolokalnie.pl//oferta/gra-dying-light-platinum-edition-na-konsolke-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki"
+  },
+  {
+    "id": "cc3b09c0-9be7-422e-a72d-db222aadb3e0",
+    "title": "Pokemon Violet, gra na Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e299d/4b0d852245a2b84a48c2c54c5698",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-gra-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
@@ -2980,26 +3000,6 @@
     "city": "Łomża"
   },
   {
-    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
-    "title": "Animal Crossing New Horizons",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
-    "title": "Pokémon Sword na konsolę Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ea515/04a574904fd58a5c581058259d92",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Zacisze"
-  },
-  {
     "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
     "title": "Crash Bandicoot 4: Najwyższy czas SWITCH PL",
     "price": "105",
@@ -3578,6 +3578,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siemianowice Śląskie"
+  },
+  {
+    "id": "14f132cd-4694-4eb9-8ec5-98bc392e8274",
+    "title": "Gra Nintendo Switch Dead Cells",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eb4d2/139a75424140b3a33832c9564656",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-cells?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dmosin"
+  },
+  {
+    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
+    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieluń"
+  },
+  {
+    "id": "14f132cd-4694-4eb9-8ec5-98bc392e8274",
+    "title": "Gra Nintendo Switch Dead Cells",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eb4d2/139a75424140b3a33832c9564656",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-cells?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dmosin"
+  },
+  {
+    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
+    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieluń"
   },
   {
     "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
@@ -4760,46 +4800,6 @@
     "city": "Zamość"
   },
   {
-    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
-    "title": "Super Mario Odyssey Nintendo switch stan idealny",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włostów"
-  },
-  {
-    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
-    "title": "Super Mario Odyssey Nintendo switch stan idealny",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włostów"
-  },
-  {
     "id": "112f7161-dc29-41ce-8558-0b8450c8ca3d",
     "title": "Smerfy 2: Więzień Zielonego Kamienia. Nintendo switch",
     "price": "100",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
+  },
+  {
+    "id": "2033bec0-c606-4291-9be0-4f9fde4536ab",
+    "title": "Ring Fit Adventure Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e439b/252c16ff45e8afa4bfbff831e690",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-wly?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
+  },
+  {
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
   }
 ]
