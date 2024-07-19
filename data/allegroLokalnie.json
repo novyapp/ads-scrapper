@@ -412,7 +412,7 @@
   {
     "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
     "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "169",
+    "price": "165",
     "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
     "promoted": true,
@@ -910,16 +910,6 @@
     "city": "Pleszew"
   },
   {
-    "id": "2c87f564-5341-4df7-a08e-4fb7534d3399",
-    "title": "Cupid Parasite Sweet and Spicy Darling Nintendo",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e5940/3d76803c4a92a720d95c11b31021",
-    "url": "https://allegrolokalnie.pl//oferta/cupid-parasite-sweet-and-spicy-darling-nintendo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Granowo"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1200,14 +1190,14 @@
     "city": "Wschowa"
   },
   {
-    "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
-    "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e923b/64e4ff1c4c078e5a7594c39c0d90",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-switch-yugioh-rush-duel-lets-go-go-rush-zafoliowana?navCategoryId=256922",
-    "promoted": true,
+    "id": "2c87f564-5341-4df7-a08e-4fb7534d3399",
+    "title": "Cupid Parasite Sweet and Spicy Darling Nintendo",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e5940/3d76803c4a92a720d95c11b31021",
+    "url": "https://allegrolokalnie.pl//oferta/cupid-parasite-sweet-and-spicy-darling-nintendo?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Warszawa, Wola"
+    "city": "Granowo"
   },
   {
     "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
@@ -1795,6 +1785,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e9773/5e4051fe41c0a364b4ecd81d5cb8",
     "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-lr7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
+    "title": "Lego Star Wars - Skywalker Saga - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e4015/5f9aa9f5434989d457cb6e63ed88",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-nintendo-switch-ty5?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
