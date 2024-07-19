@@ -920,16 +920,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "4ae6522a-802a-440f-8d9c-71c4bf31c4f8",
-    "title": "Sifu Vengeance Edition Nowa",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1eee88/ff0a66904087a35a745dccb6858f",
-    "url": "https://allegrolokalnie.pl//oferta/sifu-vengeance-edition-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pleszew"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "4ae6522a-802a-440f-8d9c-71c4bf31c4f8",
+    "title": "Sifu Vengeance Edition Nowa",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1eee88/ff0a66904087a35a745dccb6858f",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-vengeance-edition-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pleszew"
   },
   {
     "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
@@ -1800,16 +1800,6 @@
     "city": "Ożarów Mazowiecki"
   },
   {
-    "id": "db0016c3-7759-4aeb-991e-e02adadd7bd3",
-    "title": "Gra Dying Light Platinum Edition na konsolkę Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e058d/8be456824486bcc240536623b237",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dying-light-platinum-edition-na-konsolke-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki"
-  },
-  {
     "id": "cc3b09c0-9be7-422e-a72d-db222aadb3e0",
     "title": "Pokemon Violet, gra na Nintendo Switch",
     "price": "160",
@@ -2395,6 +2385,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e0ecd/fb0690194bb193ee48563c982265",
     "url": "https://allegrolokalnie.pl//oferta/life-is-strange-true-colors-nintendo-switch-jak-nowa-angielska-wersja-ihl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "9d23fd4f-d1ad-477c-b797-fdc85524a903",
+    "title": "Pokemon Sword Nintendo Switch gra",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1eb858/54f50e854d3e86a806dbc2ee2f85",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-gra-5ez?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
@@ -3000,16 +3000,6 @@
     "city": "Łomża"
   },
   {
-    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
-    "title": "Nintendo Switch Sports - gra Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e9cea/bda3e95b491382532f02ffd253b2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siemianowice Śląskie"
+  },
+  {
+    "id": "14f132cd-4694-4eb9-8ec5-98bc392e8274",
+    "title": "Gra Nintendo Switch Dead Cells",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eb4d2/139a75424140b3a33832c9564656",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-cells?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dmosin"
   },
   {
     "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
@@ -4800,16 +4800,6 @@
     "city": "Zamość"
   },
   {
-    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
-    "title": "Super Mario Odyssey Nintendo switch stan idealny",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
     "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
     "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
     "price": "120",
@@ -5398,6 +5388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Reda"
+  },
+  {
+    "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
+    "title": "The legend of Zelda breath of the wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dębno"
   },
   {
     "id": "9a5cea27-bbd6-46c4-9af2-91fe357977fc",
