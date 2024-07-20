@@ -72,7 +72,7 @@
   {
     "id": "221eeb2e-c089-4080-b6b2-697c146f85eb",
     "title": "Animal Crossing New Horizon Nintendo Switch",
-    "price": "125",
+    "price": "115",
     "img": "https://a.allegroimg.com/s360x360/1ebfc0/ea9b820e416f9bb99fc5f5fdf62f",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizon-nintendo-switch-evb?navCategoryId=256922",
     "promoted": true,
@@ -578,26 +578,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Nowy Targ"
-  },
-  {
-    "id": "4b0d5144-46e8-4766-ab1f-2d55c8bd6578",
-    "title": "Kirby return to dreamland deluxe nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e45e7/e395c8ec44a883fdc17aa6da1773",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-return-to-dreamland-deluxe-nintendo-switch-5he?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Piła"
-  },
-  {
-    "id": "989b149b-bf5d-4674-a6c7-9edfc2a7cd6b",
-    "title": "Nintendo switch Sport",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1efc2a/bf1a818640e99fa46c3b1a12f998",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-26h?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "4b0d5144-46e8-4766-ab1f-2d55c8bd6578",
@@ -1800,6 +1780,26 @@
     "city": "Łososina dolna"
   },
   {
+    "id": "408ba710-6001-4107-bea2-38210a4c6409",
+    "title": "Gra Pokémon Shield",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e3596/22e661ea4878bdf2d9736bddd4e8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-bj6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostróda"
+  },
+  {
+    "id": "a9500ae1-8f4b-4275-b9e9-19869ac2a314",
+    "title": "Valkyria Chronicles 4 - Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed226/62893a77411fb61251dd11110e89",
+    "url": "https://allegrolokalnie.pl//oferta/valkyria-chronicles-4-nintendo-switch-zhm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Żoliborz"
+  },
+  {
     "id": "85346056-1c2d-42f7-b92c-5dd0eda511e8",
     "title": "Zelda Breath of the Wild - Samo Pudełko bez gry",
     "price": "20",
@@ -2375,26 +2375,6 @@
     "price": "140",
     "img": "https://a.allegroimg.com/s360x360/1e9c77/c167538b42ed9079033132baa63d",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-3-deluxe-switch-cia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
-    "title": "Hyrule Warriors Age of Calamity Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
-    "title": "Asterix i Obelix Slap Them All! Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e6509/7afb94a4495898cf033a465d8801",
-    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "528d5995-d1f6-4f3a-a28f-8ac990101f05",
+    "title": "Switch Fitness Boxing nowa",
+    "price": "148",
+    "img": "https://a.allegroimg.com/s360x360/1ef943/e5715bc24c8688788a4e97eca10b",
+    "url": "https://allegrolokalnie.pl//oferta/switch-fitness-boxing-nowa-6vr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
   }
 ]
