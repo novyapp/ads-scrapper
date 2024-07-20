@@ -1,15 +1,5 @@
 [
   {
-    "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
-    "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
-    "price": "330",
-    "img": "https://a.allegroimg.com/s360x360/1e7681/812aeaed48d59c23314b3bbc3464",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-dodatki-mapa-switch-pl-unikat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
     "title": "Super Mario RPG Nintendo Switch",
     "price": "150",
@@ -1810,6 +1800,16 @@
     "city": "Warszawa, Żoliborz"
   },
   {
+    "id": "a9500ae1-8f4b-4275-b9e9-19869ac2a314",
+    "title": "Valkyria Chronicles 4 - Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed226/62893a77411fb61251dd11110e89",
+    "url": "https://allegrolokalnie.pl//oferta/valkyria-chronicles-4-nintendo-switch-zhm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Żoliborz"
+  },
+  {
     "id": "85346056-1c2d-42f7-b92c-5dd0eda511e8",
     "title": "Zelda Breath of the Wild - Samo Pudełko bez gry",
     "price": "20",
@@ -2398,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Częstochowa, Tysiąclecie"
-  },
-  {
-    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
-    "title": "Warioware Get it together",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e2906/29bc28a2421c8e3a014714643729",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
   },
   {
     "id": "93aef2cb-c144-4fa8-9809-5097b82544bd",
@@ -3610,6 +3600,16 @@
     "city": "Wrocław, Psie Pole"
   },
   {
+    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
+    "title": "No More Heroes 3 Switch - Wrocław",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
     "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
     "title": "The Walking Dead: Thie Final Season NS Switch",
     "price": "99",
@@ -4195,16 +4195,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
-    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e5fd1/bf8c730f4be6b74b722c4759750c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
@@ -5400,6 +5390,26 @@
     "city": "Reda"
   },
   {
+    "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
+    "title": "The legend of Zelda breath of the wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dębno"
+  },
+  {
+    "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
+    "title": "The legend of Zelda breath of the wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dębno"
+  },
+  {
     "id": "9a5cea27-bbd6-46c4-9af2-91fe357977fc",
     "title": "SpongeBob squarepants battle of bikini bottom PL",
     "price": "90",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "e100f998-a825-4158-a335-86371fc52de4",
-    "title": "Eastward Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ec9c1/7490c22b4ae0afec9045a430dae7",
-    "url": "https://allegrolokalnie.pl//oferta/eastward-nintendo-switch-yyg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
   }
 ]
