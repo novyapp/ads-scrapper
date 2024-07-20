@@ -920,16 +920,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "b474a54a-1e9a-4d5e-8b3a-a5af31042885",
-    "title": "Mario + Rabbids Sparks of Hope Nintendo Switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1e638d/9e531f8542c1b6069964cc46aa6e",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-nintendo-switch-3kh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
     "id": "6a72a1de-98a3-490d-8af2-b99b77edabae",
     "title": "Shin Megami Tensei V Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "b474a54a-1e9a-4d5e-8b3a-a5af31042885",
+    "title": "Mario + Rabbids Sparks of Hope Nintendo Switch",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e638d/9e531f8542c1b6069964cc46aa6e",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-nintendo-switch-3kh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   },
   {
     "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
