@@ -1760,16 +1760,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "7c2c62b9-c92a-405f-a049-23e74841b9ea",
-    "title": "Switch Little Friends: Dogs & Cats  .. kartridż",
-    "price": "98",
-    "img": "https://a.allegroimg.com/s360x360/1e102e/2e9969714304b0f7ea102b6d999d",
-    "url": "https://allegrolokalnie.pl//oferta/switch-little-friends-dogs-cats-kartridz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
     "title": "Bayonetta 3 Trinity Masquerade Edition",
     "price": "799",
@@ -1788,6 +1778,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "7c2c62b9-c92a-405f-a049-23e74841b9ea",
+    "title": "Switch Little Friends: Dogs & Cats  .. kartridż",
+    "price": "98",
+    "img": "https://a.allegroimg.com/s360x360/1e102e/2e9969714304b0f7ea102b6d999d",
+    "url": "https://allegrolokalnie.pl//oferta/switch-little-friends-dogs-cats-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
@@ -2390,6 +2390,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "0e39ce71-4711-47d3-b568-148dd9f55886",
+    "title": "Luigi Mansion 3 Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e5465/4055a7a54c9fa474432be54c2716",
+    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-switch-t4i?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "46977eaa-d9e4-4335-a7b2-91082e0436c6",
     "title": "Need for Speed Hot Pursuit Switch",
     "price": "80",
@@ -2988,26 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "7c8c8f7f-1090-4d83-98b7-d8a13ba32e44",
-    "title": "Starlink: Bitwa o Atlas Nintendo Switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s360x360/1ef7b4/b292a16849dbbddedc65457f9f26",
-    "url": "https://allegrolokalnie.pl//oferta/starlink-bitwa-o-atlas-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "488f3578-995a-4988-988c-0a6ce40cf47c",
-    "title": "Sniper Elite III: Ultimate Edition Nintendo Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e048e/7ff173594db9b39d7dcd21123edc",
-    "url": "https://allegrolokalnie.pl//oferta/sniper-elite-iii-ultimate-edition-nintendo-switch-u67?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
@@ -5410,6 +5400,16 @@
     "city": "Reda"
   },
   {
+    "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
+    "title": "Bayonetta 3 (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1075/8d5d7153430a895272b41df4766a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-uhp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "08f592e2-746e-4ea2-b4e9-07b3f8c81995",
     "title": "Xenoblade Chronicles Definitive Edition (Switch)",
     "price": "200",
@@ -5985,6 +5985,16 @@
     "price": "769",
     "img": "https://a.allegroimg.com/s360x360/1e7217/ab99f2bb44deb928f7213ba352f5",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-dodatki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
+    "id": "82567d23-5191-4e3e-9e83-1eb45d30b53a",
+    "title": "ZESTAW 16 GIER NINTENDO SWITCH ZELDA MARIO",
+    "price": "1 959",
+    "img": "https://a.allegroimg.com/s360x360/1e67fd/e356736a47dd8970ef1107fd9998",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-16-gier-nintendo-switch-zelda-mario?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
