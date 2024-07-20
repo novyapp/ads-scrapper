@@ -1,15 +1,5 @@
 [
   {
-    "id": "498e09fe-46ad-4071-b771-b1cdb0b0ffb4",
-    "title": "Super Mario Bros U Deluxe Switch Nintendo",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e5814/97ed2bbf41f2a4148f3e0609b8cb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nintendo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin, Prawobrzeże"
-  },
-  {
     "id": "fce9fd95-d7f7-4ed0-a23d-500739e903dc",
     "title": "Metroid Dread na Nintendo Switch",
     "price": "150",
@@ -595,6 +585,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e78ee/136e2ddc44f68a25b68c8d3a6b85",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-n2a?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "c532aba1-06b2-44f1-b99f-f539ba49adef",
+    "title": "Oddworld Soulstorm limited oddition nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed9bf/836e14694a6bb27b47e8d49dd6fb",
+    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-nintendo-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Poznań"
@@ -1198,6 +1198,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "74",
+    "img": "https://a.allegroimg.com/s360x360/1ec0f0/be380b4e4cabb7c3b0f336c62b4b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
@@ -2390,26 +2400,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "0634a661-8fb8-4989-9b87-774035d160bd",
-    "title": "Pikmin 3 Deluxe Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e9c77/c167538b42ed9079033132baa63d",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-3-deluxe-switch-cia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "0634a661-8fb8-4989-9b87-774035d160bd",
-    "title": "Pikmin 3 Deluxe Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e9c77/c167538b42ed9079033132baa63d",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-3-deluxe-switch-cia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
     "title": "Hyrule Warriors Age of Calamity Switch",
     "price": "150",
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Brzoza"
+  },
+  {
+    "id": "2c87f564-5341-4df7-a08e-4fb7534d3399",
+    "title": "Cupid Parasite Sweet and Spicy Darling Nintendo",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e5940/3d76803c4a92a720d95c11b31021",
+    "url": "https://allegrolokalnie.pl//oferta/cupid-parasite-sweet-and-spicy-darling-nintendo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Granowo"
   },
   {
     "id": "2c87f564-5341-4df7-a08e-4fb7534d3399",
@@ -4800,16 +4800,6 @@
     "city": "Pasym"
   },
   {
-    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
-    "title": "WarioWare Get it Together! Wydanie pre-order.",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chełmiec"
-  },
-  {
     "id": "7b4fc228-d5ec-4f7c-b180-944009e0564d",
     "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
     "price": "140",
@@ -5400,6 +5390,26 @@
     "city": "Reda"
   },
   {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
     "title": "Metroid Dread (Switch)",
     "price": "150",
@@ -5985,16 +5995,6 @@
     "price": "679",
     "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
-    "id": "b58938b7-6c77-4009-9c4c-1076ed3b7788",
-    "title": "The Legend of Zelda: Skyward Sword HD + dodatki",
-    "price": "769",
-    "img": "https://a.allegroimg.com/s360x360/1e7217/ab99f2bb44deb928f7213ba352f5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-dodatki?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
