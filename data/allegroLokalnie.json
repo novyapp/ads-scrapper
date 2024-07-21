@@ -440,16 +440,6 @@
     "city": "Lublin"
   },
   {
-    "id": "064ef806-8e26-4855-8838-19a16714c1c8",
-    "title": "Metroid Prime Remastered Nintendo Switch Pudełko",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e4565/d7f76d244c41bdca87fdad61087a",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-pudelko?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
-  },
-  {
     "id": "13258140-3397-41ba-8e8d-b9808c36eccc",
     "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów Gra NINTENDO SWITCH + DLC",
     "price": "135",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Pępowo"
-  },
-  {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "fd0f08a0-59c3-486f-9faa-5488e8a5efdc",
@@ -1190,14 +1170,24 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
-    "title": "Nintendo Switch, Super Mario Bros. WONDER",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e9e32/25415cf44557a68434163f30248b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
-    "promoted": false,
+    "id": "4dc86d32-55eb-45af-91b5-45ab0fd0023d",
+    "title": "WIEDŹMIN 3 KOMPLETNA, DUBBING PL, EDYCJA POLSKA!",
+    "price": "369",
+    "img": "https://a.allegroimg.com/s360x360/1eb49d/e5bf3b2944d09d96b108cc167f7b",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-kompletna-dubbing-pl-edycja-polska-ft6?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Grabówka"
+    "city": "Chełm"
+  },
+  {
+    "id": "45bc8607-4d31-48db-9e37-1f21d6a00488",
+    "title": "Just Dance 2020 - NINTENDO SWITCH",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1e99ae/374890bc4c44a5d7bac91cc85568",
+    "url": "https://allegrolokalnie.pl//oferta/just-dance-2020-nintendo-switch-b33?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Stare Miasto"
   },
   {
     "id": "4dc86d32-55eb-45af-91b5-45ab0fd0023d",
@@ -4790,16 +4780,6 @@
     "city": "Władysławowo"
   },
   {
-    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "2944a5fb-c8c3-4ee0-bbc9-766a9ce9549a",
     "title": "Triangle Strategy Tactician's Limited Edition edycja kolekcjonerska Switch",
     "price": "355",
@@ -5385,6 +5365,26 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
+    "title": "Metroid Dread (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
+    "title": "Metroid Dread (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
@@ -5978,15 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "2033bec0-c606-4291-9be0-4f9fde4536ab",
-    "title": "Ring Fit Adventure Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e439b/252c16ff45e8afa4bfbff831e690",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-wly?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chorzów"
   }
 ]
