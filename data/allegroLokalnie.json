@@ -860,16 +860,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "6f777608-904e-4b0d-a2dc-2bf6999b5d0e",
-    "title": "Super Mario Bros Deluxe",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1efd9d/5523852941fe82e673ef0e6b4681",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-oni?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kębłowo"
-  },
-  {
     "id": "aa3fe2f1-39b6-48fc-b5e8-8d1ee09fabb1",
     "title": "UNIKAT DISCO ELYSIUM FINAL CUT, SWITCH, WERSJA PL!",
     "price": "159",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "6f777608-904e-4b0d-a2dc-2bf6999b5d0e",
+    "title": "Super Mario Bros Deluxe",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1efd9d/5523852941fe82e673ef0e6b4681",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-oni?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kębłowo"
   },
   {
     "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
