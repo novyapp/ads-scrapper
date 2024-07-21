@@ -1200,16 +1200,6 @@
     "city": "POZNAŃ, Stare Miasto"
   },
   {
-    "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
-    "title": "Gra Nintendo Switch Lover Pretend",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "POZNAŃ, Stare Miasto"
-  },
-  {
     "id": "37d3e6eb-d20d-4d65-a6b1-6af0b6201ce6",
     "title": "Lego Star Wars PL Switch",
     "price": "101",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jasło"
+  },
+  {
+    "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
+    "title": "Xenoblade chronicles 2 Nintendo Switch",
+    "price": "174",
+    "img": "https://a.allegroimg.com/s360x360/1e4264/1feeaf1f40c69327ea91e7046057",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-xme?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "adbbf297-2dc6-4441-9636-1d9e73dec7cc",
@@ -4180,6 +4180,26 @@
     "city": "Rąbień"
   },
   {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
+    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
+    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e5fd1/bf8c730f4be6b74b722c4759750c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
     "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
     "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
     "price": "169",
@@ -4755,26 +4775,6 @@
     "price": "210",
     "img": "https://a.allegroimg.com/s360x360/1e4c0a/ff89e887419cb87b5397fa6789e5",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "9aeefd0d-27de-4136-9787-359c320a52e9",
-    "title": "Super smash bros ultimate Nintendo switch stan idealny",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s360x360/1e2448/256c9298412790b8ee79ca68eb2b",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
-    "title": "Super Mario Odyssey Nintendo switch stan idealny",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
@@ -5470,16 +5470,6 @@
     "city": "Warszawa, Żoliborz"
   },
   {
-    "id": "c45e92c8-4ffe-4974-9741-25206c00f7cb",
-    "title": "Dragon Quest Builders 2 - Nintendo Switch - Ang",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2f44/5ac6112f4ddfad1f9501f2611fe5",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-2-nintendo-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
-  },
-  {
     "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
     "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
     "price": "169",
@@ -5978,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczawin"
+  },
+  {
+    "id": "ae7cd707-0018-4ced-89e5-33d54debbf3e",
+    "title": "Gry Nintendo switch-minceraft i snipperclips plus",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed24c/b8630c15436983d4e6a9b9b3f17a",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switchminceraft-i-snipperclips-plus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Supraśl"
+  },
+  {
+    "id": "128214bc-604c-4a66-a5e9-e64244970ce8",
+    "title": "F.I.S.T Forged in Shadow Torch Switch NOWA LIMITED",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1ea5a8/3500c2ce4e689c5928d702a1bc64",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-switch-nowa-limited?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "e100f998-a825-4158-a335-86371fc52de4",
+    "title": "Eastward Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ec9c1/7490c22b4ae0afec9045a430dae7",
+    "url": "https://allegrolokalnie.pl//oferta/eastward-nintendo-switch-yyg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
   }
 ]
