@@ -880,16 +880,6 @@
     "city": "Lublin"
   },
   {
-    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
-    "title": "Nintendo Switch, Super Mario Bros. WONDER",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e9e32/25415cf44557a68434163f30248b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Grabówka"
-  },
-  {
     "id": "6e6c00ce-48e2-4226-ba3f-267799b32657",
     "title": "GRA SUPER MARIO BROS WONDER NA NINTENDO SWITCH *SZYBKA WYSYŁKA*",
     "price": "159",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
+  },
+  {
+    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
+    "title": "Nintendo Switch, Super Mario Bros. WONDER",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e9e32/25415cf44557a68434163f30248b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
   },
   {
     "id": "4dc86d32-55eb-45af-91b5-45ab0fd0023d",
@@ -1800,21 +1800,21 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "615798cd-0df3-40a8-8364-301e3e9ea36d",
-    "title": "Remnant From The Ashes",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e6ff4/9867e1d44ec8b0be2d9094a5a3eb",
-    "url": "https://allegrolokalnie.pl//oferta/remnant-from-the-ashes-ztk?navCategoryId=256922",
+    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
+    "title": "SIFU Redemption Edition Nintendo Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
   },
   {
-    "id": "3c235e53-fdab-4c06-a702-e98f7b441e5d",
-    "title": "Star Ocean The Second Story R",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e9095/0e6c44e646ed81a8ed2aeed40b09",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-iko?navCategoryId=256922",
+    "id": "615798cd-0df3-40a8-8364-301e3e9ea36d",
+    "title": "Remnant From The Ashes",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e6ff4/9867e1d44ec8b0be2d9094a5a3eb",
+    "url": "https://allegrolokalnie.pl//oferta/remnant-from-the-ashes-ztk?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
@@ -2385,16 +2385,6 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e5465/4055a7a54c9fa474432be54c2716",
     "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-switch-t4i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "46977eaa-d9e4-4335-a7b2-91082e0436c6",
-    "title": "Need for Speed Hot Pursuit Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e641d/ef479fe94fcdb1bc5d4d492f9af7",
-    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-switch-ilp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5400,16 +5390,6 @@
     "city": "Reda"
   },
   {
-    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
-    "title": "Metroid Dread (Switch)",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
     "title": "Bayonetta 3 (Switch)",
     "price": "150",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
+  },
+  {
+    "id": "2033bec0-c606-4291-9be0-4f9fde4536ab",
+    "title": "Ring Fit Adventure Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e439b/252c16ff45e8afa4bfbff831e690",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-wly?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
   }
 ]
