@@ -850,16 +850,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "97b66be3-3428-44a7-8f6b-cb151c5cba34",
-    "title": "MARIO KART + BONUS *SZYBKA WYSYŁKA* NINTENDO SWITCH",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e24a5/5c26ffc04b5b8ef85057eea56703",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-bonus-szybka-wysylka-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "aa3fe2f1-39b6-48fc-b5e8-8d1ee09fabb1",
     "title": "UNIKAT DISCO ELYSIUM FINAL CUT, SWITCH, WERSJA PL!",
     "price": "159",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "97b66be3-3428-44a7-8f6b-cb151c5cba34",
+    "title": "MARIO KART + BONUS *SZYBKA WYSYŁKA* NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e24a5/5c26ffc04b5b8ef85057eea56703",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-bonus-szybka-wysylka-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   },
   {
     "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
@@ -2385,16 +2385,6 @@
     "price": "140",
     "img": "https://a.allegroimg.com/s360x360/1e9c77/c167538b42ed9079033132baa63d",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-3-deluxe-switch-cia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
-    "title": "Hyrule Warriors Age of Calamity Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -4800,6 +4790,16 @@
     "city": "Pasym"
   },
   {
+    "id": "34591acf-5d78-45f6-8881-a4ca7a253a1b",
+    "title": "Gra Autonauts na konsole Nintendo Switch Nowa",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e0b61/b19a52344de0abe8ab5aade0ffcb",
+    "url": "https://allegrolokalnie.pl//oferta/gra-autonauts-na-konsole-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
     "id": "90198270-d1e0-41ce-9355-2b89749f781c",
     "title": "WarioWare Get it Together! Wydanie pre-order.",
     "price": "149",
@@ -5390,26 +5390,6 @@
     "city": "Reda"
   },
   {
-    "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
-    "title": "Bayonetta 2 (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e69ed/ae1284d24109a5b83c8bfe165367",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-xdh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
-    "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
-    "title": "Bayonetta 2 (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e69ed/ae1284d24109a5b83c8bfe165367",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-xdh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
     "title": "Final Fantasy XII (Switch)",
     "price": "120",
@@ -5995,6 +5975,16 @@
     "price": "349",
     "img": "https://a.allegroimg.com/s360x360/1e6072/a1bf35a24a70aadb3a1d18b0c287",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-special-edition-nintendo-switch-2q7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
+    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
+    "title": "The Legend of Zelda: Link's Awakening Limited",
+    "price": "679",
+    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
