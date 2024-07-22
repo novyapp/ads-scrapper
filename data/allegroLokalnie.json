@@ -1110,16 +1110,6 @@
     "city": "Wrocław, Stare Miasto"
   },
   {
-    "id": "d7cc61b1-feba-4dc5-90be-db96c200d858",
-    "title": "Super Mario 3D World + Bowser’s Fury",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e8b5a/79589dd4473bbd86981311b68122",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-lda-n2m?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "121a6afd-f938-4b60-b7be-5892f2db0e69",
     "title": "valkyria chronicles 4 nintendo switch oryginalne pudełko",
     "price": "120",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "d7cc61b1-feba-4dc5-90be-db96c200d858",
+    "title": "Super Mario 3D World + Bowser’s Fury",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e8b5a/79589dd4473bbd86981311b68122",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-lda-n2m?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
@@ -1590,16 +1590,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "d66d488a-88d0-4ad8-948c-4b0eaca33792",
-    "title": "Final Fantasy XII: The Zodiac Age, Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ebf29/d9b54845496bad7b3bc69978607a",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-the-zodiac-age-nintendo-switch-7rr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "0143d9be-57e4-4b55-ab30-f3ee9749745a",
     "title": "Gra Nintendo Switch Wiedźmin 3: Dziki Gon",
     "price": "139",
@@ -1798,16 +1788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Łososina dolna"
-  },
-  {
-    "id": "408ba710-6001-4107-bea2-38210a4c6409",
-    "title": "Gra Pokémon Shield",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e3596/22e661ea4878bdf2d9736bddd4e8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-bj6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostróda"
   },
   {
     "id": "a9500ae1-8f4b-4275-b9e9-19869ac2a314",
@@ -2398,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "9320b945-ae5f-43c9-9edf-0232a14e7c87",
+    "title": "Pokemon Violet (Nintendo Switch",
+    "price": "173",
+    "img": "https://a.allegroimg.com/s360x360/1ed14a/983e474e456da55e6b8705c7d9f7",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-shg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Zwierzyniec"
   },
   {
     "id": "9320b945-ae5f-43c9-9edf-0232a14e7c87",
