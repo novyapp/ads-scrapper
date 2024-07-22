@@ -1190,16 +1190,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "23902d86-e7d1-4287-9070-abf092375e0e",
-    "title": "Gra Animal Crossing New Horizons Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ebe84/85e50fb24fa697f44653caf910d9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-nintendo-switch-4it?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
     "title": "Civilization VI Nintendo Switch",
     "price": "109",
@@ -1788,6 +1778,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "b5e50d20-a13d-4c2c-9648-ee2fa534f52c",
+    "title": "Mario cart 8 deluxe",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1eee69/2490e95a4ab48657372ef1a88322",
+    "url": "https://allegrolokalnie.pl//oferta/mario-cart-8-deluxe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Toruń"
   },
   {
     "id": "035c80a9-5c19-42d4-b58e-e86dc34d1249",
@@ -5370,26 +5370,6 @@
     "city": "Warszawa, Żoliborz"
   },
   {
-    "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
-    "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e455c/8809682847a7927e4130e6fdc607",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-nzd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kownaciska"
-  },
-  {
-    "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
-    "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e455c/8809682847a7927e4130e6fdc607",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-nzd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kownaciska"
-  },
-  {
     "id": "2f546471-bb55-4e93-8ea0-9747f48d643e",
     "title": "Super Mario Wonders",
     "price": "150",
@@ -5978,5 +5958,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Włochy"
+  },
+  {
+    "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
+    "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
+    "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
