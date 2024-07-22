@@ -600,16 +600,6 @@
     "city": "Pogorzela"
   },
   {
-    "id": "fd0f08a0-59c3-486f-9faa-5488e8a5efdc",
-    "title": "Grand Theft Auto: The Trilogy - The Definitive Edition NS",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e5720/8b53056e4cac9891deacec1a10c3",
-    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-the-definitive-edition-ns?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pogorzela"
-  },
-  {
     "id": "1ddc1978-e349-4a66-bd91-c9f6cf491788",
     "title": "Gra Nintendo Switch Darksiders III PL",
     "price": "60",
@@ -1800,6 +1790,16 @@
     "city": "Jasło"
   },
   {
+    "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
+    "title": "Xenoblade chronicles 2 Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e4264/1feeaf1f40c69327ea91e7046057",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-xme?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
     "id": "adbbf297-2dc6-4441-9636-1d9e73dec7cc",
     "title": "Pokemon brilliant diamond",
     "price": "120",
@@ -2113,7 +2113,7 @@
     "id": "19dd842a-2ef1-4377-ae73-0b5dcddf93f9",
     "title": "SNUFKIN: MELODY OF MOOMINVALLEY (SWITCH) EGZ NOWY",
     "price": "239",
-    "img": "https://a.allegroimg.com/s360x360/1e37ee/2417451b4d4aad72ba83ab1ce485",
+    "img": "https://a.allegroimg.com/s360x360/1efb9f/9cc3ad6d4d618129ba49805f65a4",
     "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-switch-egz-nowy-ynf?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -2690,16 +2690,6 @@
     "city": "Zielona góra, Nowe Miasto"
   },
   {
-    "id": "eaeb47dd-47f4-4f70-a968-4937fd70ff93",
-    "title": "Mario & Sonic at the Olympic Games Tokyo 2020 Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1eb6f3/198b98114ad7a09a2c9eae0f143f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-sonic-at-the-olympic-games-tokyo-2020-nintendo-switch-cvf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona góra, Nowe Miasto"
-  },
-  {
     "id": "61cf84a5-c572-4142-a5f5-a07be01df67e",
     "title": "Charade Maniacs visual novel otome",
     "price": "199",
@@ -2988,6 +2978,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
+  },
+  {
+    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
+    "title": "Animal Crossing New Horizons",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dmosin"
-  },
-  {
-    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
-    "title": "No More Heroes 3 Switch - Wrocław",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
@@ -4800,6 +4790,16 @@
     "city": "Zamość"
   },
   {
+    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
+    "title": "Super Mario Odyssey Nintendo switch stan idealny",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
     "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
     "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
     "price": "120",
@@ -5390,26 +5390,6 @@
     "city": "Wola Będkowska"
   },
   {
-    "id": "54b96404-9b5d-4681-88a5-fdc4c76c697f",
-    "title": "Pokemon Scarlet / Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ee7cc/a76b78c54484b30aa978565ff0d0",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-yi6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Reda"
-  },
-  {
-    "id": "54b96404-9b5d-4681-88a5-fdc4c76c697f",
-    "title": "Pokemon Scarlet / Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ee7cc/a76b78c54484b30aa978565ff0d0",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-yi6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Reda"
-  },
-  {
     "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
     "title": "The legend of Zelda breath of the wild",
     "price": "170",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Stare Miasto"
+  },
+  {
+    "id": "e0827944-9776-44dd-afc4-c993b1459ccb",
+    "title": "Zestaw Ring Fit Adventure dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e5af9/61454f30411eb36d9ff041e88aea",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-ring-fit-adventure-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bieńczyce"
   }
 ]
