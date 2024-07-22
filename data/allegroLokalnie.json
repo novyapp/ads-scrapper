@@ -1250,16 +1250,6 @@
     "city": "Kazimierz Dolny"
   },
   {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
     "title": "Lego Marvel Super Heroes 2 Switch PL",
     "price": "96",
@@ -1308,16 +1298,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kalisz"
-  },
-  {
-    "id": "70a8deb1-f1eb-46c4-b462-2547366afc41",
-    "title": "UNIKAT PERSONA 4 GOLDEN SWITCH",
-    "price": "450",
-    "img": "https://a.allegroimg.com/s360x360/1e5c22/ec5e6edc443eb2998c77ea68557e",
-    "url": "https://allegrolokalnie.pl//oferta/unikat-persona-3-portable-persona-4-golden-switch-47d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
   },
   {
     "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
@@ -1660,6 +1640,26 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
+    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
+    "title": "Final Fantasy gra na Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3487/f29a99094a77be4ed8ca9433ecd6",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-gra-na-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "5bfcd94b-51b9-4919-aa49-d389b8f09baf",
     "title": "Super smash Bros ultimate NS",
     "price": "140",
@@ -1788,16 +1788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Bemowo"
-  },
-  {
-    "id": "3e8a93e8-5900-44f3-b671-84409b26c19e",
-    "title": "Gra Just Dance 2021 - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1efd06/8c3ab163426880d76f90d0da6eee",
-    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2021-nintendo-switch-gfs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   },
   {
     "id": "3e8a93e8-5900-44f3-b671-84409b26c19e",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "1571d5fe-38fb-41d0-9809-4f7569909ba2",
+    "title": "Life is Strange True Colors Nintendo Switch JAK NOWA Angielska wersja",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e0ecd/fb0690194bb193ee48563c982265",
+    "url": "https://allegrolokalnie.pl//oferta/life-is-strange-true-colors-nintendo-switch-jak-nowa-angielska-wersja-ihl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
   },
   {
     "id": "9d23fd4f-d1ad-477c-b797-fdc85524a903",
@@ -3062,7 +3062,7 @@
   {
     "id": "274cdbe4-6e6a-4d1d-96aa-b2a049962f5f",
     "title": "THE BINDING OF ISAAC: REPENTANCE (SWITCH) EGZ NOWY",
-    "price": "299",
+    "price": "311",
     "img": "https://a.allegroimg.com/s360x360/1e2388/508341904cc99cd4f4ba1da053a2",
     "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-switch-egz-nowy?navCategoryId=256922",
     "promoted": false,
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "14f132cd-4694-4eb9-8ec5-98bc392e8274",
-    "title": "Gra Nintendo Switch Dead Cells",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1eb4d2/139a75424140b3a33832c9564656",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-cells?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dmosin"
   },
   {
     "id": "14f132cd-4694-4eb9-8ec5-98bc392e8274",
@@ -4800,6 +4790,16 @@
     "city": "Zamość"
   },
   {
+    "id": "9aeefd0d-27de-4136-9787-359c320a52e9",
+    "title": "Super smash bros ultimate Nintendo switch stan idealny",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s360x360/1e2448/256c9298412790b8ee79ca68eb2b",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
     "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
     "title": "Super Mario Odyssey Nintendo switch stan idealny",
     "price": "190",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "e100f998-a825-4158-a335-86371fc52de4",
-    "title": "Eastward Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ec9c1/7490c22b4ae0afec9045a430dae7",
-    "url": "https://allegrolokalnie.pl//oferta/eastward-nintendo-switch-yyg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
   }
 ]
