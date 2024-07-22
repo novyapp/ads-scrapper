@@ -590,16 +590,6 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "1ddc1978-e349-4a66-bd91-c9f6cf491788",
-    "title": "Gra Nintendo Switch Darksiders III PL",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1e79b1/36afa65445b197527370e0a41302",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-darksiders-iii-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
     "title": "Gra Nintendo Switch Bendy and the ink Machine - kardridż RARYTAS",
     "price": "199",
@@ -818,16 +808,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Dzierżoniów"
-  },
-  {
-    "id": "9904ef38-c259-4c02-98f8-2445b9d5dd93",
-    "title": "Paper Mario The Thousand-Year D",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e7376/aa91d0a3419688664d4a57770613",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilkowice "
   },
   {
     "id": "6e6c00ce-48e2-4226-ba3f-267799b32657",
@@ -1198,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "9904ef38-c259-4c02-98f8-2445b9d5dd93",
+    "title": "Paper Mario The Thousand-Year D",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e7376/aa91d0a3419688664d4a57770613",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilkowice "
   },
   {
     "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
@@ -1800,6 +1790,26 @@
     "city": "Warszawa, Śródmieście"
   },
   {
+    "id": "2f838869-ebe3-4f3f-a10a-ffbacb86a5b0",
+    "title": "Gra pokémon shield",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ea8c2/3d8fab7249d8b70ee32b1a27510e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-mng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jasło"
+  },
+  {
+    "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
+    "title": "Xenoblade chronicles 2 Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e4264/1feeaf1f40c69327ea91e7046057",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-xme?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
     "id": "adbbf297-2dc6-4441-9636-1d9e73dec7cc",
     "title": "Pokemon brilliant diamond",
     "price": "120",
@@ -2112,7 +2122,7 @@
   {
     "id": "19dd842a-2ef1-4377-ae73-0b5dcddf93f9",
     "title": "SNUFKIN: MELODY OF MOOMINVALLEY (SWITCH) EGZ NOWY",
-    "price": "239",
+    "price": "229",
     "img": "https://a.allegroimg.com/s360x360/1efb9f/9cc3ad6d4d618129ba49805f65a4",
     "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-switch-egz-nowy-ynf?navCategoryId=256922",
     "promoted": false,
@@ -2378,26 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
-  },
-  {
-    "id": "9d23fd4f-d1ad-477c-b797-fdc85524a903",
-    "title": "Pokemon Sword Nintendo Switch gra",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1eb858/54f50e854d3e86a806dbc2ee2f85",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-gra-5ez?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Prądnik Biały"
-  },
-  {
-    "id": "75f32a6a-f81e-4268-850d-61d174505622",
-    "title": "Pokemon Let's Go Eevee",
-    "price": "164",
-    "img": "https://a.allegroimg.com/s360x360/1e34d2/0676abea412bb45338ed2d0b3e92",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-43g?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Częstochowa, Tysiąclecie"
   },
   {
     "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
@@ -4200,6 +4190,26 @@
     "city": "Szczecin"
   },
   {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
+    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
+    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e5fd1/bf8c730f4be6b74b722c4759750c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
     "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
     "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
     "price": "169",
@@ -4328,16 +4338,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
-  },
-  {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "af1d9457-1776-4698-9e27-08590fcf56b8",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Stare Miasto"
-  },
-  {
-    "id": "e0827944-9776-44dd-afc4-c993b1459ccb",
-    "title": "Zestaw Ring Fit Adventure dla Nintendo Switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e5af9/61454f30411eb36d9ff041e88aea",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-ring-fit-adventure-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Bieńczyce"
   }
 ]
