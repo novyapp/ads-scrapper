@@ -1,5 +1,15 @@
 [
   {
+    "id": "0cf74e85-c8a5-4216-b4b6-de54c06c10a1",
+    "title": "Xenoblade chronicles 2 expansion pass bez torna",
+    "price": "30",
+    "img": "https://a.allegroimg.com/s360x360/1e2b3e/7599a4e740e288141d0c99b4dfe2",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-expansion-pass-bez-torna?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Kraków, Bronowice Małe Wschód"
+  },
+  {
     "id": "dc5c640c-30fd-4b77-aa6d-2244e71cd77f",
     "title": "Prince of Persia: The Lost Crown NS",
     "price": "80",
@@ -1170,6 +1180,26 @@
     "city": "Białystok"
   },
   {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdynia, Karwiny"
+  },
+  {
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Gothic II Complete Classic PL Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
     "title": "Gra Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
@@ -1758,16 +1788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Żoliborz"
-  },
-  {
-    "id": "85346056-1c2d-42f7-b92c-5dd0eda511e8",
-    "title": "Zelda Breath of the Wild - Samo Pudełko bez gry",
-    "price": "20",
-    "img": "https://a.allegroimg.com/s360x360/1ec664/814f741445cd8970ab2f7a975fbf",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-samo-pudelko-bez-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Mokotów"
   },
   {
     "id": "85346056-1c2d-42f7-b92c-5dd0eda511e8",
@@ -4110,16 +4130,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "87937458-3bb2-480e-9409-708dac95b385",
-    "title": "Switch Pokemon Let's go Pikachu .. nowy folia",
-    "price": "197",
-    "img": "https://a.allegroimg.com/s360x360/1eb374/efa5a5da42b5887971501a64c62b",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-nowy-folia-pqt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rąbień"
-  },
-  {
     "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
     "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
     "price": "100",
@@ -5380,16 +5390,6 @@
     "city": "Strzelin"
   },
   {
-    "id": "935baf5d-0498-4610-9762-114ae00f4bce",
-    "title": "Mario Odyssey na Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e4ebf/5f8e61a643fbafd2b0ad9e2d2efd",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-na-nintendo-switch-jqi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
-  },
-  {
     "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
     "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
     "price": "169",
@@ -5968,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jabłonka, Stare Miasto"
+  },
+  {
+    "id": "6453ca78-ec5a-44dd-a402-2b78ae5861d8",
+    "title": "Hot Wheels Unleashed Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ee051/a85d7f0a4350a70c65823db315a7",
+    "url": "https://allegrolokalnie.pl//oferta/hot-wheels-unleashed-nintendo-switch-x72?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Wilda"
+  },
+  {
+    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
+    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Włochy"
   }
 ]
