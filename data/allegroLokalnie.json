@@ -406,7 +406,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e04d5/2358ae5e4c0dbe18e29ed9650acd",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-sam-kartridz?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -496,7 +496,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed7e3/d698ba4b4effaa99382a7dc661fa",
     "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-nintendo-switch-tcl?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -536,7 +536,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e9433/5586f1004a9595619c7268fd7ba2",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-switch-5io?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -785,16 +785,6 @@
     "price": "210",
     "img": "https://a.allegroimg.com/s360x360/1ea1d9/2f6436184d8596907f6d59a88002",
     "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-nintendo-switch-isu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
-    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Dzierżoniów"
@@ -1200,6 +1190,16 @@
     "city": "Kazimierz Dolny"
   },
   {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
     "title": "Lego Marvel Super Heroes 2 Switch PL",
     "price": "96",
@@ -1590,6 +1590,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "2c83a749-6329-4fcd-948c-188efffab17c",
+    "title": "SNUFKIN: MELODY OF MOOMINVALLEY (SWITCH) EGZ NOWY",
+    "price": "255",
+    "img": "https://a.allegroimg.com/s360x360/1ea0f5/77a3c6334054957cc84635cbf4cb",
+    "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-switch-egz-nowy-qcj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "9c546a63-6a47-4866-b2d7-5fefb20dc338",
     "title": "Gra Nintendo Switch: Fire Emblem Three Houses",
     "price": "160",
@@ -1872,7 +1882,7 @@
   {
     "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
     "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
-    "price": "650",
+    "price": "600",
     "img": "https://a.allegroimg.com/s360x360/1e8270/635d7ad442edb2c6ff770314f733",
     "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch?navCategoryId=256922",
     "promoted": false,
@@ -3000,26 +3010,6 @@
     "city": "Pleszew"
   },
   {
-    "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
-    "title": "Crash Bandicoot 4: Najwyższy czas SWITCH PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea3a9/c1f1d0a94a038df93cc3d0d9c418",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-cg7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
-    "id": "6f2d516c-3764-4d05-9f16-15f1b209ca2a",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nowa",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e1b02/7d25dc0a4810b4d0b6a71ca4b83a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nowa-jvb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pleszew"
-  },
-  {
     "id": "18ec6618-0564-411e-950e-2547ff736905",
     "title": "Mario Sparks of Hope NOWA",
     "price": "70",
@@ -3600,6 +3590,26 @@
     "city": "Wrocław, Psie Pole"
   },
   {
+    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
+    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieluń"
+  },
+  {
+    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
+    "title": "GRY NA NINTENDO SWITCH",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6de0/8100722e46f5b252dfe6df5354bf",
+    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tomaszów Lubelski"
+  },
+  {
     "id": "6786ed86-ee08-461f-9263-fec1721d33be",
     "title": "Monster Hunter Stories 2 Nintendo SWITCH",
     "price": "109",
@@ -4178,26 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
-    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e9acc/3680cbf84de4a1639029e27219b7",
-    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
-    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
   },
   {
     "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
@@ -5400,6 +5390,26 @@
     "city": "Dębno"
   },
   {
+    "id": "8a094510-a190-4e1d-8382-1012b9438fa4",
+    "title": "Nowa Construction Machines Simulator NSW Polski!",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1edc10/926bf29d44779dcd4bad1e13cd1a",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-construction-machines-simulator-nsw-niemiecki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
+    "title": "Switch Gothic PL pudełko NOWA",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
+  },
+  {
     "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
     "title": "Ash of Gods: Redemption Switch",
     "price": "59",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "d21ad935-a9b5-47e4-858b-d21ec2a0e344",
-    "title": "Shin Megami Tensei V Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1eef8f/9541cf5b4b80b65806568c7900da",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-hn2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jabłonka, Stare Miasto"
   }
 ]
