@@ -230,16 +230,6 @@
     "city": "Białystok"
   },
   {
-    "id": "809d833d-f5f9-4cf5-af0b-bbeefbabe00a",
-    "title": "POKEMON SHINING PEARL (nintendo switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2085/93beba51416b8275b86c66d29e70",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-oz3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zawoja, Podryżowana"
-  },
-  {
     "id": "0b032820-8e92-4cc1-bab3-cf878d145ff1",
     "title": "Super Mario RPG Nintendo Switch",
     "price": "115",
@@ -600,6 +590,36 @@
     "city": "Piaseczno"
   },
   {
+    "id": "03d9f08e-38fd-49d8-a86b-59b5635f2b84",
+    "title": "Dr Kawashima's Brain Training for Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5ebc/a954c1324371a66a28daf7d1b702",
+    "url": "https://allegrolokalnie.pl//oferta/dr-kawashimas-brain-training-for-nintendo-switch-y56?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
+    "id": "bf3a5e2d-7c41-401a-ac59-50f8359460d4",
+    "title": "Big Brain Academy Brain vs Brain Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ea80d/643e6e314c5c93cbc8645bf95019",
+    "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-brain-vs-brain-nintendo-switch-vl6?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
+    "id": "72881b65-ee8d-4be9-921a-b526cb74b009",
+    "title": "Wiedźmin 3 Dziki Gon Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1eafc3/7c6a54d94288a819a8047629d8eb",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-switch-f2r?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
     "id": "d69268ea-a184-45b7-98a5-1a7b31f39777",
     "title": "Super Mario Bros: Deluxe,  RPG I Super Mario Wonder Nintendo Switch",
     "price": "400",
@@ -815,26 +835,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e8b52/4f75d28042caad916ba7bfa0d871",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
-    "title": "[Nintendo Switch] Triangle Strategy",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
-    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -1170,34 +1170,24 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
-    "title": "Scribblenauts Showdown Gra Nintendo Switch",
-    "price": "35",
-    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
-    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
-    "promoted": true,
+    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
+    "title": "[Nintendo Switch] Triangle Strategy",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Tczew"
+    "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": true,
+    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
+    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Kazimierz Dolny"
-  },
-  {
-    "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
-    "title": "Lego Marvel Super Heroes 2 Switch PL",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s360x360/1e2b87/9a297c66489aba3e2182eca1fc7e",
-    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-switch-pl-lrc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
+    "city": "Kraków, Nowa Huta"
   },
   {
     "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
@@ -1788,36 +1778,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Krasiczyn"
-  },
-  {
-    "id": "526d897e-e73e-4ff4-b2f7-1532536df945",
-    "title": "Legend of Zelda: Breath of the Wild - Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s360x360/1eec4b/739da22240e8b800b7d1ab8cc56c",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-nintendo-switch-56j?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radłów"
-  },
-  {
-    "id": "97af554c-1867-41ed-95a5-94a2699282d3",
-    "title": "Splatoon 2 - Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e7082/6b21427846b5856571676da417fb",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-lpq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radłów"
-  },
-  {
-    "id": "f5bb2d80-130f-4ac8-9f3b-7cf7b1a9668a",
-    "title": "Tony Hawk's Pro Skater 1 + 2 Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1efa19/ca45428f48e798feb74c781d858e",
-    "url": "https://allegrolokalnie.pl//oferta/tony-hawks-pro-skater-1-2-nintendo-switch-j6a?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   },
   {
     "id": "615798cd-0df3-40a8-8364-301e3e9ea36d",
@@ -3588,6 +3548,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
+    "title": "Gra Nintendo Switch Burnout Paradise remastered",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
+    "title": "Gra Nintendo Switch Disgaea 5 Complete",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e35f7/3e9fe38a421aaca6da5f77593f53",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-disgaea-5-complete-7fw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "a7947cab-1196-4b6e-9dd8-781b558cc160",
+    "title": "Cult of the Lamb Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e28ee/dedb81324d51b5b35a720d9de3eb",
+    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb-nintendo-switch-sxi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sierpc"
   },
   {
     "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
