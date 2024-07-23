@@ -70,16 +70,6 @@
     "city": "Zawoja, Podryżowana"
   },
   {
-    "id": "7380d6f7-c3cd-449c-a7ad-69f902e0e7a1",
-    "title": "ZELDA BREATH OF THE WILD SWITCH PUDEŁKOWA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e2f89/f7d40e5e4189a90f7bfbacc135d4",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-switch-pudelkowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "0b032820-8e92-4cc1-bab3-cf878d145ff1",
     "title": "Super Mario RPG Nintendo Switch",
     "price": "120",
@@ -1780,6 +1770,26 @@
     "city": "Wrocław"
   },
   {
+    "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
+    "title": "Switch Sonic Forces",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
+    "title": "Switch Sonic Forces",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "78b55fed-e173-4147-8ac0-219604928dd5",
     "title": "Switch Crash Bandicoot N-sane Trilogy",
     "price": "80",
@@ -2365,26 +2375,6 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e9d66/69c3150a4fe69083823333c8be22",
     "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
-    "title": "Let's Get Fit + Opaski",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2127/0e8fe1c34ac6a5626cc961570236",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-opaski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "abd8f002-d419-4092-a401-c783bbb8f172",
-    "title": "Fitness Boxing 2 Rhythm & Exercise",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ed840/780c3c1349a3ba65c32078f532e2",
-    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-l2u?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -2990,16 +2980,6 @@
     "city": "Reda"
   },
   {
-    "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
-    "title": "Gra na Nintendo Switch Hollow Knight",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee8ee/f5f5295d4e9db86a5880e60c249d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-hollow-knight?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Mistrzejowice"
-  },
-  {
     "id": "9f1075ef-48e5-4335-8197-5d2a81592beb",
     "title": "Super Mario Wonder Nintendo Switch",
     "price": "151",
@@ -3580,14 +3560,24 @@
     "city": "Bysław"
   },
   {
-    "id": "923892b2-bbd9-4fc1-b2d0-b3f8d572c3b5",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e0ee7/33f2c7ae407aae7f81a15e3d0455",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-esf?navCategoryId=256922",
+    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
+    "title": "Harvestella Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Bysław"
+    "city": "Wrocław"
+  },
+  {
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
@@ -4180,21 +4170,11 @@
     "city": "Groblice"
   },
   {
-    "id": "0db74203-4a93-4fa6-b444-ea94cf58c8f6",
-    "title": "YOSHI CRAFTED WORLD 1-2 GRACZY nintendo kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/1113b3/d364e8544af48e5ca6d7318d4932",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
-    "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
+    "id": "cfcd3232-0d48-4dd4-9ba2-10f0de1bf5dd",
+    "title": "ASH OF GODS REDEMPTION PL po polsku turowy RPG STRATEGIA jak banner saga",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/11df9b/28ec8637479c85d89ebc11a4bdce",
+    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-pl-po-polsku-turowy-rpg-strategia-jak-banner-saga-avd?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5978,5 +5958,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "97cd099e-a1d3-45e9-b54f-0e6ccd675938",
+    "title": "Battle Axe Nintendo Switch. Nowa w folli",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e4316/ff4edf994b3b942a05a7cc2f97cd",
+    "url": "https://allegrolokalnie.pl//oferta/battle-axe-nintendo-switch-nowa-w-folli-pej?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żychlin"
+  },
+  {
+    "id": "524761cc-d378-4d0f-a1da-ceb17b84a4c3",
+    "title": "Bayonetta 3 Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e1f/b38a0fb348cab026ee0fb2a6c819",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-w63?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Plewiska"
   }
 ]
