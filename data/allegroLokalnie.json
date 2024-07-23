@@ -1566,7 +1566,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e3e29/0a257d2e4048b1fd76c4a0b45659",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gra-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Bemowo"
   },
   {
@@ -1658,16 +1658,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "9c546a63-6a47-4866-b2d7-5fefb20dc338",
-    "title": "Gra Nintendo Switch: Fire Emblem Three Houses",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ecd33/b92e81b4419e8b1608444d076a88",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-fire-emblem-three-houses-j6p?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
   },
   {
     "id": "91a3ecc0-0850-4942-8848-8e08c2f22156",
@@ -1798,6 +1788,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "3e8a93e8-5900-44f3-b671-84409b26c19e",
+    "title": "Gra Just Dance 2021 - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1efd06/8c3ab163426880d76f90d0da6eee",
+    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2021-nintendo-switch-gfs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "2f838869-ebe3-4f3f-a10a-ffbacb86a5b0",
+    "title": "Gra pokémon shield",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ea8c2/3d8fab7249d8b70ee32b1a27510e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-mng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jasło"
   },
   {
     "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
@@ -2182,7 +2192,7 @@
   {
     "id": "a74360ab-aa33-4ab4-bc30-7b0f0e8df56e",
     "title": "Rain Code collector's edition(mysteriful edition)",
-    "price": "250",
+    "price": "220",
     "img": "https://a.allegroimg.com/s360x360/1e0c76/30af8ad5411581f09e1342526457",
     "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
     "promoted": false,
@@ -2192,7 +2202,7 @@
   {
     "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
     "title": "Bayonetta 2 collector's edition",
-    "price": "250",
+    "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
     "promoted": false,
@@ -2202,7 +2212,7 @@
   {
     "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
     "title": "The legend of zelda Link's awakening collectors edition",
-    "price": "650",
+    "price": "600",
     "img": "https://a.allegroimg.com/s360x360/1e5072/2580bb3b4bef9e049ca8d792d122",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-collectors-edition?navCategoryId=256922",
     "promoted": false,
@@ -4800,26 +4810,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "7b4fc228-d5ec-4f7c-b180-944009e0564d",
-    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e87bb/1d0a957943bb9da979b8f2d74f6a",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Władysławowo"
-  },
-  {
-    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "2944a5fb-c8c3-4ee0-bbc9-766a9ce9549a",
     "title": "Triangle Strategy Tactician's Limited Edition edycja kolekcjonerska Switch",
     "price": "355",
@@ -5395,6 +5385,26 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
+    "title": "Metroid Dread (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
+    "title": "Bayonetta 3 (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1075/8d5d7153430a895272b41df4766a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-uhp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
@@ -5978,25 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
-  },
-  {
-    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
-    "title": "NINJA JajaMaru - The Great Yokai Battle",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
-    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "528d5995-d1f6-4f3a-a28f-8ac990101f05",
-    "title": "Switch Fitness Boxing nowa",
-    "price": "148",
-    "img": "https://a.allegroimg.com/s360x360/1ef943/e5715bc24c8688788a4e97eca10b",
-    "url": "https://allegrolokalnie.pl//oferta/switch-fitness-boxing-nowa-6vr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sarnów"
   }
 ]
