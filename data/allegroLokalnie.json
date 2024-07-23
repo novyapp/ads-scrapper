@@ -1,5 +1,15 @@
 [
   {
+    "id": "446fa9f4-5bee-4c46-bb2e-77dfd5da0d85",
+    "title": "Xenoblade chronicles 2",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1ebe6f/d2ba6a4147b19793df4e62c7a4e4",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-coe?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Olsztyn"
+  },
+  {
     "id": "f2a7082c-58ba-45cb-ae61-0d74cf489a37",
     "title": "Metroid Prime Remastered",
     "price": "110",
@@ -1510,6 +1520,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "92a6f8d1-4f6e-41d8-87f7-07d7d06040bf",
+    "title": "Kirby and the forgotten land",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1eb8ac/e9871e004f4fbc991dd1a6530fb1",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-q47?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kobyłka"
+  },
+  {
     "id": "d01cff50-d5cc-4c8f-b3ff-793121f3da82",
     "title": "Gra Super Mario 3D World + Bowser’s Fury - Nintendo Switch",
     "price": "125",
@@ -2970,6 +2990,16 @@
     "city": "Łomnica"
   },
   {
+    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
+    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1ba4/2fa71d2641fb95228a4234ecc26e",
+    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Brzoza"
+  },
+  {
     "id": "2c87f564-5341-4df7-a08e-4fb7534d3399",
     "title": "Cupid Parasite Sweet and Spicy Darling Nintendo",
     "price": "150",
@@ -3555,6 +3585,16 @@
     "price": "135",
     "img": "https://a.allegroimg.com/s360x360/1ed7c9/1ad90f3f4be3a485f605176ad1c2",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-tales-of-vesperia-definitive-edition-bandai-namco?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
+    "title": "Gra Nintendo Switch Burnout Paradise remastered",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
@@ -4760,26 +4800,6 @@
     "city": "Pasym"
   },
   {
-    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
-    "title": "WarioWare Get it Together! Wydanie pre-order.",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chełmiec"
-  },
-  {
-    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
-    "title": "WarioWare Get it Together! Wydanie pre-order.",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chełmiec"
-  },
-  {
     "id": "7b4fc228-d5ec-4f7c-b180-944009e0564d",
     "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
     "price": "140",
@@ -5365,6 +5385,26 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e69ed/ae1284d24109a5b83c8bfe165367",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-xdh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
@@ -5958,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "2033bec0-c606-4291-9be0-4f9fde4536ab",
-    "title": "Ring Fit Adventure Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e439b/252c16ff45e8afa4bfbff831e690",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-wly?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chorzów"
   }
 ]
