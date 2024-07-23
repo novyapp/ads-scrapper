@@ -600,6 +600,16 @@
     "city": "Poznań, Stare Miasto"
   },
   {
+    "id": "bf3a5e2d-7c41-401a-ac59-50f8359460d4",
+    "title": "Big Brain Academy Brain vs Brain Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ea80d/643e6e314c5c93cbc8645bf95019",
+    "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-brain-vs-brain-nintendo-switch-vl6?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
     "id": "72881b65-ee8d-4be9-921a-b526cb74b009",
     "title": "Wiedźmin 3 Dziki Gon Switch",
     "price": "125",
@@ -608,16 +618,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Poznań, Stare Miasto"
-  },
-  {
-    "id": "d69268ea-a184-45b7-98a5-1a7b31f39777",
-    "title": "Super Mario Bros: Deluxe,  RPG I Super Mario Wonder Nintendo Switch",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s360x360/1e45b4/3b8653ab4dff8d302672b6a3b847",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-rpg-i-super-mario-wonder-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bytom"
   },
   {
     "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
@@ -1738,16 +1738,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Krasiczyn"
-  },
-  {
-    "id": "526d897e-e73e-4ff4-b2f7-1532536df945",
-    "title": "Legend of Zelda: Breath of the Wild - Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s360x360/1eec4b/739da22240e8b800b7d1ab8cc56c",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-nintendo-switch-56j?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radłów"
   },
   {
     "id": "97af554c-1867-41ed-95a5-94a2699282d3",
@@ -2978,16 +2968,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Granowo"
-  },
-  {
-    "id": "488f3578-995a-4988-988c-0a6ce40cf47c",
-    "title": "Sniper Elite III: Ultimate Edition Nintendo Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e048e/7ff173594db9b39d7dcd21123edc",
-    "url": "https://allegrolokalnie.pl//oferta/sniper-elite-iii-ultimate-edition-nintendo-switch-u67?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
@@ -5978,5 +5958,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
   }
 ]
