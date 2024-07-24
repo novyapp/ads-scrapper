@@ -1330,16 +1330,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
-    "title": "Zestaw na Nintendo Switch 4 gier",
-    "price": "360",
-    "img": "https://a.allegroimg.com/s360x360/1e9562/b19a4a7341e08e6096663ba7a28e",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-na-nintendo-switch-3-gry?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
     "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
     "price": "129",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Krotoszyn"
+  },
+  {
+    "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
+    "title": "SUPER MARIO 3D ALL-STARS / NOWA / NINTENDO SWITCH",
+    "price": "479",
+    "img": "https://a.allegroimg.com/s360x360/1e676b/d63d0b2940a8b9ccb0fcb7463c0e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nowa-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Biała Podlaska"
   },
   {
     "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
@@ -4190,6 +4190,16 @@
     "city": "Wrocław, Krzyki"
   },
   {
+    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
+    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
+    "price": "96",
+    "img": "https://a.allegroimg.com/s360x360/1ebae3/2eb5745e4afcbac664d8747b1506",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
     "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
     "price": "100",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
-  },
-  {
-    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włostów"
   },
   {
     "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "746b7976-d730-4214-8aca-a5729c000be9",
+    "title": "Max The Curse of Brotherhood switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1eaaef/15c1293e476ca81706e74e78313d",
+    "url": "https://allegrolokalnie.pl//oferta/max-the-curse-of-brotherhood-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Szubin"
   }
 ]
