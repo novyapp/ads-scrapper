@@ -170,16 +170,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "a73da5a0-e71d-4a36-ad01-82a82dfd48d6",
-    "title": "Legend of Zelda: Breath of the Wild - Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e35ff/0f9a3e314010838aabb225c14abc",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-nintendo-switch-3zb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Katowice"
-  },
-  {
     "id": "0c3c1415-0d53-4932-acc7-1949238182ce",
     "title": "Kirby and the Forgotten Land - Nintendo Switch",
     "price": "160",
@@ -1600,16 +1590,6 @@
     "city": "Poznań, Stare Miasto"
   },
   {
-    "id": "b6230058-77c2-4f86-aa7e-168556516279",
-    "title": "The Legend of Zelda: Tears of the Kingdom Gra NINTENDO SWITCH",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e3e29/0a257d2e4048b1fd76c4a0b45659",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "7c139b75-0ec3-4bf2-95c0-7ca6167fe58b",
     "title": "SCHIM (SWITCH) WYD PREMIEROWE, EGZ NOWY",
     "price": "325",
@@ -1798,16 +1778,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "2f838869-ebe3-4f3f-a10a-ffbacb86a5b0",
-    "title": "Gra pokémon shield",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ea8c2/3d8fab7249d8b70ee32b1a27510e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-mng?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jasło"
   },
   {
     "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
@@ -2410,6 +2380,16 @@
     "city": "Kraków, Zwierzyniec"
   },
   {
+    "id": "216a45ea-9dcf-473a-8324-066b44c33f59",
+    "title": "The Legend of Zelda - Breath of the Wild (Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1ebaa9/6f4db75e42b69427f0c1fc9b2d0e",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-q52?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Zwierzyniec"
+  },
+  {
     "id": "b570a7fa-75a8-4175-bac1-fbd2482bbbe6",
     "title": "Naklejki Mario Bros",
     "price": "15",
@@ -2995,16 +2975,6 @@
     "price": "89",
     "img": "https://a.allegroimg.com/s360x360/1eb21f/05d28abd4254b818201c4f31207d",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
-    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
-    "title": "Nintendo Switch Sports - gra Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e9cea/bda3e95b491382532f02ffd253b2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Stare Miasto"
+  },
+  {
+    "id": "e0827944-9776-44dd-afc4-c993b1459ccb",
+    "title": "Zestaw Ring Fit Adventure dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e5af9/61454f30411eb36d9ff041e88aea",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-ring-fit-adventure-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bieńczyce"
   }
 ]
