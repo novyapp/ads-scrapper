@@ -312,7 +312,7 @@
   {
     "id": "6c392a3b-93a2-4999-89c8-b63da3485a18",
     "title": "Zelda Breath of the Wild oraz Animal Crossing New Horizon - Nintendo Switch",
-    "price": "270",
+    "price": "260",
     "img": "https://a.allegroimg.com/s360x360/1e3cad/5acf667b4fb5a45d7df544df2585",
     "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-oraz-animal-crossing-new-horizon-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -770,16 +770,6 @@
     "city": "Poznań"
   },
   {
-    "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
-    "title": "Pokemon Brilliant Diamond Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e6bff/81da53e7481d9bd8e37b5e0336cd",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-mzd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "6e6c00ce-48e2-4226-ba3f-267799b32657",
     "title": "GRA SUPER MARIO BROS WONDER NA NINTENDO SWITCH *SZYBKA WYSYŁKA*",
     "price": "159",
@@ -1200,6 +1190,16 @@
     "city": "Świdnica"
   },
   {
+    "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
+    "title": "Pokemon Brilliant Diamond Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1e6bff/81da53e7481d9bd8e37b5e0336cd",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-mzd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
     "title": "DRAGON'S DOGMA DARK ARISEN Nintendo Switch nowa",
     "price": "150",
@@ -1458,6 +1458,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "ac78d203-3aca-47c2-8a02-0fbe1ccc070e",
+    "title": "Triangle Strategy - Nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ebb12/9f4898d44574841e95cd99c6d7e9",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-kym?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mińsk Mazowiecki"
   },
   {
     "id": "a9fe07bb-3a3a-4a48-b789-e224909a2943",
@@ -1758,6 +1768,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "adbbf297-2dc6-4441-9636-1d9e73dec7cc",
+    "title": "Pokemon brilliant diamond",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e94a1/b2344b304a2493bdd1bcc84f31d9",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-4k2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łososina dolna"
+  },
+  {
+    "id": "408ba710-6001-4107-bea2-38210a4c6409",
+    "title": "Gra Pokémon Shield",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e3596/22e661ea4878bdf2d9736bddd4e8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-bj6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostróda"
+  },
+  {
+    "id": "a9500ae1-8f4b-4275-b9e9-19869ac2a314",
+    "title": "Valkyria Chronicles 4 - Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed226/62893a77411fb61251dd11110e89",
+    "url": "https://allegrolokalnie.pl//oferta/valkyria-chronicles-4-nintendo-switch-zhm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Żoliborz"
   },
   {
     "id": "adbbf297-2dc6-4441-9636-1d9e73dec7cc",
@@ -2220,16 +2260,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "0634a661-8fb8-4989-9b87-774035d160bd",
-    "title": "Pikmin 3 Deluxe Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e9c77/c167538b42ed9079033132baa63d",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-3-deluxe-switch-cia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
     "title": "Hyrule Warriors Age of Calamity Switch",
     "price": "150",
@@ -2368,26 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
-  },
-  {
-    "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
-    "title": "Animal Crossing: New Horizons Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/11c5c6/7fd919c343568c14db4a72914017",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-qta?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Krotoszyn"
-  },
-  {
-    "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
-    "title": "SUPER MARIO 3D ALL-STARS / NOWA / NINTENDO SWITCH",
-    "price": "479",
-    "img": "https://a.allegroimg.com/s360x360/1e676b/d63d0b2940a8b9ccb0fcb7463c0e",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nowa-nintendo-switch-qpr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Biała Podlaska"
   },
   {
     "id": "1ecb9c6b-4115-4e6b-8b2d-a7104924cb0b",
@@ -4790,6 +4800,36 @@
     "city": "Wrocław, Fabryczna"
   },
   {
+    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
+    "title": "Super Mario Odyssey Nintendo switch stan idealny",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
+    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
+    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włostów"
+  },
+  {
+    "id": "112f7161-dc29-41ce-8558-0b8450c8ca3d",
+    "title": "Smerfy 2: Więzień Zielonego Kamienia. Nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e2238/a1d2e69047269267ce4d040c453e",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-2-wiezien-zielonego-kamienia-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
     "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
     "title": "Shadowverse: Champion's Battle | Nintendo Switch",
     "price": "160",
@@ -5358,36 +5398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wola Będkowska"
-  },
-  {
-    "id": "54b96404-9b5d-4681-88a5-fdc4c76c697f",
-    "title": "Pokemon Scarlet / Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ee7cc/a76b78c54484b30aa978565ff0d0",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-yi6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Reda"
-  },
-  {
-    "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
-    "title": "The legend of Zelda breath of the wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dębno"
-  },
-  {
-    "id": "9a5cea27-bbd6-46c4-9af2-91fe357977fc",
-    "title": "SpongeBob squarepants battle of bikini bottom PL",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e7592/710f715c4cd18e9e6cac79195d70",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-battle-of-bikini-bottom-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dębno"
   },
   {
     "id": "8a094510-a190-4e1d-8382-1012b9438fa4",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Szubin"
-  },
-  {
-    "id": "919d5e4a-f9b8-4697-b5ce-ce902ffb4be4",
-    "title": "Bayonnetta 3  na Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1ed1d7/d127835b4226b601913aba2e41b2",
-    "url": "https://allegrolokalnie.pl//oferta/bayonnetta-3-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Białołęka"
   }
 ]
