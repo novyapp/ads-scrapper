@@ -4200,16 +4200,6 @@
     "city": "Wrocław, Krzyki"
   },
   {
-    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
-    "title": "Fire Emblem: Engage",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdynia, Karwiny"
-  },
-  {
     "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
     "price": "96",
@@ -4795,6 +4785,26 @@
     "price": "230",
     "img": "https://a.allegroimg.com/s360x360/1e2448/256c9298412790b8ee79ca68eb2b",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
+    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
+    "title": "Super Mario Odyssey Nintendo switch stan idealny",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
+    "id": "a94e7e67-1ac1-4829-8d33-832da3862ea7",
+    "title": "Super Mario Odyssey Nintendo switch stan idealny",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5ce5/8bc67bf04842af607d1eb9274614",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-stan-idealny-jkg?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
@@ -5390,26 +5400,6 @@
     "city": "Reda"
   },
   {
-    "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
-    "title": "The legend of Zelda breath of the wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dębno"
-  },
-  {
-    "id": "283acb6e-713a-460a-b1a3-f3003f22427a",
-    "title": "The legend of Zelda breath of the wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dębno"
-  },
-  {
     "id": "9a5cea27-bbd6-46c4-9af2-91fe357977fc",
     "title": "SpongeBob squarepants battle of bikini bottom PL",
     "price": "90",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bieńczyce"
+  },
+  {
+    "id": "7ce648fa-2fab-4962-921d-2c5b71ba4d9d",
+    "title": "TRIANGLE STRATEGY - NINTENDO SWITCH - STAN IDEALNY",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e4d2d/70823c994a1f9f05b1fc7f71b08a",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Bemowo"
   }
 ]
