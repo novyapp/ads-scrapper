@@ -1190,6 +1190,16 @@
     "city": "Żory"
   },
   {
+    "id": "a510c7a9-49c3-40ff-8c32-d6316d6a511b",
+    "title": "RPG Maker MV Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ec3d7/846faca74f5ebab1b98105df6db2",
+    "url": "https://allegrolokalnie.pl//oferta/rpg-maker-mv-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
+  },
+  {
     "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
     "title": "Wonder boy nintendo switch",
     "price": "80",
@@ -1310,24 +1320,24 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "e0b6d81f-db8e-4ab2-b5ec-9f22b6750c30",
-    "title": "Donkey Kong Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e9f8c/09e1ac5d4f8ab3e6452c511c6e0e",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-switch-xeb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Wola"
-  },
-  {
     "id": "413e3874-8ff1-4389-b859-26e1f31fd4e7",
     "title": "Pokemon Scarlet Nintendo Switch",
-    "price": "179",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e34bb/ab6b040c44d988136504294cabe8",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-oel?navCategoryId=256922",
-    "promoted": false,
+    "promoted": true,
     "smartPost": true,
     "city": "Debrzyca"
+  },
+  {
+    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
+    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
+    "price": "239",
+    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "fa26946a-c24a-458a-bfdc-3818f97fb482",
@@ -2390,26 +2400,6 @@
     "city": "Bysław"
   },
   {
-    "id": "abd8f002-d419-4092-a401-c783bbb8f172",
-    "title": "Fitness Boxing 2 Rhythm & Exercise",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ed840/780c3c1349a3ba65c32078f532e2",
-    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-l2u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "abd8f002-d419-4092-a401-c783bbb8f172",
-    "title": "Fitness Boxing 2 Rhythm & Exercise",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ed840/780c3c1349a3ba65c32078f532e2",
-    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-l2u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "965d93d5-35eb-43be-a30d-a282396932da",
     "title": "The Legend Of Zelda Link's Awakening",
     "price": "190",
@@ -3000,6 +2990,26 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
+    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
+    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ruda Śląska, Ruda"
+  },
+  {
+    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
+    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
+    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ruda Śląska, Ruda"
+  },
+  {
     "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
     "title": "Persona 5 Royal na Nintendo Switch (japońskie)",
     "price": "100",
@@ -3178,16 +3188,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "a510c7a9-49c3-40ff-8c32-d6316d6a511b",
-    "title": "RPG Maker MV Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1ec3d7/846faca74f5ebab1b98105df6db2",
-    "url": "https://allegrolokalnie.pl//oferta/rpg-maker-mv-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
   },
   {
     "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
@@ -5770,6 +5770,16 @@
     "city": "Serock"
   },
   {
+    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
+    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
+    "price": "239",
+    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4954f5c5-5e25-4737-a857-7fa0f9bbc88b",
     "title": "The walking dead season pass nowe folia Switch",
     "price": "110",
@@ -5985,16 +5995,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1eef8f/9541cf5b4b80b65806568c7900da",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-hn2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jabłonka, Stare Miasto"
-  },
-  {
-    "id": "f15b703b-aaaf-462c-a662-698fa9ed0fbb",
-    "title": "Atelier Sophie 2: The Alchemist of the Mysterious",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e1bb6/1009de5d457d9c3ee743efb803a0",
-    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-the-alchemist-of-the-mysterious-a2f?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Jabłonka, Stare Miasto"
