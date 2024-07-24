@@ -960,16 +960,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "4dc86d32-55eb-45af-91b5-45ab0fd0023d",
-    "title": "WIEDŹMIN 3 KOMPLETNA, DUBBING PL, EDYCJA POLSKA!",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s360x360/1eb49d/e5bf3b2944d09d96b108cc167f7b",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-kompletna-dubbing-pl-edycja-polska-ft6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chełm"
-  },
-  {
     "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
     "title": "Bayonetta 3 - Nintendo Switch",
     "price": "119",
@@ -1185,6 +1175,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e78ee/136e2ddc44f68a25b68c8d3a6b85",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-n2a?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "c532aba1-06b2-44f1-b99f-f539ba49adef",
+    "title": "Oddworld Soulstorm limited oddition nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed9bf/836e14694a6bb27b47e8d49dd6fb",
+    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
@@ -3000,14 +3000,14 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "4dc86d32-55eb-45af-91b5-45ab0fd0023d",
-    "title": "WIEDŹMIN 3 KOMPLETNA, DUBBING PL, EDYCJA POLSKA!",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s360x360/1eb49d/e5bf3b2944d09d96b108cc167f7b",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-kompletna-dubbing-pl-edycja-polska-ft6?navCategoryId=256922",
-    "promoted": true,
+    "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
+    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
+    "price": "24",
+    "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Chełm"
+    "city": "Bydgoszcz"
   },
   {
     "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
