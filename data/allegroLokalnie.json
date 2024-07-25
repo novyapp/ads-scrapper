@@ -3000,16 +3000,6 @@
     "city": "Łomża"
   },
   {
-    "id": "8565e7cc-8182-430d-9097-f3419fd21346",
-    "title": "Luigis Mansion 3 / Nintendo Switch / Posiadłość Luigiego 3",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e0259/5ed9d1264700a2412b8d2c89466f",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-posiadlosc-luigiego-3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
     "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
     "price": "89",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sierpc"
+  },
+  {
+    "id": "95a93666-ac38-4015-8f26-6449b045e4eb",
+    "title": "Gra Aragami: Shadow Edition Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e0a5f/cfc39abe4cacbb77cc8d36d2ff08",
+    "url": "https://allegrolokalnie.pl//oferta/gra-aragami-shadow-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław, Wroclaw"
   },
   {
     "id": "dc28e624-2a5e-4ed1-b982-bc37f63530c2",
@@ -4200,16 +4200,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s360x360/1ebae3/2eb5745e4afcbac664d8747b1506",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
     "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
     "price": "100",
@@ -4800,6 +4790,16 @@
     "city": "Warszawa, Żoliborz"
   },
   {
+    "id": "500ae353-cc7b-4111-886f-985ac82a120c",
+    "title": "Cereza and The Lost Demon Beyonetta Origins",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e6d65/b9b769804d7a86a712308bbd72b3",
+    "url": "https://allegrolokalnie.pl//oferta/cereza-and-the-lost-demon-beyonetta-origins?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
     "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
     "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
     "price": "299",
@@ -4822,7 +4822,7 @@
   {
     "id": "37ce04b2-4f3a-402c-afbc-ea040bbc7687",
     "title": "Oxide the room Nintendo switch jak Nowa bez folii horror. Bonus",
-    "price": "112",
+    "price": "104",
     "img": "https://a.allegroimg.com/s360x360/1e00bd/828a353e45b8bdf992114041222a",
     "url": "https://allegrolokalnie.pl//oferta/oxide-the-room-nintendo-switch-jak-nowa-bez-folii-horror-bonus-54p?navCategoryId=256922",
     "promoted": false,
@@ -5378,26 +5378,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Koszalin"
-  },
-  {
-    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
-    "title": "Switch Gothic PL pudełko NOWA",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sarnów"
-  },
-  {
-    "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
-    "title": "Ash of Gods: Redemption Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e9bf2/aeb7082b47a5ba9cbae4d16772d0",
-    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
   },
   {
     "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jabłonka, Stare Miasto"
+  },
+  {
+    "id": "f15b703b-aaaf-462c-a662-698fa9ed0fbb",
+    "title": "Atelier Sophie 2: The Alchemist of the Mysterious",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e1bb6/1009de5d457d9c3ee743efb803a0",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-the-alchemist-of-the-mysterious-a2f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jabłonka, Stare Miasto"
+  },
+  {
+    "id": "6453ca78-ec5a-44dd-a402-2b78ae5861d8",
+    "title": "Hot Wheels Unleashed Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ee051/a85d7f0a4350a70c65823db315a7",
+    "url": "https://allegrolokalnie.pl//oferta/hot-wheels-unleashed-nintendo-switch-x72?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Wilda"
   }
 ]
