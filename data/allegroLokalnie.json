@@ -350,16 +350,6 @@
     "city": "Warszawa, Praga-Północ"
   },
   {
-    "id": "83ea5da4-b2d1-423e-aa76-60844fe24bf3",
-    "title": "Xenoblade Chronicles Definitive Edition",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e0825/bda1a58b4826a6a6585d9bec77b1",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-6os?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
     "id": "6c392a3b-93a2-4999-89c8-b63da3485a18",
     "title": "Zelda Breath of the Wild oraz Animal Crossing New Horizon - Nintendo Switch",
     "price": "260",
@@ -595,16 +585,6 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s360x360/1ed8d0/25f26e004cb29ea1075ddc2ecf69",
     "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-switch-bfv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "5dc66af6-2a57-4d67-8a2f-56035ccf53f6",
-    "title": "Diablo III: Eternal Collection Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1ed777/96660da14aaa80d25d60e1760969",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-nintendo-switch-e2p?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Kraków"
@@ -1090,16 +1070,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
-    "title": "Scribblenauts Showdown Gra Nintendo Switch",
-    "price": "35",
-    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
-    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
     "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
     "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
     "price": "170",
@@ -1198,6 +1168,26 @@
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "d2fc5e48-263f-41f7-8a90-855bf3005ea3",
+    "title": "Star Wars The Skywalker Saga Switch PL",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e8d11/edba9f55412b8a2f8919df8ebe24",
+    "url": "https://allegrolokalnie.pl//oferta/star-wars-the-skywalker-saga-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
+    "title": "Scribblenauts Showdown Gra Nintendo Switch",
+    "price": "35",
+    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
+    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
   },
   {
     "id": "d2fc5e48-263f-41f7-8a90-855bf3005ea3",
@@ -2990,6 +2980,16 @@
     "city": "Wrocław, Krzyki"
   },
   {
+    "id": "8565e7cc-8182-430d-9097-f3419fd21346",
+    "title": "Luigis Mansion 3 / Nintendo Switch / Posiadłość Luigiego 3",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e0259/5ed9d1264700a2412b8d2c89466f",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-posiadlosc-luigiego-3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
     "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
     "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
     "price": "89",
@@ -4190,16 +4190,6 @@
     "city": "Wrocław, Krzyki"
   },
   {
-    "id": "1df45cdb-01d2-4d57-b13b-76424ddfb105",
-    "title": "Gra Beyond a Steel Sky Steelbook Switch Folia",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1ef1f3/8f429394466da2304bff09328d0a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-beyond-a-steel-sky-steelbook-switch-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
     "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
     "price": "96",
@@ -4788,6 +4778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
+  },
+  {
+    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
+    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
+    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Żoliborz"
   },
   {
     "id": "500ae353-cc7b-4111-886f-985ac82a120c",
@@ -5390,16 +5390,6 @@
     "city": "Sarnów"
   },
   {
-    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
-    "title": "Switch Gothic PL pudełko NOWA",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sarnów"
-  },
-  {
     "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
     "title": "Ash of Gods: Redemption Switch",
     "price": "59",
@@ -5985,6 +5975,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1eef8f/9541cf5b4b80b65806568c7900da",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-hn2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jabłonka, Stare Miasto"
+  },
+  {
+    "id": "f15b703b-aaaf-462c-a662-698fa9ed0fbb",
+    "title": "Atelier Sophie 2: The Alchemist of the Mysterious",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e1bb6/1009de5d457d9c3ee743efb803a0",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-the-alchemist-of-the-mysterious-a2f?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Jabłonka, Stare Miasto"
