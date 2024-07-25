@@ -1,15 +1,5 @@
 [
   {
-    "id": "f3245401-1984-433f-9446-d5634edb1387",
-    "title": "Captain Toad Treasure Tracker",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e86b9/427bfbaa460daca95a7d420accbf",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-7ri?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Izabelin"
-  },
-  {
     "id": "dbee80fa-7afd-4aed-b10e-a1e33af9c192",
     "title": "RPG Maker MV Switch",
     "price": "100",
@@ -595,6 +585,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e1d9f/8218319c4e7e986fb5affaf987a2",
     "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-gra-nintendo-switch-dlc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "2dc62129-1a23-4b7c-8d3a-440539beab9e",
+    "title": "PAPER MARIO: THE ORIGAMI KING *NINTENDO SWITCH* *SZYBKA DOSTAWA* + BONUS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ed8ee/7d21c42445aba8cfb85c1f32b3b6",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-szybka-dostawa-bonus?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Piaseczno"
@@ -1188,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Twardogóra"
+  },
+  {
+    "id": "ee8cd930-7ac3-4ea2-8a0c-db7616e014e9",
+    "title": "Neo: The World Ends With You, Gra Nintendo Switch",
+    "price": "88",
+    "img": "https://a.allegroimg.com/s360x360/1e872e/891711a54112a553d15f71e6b194",
+    "url": "https://allegrolokalnie.pl//oferta/neo-the-world-ends-with-you-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Żory"
   },
   {
     "id": "ee8cd930-7ac3-4ea2-8a0c-db7616e014e9",
@@ -2400,16 +2410,6 @@
     "city": "Poznań"
   },
   {
-    "id": "989b149b-bf5d-4674-a6c7-9edfc2a7cd6b",
-    "title": "Nintendo switch Sport",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1efc2a/bf1a818640e99fa46c3b1a12f998",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-26h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "57e60eb9-eb04-4adb-988f-7695b351aa58",
     "title": "Super Mario Party Nintendo Switch",
     "price": "170",
@@ -2995,6 +2995,16 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1e0259/5ed9d1264700a2412b8d2c89466f",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-posiadlosc-luigiego-3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
+    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1eb21f/05d28abd4254b818201c4f31207d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "dc28e624-2a5e-4ed1-b982-bc37f63530c2",
-    "title": "Shin megami tensei v gra Nintendo switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e6350/1f0f2a0d432cba05b20f261c984d",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-gra-nintendo-switch-k4r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Skawina"
   },
   {
     "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
@@ -4800,16 +4800,6 @@
     "city": "Wrocław, Fabryczna"
   },
   {
-    "id": "112f7161-dc29-41ce-8558-0b8450c8ca3d",
-    "title": "Smerfy 2: Więzień Zielonego Kamienia. Nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2238/a1d2e69047269267ce4d040c453e",
-    "url": "https://allegrolokalnie.pl//oferta/smerfy-2-wiezien-zielonego-kamienia-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
-  },
-  {
     "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
     "title": "Shadowverse: Champion's Battle | Nintendo Switch",
     "price": "160",
@@ -5395,6 +5385,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e0c5a/ebd89e9a46c5b939cf80e33595d5",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qmm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dębno"
+  },
+  {
+    "id": "9a5cea27-bbd6-46c4-9af2-91fe357977fc",
+    "title": "SpongeBob squarepants battle of bikini bottom PL",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e7592/710f715c4cd18e9e6cac79195d70",
+    "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-battle-of-bikini-bottom-pl?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Dębno"
