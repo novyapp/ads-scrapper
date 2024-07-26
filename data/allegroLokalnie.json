@@ -1000,16 +1000,6 @@
     "city": "Białystok"
   },
   {
-    "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
-    "title": "Mario + Rabbids Sparks of Hope Switch",
-    "price": "101",
-    "img": "https://a.allegroimg.com/s360x360/1ef11e/2b71f72e4b249eb74f34d660e7af",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-switch-5go?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
     "title": "Gra Nintendo Switch Lover Pretend",
     "price": "180",
@@ -1078,16 +1068,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
-    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1ee325/c3ecb3c8405299c9eee1e9ca82bf",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-dfz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
@@ -1200,14 +1180,24 @@
     "city": "Twardogóra"
   },
   {
-    "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
-    "title": "Zestaw na Nintendo Switch 4 gier",
-    "price": "360",
-    "img": "https://a.allegroimg.com/s360x360/1e9562/b19a4a7341e08e6096663ba7a28e",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-na-nintendo-switch-3-gry?navCategoryId=256922",
-    "promoted": true,
+    "id": "9b680170-e297-4bb3-a9e6-575615325ea7",
+    "title": "Mario + Rabbids Sparks of Hope Switch",
+    "price": "101",
+    "img": "https://a.allegroimg.com/s360x360/1ef11e/2b71f72e4b249eb74f34d660e7af",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-switch-5go?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Węgrzce Wielkie"
+    "city": "Białystok"
+  },
+  {
+    "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
+    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1ee325/c3ecb3c8405299c9eee1e9ca82bf",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-dfz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jasło"
+  },
+  {
+    "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
+    "title": "Xenoblade chronicles 2 Nintendo Switch",
+    "price": "154",
+    "img": "https://a.allegroimg.com/s360x360/1e4264/1feeaf1f40c69327ea91e7046057",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-xme?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "f93d53c9-3d96-4f10-87f8-f5f6e5a52c32",
