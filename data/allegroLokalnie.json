@@ -1,5 +1,25 @@
 [
   {
+    "id": "6cf15948-18fc-4dc0-ab2a-de701c633683",
+    "title": "Pokemon Lets Go Eevee",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1eadd9/e559b6254f36b7405719b97b5b95",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-j7s?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Małogoszcz"
+  },
+  {
+    "id": "a1a8a1f9-8241-4c70-98e3-5e8aa90f8ab5",
+    "title": "Pokemon Lets Go Pikachu",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ee608/2416187142d885a9b38f1f65ec05",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-xtd?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Małogoszcz"
+  },
+  {
     "id": "52d4864a-d71c-402b-960a-cbed761c3678",
     "title": "Pokemon Scarlet",
     "price": "160",
@@ -758,16 +778,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "koszalin"
-  },
-  {
-    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
-    "title": "Family Trainer SWITCH",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e5265/9569954d4eb0b25090cd597455af",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
@@ -1790,16 +1800,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
-    "title": "Switch Sonic Forces",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
-    "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "78b55fed-e173-4147-8ac0-219604928dd5",
     "title": "Switch Crash Bandicoot N-sane Trilogy",
     "price": "80",
@@ -2385,6 +2385,26 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e9d66/69c3150a4fe69083823333c8be22",
     "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
+    "title": "Let's Get Fit + Opaski",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e2127/0e8fe1c34ac6a5626cc961570236",
+    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-opaski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
+    "title": "Let's Get Fit + Opaski",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e2127/0e8fe1c34ac6a5626cc961570236",
+    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-opaski?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -4780,14 +4800,14 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "3bf2e39a-a22e-4fcc-b5b9-4975ae2a83f5",
-    "title": "Key We - gra na Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s360x360/1eedbc/112ccbd146b491e694725225b2ff",
-    "url": "https://allegrolokalnie.pl//oferta/key-we-gra-na-nintendo-switch?navCategoryId=256922",
+    "id": "2f216cb9-3d3c-4e1d-b6ed-db91c199543a",
+    "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
+    "price": "6",
+    "img": "https://a.allegroimg.com/s360x360/1ea20d/af838ff9464aa5ed0de004f20625",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Gocławek"
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "0911d6db-f32e-4b7e-a04d-fed863df6176",
@@ -5368,6 +5388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Głuszyca"
+  },
+  {
+    "id": "5fb9c6be-9c20-4019-a732-a8a251b5c076",
+    "title": "Asterix & Obelix XXXL The Ram From Hibernia - Nowa w Folii",
+    "price": "216",
+    "img": "https://a.allegroimg.com/s360x360/1e22b0/55d66806414ea069a5bd01507cee",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-obelix-xxxl-the-ram-from-hibernia-5cw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "5fb9c6be-9c20-4019-a732-a8a251b5c076",
@@ -5968,25 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "97cd099e-a1d3-45e9-b54f-0e6ccd675938",
-    "title": "Battle Axe Nintendo Switch. Nowa w folli",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e4316/ff4edf994b3b942a05a7cc2f97cd",
-    "url": "https://allegrolokalnie.pl//oferta/battle-axe-nintendo-switch-nowa-w-folli-pej?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żychlin"
-  },
-  {
-    "id": "524761cc-d378-4d0f-a1da-ceb17b84a4c3",
-    "title": "Bayonetta 3 Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e3e1f/b38a0fb348cab026ee0fb2a6c819",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-w63?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Plewiska"
   }
 ]
