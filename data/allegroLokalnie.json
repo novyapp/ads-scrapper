@@ -70,16 +70,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "413e3874-8ff1-4389-b859-26e1f31fd4e7",
-    "title": "Pokemon Scarlet Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e34bb/ab6b040c44d988136504294cabe8",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-oel?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Debrzyca"
-  },
-  {
     "id": "99951723-aca2-436b-bced-92f38bc239f8",
     "title": "Gra Donkey Kong Country Tropical Freeze / Nintendo Switch",
     "price": "165",
@@ -1790,6 +1780,16 @@
     "city": "Kraków"
   },
   {
+    "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
+    "title": "Goodbye World - Switch (Nowa)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1eb844/aee49e3c474ba50887ff60cfe588",
+    "url": "https://allegrolokalnie.pl//oferta/goodbye-world-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "5ab57482-80c6-45c0-b3e6-f66bec6b211b",
     "title": "Zelda - Breath of the Wild - Nintendo Switch",
     "price": "160",
@@ -2375,16 +2375,6 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1e8412/f55b09d2452abc2959e25fd5b61a",
     "url": "https://allegrolokalnie.pl//oferta/mario-sonic-at-the-olympic-games-tokyo-2020-zxy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "ce6e9e60-95df-415b-b8b0-0828c621f837",
-    "title": "Luigis Mansion 3",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1ec43d/361282b04994a60cd42fc9ef2074",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-4oi?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -4190,16 +4180,6 @@
     "city": "Groblice"
   },
   {
-    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
-    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
-    "price": "549",
-    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
     "id": "8397538f-2158-4ec9-96ac-41271e325076",
     "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
     "price": "549",
@@ -5988,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Mysłowice"
+  },
+  {
+    "id": "af51c381-61de-470f-a945-64ed3339e8ba",
+    "title": "NINTENDO SWITCH LEGO WORLDS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Śrem"
   }
 ]
