@@ -690,16 +690,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Łódź"
-  },
-  {
     "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
     "title": "Pokemon Brilliant Diamond Nintendo Switch",
     "price": "145",
@@ -1190,14 +1180,14 @@
     "city": "Olsztyn, Olsztyn"
   },
   {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": false,
+    "id": "86b4e337-0831-4f01-89d8-3141743b0059",
+    "title": "Monster Hunter Rise PL Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1e435c/784142ee4a09bac4189cbe4ffb15",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-pl-switch-vna?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Kazimierz Dolny"
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "b987923b-c593-4737-81a6-8364cf429032",
@@ -1318,16 +1308,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Robakowo"
-  },
-  {
-    "id": "6ac0de41-9624-42f7-b8be-6045206bc890",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1ee30d/56779fce4a1ba192747720a13dff",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-bsb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zakrzewska Wola"
   },
   {
     "id": "766bf091-1a8d-4e41-b725-2ae5e3647b64",
@@ -1810,16 +1790,6 @@
     "city": "Kraków"
   },
   {
-    "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
-    "title": "Lego Star Wars - Skywalker Saga - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e4015/5f9aa9f5434989d457cb6e63ed88",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-nintendo-switch-ty5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
     "title": "Goodbye World - Switch (Nowa)",
     "price": "169",
@@ -2048,6 +2018,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
+    "title": "Super Mario Bros Wonder Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź"
   },
   {
     "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieluń"
+  },
+  {
+    "id": "7c4600cd-8bb4-4eb2-9b89-d96728f31616",
+    "title": "NBA 2K21 Nintendo Switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1e6934/3ba155754556afb763bb85b5f4e2",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k21-nintendo-switch-bhx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
