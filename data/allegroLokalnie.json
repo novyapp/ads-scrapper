@@ -980,16 +980,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kazimierz Dolny"
-  },
-  {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
     "title": "Lego Marvel Super Heroes 2 Switch PL",
     "price": "96",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Olsztyn, Olsztyn"
+  },
+  {
+    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
+    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kazimierz Dolny"
   },
   {
     "id": "86b4e337-0831-4f01-89d8-3141743b0059",
@@ -1790,14 +1790,14 @@
     "city": "Kraków, Zwierzyniec"
   },
   {
-    "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
-    "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
-    "price": "650",
-    "img": "https://a.allegroimg.com/s360x360/1e8270/635d7ad442edb2c6ff770314f733",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch?navCategoryId=256922",
+    "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
+    "title": "Switch Sonic Forces",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Kraków, Zwierzyniec"
+    "city": "Sosnowiec"
   },
   {
     "id": "a0420a1d-29a2-4cec-9a43-8842782e8e7c",
@@ -2380,11 +2380,21 @@
     "city": "Białystok"
   },
   {
-    "id": "abd8f002-d419-4092-a401-c783bbb8f172",
-    "title": "Fitness Boxing 2 Rhythm & Exercise",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ed840/780c3c1349a3ba65c32078f532e2",
-    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-l2u?navCategoryId=256922",
+    "id": "8399d8e6-c878-4635-a4b0-99d905a7b2b1",
+    "title": "Gra Ring Fit Adventure +Ring Fit + Opaska na nogę (CAŁY ZESTAW)",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e9d66/69c3150a4fe69083823333c8be22",
+    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
+    "title": "Let's Get Fit + Opaski",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e2127/0e8fe1c34ac6a5626cc961570236",
+    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-opaski?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -3102,7 +3112,7 @@
   {
     "id": "e9b2b8a7-a452-41c9-8209-efeb42f0fc00",
     "title": "Hogward legacy Nintendo switch GRA",
-    "price": "122",
+    "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e36d6/e7cd827840dca38a9d322e0e5c85",
     "url": "https://allegrolokalnie.pl//oferta/hogward-legacy-nintendo-switch-gra?navCategoryId=256922",
     "promoted": false,
@@ -3578,6 +3588,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gliwice"
+  },
+  {
+    "id": "1bc6d985-bcc6-4b02-b9b9-91bae25e1bb2",
+    "title": "Cadence of Hyrule: Crypt of the NecroDancer Nintendo Switch NOWA FOLIA",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/111ea4/8bf26df4415a8ce81b81803a6ae5",
+    "url": "https://allegrolokalnie.pl//oferta/cadence-of-hyrule-crypt-of-the-necrodancer-nintendo-switch-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ełk"
+  },
+  {
+    "id": "1bc6d985-bcc6-4b02-b9b9-91bae25e1bb2",
+    "title": "Cadence of Hyrule: Crypt of the NecroDancer Nintendo Switch NOWA FOLIA",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/111ea4/8bf26df4415a8ce81b81803a6ae5",
+    "url": "https://allegrolokalnie.pl//oferta/cadence-of-hyrule-crypt-of-the-necrodancer-nintendo-switch-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ełk"
   },
   {
     "id": "b43a13ef-67a2-4045-90fd-f72d7659ec7b",
@@ -4165,26 +4195,6 @@
     "price": "159",
     "img": "https://a.allegroimg.com/s360x360/11df9b/28ec8637479c85d89ebc11a4bdce",
     "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-pl-po-polsku-turowy-rpg-strategia-jak-banner-saga-avd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "0db74203-4a93-4fa6-b444-ea94cf58c8f6",
-    "title": "YOSHI CRAFTED WORLD 1-2 GRACZY nintendo kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/1113b3/d364e8544af48e5ca6d7318d4932",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "0db74203-4a93-4fa6-b444-ea94cf58c8f6",
-    "title": "YOSHI CRAFTED WORLD 1-2 GRACZY nintendo kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/1113b3/d364e8544af48e5ca6d7318d4932",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5380,6 +5390,26 @@
     "city": "Chorzów"
   },
   {
+    "id": "4a09b12b-d0f2-4955-b355-bf9d6d05461a",
+    "title": "NINTENDO Hogwarts Legacy",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e423d/802dadbc4cbcbd70f88e9d7477c2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-hogwarts-legacy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "4a09b12b-d0f2-4955-b355-bf9d6d05461a",
+    "title": "NINTENDO Hogwarts Legacy",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e423d/802dadbc4cbcbd70f88e9d7477c2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-hogwarts-legacy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "5a36e5b1-bcf7-4530-adad-b72cdffc749c",
     "title": "Distraint Collection - Switch (Nowa)",
     "price": "169",
@@ -5968,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Plewiska"
-  },
-  {
-    "id": "e9519c0e-8f39-4b95-895d-df2a2b53fa39",
-    "title": "Gra \"SponczbobKART RACERS\" -nintendo switch",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1e568e/5823b7184169a9734dd12fda03c1",
-    "url": "https://allegrolokalnie.pl//oferta/gra-kart-racers-nikelodeon-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieluń"
   }
 ]
