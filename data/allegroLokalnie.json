@@ -100,16 +100,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "f2a7082c-58ba-45cb-ae61-0d74cf489a37",
-    "title": "Metroid Prime Remastered",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e3aa3/9ee3ffc848649acad6271234a485",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-wlg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "d44fff64-9bc3-4d60-94b8-3f8dfbd49933",
     "title": "FIFA 21 Edycja Legacy na Nintendo Switch",
     "price": "50",
@@ -1360,16 +1350,6 @@
     "city": "Przemyśl, Przemyśl"
   },
   {
-    "id": "6abbe46a-6409-4837-8a9e-7c5688acd229",
-    "title": "Five nights at Freddy's security breach Nintendo switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1ed869/742fbbc44992b57c6beb44079fcb",
-    "url": "https://allegrolokalnie.pl//oferta/five-nights-at-freddys-security-breach-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Legnica"
-  },
-  {
     "id": "746394d7-bffe-484f-97f9-cad86a1ebf7f",
     "title": "Ring Fit Adventure | Nintendo Switch",
     "price": "180",
@@ -1378,16 +1358,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Mokotów"
-  },
-  {
-    "id": "82b8f261-45d4-42ff-9955-6d89546fbb98",
-    "title": "Nintendo Switch - Metro Redux",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1ed82e/dd8bfc1e4714ad82f7ff69bbf7cc",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-metro-redux-5mt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czarne Błoto"
   },
   {
     "id": "1edbd741-6df7-4a65-a79f-3d317afae8f1",
@@ -1632,7 +1602,7 @@
   {
     "id": "27d2a613-e3ce-4198-a79f-d01b5c909b78",
     "title": "GOTHIC CLASSIC KHORINIS SAGA NS",
-    "price": "118",
+    "price": "115",
     "img": "https://a.allegroimg.com/s360x360/1e17e0/7fe1c39d46fea1e91a905da342f9",
     "url": "https://allegrolokalnie.pl//oferta/gothic-classic-khorinis-saga-ns?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
+  },
+  {
+    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
+    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Włochy"
+  },
+  {
+    "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
+    "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
+    "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "bb1e690a-bf21-42c4-89cd-b1fb8f7b7078",
+    "title": "THE LEGO MOVIE 2 VIDEOGAME Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e2ec2/b64fc4d7414ca84e0995176dc3f5",
+    "url": "https://allegrolokalnie.pl//oferta/the-lego-movie-2-videogame-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
