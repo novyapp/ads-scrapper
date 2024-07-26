@@ -550,16 +550,6 @@
     "city": "Marki, Struga"
   },
   {
-    "id": "c1b98140-6497-4473-9b32-1e4bd4a7b0fa",
-    "title": "THE LEGEND OF ZELDA: Link's Awakening Nintendo Switch (Folia)",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e2196/3b14853d4b4693a772efc239c53e",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-nintendo-switch-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "e7ce6056-7573-4b15-b5a0-cf005590bbe6",
     "title": "Crisis Core Final Fantasy VII Reunion Nintendo Switch",
     "price": "100",
@@ -1785,6 +1775,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e9773/5e4051fe41c0a364b4ecd81d5cb8",
     "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-lr7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
+    "title": "Lego Star Wars - Skywalker Saga - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e4015/5f9aa9f5434989d457cb6e63ed88",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-nintendo-switch-ty5?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
@@ -3050,16 +3050,6 @@
     "city": "Warszawa, Ochota"
   },
   {
-    "id": "01837988-7cb2-4783-a74f-2ae3ba52641b",
-    "title": "Super Smash Bros Ultimate",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e59e4/d07de22045f79519fc018b12c4b7",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-cl3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Legnica"
-  },
-  {
     "id": "fe8f39b9-59f5-448a-8b4a-785acc7aaf30",
     "title": "Mario Rabbids Kingdom Battle Nintendo Switch Okazja!",
     "price": "69",
@@ -3588,16 +3578,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
-  },
-  {
-    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
-    "title": "Harvestella Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
@@ -4185,6 +4165,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
+    "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4788,16 +4778,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wroclaw"
-  },
-  {
-    "id": "5c736209-e660-4479-afcb-d85999d43adc",
-    "title": "Just Dance 2022 Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1eb41d/f4864e8d4be39b5cdfdd293e1587",
-    "url": "https://allegrolokalnie.pl//oferta/just-dance-2022-nintendo-switch-5p3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ciechanów"
   },
   {
     "id": "8ac90abd-4bac-4bed-b9fa-6924c4025a7b",
@@ -5988,5 +5968,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
   }
 ]
