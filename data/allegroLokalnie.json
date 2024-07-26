@@ -1190,24 +1190,14 @@
     "city": "Olsztyn, Olsztyn"
   },
   {
-    "id": "86b4e337-0831-4f01-89d8-3141743b0059",
-    "title": "Monster Hunter Rise PL Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e435c/784142ee4a09bac4189cbe4ffb15",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-pl-switch-vna?navCategoryId=256922",
-    "promoted": true,
+    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
+    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "86b4e337-0831-4f01-89d8-3141743b0059",
-    "title": "Monster Hunter Rise PL Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e435c/784142ee4a09bac4189cbe4ffb15",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-pl-switch-vna?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
+    "city": "Kazimierz Dolny"
   },
   {
     "id": "b987923b-c593-4737-81a6-8364cf429032",
@@ -1795,6 +1785,16 @@
     "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
     "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "78b55fed-e173-4147-8ac0-219604928dd5",
+    "title": "Switch Crash Bandicoot N-sane Trilogy",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e8258/e2d9cf1946428bb0ca63d31b263e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-crash-bandicoot-nsane-trilogy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
@@ -3000,16 +3000,6 @@
     "city": "Reda"
   },
   {
-    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
-    "title": "Pokemon Shining Pearl",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -4058,6 +4048,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
+    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kazimierz Dolny"
   },
   {
     "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
