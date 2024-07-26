@@ -772,7 +772,7 @@
   {
     "id": "dd8a2ff0-0887-4384-9b20-5cb68d77aa45",
     "title": "Disney Classic Games: The Jungle Book, Aladdin, The Lion King (Switch)",
-    "price": "119",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eecb4/ce2f0873495d918d04b412d163bb",
     "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-the-jungle-book-aladdin-the-lion-king-switch?navCategoryId=256922",
     "promoted": true,
@@ -792,7 +792,7 @@
   {
     "id": "5623ae28-4e40-4517-bc25-e4a46931e362",
     "title": "Snowrunner Nintendo Switch PL",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e40ba/0e3cbe09477f956fd61bb64bb4d3",
     "url": "https://allegrolokalnie.pl//oferta/snowrunner-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -802,7 +802,7 @@
   {
     "id": "6b707309-16ee-49cc-bc06-ecb394c666ed",
     "title": "Expeditions: A MudRunner Game Nintendo Switch",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e33f5/8a050ad84cbea4a67dbdae1f874a",
     "url": "https://allegrolokalnie.pl//oferta/expeditions-a-mudrunner-game-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1032,7 +1032,7 @@
   {
     "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
     "title": "DRAGON'S DOGMA DARK ARISEN Nintendo Switch nowa",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s360x360/1e4945/f2f0d4be44258b09a79a786fd21d",
     "url": "https://allegrolokalnie.pl//oferta/dragons-dogma-dark-arisen-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": true,
@@ -1188,16 +1188,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Olsztyn, Olsztyn"
-  },
-  {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kazimierz Dolny"
   },
   {
     "id": "86b4e337-0831-4f01-89d8-3141743b0059",
@@ -1795,6 +1785,16 @@
     "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1ec42a/4aa6c75c482398b16d6fcf3aa86e",
     "url": "https://allegrolokalnie.pl//oferta/switch-sonic-forces-64w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "78b55fed-e173-4147-8ac0-219604928dd5",
+    "title": "Switch Crash Bandicoot N-sane Trilogy",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e8258/e2d9cf1946428bb0ca63d31b263e",
+    "url": "https://allegrolokalnie.pl//oferta/switch-crash-bandicoot-nsane-trilogy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
@@ -2842,7 +2842,7 @@
   {
     "id": "488f3578-995a-4988-988c-0a6ce40cf47c",
     "title": "Sniper Elite III: Ultimate Edition Nintendo Switch",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e048e/7ff173594db9b39d7dcd21123edc",
     "url": "https://allegrolokalnie.pl//oferta/sniper-elite-iii-ultimate-edition-nintendo-switch-u67?navCategoryId=256922",
     "promoted": false,
@@ -2998,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Czarnów"
-  },
-  {
-    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
-    "title": "Pokemon Shining Pearl",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
   },
   {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
@@ -4058,6 +4048,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
+    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e351a/585e0e1e4525a7e4690c7f940f62",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kazimierz Dolny"
   },
   {
     "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
