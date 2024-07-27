@@ -300,16 +300,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "41d652b6-f8ad-445d-b904-a439aea35e1a",
-    "title": "Wiedźmin III Dziki Gon - Edycja kompletna - napisy PL",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e232f/d437c55c4195b043bf99865d5f87",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-iii-dziki-gon-edycja-kompletna-napisy-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "f3245401-1984-433f-9446-d5634edb1387",
     "title": "Captain Toad Treasure Tracker",
     "price": "120",
@@ -838,6 +828,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
+    "title": "SUPER MARIO 3D ALL-STARS / NOWA / NINTENDO SWITCH",
+    "price": "450",
+    "img": "https://a.allegroimg.com/s360x360/1e676b/d63d0b2940a8b9ccb0fcb7463c0e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nowa-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Biała Podlaska"
   },
   {
     "id": "14633764-e0b6-496f-b856-660c4084f8b1",
@@ -1790,26 +1790,6 @@
     "city": "Żuromin"
   },
   {
-    "id": "12f05107-4e51-4311-8f1d-4a87859ecc7d",
-    "title": "Pokémon Let’s Go Eevee",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e71f9/67b1350c45afbdc81da3ef4bdb03",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-hdm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ełk"
-  },
-  {
-    "id": "12f05107-4e51-4311-8f1d-4a87859ecc7d",
-    "title": "Pokémon Let’s Go Eevee",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e71f9/67b1350c45afbdc81da3ef4bdb03",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-hdm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ełk"
-  },
-  {
     "id": "1e8625de-909b-4041-b32e-13d2fb703541",
     "title": "LEGO STAR WARS SKYWALKER SAGA GWIEZDNE WOJNY NINTENDO SWITCH PL NOWA",
     "price": "80",
@@ -2312,7 +2292,7 @@
   {
     "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
     "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "165",
+    "price": "163",
     "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
     "promoted": false,
@@ -2408,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "cd3f5408-5cef-4c96-b58e-0bc16c8c17b4",
+    "title": "SUPER MARIO 3D ALL-STARS / NOWA / NINTENDO SWITCH",
+    "price": "450",
+    "img": "https://a.allegroimg.com/s360x360/1e676b/d63d0b2940a8b9ccb0fcb7463c0e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nowa-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Biała Podlaska"
   },
   {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
