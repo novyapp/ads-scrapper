@@ -1060,16 +1060,6 @@
     "city": "Białystok"
   },
   {
-    "id": "19665c83-4e6a-4edc-ba13-f6b8e3afbb22",
-    "title": "The legend od Zelda breath od the wild",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1ede51/1912e7984eb8b7a378ef2500855b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-breath-od-the-wild-dyf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
     "title": "Lego Marvel Super Heroes 2 Switch PL",
     "price": "96",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Żory"
+  },
+  {
+    "id": "19665c83-4e6a-4edc-ba13-f6b8e3afbb22",
+    "title": "The legend od Zelda breath od the wild",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1ede51/1912e7984eb8b7a378ef2500855b",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-breath-od-the-wild-dyf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź, Górna"
   },
   {
     "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
