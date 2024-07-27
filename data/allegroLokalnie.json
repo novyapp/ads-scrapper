@@ -600,16 +600,6 @@
     "city": "Lublin"
   },
   {
-    "id": "8fd69435-9620-4fcf-a391-7a26391256c2",
-    "title": "Fifa 22 Edycja Legacy Nintendo Switch",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1e4bf9/f4ef12c7453795d69ae9045892f3",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-edycja-legacy-qtz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "60e87de0-f170-46d2-a968-ed1dbc2d7047",
     "title": "Monster Hunter Rise Nintendo Switch",
     "price": "75",
@@ -1190,14 +1180,24 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
-    "title": "Lego Marvel Super Heroes 2 Switch PL",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s360x360/1e2b87/9a297c66489aba3e2182eca1fc7e",
-    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-switch-pl-lrc?navCategoryId=256922",
-    "promoted": false,
+    "id": "3dfbc530-6f8c-40dc-9e2e-e3d4657c0688",
+    "title": "Zestaw 4 gier na Nintendo Switch",
+    "price": "440",
+    "img": "https://a.allegroimg.com/s360x360/1e1326/f63c6065401bb4bd2b2afc95810f",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-4-gry-na-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Białystok"
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "17ae4f89-fc23-4fee-b07f-92fd2c417e24",
+    "title": "Hyrule Warriors: Age of Calamity Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1e269f/7982dfc948e2ad7e1ab9d5b4da18",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-rr7?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "94b90bf3-c55e-48f8-85ac-580352637c6e",
@@ -1785,16 +1785,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e9773/5e4051fe41c0a364b4ecd81d5cb8",
     "url": "https://allegrolokalnie.pl//oferta/xenoblades-chronicles-2-nintendo-switch-lr7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
-    "id": "7a53ee2e-ebd5-45b0-a89b-98aadaa38c7a",
-    "title": "Lego Star Wars - Skywalker Saga - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e4015/5f9aa9f5434989d457cb6e63ed88",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-nintendo-switch-ty5?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
@@ -2400,6 +2390,16 @@
     "city": "Bysław"
   },
   {
+    "id": "abd8f002-d419-4092-a401-c783bbb8f172",
+    "title": "Fitness Boxing 2 Rhythm & Exercise",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ed840/780c3c1349a3ba65c32078f532e2",
+    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-l2u?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "965d93d5-35eb-43be-a30d-a282396932da",
     "title": "The Legend Of Zelda Link's Awakening",
     "price": "190",
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
-    "title": "Monster Hunter Rise + Steelbook",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czarnów"
   },
   {
     "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
@@ -3600,16 +3590,6 @@
     "city": "Tomaszów Lubelski"
   },
   {
-    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
-    "title": "GRY NA NINTENDO SWITCH",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e6de0/8100722e46f5b252dfe6df5354bf",
-    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tomaszów Lubelski"
-  },
-  {
     "id": "6786ed86-ee08-461f-9263-fec1721d33be",
     "title": "Monster Hunter Stories 2 Nintendo SWITCH",
     "price": "109",
@@ -4198,6 +4178,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
+  },
+  {
+    "id": "1abb67a9-eca3-42e6-b18b-e5a794b0d8c2",
+    "title": "switch HELLO NEIGHBOR 2 EDYCJA KOLEKCJONERSKA po polsku kardridż BIG BOX",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/11356b/3049b82f49b0940f6fdd064faedc",
+    "url": "https://allegrolokalnie.pl//oferta/switch-hello-neighbor-2-edycja-kolekcjonerska-po-polsku-kardridz-big-box?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "86483009-87bd-49d8-a194-39afde739c60",
+    "title": "Metal Max Xeno Reborn - Swith",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e16eb/241381cf419a8d887deffb786f6a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-max-xeno-reborn-swith?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Głogów"
   },
   {
     "id": "ff0a3a33-3b5e-48a5-8abf-dce0fc3a630b",
