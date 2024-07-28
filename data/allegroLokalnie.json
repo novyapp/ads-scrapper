@@ -640,16 +640,6 @@
     "city": "Warszawa, Praga-Północ"
   },
   {
-    "id": "d67009f2-d477-4fb3-97cd-6b239b5bd63c",
-    "title": "Metroid Dread Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e0782/cb8c5b2f4dcc8288c2e060accafe",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-ube?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
     "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
     "title": "SIFU Redemption Edition Nintendo Switch",
     "price": "250",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
+    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1ee325/c3ecb3c8405299c9eee1e9ca82bf",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-dfz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
@@ -1785,16 +1785,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s360x360/1e80aa/3c771e80478d8c54b9fca20072ec",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-7a4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Mińsk Mazowiecki"
-  },
-  {
-    "id": "ac78d203-3aca-47c2-8a02-0fbe1ccc070e",
-    "title": "Triangle Strategy - Nintendo switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ebb12/9f4898d44574841e95cd99c6d7e9",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-kym?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Mińsk Mazowiecki"
@@ -2400,16 +2390,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
-    "title": "Family Trainer SWITCH",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e5265/9569954d4eb0b25090cd597455af",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
     "title": "Bayonetta Cereza",
     "price": "110",
@@ -3000,6 +2980,26 @@
     "city": "Rybnik"
   },
   {
+    "id": "63ada307-b558-41bf-a3b6-21fa6c70b417",
+    "title": "Wiedźmin 3 dziki gon po polsku Nintendo Switch",
+    "price": "222",
+    "img": "https://a.allegroimg.com/s360x360/1e3900/709bce8349af865fd94a36566d26",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-po-polsku-nintendo-switch-37d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "63ada307-b558-41bf-a3b6-21fa6c70b417",
+    "title": "Wiedźmin 3 dziki gon po polsku Nintendo Switch",
+    "price": "222",
+    "img": "https://a.allegroimg.com/s360x360/1e3900/709bce8349af865fd94a36566d26",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-po-polsku-nintendo-switch-37d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
     "title": "Nintendo Switch, Super Mario Bros. WONDER",
     "price": "200",
@@ -3585,16 +3585,6 @@
     "price": "168",
     "img": "https://a.allegroimg.com/s360x360/1e7c44/0641b2de4cef8cbd5d8387d82960",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-opaska-stan-bdb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "f87278c0-108d-472e-b967-3174479eae33",
-    "title": "Super Mario Bros Deluxe stan BdB",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s360x360/1ec402/0610de5c4bd587673cbf8235deb5",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-stan-bdb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Szczebrzeszyn"
@@ -4200,6 +4190,16 @@
     "city": "POZNAŃ, Stare Miasto"
   },
   {
+    "id": "2cdaf615-7123-4266-859f-ec26520c28a1",
+    "title": "Gra Switch Splatoon 2 Cartridge",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ef7cd/00946c914efea632fd600ddb09f8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-splatoon-2-cartridge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wejherowo"
+  },
+  {
     "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
     "title": "Switch Splatoon 2 .. nowy folia",
     "price": "129",
@@ -4785,26 +4785,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
     "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "44b35e11-7d16-477d-96bb-4e027790e39b",
-    "title": "Gra Dead Cells Edycja gry roku Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "44b35e11-7d16-477d-96bb-4e027790e39b",
-    "title": "Gra Dead Cells Edycja gry roku Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
@@ -5410,6 +5390,26 @@
     "city": "Reda"
   },
   {
+    "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
+    "title": "Mario + Rabbids: Kingdom Battle (Switch)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6fae/cde9f8274b399dd9133f5d2d6eaa",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-5bi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "7cab37d5-b0d6-4418-963e-9514c9afa8c0",
+    "title": "Catherine: Full Body (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e81d3/e39fc93f4d0c8a97b83221c48cc8",
+    "url": "https://allegrolokalnie.pl//oferta/catherine-full-body-switch-a2r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
     "title": "Bayonetta 2 (Switch)",
     "price": "120",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
-  },
-  {
-    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
-    "title": "NINJA JajaMaru - The Great Yokai Battle",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
-    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
   }
 ]
