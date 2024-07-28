@@ -1,5 +1,15 @@
 [
   {
+    "id": "f49afcb8-da8c-4a94-9ee8-32260af74ca4",
+    "title": "Pokemon Shining Pearl",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1edef6/b85aaf574e51bb0d13b5b2b90809",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-ouv?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Płoki"
+  },
+  {
     "id": "e8a81ee5-de4c-4a6f-bb7a-304aeb1a1ddd",
     "title": "Super Mario Wonder Nintendo Switch",
     "price": "89",
@@ -52,7 +62,7 @@
   {
     "id": "406f9e15-5355-4281-9d8a-c88a45b7389a",
     "title": "Wiedźmin 3 edycja kompletna",
-    "price": "190",
+    "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e009e/f4ab0c584006add38652c52282a3",
     "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-kompletna-h7a?navCategoryId=256922",
     "promoted": true,
@@ -588,16 +598,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Olsztyn"
-  },
-  {
-    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
-    "title": "Harvestella Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e3924/9c98e11140979ce582ede39725c6",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
@@ -1290,6 +1290,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "b57fa0a6-0f79-431e-adf3-acb80e57c445",
+    "title": "13 Sentinels: Aegis Rim (Switch)",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s360x360/1ed4cb/a2756c39479a9ab0b476b7b3e491",
+    "url": "https://allegrolokalnie.pl//oferta/13-sentinels-aegis-rim-switch-e4f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "90f56452-a076-464f-b20f-53e68b9a7dfc",
     "title": "Gra Kirbys Return to dreamland deluxe",
     "price": "139",
@@ -1322,7 +1332,7 @@
   {
     "id": "37b55c92-32ce-4449-9cd0-c8e4edc59611",
     "title": "The legend of Zelda Link’s Awakening",
-    "price": "150",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e3f4c/57a756c84111842f59a907075ab8",
     "url": "https://allegrolokalnie.pl//oferta/tej-legend-of-zelda-links-awakening?navCategoryId=256922",
     "promoted": false,
@@ -1342,7 +1352,7 @@
   {
     "id": "2bd2fa23-89f6-4e31-a337-4a0e37fcdc7b",
     "title": "FIFA 23 Nintendo Switch",
-    "price": "55",
+    "price": "40",
     "img": "https://a.allegroimg.com/s360x360/1e0308/c36e6ca5420880fa26ba5bd63ec0",
     "url": "https://allegrolokalnie.pl//oferta/fifa-23-nintendo-switch-tjf?navCategoryId=256922",
     "promoted": false,
@@ -1768,6 +1778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki"
+  },
+  {
+    "id": "5ee4fbc2-89c7-41f0-b6e7-ae335465a05b",
+    "title": "Prince of Persia The Lost Crown (Nintendo Switch)",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1ef399/84da5cf34efb9921de309d6a406e",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-z5e?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wałbrzych"
+  },
+  {
+    "id": "acd4e109-d8ca-4fb4-b626-56da67af405d",
+    "title": "Super Mario Bros wonder",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e1710/c7bc3ad84cd2a9534a7048798660",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-lvi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krasiczyn"
   },
   {
     "id": "5ee4fbc2-89c7-41f0-b6e7-ae335465a05b",
@@ -2370,46 +2400,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "9c08222a-9a33-48af-a56b-fb8db62e4e4b",
-    "title": "Gra Nintendo Switch Marvel Ultimate Alliance 3: the Black Order",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1ee285/44860f8d4cb087efac30db84a3ca",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-marvel-ultimate-alliance-3-the-black-order?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "46977eaa-d9e4-4335-a7b2-91082e0436c6",
-    "title": "Need for Speed Hot Pursuit Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e641d/ef479fe94fcdb1bc5d4d492f9af7",
-    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-switch-ilp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
-    "title": "Hyrule Warriors Age of Calamity Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
-    "title": "Hyrule Warriors Age of Calamity Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
     "title": "Asterix i Obelix Slap Them All! Switch",
     "price": "110",
@@ -2995,6 +2985,16 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1e0259/5ed9d1264700a2412b8d2c89466f",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-posiadlosc-luigiego-3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
+    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1eb21f/05d28abd4254b818201c4f31207d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
@@ -3598,16 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sierpc"
-  },
-  {
-    "id": "95a93666-ac38-4015-8f26-6449b045e4eb",
-    "title": "Gra Aragami: Shadow Edition Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e0a5f/cfc39abe4cacbb77cc8d36d2ff08",
-    "url": "https://allegrolokalnie.pl//oferta/gra-aragami-shadow-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Wroclaw"
   },
   {
     "id": "dc28e624-2a5e-4ed1-b982-bc37f63530c2",
@@ -4810,6 +4800,16 @@
     "city": "Warszawa, Śródmieście"
   },
   {
+    "id": "0f4d7c6a-68da-42d5-8dc5-27119f76fdfe",
+    "title": "Figurka Nintendo Amiibo Sephiroth",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1ec1d6/231449f348308948258a551fd493",
+    "url": "https://allegrolokalnie.pl//oferta/figurka-nintendo-amiibo-sephiroth?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
     "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
     "price": "299",
@@ -4928,16 +4928,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
-  },
-  {
-    "id": "0f4d7c6a-68da-42d5-8dc5-27119f76fdfe",
-    "title": "Figurka Nintendo Amiibo Sephiroth",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1ec1d6/231449f348308948258a551fd493",
-    "url": "https://allegrolokalnie.pl//oferta/figurka-nintendo-amiibo-sephiroth?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
   },
   {
     "id": "9eaeda69-7407-43a7-9f7d-94aa34ef11b7",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
+  },
+  {
+    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
+    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Włochy"
   }
 ]
