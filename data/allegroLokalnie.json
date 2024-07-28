@@ -742,7 +742,7 @@
   {
     "id": "00b9ecf3-0386-456e-8801-6721c5dcebd6",
     "title": "Rayman Legends Definitive Edition Nintendo Switch",
-    "price": "109",
+    "price": "105",
     "img": "https://a.allegroimg.com/s360x360/1ed76c/cdc409234097941b938a0cd958ed",
     "url": "https://allegrolokalnie.pl//oferta/rayman-legends-definitive-edition-ep4?navCategoryId=256922",
     "promoted": true,
@@ -752,7 +752,7 @@
   {
     "id": "adffb4a6-3cfa-45f0-b8b9-cfa9cf5913f5",
     "title": "The Legends of Zelda Breath of the Wild Nintendo Switch",
-    "price": "189",
+    "price": "185",
     "img": "https://a.allegroimg.com/s360x360/1e374c/049e0ffc4993a86cde733e5d8fea",
     "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-breath-of-the-wild-xtj?navCategoryId=256922",
     "promoted": true,
@@ -778,26 +778,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Biała Piska"
-  },
-  {
-    "id": "a919a87c-ce1e-4527-8eca-674a49d1d56a",
-    "title": "Xenoblade Chronicles 3 Nintendo Switch + Plakat",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e5152/0088b958413dbcc1f539f357dd70",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-plakat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Otmuchów"
-  },
-  {
-    "id": "5a69dfff-2c4c-4948-8e2c-a8c40f611219",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1efa5b/ed18631e4af9ad206a074b9ed39f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-3b6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Otmuchów"
   },
   {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
@@ -1200,6 +1180,16 @@
     "city": "Białystok"
   },
   {
+    "id": "b367f8eb-9894-4367-899a-a57ddb89ba22",
+    "title": "Mario + Rabbids: Kingdom Battle Switch",
+    "price": "114",
+    "img": "https://a.allegroimg.com/s360x360/1ef82f/a56bf3754f35bdc5d64b248e1ee5",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-nqv?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "421dd695-8035-4df9-80d1-58c008c579cc",
     "title": "Vengeful Guardian Moonrider Switch NOWY",
     "price": "115",
@@ -1435,16 +1425,6 @@
     "price": "50",
     "img": "https://a.allegroimg.com/s360x360/1ef049/aae9853e4a77a5aa0a46bd1c5374",
     "url": "https://allegrolokalnie.pl//oferta/paw-patrol-world-swiat-psiego-patrolu-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Świnoujście"
-  },
-  {
-    "id": "5ee6c240-af86-4515-9db9-4e4fcde7418c",
-    "title": "Super Mario Bros wonder NS",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e2cfc/22a9e7d748aa8884d7703ca6545d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-ns-izj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Świnoujście"
@@ -1788,6 +1768,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Czarnków"
+  },
+  {
+    "id": "40a9bb36-a679-4666-8efd-2a41f9c60b29",
+    "title": "Pokemon Legends Arceus NINTENDO SWITCH",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1ed016/f084347e4c8dbf252397988ea162",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-nintendo-switch-gy7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Czarnków"
+  },
+  {
+    "id": "92a6f8d1-4f6e-41d8-87f7-07d7d06040bf",
+    "title": "Kirby and the forgotten land",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1eb8ac/e9871e004f4fbc991dd1a6530fb1",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-q47?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kobyłka"
+  },
+  {
+    "id": "27d2a613-e3ce-4198-a79f-d01b5c909b78",
+    "title": "GOTHIC CLASSIC KHORINIS SAGA NS",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e17e0/7fe1c39d46fea1e91a905da342f9",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-khorinis-saga-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Czernikowo"
   },
   {
     "id": "40a9bb36-a679-4666-8efd-2a41f9c60b29",
@@ -2385,26 +2395,6 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s360x360/1ef4c6/47b19d7c4e1e8eac92bce49f8f79",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-x2-f65?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "a74360ab-aa33-4ab4-bc30-7b0f0e8df56e",
-    "title": "Rain Code collector's edition(mysteriful edition)",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e0c76/30af8ad5411581f09e1342526457",
-    "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "a74360ab-aa33-4ab4-bc30-7b0f0e8df56e",
-    "title": "Rain Code collector's edition(mysteriful edition)",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e0c76/30af8ad5411581f09e1342526457",
-    "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
@@ -3600,6 +3590,26 @@
     "city": "Przemyśl"
   },
   {
+    "id": "db7a514f-27a3-474c-b500-efbc115c6bb5",
+    "title": "Dead Cells: Action Game of the Year Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e4bc4/d4e5f28e40d5827bb1195d96bebf",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-nintendo-switch-ndw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
+    "id": "db7a514f-27a3-474c-b500-efbc115c6bb5",
+    "title": "Dead Cells: Action Game of the Year Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e4bc4/d4e5f28e40d5827bb1195d96bebf",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-nintendo-switch-ndw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
     "id": "710eee37-8f1c-4be1-af24-fe2e49c7026c",
     "title": "Nintendo Switch Monster Hunter Stories 2",
     "price": "130",
@@ -4190,26 +4200,6 @@
     "city": "Reda"
   },
   {
-    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "01b96155-4589-492e-aa47-9597f3113a57",
     "title": "Trek to Yomi Switch Nowa Folia",
     "price": "65",
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
+  },
+  {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   },
   {
     "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
