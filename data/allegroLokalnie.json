@@ -600,16 +600,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
-    "title": "Harvestella Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e3924/9c98e11140979ce582ede39725c6",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
     "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
     "price": "299",
@@ -1190,6 +1180,26 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
+    "title": "Wonder boy nintendo switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1436/f9ac19ba456a9854d1a323b194e6",
+    "url": "https://allegrolokalnie.pl//oferta/wonder-boy-nintendo-switch-6vh?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
+    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
+    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
     "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
     "title": "Zestaw na Nintendo Switch 4 gier",
     "price": "360",
@@ -1198,16 +1208,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
-    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
-    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   },
   {
     "id": "9b39ceae-a5de-4cfd-98b3-b1ae1d7309a9",
@@ -1286,6 +1286,16 @@
     "img": "https://a.allegroimg.com/s360x360/1e0511/e201e5914270b0f16c9cfceb2ec6",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
     "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
+    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
   },
