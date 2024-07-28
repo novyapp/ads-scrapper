@@ -1,5 +1,15 @@
 [
   {
+    "id": "c1bcea94-a61e-4fd4-a4a9-dbbcf9460fa6",
+    "title": "Prince of Persia: The Lost Crown Gra NINTENDO SWITCH",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1ed4b4/2cb20fdf48d8a06bf9b2c45b4c14",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "6485bc5f-05a1-48a2-afdf-aac7d979453e",
     "title": "KING'S BOUNTY II 2 PL | NINTENDO SWITCH | POLSKA",
     "price": "60",
@@ -58,16 +68,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Kraków, Krowodrza"
-  },
-  {
-    "id": "42b4d71f-f591-46c1-9aac-3762adc9fcb4",
-    "title": "The Legend of Zelda Tears of the Kingdom Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e89a6/bbcca8274ce2b7b70922172bf422",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-szx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
   },
   {
     "id": "b5c757ff-904a-49a4-82ee-ab4b31643323",
@@ -1800,6 +1800,16 @@
     "city": "Żuromin"
   },
   {
+    "id": "744ceb77-ff64-4575-b496-4a514bdf89fd",
+    "title": "Grand Theft Auto Trilogy Definitive Edition Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1edc8f/e66fc5254bcaa8a2cc955085434e",
+    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-trilogy-definitive-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Żuromin"
+  },
+  {
     "id": "430bf4bf-3344-4ba2-9221-c59f6cff9aac",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "150",
@@ -2990,16 +3000,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "ac237fc0-8e4a-462f-b4fe-ff5b37ab0333",
-    "title": "THE LEGEND OF ZELDA: Link's Awakening Nintendo Switch (bardzo dobry)",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e1f31/63ed05534935af36ac223996b11b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-cn6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraśnik"
-  },
-  {
     "id": "4ae6522a-802a-440f-8d9c-71c4bf31c4f8",
     "title": "Sifu Vengeance Edition Nowa",
     "price": "60",
@@ -3588,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Stare Miasto"
+  },
+  {
+    "id": "d7cc61b1-feba-4dc5-90be-db96c200d858",
+    "title": "Super Mario 3D World + Bowser’s Fury",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e8b5a/79589dd4473bbd86981311b68122",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-lda-n2m?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "d7cc61b1-feba-4dc5-90be-db96c200d858",
@@ -4790,16 +4800,6 @@
     "city": "Zamość"
   },
   {
-    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włostów"
-  },
-  {
     "id": "112f7161-dc29-41ce-8558-0b8450c8ca3d",
     "title": "Smerfy 2: Więzień Zielonego Kamienia. Nintendo switch",
     "price": "100",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
+  },
+  {
+    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
+    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Włochy"
   }
 ]
