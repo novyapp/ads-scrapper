@@ -82,22 +82,12 @@
   {
     "id": "53c5eade-734e-42b4-8c9a-80ea898e52bf",
     "title": "Super Mario Deluxe",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1ed238/b25899004d85ad551744a531e526",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-deluxe?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Katowice"
-  },
-  {
-    "id": "36350a92-2f34-4fdc-841e-377524640a43",
-    "title": "Luigi's Mansion 3 Gra Nintendo Switch Gra wideo",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e1777/55d5a41b43f68c2ba2f50915af9a",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-gra-nintendo-switch-gra-wideo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "c1bcea94-a61e-4fd4-a4a9-dbbcf9460fa6",
@@ -1200,16 +1190,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
-    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1ee325/c3ecb3c8405299c9eee1e9ca82bf",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-dfz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
     "price": "135",
@@ -1788,6 +1768,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zbylitowska Góra"
+  },
+  {
+    "id": "26b9ce63-5630-4ac1-be17-cf73f80beb81",
+    "title": "Shin Megami Tensei V - Nintendo switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e80aa/3c771e80478d8c54b9fca20072ec",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-7a4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mińsk Mazowiecki"
+  },
+  {
+    "id": "ac78d203-3aca-47c2-8a02-0fbe1ccc070e",
+    "title": "Triangle Strategy - Nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ebb12/9f4898d44574841e95cd99c6d7e9",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-kym?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mińsk Mazowiecki"
   },
   {
     "id": "ac78d203-3aca-47c2-8a02-0fbe1ccc070e",
@@ -2388,26 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "koszalin"
-  },
-  {
-    "id": "282e4fe2-84dd-4f69-adeb-f6750dd39264",
-    "title": "Nowa polska wersja Construction Machines Simulator Okazja !",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1e4057/616ff0554cee9465fcc503b0e6ec",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-polska-wersja-construction-machines-simulator-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "koszalin"
-  },
-  {
-    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
-    "title": "Family Trainer SWITCH",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e5265/9569954d4eb0b25090cd597455af",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
@@ -3590,6 +3570,26 @@
     "city": "Garwolin"
   },
   {
+    "id": "b6028dad-c307-427c-b6a4-dd2a84126328",
+    "title": "Nintendo Switch Sports + Opaska stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1e7c44/0641b2de4cef8cbd5d8387d82960",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-opaska-stan-bdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "f87278c0-108d-472e-b967-3174479eae33",
+    "title": "Super Mario Bros Deluxe stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1ec402/0610de5c4bd587673cbf8235deb5",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-stan-bdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "f87278c0-108d-472e-b967-3174479eae33",
     "title": "Super Mario Bros Deluxe stan BdB",
     "price": "168",
@@ -4172,7 +4172,7 @@
   {
     "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
     "title": "Gra Nintendo Switch Lover Pretend",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
     "promoted": false,
@@ -4188,26 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
-  },
-  {
-    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
-    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e1e35/2a26594b43909b1477a90c772e24",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
-  },
-  {
-    "id": "2cdaf615-7123-4266-859f-ec26520c28a1",
-    "title": "Gra Switch Splatoon 2 Cartridge",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ef7cd/00946c914efea632fd600ddb09f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-switch-splatoon-2-cartridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wejherowo"
   },
   {
     "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
@@ -5988,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "528d5995-d1f6-4f3a-a28f-8ac990101f05",
+    "title": "Switch Fitness Boxing nowa",
+    "price": "148",
+    "img": "https://a.allegroimg.com/s360x360/1ef943/e5715bc24c8688788a4e97eca10b",
+    "url": "https://allegrolokalnie.pl//oferta/switch-fitness-boxing-nowa-6vr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
   }
 ]
