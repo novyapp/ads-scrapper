@@ -800,16 +800,6 @@
     "city": "Kraków"
   },
   {
-    "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
-    "title": "Alwa's Collection Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1eb378/82273d684076b45047aeec1aa5af",
-    "url": "https://allegrolokalnie.pl//oferta/alwas-collection-switch-pdb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "KOBIERZYCE"
-  },
-  {
     "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
     "title": "Pokemon Brilliant Diamond Nintendo Switch",
     "price": "145",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Twardogóra"
+  },
+  {
+    "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
+    "title": "Alwa's Collection Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1eb378/82273d684076b45047aeec1aa5af",
+    "url": "https://allegrolokalnie.pl//oferta/alwas-collection-switch-pdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
   },
   {
     "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
