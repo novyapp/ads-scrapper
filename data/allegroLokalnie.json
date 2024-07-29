@@ -1200,16 +1200,6 @@
     "city": "Bielawa"
   },
   {
-    "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
-    "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e94f8/7304a5154d40a4808b88ab2c4f35",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-hox?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "b367f8eb-9894-4367-899a-a57ddb89ba22",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "114",
@@ -1378,16 +1368,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "7dbebd49-c407-4586-ab43-f421332cd8e9",
-    "title": "Bloodrayne Switch",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s360x360/1e7530/c0bae7394a43967ed5f161311aca",
-    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-revamped-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "73d7c622-0b98-4f2e-ad5b-ab977da88c0a",
@@ -1798,6 +1778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "3cdda98d-0512-4f59-a536-cb18d9a249e1",
+    "title": "Gra Nintendo Switch Mario + Rabbids Sparks of Hope jak nowa",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e06f0/ad327e82481baea5832ba817f80e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-mario-rabbids-sparks-of-hope-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zaborów, Zaborów"
+  },
+  {
+    "id": "1dba2603-de68-4c51-aaa1-dca202f348c2",
+    "title": "Mario Tennis Aces GRA NINTENDO SWITCH",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e45de/be4318af4228811a9a0db95ac58e",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-gra-nintendo-switch-535?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wasilków"
   },
   {
     "id": "3cdda98d-0512-4f59-a536-cb18d9a249e1",
@@ -2390,14 +2390,14 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "13258140-3397-41ba-8e8d-b9808c36eccc",
-    "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów Gra NINTENDO SWITCH + DLC",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e1d9f/8218319c4e7e986fb5affaf987a2",
-    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-gra-nintendo-switch-dlc?navCategoryId=256922",
+    "id": "1cb63658-b552-41f6-9855-1b5b39f10098",
+    "title": "Metroid Dread Nintendo Switch - sam kartridż",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1e04d5/2358ae5e4c0dbe18e29ed9650acd",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-sam-kartridz?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
+    "smartPost": true,
+    "city": "Lublin"
   },
   {
     "id": "2dc62129-1a23-4b7c-8d3a-440539beab9e",
@@ -3876,7 +3876,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e923b/64e4ff1c4c078e5a7594c39c0d90",
     "url": "https://allegrolokalnie.pl//oferta/gra-nsw-switch-yugioh-rush-duel-lets-go-go-rush-zafoliowana?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Wola"
   },
   {
@@ -4196,7 +4196,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e063e/bf69d78444c6881bf5a139a81c05",
     "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Wola"
   },
   {
@@ -4790,11 +4790,11 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "id": "4320fbca-e83a-49cb-9054-698e81536834",
+    "title": "Warioware Move It!",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
+    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Serock"
   }
 ]
