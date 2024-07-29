@@ -780,16 +780,6 @@
     "city": "Bielawa"
   },
   {
-    "id": "fbc7fbe0-8949-45b6-b1ff-65be4458c006",
-    "title": "SpongeBob the cosmic shake GRA Nintendo switch",
-    "price": "999",
-    "img": "https://a.allegroimg.com/s360x360/1ed34c/4daf40c14dfca229f842e44286f4",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-the-cosmic-shake-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kaleń Duża"
-  },
-  {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
     "title": "Gra Nintendo Switch Bendy and the ink Machine - kardridż RARYTAS",
     "price": "199",
@@ -1198,6 +1188,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "fbc7fbe0-8949-45b6-b1ff-65be4458c006",
+    "title": "SpongeBob the cosmic shake GRA Nintendo switch",
+    "price": "999",
+    "img": "https://a.allegroimg.com/s360x360/1ed34c/4daf40c14dfca229f842e44286f4",
+    "url": "https://allegrolokalnie.pl//oferta/spongebob-the-cosmic-shake-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kaleń Duża"
+  },
+  {
+    "id": "421dd695-8035-4df9-80d1-58c008c579cc",
+    "title": "Vengeful Guardian Moonrider Switch NOWY",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e76d6/8a36564648b0bcfd5d04d8d8b2b4",
+    "url": "https://allegrolokalnie.pl//oferta/vengeful-guardian-moonrider-switch-nowy?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Świdnica"
   },
   {
     "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
@@ -1800,16 +1810,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "e3887704-5177-48f6-b50e-8789b11c522f",
-    "title": "Gra The Legend of Zelda: Breath of The Wild- Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e5771/02352b0048cfa1af0d4d91f992f2",
-    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-v4l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rzeszów"
-  },
-  {
     "id": "5aa7e7ff-e6e6-4b4d-9c9c-6f43480fc6bb",
     "title": "Shadow man Remastered Switch Limited Run",
     "price": "279",
@@ -2400,16 +2400,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
-    "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s360x360/1e822c/dd163416448cb9849be312db60ac",
-    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-wjx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "03d9f08e-38fd-49d8-a86b-59b5635f2b84",
     "title": "Dr Kawashima's Brain Training for Nintendo Switch",
     "price": "149",
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
+  },
+  {
+    "id": "e8951bb4-7b27-4a94-b0fb-8c4887bf3b83",
+    "title": "Yoshi Crafted World Nintendo Switch",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1ea1d9/2f6436184d8596907f6d59a88002",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-nintendo-switch-isu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
   },
   {
     "id": "e8951bb4-7b27-4a94-b0fb-8c4887bf3b83",
@@ -5400,16 +5400,6 @@
     "city": "Pruszków, Malichy"
   },
   {
-    "id": "74b3988d-f2c3-4d42-b115-bfed6cc997e2",
-    "title": "POKÉMON GOUGHING FIRE LEGENDARNY 100lvl.",
-    "price": "7",
-    "img": "https://a.allegroimg.com/s360x360/1ef7e3/75909eb44cbca674b0319a11410d",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-goughing-fire-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "842b43e9-9e7f-480c-a811-10068737974a",
     "title": "POKÉMON SHINY ENTEI 100lvl.",
     "price": "5",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żyrardów"
+  },
+  {
+    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
+    "title": "Luigi’s Mansion 3 Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
   }
 ]
