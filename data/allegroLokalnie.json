@@ -790,36 +790,6 @@
     "city": "Lublin"
   },
   {
-    "id": "adffb4a6-3cfa-45f0-b8b9-cfa9cf5913f5",
-    "title": "The Legends of Zelda Breath of the Wild Nintendo Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e374c/049e0ffc4993a86cde733e5d8fea",
-    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-breath-of-the-wild-xtj?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
-    "id": "38a3391d-43f5-45b0-a4d1-8582dbd36e4d",
-    "title": "Immortals Fenyx Rising Nintendo Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e81b3/44f37bc64a2f8b4ba0c6b7f73796",
-    "url": "https://allegrolokalnie.pl//oferta/immortals-fenyx-rising-nintendo-switch-trn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
-    "id": "46c8c0bb-5119-4157-918b-a9a9db56a77d",
-    "title": "Cult of The Lamb Deluxe Edition Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e07df/fc3450744bce96b757cee46fb776",
-    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb-deluxe-edition-switch-vpo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Biała Piska"
-  },
-  {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
     "title": "Gra Nintendo Switch Bendy and the ink Machine - kardridż RARYTAS",
     "price": "199",
@@ -1198,6 +1168,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "adffb4a6-3cfa-45f0-b8b9-cfa9cf5913f5",
+    "title": "The Legends of Zelda Breath of the Wild Nintendo Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e374c/049e0ffc4993a86cde733e5d8fea",
+    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-breath-of-the-wild-xtj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
+    "id": "38a3391d-43f5-45b0-a4d1-8582dbd36e4d",
+    "title": "Immortals Fenyx Rising Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1e81b3/44f37bc64a2f8b4ba0c6b7f73796",
+    "url": "https://allegrolokalnie.pl//oferta/immortals-fenyx-rising-nintendo-switch-trn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
+    "id": "46c8c0bb-5119-4157-918b-a9a9db56a77d",
+    "title": "Cult of The Lamb Deluxe Edition Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e07df/fc3450744bce96b757cee46fb776",
+    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb-deluxe-edition-switch-vpo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Biała Piska"
   },
   {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
