@@ -970,16 +970,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "bc212572-b259-491e-bb72-3014a1c3000e",
-    "title": "Fitness Boxing 2 Rhythm & Exercise Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1ed1af/81557398445297e6c8bebebaef53",
-    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-nintendo-switch-hmv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "189",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Świdnica"
+  },
+  {
+    "id": "bc212572-b259-491e-bb72-3014a1c3000e",
+    "title": "Fitness Boxing 2 Rhythm & Exercise Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ed1af/81557398445297e6c8bebebaef53",
+    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-nintendo-switch-hmv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
   },
   {
     "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
@@ -1788,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "e3887704-5177-48f6-b50e-8789b11c522f",
+    "title": "Gra The Legend of Zelda: Breath of The Wild- Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e5771/02352b0048cfa1af0d4d91f992f2",
+    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-v4l?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rzeszów"
   },
   {
     "id": "e3887704-5177-48f6-b50e-8789b11c522f",
@@ -2542,7 +2552,7 @@
   {
     "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
     "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "163",
+    "price": "155",
     "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
     "promoted": false,
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
-  },
-  {
-    "id": "e8951bb4-7b27-4a94-b0fb-8c4887bf3b83",
-    "title": "Yoshi Crafted World Nintendo Switch",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1ea1d9/2f6436184d8596907f6d59a88002",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-nintendo-switch-isu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
   },
   {
     "id": "79071a1f-91ee-4f7b-bd21-1b68eaaf8ee8",
@@ -3600,6 +3600,16 @@
     "city": "JAWORZE"
   },
   {
+    "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
+    "title": "Animal Crossing New Horizons gra Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
     "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
     "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
     "price": "190",
@@ -4180,6 +4190,36 @@
     "city": "Warszawa, Wola"
   },
   {
+    "id": "03ddaa9d-3acb-40c2-a57f-596fffe7372f",
+    "title": "Giana Sisters Twisted Dreams Owltimate Edition",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e4dab/e6e5a4f74630a44c7b365992be3c",
+    "url": "https://allegrolokalnie.pl//oferta/giana-sisters-twisted-dreams-owltimate-edition-urb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wojcieszow"
+  },
+  {
+    "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
+    "title": "Cuphead Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
+    "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Puchaczów"
+  },
+  {
+    "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
+    "title": "Xenoblade Chronicles Definitive Edition",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e3a8a/32139ca74fba8970c3fa47ea47a5",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-kwq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
     "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
     "price": "179",
@@ -4758,46 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
-    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "0cec294c-47c1-4ca0-a1c1-ad2aaeab39ba",
-    "title": "Nintendo Switch Pokemon Scarlet ... jak nowy",
-    "price": "174",
-    "img": "https://a.allegroimg.com/s360x360/1e5f3c/6d9118c8429fa61857a06b5b453e",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-scarlet-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "4320fbca-e83a-49cb-9054-698e81536834",
-    "title": "Warioware Move It!",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
-    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   },
   {
     "id": "0cec294c-47c1-4ca0-a1c1-ad2aaeab39ba",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żyrardów"
+  },
+  {
+    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
+    "title": "Luigi’s Mansion 3 Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "a66353ab-b831-4e43-9ff6-366c0d554593",
+    "title": "Harry Potter Dziedzictwo Hogwartu Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e5061/2c2a34764ed883cbc09fa3d3f7c0",
+    "url": "https://allegrolokalnie.pl//oferta/harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
