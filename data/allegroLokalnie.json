@@ -1230,26 +1230,6 @@
     "city": "Białystok"
   },
   {
-    "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
-    "title": "Shin Megami Tensei III nintendo switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1e51f3/9e343e4b4dcdb52b03ecd2ab55e2",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-iii-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
-    "title": "Let's get fit nintendo switch",
-    "price": "66",
-    "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "ee8cd930-7ac3-4ea2-8a0c-db7616e014e9",
     "title": "Neo: The World Ends With You, Gra Nintendo Switch",
     "price": "88",
@@ -1268,26 +1248,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
-    "title": "Wonder boy nintendo switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e1436/f9ac19ba456a9854d1a323b194e6",
-    "url": "https://allegrolokalnie.pl//oferta/wonder-boy-nintendo-switch-6vh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
-    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
-    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Twardogóra"
   },
   {
     "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
@@ -1388,6 +1348,46 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
+    "title": "Shin Megami Tensei III nintendo switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1e51f3/9e343e4b4dcdb52b03ecd2ab55e2",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-iii-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
+    "title": "Let's get fit nintendo switch",
+    "price": "66",
+    "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
+    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
+    "title": "Wonder boy nintendo switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1436/f9ac19ba456a9854d1a323b194e6",
+    "url": "https://allegrolokalnie.pl//oferta/wonder-boy-nintendo-switch-6vh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
+    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
+    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Twardogóra"
   },
   {
     "id": "73d7c622-0b98-4f2e-ad5b-ab977da88c0a",
