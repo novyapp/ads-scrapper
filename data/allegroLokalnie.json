@@ -1,5 +1,15 @@
 [
   {
+    "id": "0a3ebf6d-dde4-4f82-bdba-d7e2b07d99d8",
+    "title": "THE LEGEND OF ZELDA: BREATH OF THE WILD",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e63b4/d0e0b91d4349a9f0ccf20f082959",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-7jk?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
     "id": "7297ab44-30cc-42a9-b87c-c792416e4580",
     "title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch",
     "price": "140",
@@ -58,6 +68,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "feb1f40a-96d8-49aa-a603-ac3edcaf5302",
+    "title": "Nintendo Switch Pokémon Shield",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e1033/98d680434cdc99c8177ae7bd7daf",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-shield-sgn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wolin"
   },
   {
     "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
@@ -1408,16 +1428,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "feb1f40a-96d8-49aa-a603-ac3edcaf5302",
-    "title": "Nintendo Switch Pokémon Shield",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e1033/98d680434cdc99c8177ae7bd7daf",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-shield-sgn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wolin"
   },
   {
     "id": "e21b2677-5766-4504-9469-6956ff49a2aa",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
-  },
-  {
-    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
-    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Serock"
   }
 ]
