@@ -810,16 +810,6 @@
     "city": "Otmuchów"
   },
   {
-    "id": "342c6bca-e334-415e-bd13-5d7c3afbf7ab",
-    "title": "Xenoblade chronicles 2 Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e93f3/36ab65b54d7ab769e4d3da2a096e",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-akz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Otmuchów"
-  },
-  {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
     "title": "Goodbye World - Switch (Nowa)",
     "price": "159",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "342c6bca-e334-415e-bd13-5d7c3afbf7ab",
+    "title": "Xenoblade chronicles 2 Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e93f3/36ab65b54d7ab769e4d3da2a096e",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-akz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Otmuchów"
   },
   {
     "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
