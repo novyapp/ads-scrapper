@@ -800,16 +800,6 @@
     "city": "Białystok"
   },
   {
-    "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e9ce0/065f411c4ba0871a125785f8c69e",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-pua?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Otmuchów"
-  },
-  {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
     "title": "Goodbye World - Switch (Nowa)",
     "price": "159",
@@ -1190,11 +1180,21 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "342c6bca-e334-415e-bd13-5d7c3afbf7ab",
-    "title": "Xenoblade chronicles 2 Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e93f3/36ab65b54d7ab769e4d3da2a096e",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-akz?navCategoryId=256922",
+    "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
+    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1ee325/c3ecb3c8405299c9eee1e9ca82bf",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-dfz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e9ce0/065f411c4ba0871a125785f8c69e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-pua?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Otmuchów"
@@ -1800,26 +1800,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "3fd76805-3d8a-4425-8218-06e5841bcbab",
-    "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
-    "price": "279",
-    "img": "https://a.allegroimg.com/s360x360/1e7ef9/b285056e45e1bae62eae01b5e2e8",
-    "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-zux?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "106ce6a6-7783-4029-bc6d-888fe06e788f",
-    "title": "Zelda Tears of The Kingdom",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e03f0/aa7683874e64b5108bcdbe29646f",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-6d5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zakrzewska Wola"
-  },
-  {
     "id": "7a5f0af0-1984-46a9-9aa0-ea1a7cccc52c",
     "title": "Sonic Superstars Nintendo Switch, kartridż",
     "price": "144",
@@ -2138,6 +2118,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jasło"
+  },
+  {
+    "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e9ce0/065f411c4ba0871a125785f8c69e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-pua?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Otmuchów"
+  },
+  {
+    "id": "342c6bca-e334-415e-bd13-5d7c3afbf7ab",
+    "title": "Xenoblade chronicles 2 Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e93f3/36ab65b54d7ab769e4d3da2a096e",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-akz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Otmuchów"
   },
   {
     "id": "76c652ba-20a4-4e46-a70a-0c75ccafd87b",
