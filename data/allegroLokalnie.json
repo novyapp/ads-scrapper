@@ -430,16 +430,6 @@
     "city": "Małogoszcz"
   },
   {
-    "id": "87da1e7a-5dc3-466d-81eb-67a5ea4d0775",
-    "title": "Pokemon Violet",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e447b/f7b0be744a11bfa789e773d2cbb5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-mgi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Małogoszcz"
-  },
-  {
     "id": "fb4f5f5a-de7b-4e91-ab58-5d1225009ae9",
     "title": "Wiedźmin 3 Edycja Kompletna",
     "price": "250",
@@ -1418,6 +1408,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "e7902255-8648-4da1-94ad-2317b47f1d6e",
+    "title": "Hyrule Warriors Age of Calamity",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e10f9/ab192ca64162bf461d3a83ac7707",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-xse?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
+    "id": "77068926-763c-4f46-9e59-621735a040a4",
+    "title": "Mario + Rabbids Sparks of Hope - używana gra NS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e20bf/d9c55a564d4eb1c5be260c35427a",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-uzywana-gra-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   },
   {
     "id": "e21b2677-5766-4504-9469-6956ff49a2aa",
