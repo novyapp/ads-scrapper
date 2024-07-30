@@ -972,7 +972,7 @@
   {
     "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
     "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "90",
+    "price": "95",
     "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -1200,6 +1200,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
+    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1ee325/c3ecb3c8405299c9eee1e9ca82bf",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-dfz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
     "price": "135",
@@ -1378,6 +1388,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "e21b2677-5766-4504-9469-6956ff49a2aa",
+    "title": "Zelda Tears of the Kingdom Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e7c73/aa1ec6cf4587b8507fdd57f967a2",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-nintendo-switch-lni?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rudnik nad Sanem"
+  },
+  {
+    "id": "de75271e-c9cb-4fdd-84e6-a60925a15170",
+    "title": "Super Smash Bros Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e2952/e0e8e37949188446f2e7d8dfb3a2",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-vl4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rudnik nad Sanem"
   },
   {
     "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
@@ -1768,36 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "106ce6a6-7783-4029-bc6d-888fe06e788f",
-    "title": "Zelda Tears of The Kingdom",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e03f0/aa7683874e64b5108bcdbe29646f",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-6d5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zakrzewska Wola"
-  },
-  {
-    "id": "7a5f0af0-1984-46a9-9aa0-ea1a7cccc52c",
-    "title": "Sonic Superstars Nintendo Switch, kartridż",
-    "price": "144",
-    "img": "https://a.allegroimg.com/s360x360/1ea838/88d21d584e768632d4a634b773e1",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-superstars-nintendo-switch-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Robakowo"
-  },
-  {
-    "id": "766bf091-1a8d-4e41-b725-2ae5e3647b64",
-    "title": "Star Ocean: The Second Story R Nintendo Switch",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/1e8cc6/b16b53f044cba95996f89381919f",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-nintendo-switch-33s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "106ce6a6-7783-4029-bc6d-888fe06e788f",
@@ -3000,6 +3000,26 @@
     "city": "Radom, Michałów"
   },
   {
+    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
+    "title": "Super Mario 3d World Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1eb394/18c354254e8e8521965fc745798d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
+    "title": "Pokemon Sword Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6668/415244aa4f8596585309602a043c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
     "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
     "title": "Bayonetta 3 Switch Steelbook",
     "price": "100",
@@ -3580,24 +3600,14 @@
     "city": "Olkusz"
   },
   {
-    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
-    "title": "MINECRAFT - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
+    "id": "0fb18aeb-b71a-4ed9-bfbf-670205dee8ec",
+    "title": "Pokken Tournament DX Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1e8c2f/a17d541b4d329ba44311d66c267a",
+    "url": "https://allegrolokalnie.pl//oferta/pokken-tournament-dx-switch-kqs?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
-    "city": "Wilkszyn"
-  },
-  {
-    "id": "9536f2bc-da92-41d3-9a92-8f80d352544e",
-    "title": "Nintendo Switch gra Mariokart 8 Deluxe",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1ef3c9/cec41a29496aa45d059d8a2c5303",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-mariokart-8-deluxe-e4y?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
+    "city": "Olkusz"
   },
   {
     "id": "4e182bbe-382a-492e-849e-072d18e162b8",
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
-    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom"
   },
   {
     "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
@@ -4800,6 +4800,26 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "4320fbca-e83a-49cb-9054-698e81536834",
+    "title": "Warioware Move It!",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
+    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
     "id": "0cec294c-47c1-4ca0-a1c1-ad2aaeab39ba",
     "title": "Nintendo Switch Pokemon Scarlet ... jak nowy",
     "price": "174",
@@ -5400,16 +5420,6 @@
     "city": "Pruszków, Malichy"
   },
   {
-    "id": "b29bb901-21d8-438e-aeab-ac197d631be0",
-    "title": "POKÉMON SHINY RAIKOU 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1e1bf3/a4be8d3044c4acd92b9ee45423cc",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-raikou-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
     "title": "Gothic Classic i Gothic II Complete Classic Switch",
     "price": "369",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Oleśnica"
-  },
-  {
-    "id": "c4f3e2cd-15da-4785-91f2-39d6bb23d57e",
-    "title": "Toy Soldiers HD (Switch)",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e2491/53412f5d42fbb7434c5621ed5294",
-    "url": "https://allegrolokalnie.pl//oferta/toy-soldiers-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
   }
 ]
