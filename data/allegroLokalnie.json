@@ -960,26 +960,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "c11dca93-a211-4b14-ba63-bc577cd5b12f",
-    "title": "XIII Nintendo Switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s360x360/1e9803/a498bc53434a9ffb3dc7bccf7f19",
-    "url": "https://allegrolokalnie.pl//oferta/xiii-nintendo-switch-hun?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "5623ae28-4e40-4517-bc25-e4a46931e362",
-    "title": "Snowrunner Nintendo Switch PL",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e40ba/0e3cbe09477f956fd61bb64bb4d3",
-    "url": "https://allegrolokalnie.pl//oferta/snowrunner-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
     "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
     "price": "95",
@@ -1200,24 +1180,24 @@
     "city": "Gdynia, Karwiny"
   },
   {
-    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
-    "title": "Gothic II Complete Classic PL Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
+    "id": "c11dca93-a211-4b14-ba63-bc577cd5b12f",
+    "title": "XIII Nintendo Switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1e9803/a498bc53434a9ffb3dc7bccf7f19",
+    "url": "https://allegrolokalnie.pl//oferta/xiii-nintendo-switch-hun?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "23902d86-e7d1-4287-9070-abf092375e0e",
-    "title": "Gra Animal Crossing New Horizons Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ebe84/85e50fb24fa697f44653caf910d9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-nintendo-switch-4it?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
+    "id": "5623ae28-4e40-4517-bc25-e4a46931e362",
+    "title": "Snowrunner Nintendo Switch PL",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e40ba/0e3cbe09477f956fd61bb64bb4d3",
+    "url": "https://allegrolokalnie.pl//oferta/snowrunner-nintendo-switch-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
@@ -1408,6 +1388,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "0cdc665e-54d1-464e-9a82-e1ef91f74ae7",
+    "title": "The Legend Of Zelda Breath Of The Wild Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e7c2e/41ce205e456fb5f42c8c6295c93e",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-udc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "e7902255-8648-4da1-94ad-2317b47f1d6e",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Targówek"
+  },
+  {
+    "id": "1347cd44-9194-460d-a5c1-58d5c04b97da",
+    "title": "Gra Red Dead Redemption Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1eec1e/911428414ddfb00141c1bdba0d4f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-red-dead-redemption-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   },
   {
     "id": "1347cd44-9194-460d-a5c1-58d5c04b97da",
@@ -4200,6 +4200,16 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
+    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
+    "title": "Nintendo Switch Ninja Gaiden Master Collection",
+    "price": "229",
+    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
     "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
     "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
     "price": "249",
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
-  },
-  {
-    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
   },
   {
     "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
