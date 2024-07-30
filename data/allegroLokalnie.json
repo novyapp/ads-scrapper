@@ -830,16 +830,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
-    "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
-    "price": "280",
-    "img": "https://a.allegroimg.com/s360x360/1eed1c/cc8dc60143ad86d4dcb6c43c2f44",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-dodatki-mapa-switch-pl-unikat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
     "title": "Goodbye World - Switch (Nowa)",
     "price": "159",
@@ -1200,6 +1190,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
+    "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s360x360/1eed1c/cc8dc60143ad86d4dcb6c43c2f44",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-dodatki-mapa-switch-pl-unikat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "1557e57f-9436-42f1-8439-1e9d994b4456",
     "title": "Lego Marvel Super Heroes 2 Switch PL",
     "price": "96",
@@ -1238,6 +1238,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
+    "title": "Gra Bayonetta 2 na Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
   },
   {
     "id": "70bb7d4c-ee3b-494a-af81-038a9e087d2f",
@@ -2390,16 +2400,6 @@
     "city": "Kraśnik"
   },
   {
-    "id": "409b187c-3b1f-444a-a5e5-ba20bbb7e4b9",
-    "title": "The Legend of Zelda: Link's Awakening Remake (Switch)",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1ed54a/95d5fb9b4fd3bafd67af5ea5caca",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-remake-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "6e8c1934-7ea0-47c7-a1e6-eb88314f029d",
     "title": "Zestaw 3 gier na Nintendo Switch",
     "price": "285",
@@ -2985,6 +2985,16 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s360x360/1eb972/5987380247c1b73f8288a7be77a4",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-na-nintendo-switch-szybka-wysyka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "cce69363-43a7-4e50-be49-365b17348ca2",
+    "title": "SUPER MARIO PARTY + BONUS *SZYBKA WYSYŁKA* NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e847a/b0fa5b35478e94d2c3f04a9d047a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-bonus-szybka-wysylka-nintendo-switch-sbs?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
@@ -3590,16 +3600,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
-    "title": "Mario RPG Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
-  },
-  {
     "id": "987b5358-cf85-41dd-8675-65b0f908fa41",
     "title": "XENOBLADE CHRONICLES DEFINITIVE EDITION , SWITCH",
     "price": "140",
@@ -4200,14 +4200,14 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
-    "title": "Gra Bayonetta 2 na Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
-    "promoted": true,
+    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
+    "title": "Nintendo Switch Ninja Gaiden Master Collection",
+    "price": "229",
+    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Poznań, Jeżyce"
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
     "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
