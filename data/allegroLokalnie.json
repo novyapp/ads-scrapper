@@ -1320,16 +1320,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "0d555f38-5508-4087-8726-734999d491c0",
     "title": "The Legend of Zelda: Tears of the Kingdom",
     "price": "170",
@@ -1338,6 +1328,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Witkowo"
+  },
+  {
+    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
+    "price": "369",
+    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -1788,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zaborów, Zaborów"
+  },
+  {
+    "id": "1dba2603-de68-4c51-aaa1-dca202f348c2",
+    "title": "Mario Tennis Aces GRA NINTENDO SWITCH",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e45de/be4318af4228811a9a0db95ac58e",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-gra-nintendo-switch-535?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wasilków"
   },
   {
     "id": "1dba2603-de68-4c51-aaa1-dca202f348c2",
@@ -2390,16 +2400,6 @@
     "city": "Lublin"
   },
   {
-    "id": "13258140-3397-41ba-8e8d-b9808c36eccc",
-    "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów Gra NINTENDO SWITCH + DLC",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e1d9f/8218319c4e7e986fb5affaf987a2",
-    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-gra-nintendo-switch-dlc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "2dc62129-1a23-4b7c-8d3a-440539beab9e",
     "title": "PAPER MARIO: THE ORIGAMI KING *NINTENDO SWITCH* *SZYBKA DOSTAWA* + BONUS",
     "price": "99",
@@ -3000,6 +3000,16 @@
     "city": "Dzierżoniów"
   },
   {
+    "id": "e8951bb4-7b27-4a94-b0fb-8c4887bf3b83",
+    "title": "Yoshi Crafted World Nintendo Switch",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1ea1d9/2f6436184d8596907f6d59a88002",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-nintendo-switch-isu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
     "id": "79071a1f-91ee-4f7b-bd21-1b68eaaf8ee8",
     "title": "Destroy all humans 70 zl",
     "price": "70",
@@ -3585,16 +3595,6 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
-    "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
-    "title": "Nintendo Switch gra taneczną Just Dance 2020",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "JAWORZE"
@@ -5282,7 +5282,7 @@
   {
     "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
     "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
-    "price": "280",
+    "price": "299",
     "img": "https://a.allegroimg.com/s360x360/1e3a4c/a9d45e5b4328a4cca117ceaec9e5",
     "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-edycja-kolekcjonerska-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -5378,6 +5378,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "5c8ee304-b45a-47ff-bc6a-36f4a4a73b28",
+    "title": "Pokemon Let's Go Pikachu, stan idealny.",
+    "price": "194",
+    "img": "https://a.allegroimg.com/s360x360/1e9d2e/f41c15ed4506b227ba6ac9c79aa5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "a363529c-27a5-4015-b44e-619d7a6a0668",
+    "title": "The Legend of Zelda Tears of the Kingdom SWITCH",
+    "price": "480",
+    "img": "https://a.allegroimg.com/s360x360/1e8bef/2593eb1046a5b9a467c991495f39",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-cym?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jantar"
+  },
+  {
+    "id": "5c8ee304-b45a-47ff-bc6a-36f4a4a73b28",
+    "title": "Pokemon Let's Go Pikachu, stan idealny.",
+    "price": "194",
+    "img": "https://a.allegroimg.com/s360x360/1e9d2e/f41c15ed4506b227ba6ac9c79aa5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "a363529c-27a5-4015-b44e-619d7a6a0668",
@@ -5968,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Sosnowiec"
-  },
-  {
-    "id": "a66353ab-b831-4e43-9ff6-366c0d554593",
-    "title": "Harry Potter Dziedzictwo Hogwartu Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e5061/2c2a34764ed883cbc09fa3d3f7c0",
-    "url": "https://allegrolokalnie.pl//oferta/harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   }
 ]
