@@ -800,16 +800,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
-    "title": "Harvestella Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e3924/9c98e11140979ce582ede39725c6",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
     "title": "Goodbye World - Switch (Nowa)",
     "price": "159",
@@ -1200,6 +1190,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
+    "title": "Harvestella Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e3924/9c98e11140979ce582ede39725c6",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
     "title": "Gra Bayonetta 2 na Nintendo Switch",
     "price": "120",
@@ -1378,16 +1378,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
-  },
-  {
-    "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
-    "title": "DRAGON'S DOGMA DARK ARISEN Nintendo Switch nowa",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e4945/f2f0d4be44258b09a79a786fd21d",
-    "url": "https://allegrolokalnie.pl//oferta/dragons-dogma-dark-arisen-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "871601b9-b48a-46a0-ba55-07120f10b753",
@@ -2092,7 +2082,7 @@
   {
     "id": "b67d1341-e02a-4079-970c-cbcd64a53a56",
     "title": "hogwarts legacy nintendo switch",
-    "price": "135",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e0270/9eaefe51417ba4fae66e69207b89",
     "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-nw4?navCategoryId=256922",
     "promoted": false,
@@ -3000,11 +2990,11 @@
     "city": "Piaseczno"
   },
   {
-    "id": "5f7ac74c-328e-4edb-bb07-c66965b7dcce",
-    "title": "POKEMON VIOLET NA NINTENDO SWITCH *SZYBKA WYSYKA*",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1eb972/5987380247c1b73f8288a7be77a4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-na-nintendo-switch-szybka-wysyka?navCategoryId=256922",
+    "id": "cce69363-43a7-4e50-be49-365b17348ca2",
+    "title": "SUPER MARIO PARTY + BONUS *SZYBKA WYSYŁKA* NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e847a/b0fa5b35478e94d2c3f04a9d047a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-bonus-szybka-wysylka-nintendo-switch-sbs?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
@@ -3600,14 +3590,14 @@
     "city": "Sanniki"
   },
   {
-    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
-    "title": "Mario RPG Nintendo Switch",
+    "id": "ed9f9ebf-9fb4-4f76-bfd4-ce408a63e599",
+    "title": "Xenoblade Chronicles 3 UŻYWANY",
     "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
+    "img": "https://a.allegroimg.com/s360x360/1e168f/58754f194ba6a7271eb6d683abe5",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-uzywany?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
+    "smartPost": false,
+    "city": "Warszawa"
   },
   {
     "id": "987b5358-cf85-41dd-8675-65b0f908fa41",
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
+  },
+  {
+    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   },
   {
     "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
