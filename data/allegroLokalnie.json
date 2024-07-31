@@ -1410,16 +1410,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
-  },
-  {
     "id": "6ddfc642-65f8-4230-b8b0-952ad2cb6e4d",
     "title": "Wiedźmin 3 Dziki Gon PL/ENG (NSW)",
     "price": "152",
@@ -1795,6 +1785,16 @@
     "price": "279",
     "img": "https://a.allegroimg.com/s360x360/1e4eaa/10001e8c42e3bad1524118638da8",
     "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-switch-egz-nowy-36p?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
+    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1e0b33/5c007c0b4c529b149996f8d1d752",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
@@ -2985,6 +2985,16 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s360x360/1eb972/5987380247c1b73f8288a7be77a4",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-na-nintendo-switch-szybka-wysyka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "cce69363-43a7-4e50-be49-365b17348ca2",
+    "title": "SUPER MARIO PARTY + BONUS *SZYBKA WYSYŁKA* NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e847a/b0fa5b35478e94d2c3f04a9d047a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-bonus-szybka-wysylka-nintendo-switch-sbs?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
-  },
-  {
-    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
-    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Serock"
   }
 ]
