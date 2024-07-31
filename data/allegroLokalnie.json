@@ -940,16 +940,6 @@
     "city": "Chełm"
   },
   {
-    "id": "dd8a2ff0-0887-4384-9b20-5cb68d77aa45",
-    "title": "Disney Classic Games: The Jungle Book, Aladdin, The Lion King (Switch)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1eecb4/ce2f0873495d918d04b412d163bb",
-    "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-the-jungle-book-aladdin-the-lion-king-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
     "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
     "price": "95",
@@ -1200,6 +1190,16 @@
     "city": "Białystok"
   },
   {
+    "id": "dd8a2ff0-0887-4384-9b20-5cb68d77aa45",
+    "title": "Disney Classic Games: The Jungle Book, Aladdin, The Lion King (Switch)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1eecb4/ce2f0873495d918d04b412d163bb",
+    "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-the-jungle-book-aladdin-the-lion-king-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
     "id": "8ab29238-0bf2-495c-8b22-c0e337098502",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
     "price": "135",
@@ -1298,16 +1298,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "4281978f-0987-4f67-8766-23c24df84ea7",
-    "title": "You Suck at Parking klucz steam",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s360x360/1e970a/c7eaefbc4b7cbf0d4a8db9b2c48f",
-    "url": "https://allegrolokalnie.pl//oferta/you-suck-at-parking-klucz-steam-zic?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "szadek"
   },
   {
     "id": "09f4dc6c-c530-400e-b2c0-0026237d1de0",
@@ -1772,7 +1762,7 @@
   {
     "id": "1edbd741-6df7-4a65-a79f-3d317afae8f1",
     "title": "Nintento Switch - Minecraft - Wersja pudełkowa",
-    "price": "90",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1eb17c/3571623241289d09be04e83290bf",
     "url": "https://allegrolokalnie.pl//oferta/nintento-switch-minecraft-wersja-pudelkowa?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żyrardów"
+  },
+  {
+    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
+    "title": "Luigi’s Mansion 3 Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
   }
 ]
