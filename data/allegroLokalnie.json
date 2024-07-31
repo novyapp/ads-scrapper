@@ -1320,16 +1320,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "0d555f38-5508-4087-8726-734999d491c0",
     "title": "The Legend of Zelda: Tears of the Kingdom",
     "price": "170",
@@ -1338,6 +1328,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Witkowo"
+  },
+  {
+    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
+    "price": "369",
+    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -1798,26 +1798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wasilków"
-  },
-  {
-    "id": "b257d1c9-8072-4e88-87c8-d84acd54c999",
-    "title": "Pokemon Scarlet Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e8209/801c72aa4325aaeccbfef1854d84",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-switch-w6x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łąck"
-  },
-  {
-    "id": "e0b6d81f-db8e-4ab2-b5ec-9f22b6750c30",
-    "title": "Donkey Kong Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e9f8c/09e1ac5d4f8ab3e6452c511c6e0e",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-switch-xeb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "fa26946a-c24a-458a-bfdc-3818f97fb482",
@@ -2395,6 +2375,26 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e1d9f/8218319c4e7e986fb5affaf987a2",
     "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-gra-nintendo-switch-dlc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "2dc62129-1a23-4b7c-8d3a-440539beab9e",
+    "title": "PAPER MARIO: THE ORIGAMI KING *NINTENDO SWITCH* *SZYBKA DOSTAWA* + BONUS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ed8ee/7d21c42445aba8cfb85c1f32b3b6",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-szybka-dostawa-bonus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "4e96f5bd-98d7-41d8-b160-a0d688dffba1",
+    "title": "SUPER MARIO 3D WORLD + BOWSER FURY *SZYBKA DOSTAWA* + BONUS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e7727/67ef557942e080299d7b5964e560",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-szybka-dostawa-bonus?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
@@ -3000,26 +3000,6 @@
     "city": "Dzierżoniów"
   },
   {
-    "id": "79071a1f-91ee-4f7b-bd21-1b68eaaf8ee8",
-    "title": "Destroy all humans 70 zl",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s360x360/1e1069/f20ea7f84b8b9120d2662b8ff017",
-    "url": "https://allegrolokalnie.pl//oferta/destroy-all-humans-70-zl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
-    "id": "c77e8991-3238-4c25-8586-53d03d9dc2a4",
-    "title": "Sprzedam w bardzo dobrym stanie używane gry na Nintendo switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ef26e/4ff2cf584a958c053bbd69f0359c",
-    "url": "https://allegrolokalnie.pl//oferta/sprzedam-w-bardzo-dobrym-stanie-uzywane-gry-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
     "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "175",
@@ -3238,6 +3218,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Brzoza"
+  },
+  {
+    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
+    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
@@ -5008,6 +4998,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "421dd695-8035-4df9-80d1-58c008c579cc",
+    "title": "Vengeful Guardian Moonrider Switch NOWY",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e76d6/8a36564648b0bcfd5d04d8d8b2b4",
+    "url": "https://allegrolokalnie.pl//oferta/vengeful-guardian-moonrider-switch-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Świdnica"
   },
   {
     "id": "3bf2e39a-a22e-4fcc-b5b9-4975ae2a83f5",
