@@ -1000,16 +1000,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
-    "title": "Zelda Tears of the Kingdom",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "eda7d556-9a9e-4828-ba97-4937ec1a51f9",
     "title": "Radiant Silvergun - Nintendo Switch JPN NOWA",
     "price": "200",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
