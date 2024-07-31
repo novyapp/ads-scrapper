@@ -600,6 +600,16 @@
     "city": "Białystok"
   },
   {
+    "id": "e3fff362-c1db-48c3-861d-5cbdfe08aa51",
+    "title": "Grand Theft Auto: The Trilogy – The Definitive Edition Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e1560/9d792a664b2cbb16fb7d491a5446",
+    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-the-definitive-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "c7edf044-e071-45df-9144-d03b37b117f9",
     "title": "Diablo III Eternal Collection PL Nintendo Switch",
     "price": "130",
@@ -1190,6 +1200,16 @@
     "city": "Gdynia, Karwiny"
   },
   {
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Gothic II Complete Classic PL Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
     "title": "Gra Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
@@ -1775,26 +1795,6 @@
     "price": "279",
     "img": "https://a.allegroimg.com/s360x360/1e4eaa/10001e8c42e3bad1524118638da8",
     "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-switch-egz-nowy-36p?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1e0b33/5c007c0b4c529b149996f8d1d752",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1e0b33/5c007c0b4c529b149996f8d1d752",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
@@ -3600,6 +3600,16 @@
     "city": "Elbląg"
   },
   {
+    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
+    "title": "Mario RPG Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
     "id": "987b5358-cf85-41dd-8675-65b0f908fa41",
     "title": "XENOBLADE CHRONICLES DEFINITIVE EDITION , SWITCH",
     "price": "140",
@@ -5390,16 +5400,6 @@
     "city": "Pruszków, Malichy"
   },
   {
-    "id": "74b3988d-f2c3-4d42-b115-bfed6cc997e2",
-    "title": "POKÉMON GOUGHING FIRE LEGENDARNY 100lvl.",
-    "price": "7",
-    "img": "https://a.allegroimg.com/s360x360/1ef7e3/75909eb44cbca674b0319a11410d",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-goughing-fire-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "842b43e9-9e7f-480c-a811-10068737974a",
     "title": "POKÉMON SHINY ENTEI 100lvl.",
     "price": "5",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
+    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Serock"
   }
 ]
