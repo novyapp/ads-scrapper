@@ -3600,6 +3600,16 @@
     "city": "Elbląg"
   },
   {
+    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
+    "title": "Mario RPG Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
     "id": "987b5358-cf85-41dd-8675-65b0f908fa41",
     "title": "XENOBLADE CHRONICLES DEFINITIVE EDITION , SWITCH",
     "price": "140",
@@ -4185,16 +4195,6 @@
     "price": "299",
     "img": "https://a.allegroimg.com/s360x360/1edc88/06eed94543abbe0b2776e233c1bb",
     "url": "https://allegrolokalnie.pl//oferta/infinity-strash-dragon-quest-the-adventure-of-dai-l3n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
-    "title": "Nintendo Switch Ninja Gaiden Master Collection",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
+    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Serock"
   }
 ]
