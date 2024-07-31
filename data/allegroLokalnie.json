@@ -1800,6 +1800,26 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "e595dc3d-354d-41ee-b8ea-66cb28640f9a",
+    "title": "UNDERTALE + ARTBOOK (SWITCH) WYD US, EGZ NOWY, W FOLII",
+    "price": "499",
+    "img": "https://a.allegroimg.com/s360x360/1e8eb4/df45a1b24a84a8bcc3c4cea13216",
+    "url": "https://allegrolokalnie.pl//oferta/undertale-artbook-switch-wyd-us-egz-nowy-w-folii-uik?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "3fd76805-3d8a-4425-8218-06e5841bcbab",
+    "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
+    "price": "279",
+    "img": "https://a.allegroimg.com/s360x360/1e7ef9/b285056e45e1bae62eae01b5e2e8",
+    "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-zux?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "106ce6a6-7783-4029-bc6d-888fe06e788f",
     "title": "Zelda Tears of The Kingdom",
     "price": "165",
@@ -2378,26 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
-  },
-  {
-    "id": "6e8c1934-7ea0-47c7-a1e6-eb88314f029d",
-    "title": "Zestaw 3 gier na Nintendo Switch",
-    "price": "285",
-    "img": "https://a.allegroimg.com/s360x360/1ecc15/d53bb0b945078f45a9bef9f15c43",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-3-gier-na-nintendo-switch-z2v?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Targówek"
-  },
-  {
-    "id": "1347cd44-9194-460d-a5c1-58d5c04b97da",
-    "title": "Gra Red Dead Redemption Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1eec1e/911428414ddfb00141c1bdba0d4f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-red-dead-redemption-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   },
   {
     "id": "304087c2-fefa-41dd-b6af-cf3c84da3428",
@@ -3188,16 +3188,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Opole"
-  },
-  {
-    "id": "6a0fc4a8-0d7a-4990-afc2-213ca49dafed",
-    "title": "Super Mario 3D All Stars Nowa Folia",
-    "price": "400",
-    "img": "https://a.allegroimg.com/s360x360/1e9750/09b2af634582b0e1c95f759b13dc",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nowa-folia-4s3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Mińsk Mazowiecki"
   },
   {
     "id": "dbf05ee3-9cf7-42ea-aa7b-d5eb34abf421",
@@ -5978,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "71d87efc-72a9-4ca2-996c-0b68887df408",
+    "title": "Yoshi crafted World",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e8e01/0df59a6b4ca3981cfa6d2ac7c455",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-ilo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
+    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Serock"
   }
 ]
