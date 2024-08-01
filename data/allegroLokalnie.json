@@ -1,15 +1,5 @@
 [
   {
-    "id": "db3eb173-5547-4ce0-a6d7-941e68a48a3e",
-    "title": "Grand Theft Auto Trilogy Nintendo Switch PL",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e36a9/efc25c684356ad35e2a01e631e02",
-    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-trilogy-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "f76de3af-4958-4d02-9b56-110659ce595b",
     "title": "Snipperclips plus Nintendo Switch",
     "price": "135",
@@ -176,7 +166,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e0bda/db8e3a3a4fb59689197424fc1ad1",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-uwb?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Poznań, Nowe Miasto"
   },
   {
@@ -186,7 +176,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e5082/f1ab0c614388aaf79efd45fecdff",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-birushana-day-one?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Poznań, Nowe Miasto"
   },
   {
@@ -926,7 +916,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "POZNAŃ, Stare Miasto"
   },
   {
@@ -3600,16 +3590,6 @@
     "city": "Skawina"
   },
   {
-    "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
-    "title": "nintendo switch +2 joysticki i 2 gry",
-    "price": "1 100",
-    "img": "https://a.allegroimg.com/s360x360/1eacb7/0a4e6b834c7ea57a4cb6cac05c32",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-2-joysticki-i-2-gry-nkq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wschowa"
-  },
-  {
     "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
     "title": "Nintendo Switch LEGO Jurassic World",
     "price": "70",
@@ -4195,6 +4175,16 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
     "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
+    "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/117c74/caf8d2594f7381d70af4296a86a1",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4800,16 +4790,6 @@
     "city": "Reda"
   },
   {
-    "id": "9001fc08-7e5d-4a54-ab6f-8781a2c30f80",
-    "title": "DRAGON'S DOGMA DARK ARISEN Nintendo Switch nowa",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e4945/f2f0d4be44258b09a79a786fd21d",
-    "url": "https://allegrolokalnie.pl//oferta/dragons-dogma-dark-arisen-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
     "title": "Bayonetta 3    switch",
     "price": "120",
@@ -5146,7 +5126,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e9d2e/f41c15ed4506b227ba6ac9c79aa5",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-stan-idealny?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Kraków"
   },
   {
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
   }
 ]
