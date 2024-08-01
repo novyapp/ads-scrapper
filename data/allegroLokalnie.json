@@ -1276,7 +1276,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e7c73/aa1ec6cf4587b8507fdd57f967a2",
     "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-nintendo-switch-lni?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Rudnik nad Sanem"
   },
   {
@@ -3600,16 +3600,6 @@
     "city": "Wschowa"
   },
   {
-    "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
-    "title": "nintendo switch +2 joysticki i 2 gry",
-    "price": "1 100",
-    "img": "https://a.allegroimg.com/s360x360/1eacb7/0a4e6b834c7ea57a4cb6cac05c32",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-2-joysticki-i-2-gry-nkq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wschowa"
-  },
-  {
     "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
     "title": "Nintendo Switch LEGO Jurassic World",
     "price": "70",
@@ -3796,7 +3786,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e2584/4453481c42b1b5baff314335bba9",
     "url": "https://allegrolokalnie.pl//oferta/darkest-dungeon-kolekcjonerska-edycja-signature-edition-unikat?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Rudnik nad Sanem"
   },
   {
@@ -4195,6 +4185,16 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
     "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
+    "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/117c74/caf8d2594f7381d70af4296a86a1",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4816,7 +4816,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eb41d/f4864e8d4be39b5cdfdd293e1587",
     "url": "https://allegrolokalnie.pl//oferta/just-dance-2022-nintendo-switch-5p3?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Ciechanów"
   },
   {
@@ -4836,7 +4836,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e818b/c3b3de5f47c0b33e095a73aaf3c0",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-bros-u-deluxe-nintendo-switch-gp2?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Piaseczno"
   },
   {
@@ -4966,7 +4966,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e1e2f/f4310fc34bae8362a87a3fb2565d",
     "url": "https://allegrolokalnie.pl//oferta/vampyr-switch-fi2?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Poznań, Wilda"
   },
   {
