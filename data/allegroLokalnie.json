@@ -1752,7 +1752,7 @@
   {
     "id": "b67d1341-e02a-4079-970c-cbcd64a53a56",
     "title": "hogwarts legacy nintendo switch",
-    "price": "130",
+    "price": "128",
     "img": "https://a.allegroimg.com/s360x360/1e0270/9eaefe51417ba4fae66e69207b89",
     "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-nw4?navCategoryId=256922",
     "promoted": false,
@@ -1778,16 +1778,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wałbrzych"
-  },
-  {
-    "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
-    "title": "Mario Strikers: Battle League Football Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e3d37/a0423bc94d7e8911f9ed15922091",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-lr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
   },
   {
     "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
@@ -2388,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "46977eaa-d9e4-4335-a7b2-91082e0436c6",
+    "title": "Need for Speed Hot Pursuit Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e641d/ef479fe94fcdb1bc5d4d492f9af7",
+    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-switch-ilp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
@@ -4200,6 +4200,16 @@
     "city": "Groblice"
   },
   {
+    "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
+    "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
     "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
     "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
     "price": "549",
@@ -5390,16 +5400,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
-    "title": "Minecraft nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "bbebb3ef-8c3c-40ca-8f99-9f4660031b80",
     "title": "Baldur’s Gate I & II Enhanced Edition",
     "price": "479",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "5f2997d3-e7ff-4e76-99fb-93a7f2b24b21",
+    "title": "Tokyo 2020 Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1ef00c/a676d2be4c029b959c9ffb33c025",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gqu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
