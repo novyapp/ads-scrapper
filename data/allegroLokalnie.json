@@ -1130,16 +1130,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "b1a20460-3592-446c-9f42-07ca2b55b4fc",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1eed69/0bff963b4489a2f8a84c9c1a34ff",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-3xp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "d9d55c0b-b3ee-40e9-9c57-312cd2cf849d",
     "title": "Paper Mario the Origami King Nintendo Switch",
     "price": "240",
@@ -1198,6 +1188,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
+    "title": "Mario Strikers Battle League Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3b5e/59f0f8134d10a9aae01914e55847",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lębork"
+  },
+  {
+    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
+    "title": "Mario Strikers Battle League Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3b5e/59f0f8134d10a9aae01914e55847",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lębork"
   },
   {
     "id": "ab62bb3b-82e9-4173-bb55-56f5610854e8",
@@ -1790,26 +1800,6 @@
     "city": "Warszawa, Praga-Północ"
   },
   {
-    "id": "50d7d424-5151-4d01-b904-fecbd48c839e",
-    "title": "ROCKET LEAGUE COLLECTOR'S EDITION Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e06ed/da03804c4623a4a3de510c97495f",
-    "url": "https://allegrolokalnie.pl//oferta/rocket-league-collectors-edition-nintendo-switch-rt7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
-    "id": "5c698472-757e-4191-be0e-1772f7531c7b",
-    "title": "Splatoon 3 Nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e8904/61cd510e48eb95efe657ba70a314",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ksn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
     "id": "acd4e109-d8ca-4fb4-b626-56da67af405d",
     "title": "Super Mario Bros wonder",
     "price": "159",
@@ -1952,7 +1942,7 @@
   {
     "id": "00b9ecf3-0386-456e-8801-6721c5dcebd6",
     "title": "Rayman Legends Definitive Edition Nintendo Switch",
-    "price": "105",
+    "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1ed76c/cdc409234097941b938a0cd958ed",
     "url": "https://allegrolokalnie.pl//oferta/rayman-legends-definitive-edition-ep4?navCategoryId=256922",
     "promoted": false,
@@ -2395,6 +2385,26 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1e6509/7afb94a4495898cf033a465d8801",
     "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "a4ace9ee-a865-4e46-9f48-744857c7cab5",
+    "title": "No Straight Roads Switch",
+    "price": "35",
+    "img": "https://a.allegroimg.com/s360x360/1e0845/e3ffb31543f9b924bfb2ea256037",
+    "url": "https://allegrolokalnie.pl//oferta/no-straight-roads-switch-u6r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "a4ace9ee-a865-4e46-9f48-744857c7cab5",
+    "title": "No Straight Roads Switch",
+    "price": "35",
+    "img": "https://a.allegroimg.com/s360x360/1e0845/e3ffb31543f9b924bfb2ea256037",
+    "url": "https://allegrolokalnie.pl//oferta/no-straight-roads-switch-u6r?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -2990,14 +3000,14 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
-    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
-    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
+    "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
+    "title": "2 gry na Nintendo Switch",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s360x360/1eb312/9f8134ff4e65881d3409820c3782",
+    "url": "https://allegrolokalnie.pl//oferta/2-gry-na-nintendo-switch-ysr?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
+    "city": "Warszawa, Targówek"
   },
   {
     "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
@@ -3590,26 +3600,6 @@
     "city": "Gliwice"
   },
   {
-    "id": "1bc6d985-bcc6-4b02-b9b9-91bae25e1bb2",
-    "title": "Cadence of Hyrule: Crypt of the NecroDancer Nintendo Switch NOWA FOLIA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/111ea4/8bf26df4415a8ce81b81803a6ae5",
-    "url": "https://allegrolokalnie.pl//oferta/cadence-of-hyrule-crypt-of-the-necrodancer-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ełk"
-  },
-  {
-    "id": "1bc6d985-bcc6-4b02-b9b9-91bae25e1bb2",
-    "title": "Cadence of Hyrule: Crypt of the NecroDancer Nintendo Switch NOWA FOLIA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/111ea4/8bf26df4415a8ce81b81803a6ae5",
-    "url": "https://allegrolokalnie.pl//oferta/cadence-of-hyrule-crypt-of-the-necrodancer-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ełk"
-  },
-  {
     "id": "b43a13ef-67a2-4045-90fd-f72d7659ec7b",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "180",
@@ -4198,6 +4188,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
+  },
+  {
+    "id": "8397538f-2158-4ec9-96ac-41271e325076",
+    "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/11a7f3/d4306da3477984b878303c966d53",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
+    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "a15cfd1b-bc72-4f47-b91f-c8abcc5013b5",
@@ -4790,14 +4800,14 @@
     "city": "Wadowice Górne"
   },
   {
-    "id": "7ed478e7-0cff-40f2-985f-5db1802562ae",
-    "title": "Gra Nintendo Switch Sports Komplet",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e7a5d/615d02644d2fbd08a132df2dc1a3",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-sports-komplet?navCategoryId=256922",
+    "id": "4484e6d3-a44c-42ea-a854-fe1875e7e8d2",
+    "title": "Pikmin 4 Nintendo Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e14af/fab474b44e458e72fb6d772a1971",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-4-nintendo-switch-r2y?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Targówek"
+    "smartPost": true,
+    "city": "Wadowice Górne"
   },
   {
     "id": "7ed478e7-0cff-40f2-985f-5db1802562ae",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "44419e79-6951-474b-8981-e742e322d90b",
-    "title": "Triangle Strategy Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e9bfb/a3d467644acaab18fbb576946c97",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-fwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wągrowiec"
   }
 ]
