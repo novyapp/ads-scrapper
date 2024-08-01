@@ -356,7 +356,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e2f4d/c810ae1045dea6523a5a0cd29f2d",
     "url": "https://allegrolokalnie.pl//oferta/gra-ben-10-power-trip?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Grodzisk Wlkp"
   },
   {
@@ -2872,7 +2872,7 @@
   {
     "id": "e03ecc58-efd9-47c6-90b7-2e2a4d16ccc1",
     "title": "Nintendo switch  nowe gry razem lub osobno",
-    "price": "1 280",
+    "price": "1 600",
     "img": "https://a.allegroimg.com/s360x360/1ebeab/813bd29347c6b36a2d1402db8f0c",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-nowe-gry-razem-lub-osobno-t5s?navCategoryId=256922",
     "promoted": false,
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
-    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e2a2a/8c2d1c02408ba7d1a52824333e41",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
   },
   {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
@@ -3600,6 +3590,16 @@
     "city": "Wschowa"
   },
   {
+    "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
+    "title": "Nintendo Switch LEGO Jurassic World",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1e3cc8/65f8820a40ed98c7d5c197ec333f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-jurassic-world-fq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
     "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
     "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
     "price": "180",
@@ -4185,16 +4185,6 @@
     "price": "149",
     "img": "https://a.allegroimg.com/s360x360/117c74/caf8d2594f7381d70af4296a86a1",
     "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "1abb67a9-eca3-42e6-b18b-e5a794b0d8c2",
-    "title": "switch HELLO NEIGHBOR 2 EDYCJA KOLEKCJONERSKA po polsku kardridż BIG BOX",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/11356b/3049b82f49b0940f6fdd064faedc",
-    "url": "https://allegrolokalnie.pl//oferta/switch-hello-neighbor-2-edycja-kolekcjonerska-po-polsku-kardridz-big-box?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
+    "title": "Bayonetta 3    switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed925/e2e094044761be589dd738e71a64",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wroclaw"
   },
   {
     "id": "5c736209-e660-4479-afcb-d85999d43adc",
