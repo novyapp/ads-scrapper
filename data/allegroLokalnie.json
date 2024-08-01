@@ -6,7 +6,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e191b/0683cf7e40c9ae156f066907f3b3",
     "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Będzin"
   },
   {
@@ -1380,16 +1380,6 @@
     "city": "Świnoujście"
   },
   {
-    "id": "90f56452-a076-464f-b20f-53e68b9a7dfc",
-    "title": "Gra Kirbys Return to dreamland deluxe",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1ef1e0/9ac07f0e411588456f772d6720b7",
-    "url": "https://allegrolokalnie.pl//oferta/gra-kirbys-return-to-dreamland-deluxe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "9ad9e6f9-2daf-4e0e-bb0f-7275c5304d85",
     "title": "Gra Nintendo Switch Grand Theft Auto: The Trilogy – The Definitive Edition",
     "price": "150",
@@ -1742,7 +1732,7 @@
   {
     "id": "b67d1341-e02a-4079-970c-cbcd64a53a56",
     "title": "hogwarts legacy nintendo switch",
-    "price": "128",
+    "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e0270/9eaefe51417ba4fae66e69207b89",
     "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-nw4?navCategoryId=256922",
     "promoted": false,
@@ -2390,6 +2380,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
+    "title": "Asterix i Obelix Slap Them All! Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e6509/7afb94a4495898cf033a465d8801",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "a4ace9ee-a865-4e46-9f48-744857c7cab5",
     "title": "No Straight Roads Switch",
     "price": "35",
@@ -2978,16 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pleszew"
-  },
-  {
-    "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
-    "title": "2 gry na Nintendo Switch",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s360x360/1eb312/9f8134ff4e65881d3409820c3782",
-    "url": "https://allegrolokalnie.pl//oferta/2-gry-na-nintendo-switch-ysr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Targówek"
   },
   {
     "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
@@ -3600,6 +3590,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
+    "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s360x360/1e07ba/7b2e81b54b2bae1f0e87f5d4787b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toy-con-1-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
+  },
+  {
     "id": "1bc6d985-bcc6-4b02-b9b9-91bae25e1bb2",
     "title": "Cadence of Hyrule: Crypt of the NecroDancer Nintendo Switch NOWA FOLIA",
     "price": "170",
@@ -4185,16 +4185,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
-    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
-    "price": "549",
-    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4800,6 +4790,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "c7275fa0-0aef-402a-852c-e3c75c97ec9a",
+    "title": "Gra Nintendo Switch Metroid Dread",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e833f/d93858294c21820891e37f941d5f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-metroid-dread-r5y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "2204a94c-83c7-4485-9590-e5da3b0148ea",
     "title": "Monster Hunter Rise Switch PL",
     "price": "80",
@@ -5390,16 +5390,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "bbebb3ef-8c3c-40ca-8f99-9f4660031b80",
-    "title": "Baldur’s Gate I & II Enhanced Edition",
-    "price": "479",
-    "img": "https://a.allegroimg.com/s360x360/1edc86/53ee659d4e94b120437905a4bc4b",
-    "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-i-ii-enhanced-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wejherowo"
-  },
-  {
     "id": "68517e25-21a3-4f3b-bd6c-14b694e5778d",
     "title": "Nintendo switch gra",
     "price": "1 450",
@@ -5985,6 +5975,16 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1ef00c/a676d2be4c029b959c9ffb33c025",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gqu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "1256ae0f-a074-4d8b-b83b-23e0e69f1e51",
+    "title": "Pokemon Schild Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ed06c/2db4d2b44132868fc31d6414ee4e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-schild-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
