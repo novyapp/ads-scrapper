@@ -640,16 +640,6 @@
     "city": "Lublin"
   },
   {
-    "id": "00d4b439-7336-4799-a2c1-8ff239608193",
-    "title": "Bayonetta 2 - Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e7538/b3e4d9ec4f60bffd2be6e4ba3e44",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nintendo-switch-qk3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
     "title": "SIFU Redemption Edition Nintendo Switch",
     "price": "250",
@@ -1098,6 +1088,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "00d4b439-7336-4799-a2c1-8ff239608193",
+    "title": "Bayonetta 2 - Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e7538/b3e4d9ec4f60bffd2be6e4ba3e44",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nintendo-switch-qk3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
   },
   {
     "id": "ae2f894f-b6db-4a32-9d09-cc88e79fc149",
@@ -1790,16 +1790,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
-    "title": "Mario Strikers: Battle League Football Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e3d37/a0423bc94d7e8911f9ed15922091",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-lr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
     "id": "50d7d424-5151-4d01-b904-fecbd48c839e",
     "title": "ROCKET LEAGUE COLLECTOR'S EDITION Nintendo Switch",
     "price": "80",
@@ -2385,6 +2375,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
+    "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ed14a/b7c479714641be5c9e48d2d0d2fa",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-nintendo-switch-cu4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
@@ -4180,26 +4180,6 @@
     "city": "Groblice"
   },
   {
-    "id": "cfcd3232-0d48-4dd4-9ba2-10f0de1bf5dd",
-    "title": "ASH OF GODS REDEMPTION PL po polsku turowy RPG STRATEGIA jak banner saga",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/11df9b/28ec8637479c85d89ebc11a4bdce",
-    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-pl-po-polsku-turowy-rpg-strategia-jak-banner-saga-avd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "0db74203-4a93-4fa6-b444-ea94cf58c8f6",
-    "title": "YOSHI CRAFTED WORLD 1-2 GRACZY nintendo kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/1113b3/d364e8544af48e5ca6d7318d4932",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
     "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
     "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
     "price": "219",
@@ -5378,6 +5358,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "35363411-eac1-48f1-acba-f5856cb39c26",
+    "title": "SHIN MEGAMI TENSEI V , NINTENDO SWITCH",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e9692/47f8c0c64dea94ce1572a8cd0491",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-2js?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
+    "title": "Nintendo Labo Variety Kit",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
   },
   {
     "id": "35363411-eac1-48f1-acba-f5856cb39c26",
