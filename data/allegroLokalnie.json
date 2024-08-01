@@ -1,5 +1,15 @@
 [
   {
+    "id": "937ae5c3-83bd-479a-aa67-3d9e37bcdd60",
+    "title": "Luigi’s Mansion 2",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e1905/20fac06149148916bdb38637a640",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-vjt?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "e61225e1-c1c2-498b-b44c-cfcfaf6ae8e4",
     "title": "Lego Ninjago Nintendo Switch PL",
     "price": "79",
@@ -585,16 +595,6 @@
     "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1ec161/5c59cea44981b1b39d58c66e7888",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-szybka-dostawa-bonus-ycv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "eb968d38-6bb8-4db5-a46b-94800e113c30",
-    "title": "THE LEGEND OF ZELDA: BREATH OF THE WILD *SZYBKA DOSTAWA* + 2 GRA",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e7125/6c9e9bbc465a9370ab9d0ecb039f",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-szybka-dostawa-bonus-3lc?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Piaseczno"
@@ -1600,16 +1600,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "e3887704-5177-48f6-b50e-8789b11c522f",
-    "title": "Gra The Legend of Zelda: Breath of The Wild- Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e5771/02352b0048cfa1af0d4d91f992f2",
-    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-v4l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rzeszów"
-  },
-  {
     "id": "5aa7e7ff-e6e6-4b4d-9c9c-6f43480fc6bb",
     "title": "Shadow man Remastered Switch Limited Run",
     "price": "279",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Krasiczyn"
+  },
+  {
+    "id": "615798cd-0df3-40a8-8364-301e3e9ea36d",
+    "title": "Remnant From The Ashes",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6ff4/9867e1d44ec8b0be2d9094a5a3eb",
+    "url": "https://allegrolokalnie.pl//oferta/remnant-from-the-ashes-ztk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "5110ff0a-4fa2-4f70-8b4e-75dbe251ab78",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
-  },
-  {
-    "id": "75f32a6a-f81e-4268-850d-61d174505622",
-    "title": "Pokemon Let's Go Eevee",
-    "price": "164",
-    "img": "https://a.allegroimg.com/s360x360/1e34d2/0676abea412bb45338ed2d0b3e92",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-43g?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Częstochowa, Tysiąclecie"
   },
   {
     "id": "75f32a6a-f81e-4268-850d-61d174505622",
@@ -3600,6 +3590,16 @@
     "city": "Bysław"
   },
   {
+    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
+    "title": "Harvestella Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
     "title": "Sonic Frontiers Nintendo Switch",
     "price": "120",
@@ -4198,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "421dd695-8035-4df9-80d1-58c008c579cc",
-    "title": "Vengeful Guardian Moonrider Switch NOWY",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e76d6/8a36564648b0bcfd5d04d8d8b2b4",
-    "url": "https://allegrolokalnie.pl//oferta/vengeful-guardian-moonrider-switch-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Świdnica"
   },
   {
     "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
