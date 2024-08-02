@@ -310,16 +310,6 @@
     "city": "Drezdenko"
   },
   {
-    "id": "f49afcb8-da8c-4a94-9ee8-32260af74ca4",
-    "title": "Pokemon Shining Pearl",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1edef6/b85aaf574e51bb0d13b5b2b90809",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-ouv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Płoki"
-  },
-  {
     "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
     "title": "Splatoon 2 na Nintendo Switch",
     "price": "120",
@@ -638,16 +628,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Piaseczno"
-  },
-  {
-    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
-    "title": "SIFU Redemption Edition Nintendo Switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
-    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   },
   {
     "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
@@ -1148,6 +1128,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
+    "title": "SIFU Redemption Edition Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "b946769c-df9a-4c5f-973d-4680c5f08d36",
@@ -3590,16 +3580,6 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
-    "title": "No More Heroes 3 Switch - Wrocław",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
     "title": "The Walking Dead: Thie Final Season NS Switch",
     "price": "99",
@@ -3901,8 +3881,8 @@
   },
   {
     "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
-    "title": "Cuphead Nintendo Switch",
-    "price": "120",
+    "title": "Cuphead Nintendo Switch (pl napisy)",
+    "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
     "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
     "promoted": false,
@@ -5322,7 +5302,7 @@
   {
     "id": "4f512ebf-5b42-471f-b9ea-6e1f46d91974",
     "title": "Shin Megami Tensei V - Switch",
-    "price": "105",
+    "price": "99",
     "img": "https://a.allegroimg.com/s360x360/1e49d5/ca0a7f1f473596e67eb2b0529c5d",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-lwj?navCategoryId=256922",
     "promoted": false,
@@ -5985,6 +5965,16 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s360x360/1e1793/2bb543d84c34a1212be0cd248d4d",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-bxo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "5db312c2-4a42-41be-ac89-ae35d2e6ccb3",
+    "title": "Pokemon Brilliant Diamond Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e72bc/bd09111544e6b1aa0936833c4edf",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-kum?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
