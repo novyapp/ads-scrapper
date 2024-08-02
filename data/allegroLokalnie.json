@@ -100,16 +100,6 @@
     "city": "Białystok"
   },
   {
-    "id": "1fb388af-3760-4f1f-8212-df8b226d9650",
-    "title": "Gra Legend of Zelda Link's Awakening Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e3e61/36c62ed04396a3b5a9650d11af2b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-legend-of-zelda-links-awakening-switch-m75?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Karwiany"
-  },
-  {
     "id": "2603eb69-e827-4bfe-b413-c8cb3f556d54",
     "title": "Gra Fire Emblem Engage Nintendo Switch",
     "price": "135",
@@ -588,6 +578,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Tczew"
+  },
+  {
+    "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
+    "title": "Hades Nintendo Switch EU nowa",
+    "price": "379",
+    "img": "https://a.allegroimg.com/s360x360/1e85c9/951acf3041f293fdf6ab0443a1e3",
+    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-eu-nowa-hjl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
@@ -4612,7 +4612,7 @@
   {
     "id": "37ce04b2-4f3a-402c-afbc-ea040bbc7687",
     "title": "Oxide the room Nintendo switch jak Nowa bez folii horror. Bonus",
-    "price": "104",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e00bd/828a353e45b8bdf992114041222a",
     "url": "https://allegrolokalnie.pl//oferta/oxide-the-room-nintendo-switch-jak-nowa-bez-folii-horror-bonus-54p?navCategoryId=256922",
     "promoted": false,
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wągrowiec"
-  },
-  {
-    "id": "4ea22437-e63e-4979-865a-f3699e7a92b8",
-    "title": "The binding of isaac: repentance Nintendo Switch",
-    "price": "450",
-    "img": "https://a.allegroimg.com/s360x360/1efe32/bfc5fad442da98005573a955f755",
-    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-nintendo-switch-go5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Straszyn"
   }
 ]
