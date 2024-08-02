@@ -1800,16 +1800,6 @@
     "city": "Książenice"
   },
   {
-    "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
-    "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
-    "price": "700",
-    "img": "https://a.allegroimg.com/s360x360/1e4d24/a75d4b1c4fc5ab8c91b76a7a2ef4",
-    "url": "https://allegrolokalnie.pl//oferta/divinity-ii-original-sin-definitive-edition-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
     "id": "00d4b439-7336-4799-a2c1-8ff239608193",
     "title": "Bayonetta 2 - Nintendo Switch",
     "price": "130",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Podgórze Duchackie"
+  },
+  {
+    "id": "d610b7fe-10b4-4223-a7de-77d740f9e866",
+    "title": "Tengoku Struggle Strayside Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e4f01/5c9cb46341f8b410b93bbc9cc65a",
+    "url": "https://allegrolokalnie.pl//oferta/tengoku-struggle-strayside-nintendo-switch-s6n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kobylany"
   },
   {
     "id": "65a26b9f-0f9e-4f1c-a4f5-321427bc0713",
@@ -4200,16 +4200,6 @@
     "city": "Kraków"
   },
   {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "a15cfd1b-bc72-4f47-b91f-c8abcc5013b5",
     "title": "Jujutsu Kaisen Cursed Clash na Nintendo Switch",
     "price": "100",
@@ -4800,6 +4790,16 @@
     "city": "Wadowice Górne"
   },
   {
+    "id": "7ed478e7-0cff-40f2-985f-5db1802562ae",
+    "title": "Gra Nintendo Switch Sports Komplet",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e7a5d/615d02644d2fbd08a132df2dc1a3",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-sports-komplet?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
     "id": "914eeaef-feb1-4037-85fe-1800ba38f053",
     "title": "Cztery świetne gry RPG na Nintendo Switch!",
     "price": "200",
@@ -5385,16 +5385,6 @@
     "price": "79",
     "img": "https://a.allegroimg.com/s360x360/1e1279/20a2517b4d73960f8dde0acc0d65",
     "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-vsa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
-    "title": "Wonder boy nintendo switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e1436/f9ac19ba456a9854d1a323b194e6",
-    "url": "https://allegrolokalnie.pl//oferta/wonder-boy-nintendo-switch-6vh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Twardogóra"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wągrowiec"
+  },
+  {
+    "id": "4ea22437-e63e-4979-865a-f3699e7a92b8",
+    "title": "The binding of isaac: repentance Nintendo Switch",
+    "price": "450",
+    "img": "https://a.allegroimg.com/s360x360/1efe32/bfc5fad442da98005573a955f755",
+    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-nintendo-switch-go5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Straszyn"
   }
 ]
