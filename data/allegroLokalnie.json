@@ -1130,16 +1130,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
-    "title": "SIFU Redemption Edition Nintendo Switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
-    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "b946769c-df9a-4c5f-973d-4680c5f08d36",
     "title": "Xenoblade Chronicles Switch stan bardzo dobry",
     "price": "110",
@@ -1918,6 +1908,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Krasiczyn"
+  },
+  {
+    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
+    "title": "SIFU Redemption Edition Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "615798cd-0df3-40a8-8364-301e3e9ea36d",
@@ -4190,6 +4190,16 @@
     "city": "Groblice"
   },
   {
+    "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
+    "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
     "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
     "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
     "price": "219",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Osielsko"
-  },
-  {
-    "id": "70288f9e-ecf6-42b6-ab53-d47556e6eb6c",
-    "title": "NINTENDO GRA NA KONSOLĘ LES SISTERS 2",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e2b3c/f0241caf4e989e4b819ec96da2b7",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-gra-na-konsole-les-sisters-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Karwia"
   },
   {
     "id": "70288f9e-ecf6-42b6-ab53-d47556e6eb6c",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "5f2997d3-e7ff-4e76-99fb-93a7f2b24b21",
+    "title": "Tokyo 2020 Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1ef00c/a676d2be4c029b959c9ffb33c025",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gqu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
