@@ -595,7 +595,7 @@
     "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1ec161/5c59cea44981b1b39d58c66e7888",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-szybka-dostawa-bonus-ycv?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
   },
@@ -1090,36 +1090,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "eb968d38-6bb8-4db5-a46b-94800e113c30",
-    "title": "THE LEGEND OF ZELDA: BREATH OF THE WILD *SZYBKA DOSTAWA* + 2 GRA",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e7125/6c9e9bbc465a9370ab9d0ecb039f",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-szybka-dostawa-bonus-3lc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "86dfc9f7-b079-45de-a0d0-c6e94ab091b2",
-    "title": "MARIO PARTY SUPER STARS *NINTENDO SWITCH* *SZYBKA DOSTAWA* + 2 GRA",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e1fa9/50ff5bbd42bea9f21bba1ff9a3b9",
-    "url": "https://allegrolokalnie.pl//oferta/mario-party-super-stars-nintendo-switch-szybka-dostawa-bonus-rgw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "94e90f4c-a0b6-41cb-af90-868e7817a3b5",
-    "title": "SUPER MARIO PARTY + 2 GRA *SZYBKA WYSYŁKA* NINTENDO SWITCH",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e200d/8b782f2e4ffda2b9bb85baa7f148",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-bonus-szybka-wysylka-nintendo-switch-db7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "b946769c-df9a-4c5f-973d-4680c5f08d36",
     "title": "Xenoblade Chronicles Switch stan bardzo dobry",
     "price": "100",
@@ -1198,6 +1168,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
+  },
+  {
+    "id": "9c264933-ff81-4e1f-8eee-28f2336849cf",
+    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e9d5c/7683498c408784a4f639622cb05d",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-gnz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Milicz"
+  },
+  {
+    "id": "ae2f894f-b6db-4a32-9d09-cc88e79fc149",
+    "title": "Super Mario Bross U Deluxe Nintendo Switch , jak nowa",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e5c62/56b844994b789af97a092404fa0c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bross-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Targ"
+  },
+  {
+    "id": "ad0b2ee7-e7c5-431a-93be-2bc089045be3",
+    "title": "Pokemon Brilliant Diamond Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eb0a0/10ef1c484b45b35e36179ff04e12",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-gxg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siepraw"
   },
   {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
@@ -1493,7 +1493,7 @@
     "id": "b5c633d9-040b-4218-8aa5-b899f51a5331",
     "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
     "price": "239",
-    "img": "https://a.allegroimg.com/s360x360/1e73c7/fc2e03d443ab9e431d66b4cbc41a",
+    "img": "https://a.allegroimg.com/s360x360/1ed0b9/52a0c93b4ba9a33d5ec863fe21c1",
     "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-qcn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
