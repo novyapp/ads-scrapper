@@ -550,12 +550,22 @@
     "city": "Białystok"
   },
   {
+    "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
+    "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s360x360/1eed1c/cc8dc60143ad86d4dcb6c43c2f44",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-dodatki-mapa-switch-pl-unikat?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "8ebee6a4-b1dc-4efc-8804-afaa363a43a0",
     "title": "MARIO KART 8 DELUXE *SZYBKA WYSYŁKA* NINTENDO SWITCH + 2 GRA",
     "price": "149",
     "img": "https://a.allegroimg.com/s360x360/1e0e24/dd389907409aa1362d84c479c9b6",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-bonus-szybka-wysylka-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
   },
@@ -565,7 +575,7 @@
     "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1efc59/defb2d234bbb8774bab26d6d5104",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-bonus-szybka-wysylka-nintendo-switch-ci5?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
   },
@@ -575,7 +585,7 @@
     "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e6fce/2e09982e4677b45d2f63235f98b5",
     "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-bonus-szybka-wysylka-nintendo-switch-t2t?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
   },
@@ -585,29 +595,9 @@
     "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e5447/0aa5ce3141e49b3bae4269140488",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-bros-wonder-na-nintendo-switch-szybka-wysylka-s2k?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "f71c348b-849d-4a10-99b9-1f63eb6f596d",
-    "title": "SUPER MARIO 3D WORLD + BOWSER FURY *SZYBKA DOSTAWA* + 2 GRA",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1ec161/5c59cea44981b1b39d58c66e7888",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-szybka-dostawa-bonus-ycv?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
-  },
-  {
-    "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
-    "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
-    "price": "280",
-    "img": "https://a.allegroimg.com/s360x360/1eed1c/cc8dc60143ad86d4dcb6c43c2f44",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-dodatki-mapa-switch-pl-unikat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
@@ -1088,6 +1078,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "a7d35416-5483-4123-9a7c-965f73eebb02",
+    "title": "Assassin's Creed: The Rebel Collection Switch BLACK FLAG + ROGUE 2 GRY",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e5173/98b634c648aca93384252ab816bd",
+    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-the-rebel-collection-switch-black-flag-rogue-2-gry?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "b946769c-df9a-4c5f-973d-4680c5f08d36",
@@ -1690,6 +1690,16 @@
     "city": "Przemyśl"
   },
   {
+    "id": "f71c348b-849d-4a10-99b9-1f63eb6f596d",
+    "title": "SUPER MARIO 3D WORLD + BOWSER FURY *SZYBKA DOSTAWA* + 2 GRA",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1ec161/5c59cea44981b1b39d58c66e7888",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-szybka-dostawa-bonus-ycv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
+  },
+  {
     "id": "eb968d38-6bb8-4db5-a46b-94800e113c30",
     "title": "THE LEGEND OF ZELDA: BREATH OF THE WILD *SZYBKA DOSTAWA* + 2 GRA",
     "price": "99",
@@ -1788,26 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Katowice"
-  },
-  {
-    "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
-    "title": "Final Fantasy gra na Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e3487/f29a99094a77be4ed8ca9433ecd6",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-gra-na-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
-    "title": "Final Fantasy gra na Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e3487/f29a99094a77be4ed8ca9433ecd6",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-gra-na-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
@@ -4190,6 +4180,26 @@
     "city": "Groblice"
   },
   {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
     "id": "8397538f-2158-4ec9-96ac-41271e325076",
     "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
     "price": "549",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "2204a94c-83c7-4485-9590-e5da3b0148ea",
-    "title": "Monster Hunter Rise Switch PL",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e00c0/5e86145a405ba891dccd349e2d6b",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-switch-pl-ea6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "4484e6d3-a44c-42ea-a854-fe1875e7e8d2",
@@ -5390,16 +5390,6 @@
     "city": "Nowogrodziec"
   },
   {
-    "id": "68517e25-21a3-4f3b-bd6c-14b694e5778d",
-    "title": "Nintendo switch gra",
-    "price": "1 450",
-    "img": "https://a.allegroimg.com/s360x360/1eac62/82a68d9b45e7908d13fa75d77b4e",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-7yb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowogrodziec"
-  },
-  {
     "id": "b840d8f3-afa9-4c26-bf4b-f00f0ec9d96c",
     "title": "let's get fit nintendo switch",
     "price": "79",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "47bea1d3-d565-45e7-954d-a267c1349731",
+    "title": "Nintendo Switch River City Saga Three Kingdoms",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e8efe/dfd2cf4c4431adcac06c3c6158ce",
+    "url": "https://allegrolokalnie.pl//oferta/river-city-saga-three-kingdoms?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   }
 ]
