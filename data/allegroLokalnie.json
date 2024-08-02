@@ -650,16 +650,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "49094805-ac2c-4015-ab0a-089e11d38bee",
-    "title": "R-Type Final 2 (Standard Edition) - Nintendo Switch orginalnie zamknięta",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e6a93/8dd4cc3f41b4af3e970049835314",
-    "url": "https://allegrolokalnie.pl//oferta/rtype-final-2-standard-edition-nintendo-switch-orginalnie-zamknieta?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Granowo"
-  },
-  {
     "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
     "title": "SIFU Redemption Edition Nintendo Switch",
     "price": "250",
@@ -1170,6 +1160,16 @@
     "city": "Mikołów"
   },
   {
+    "id": "49094805-ac2c-4015-ab0a-089e11d38bee",
+    "title": "R-Type Final 2 (Standard Edition) - Nintendo Switch orginalnie zamknięta",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e6a93/8dd4cc3f41b4af3e970049835314",
+    "url": "https://allegrolokalnie.pl//oferta/rtype-final-2-standard-edition-nintendo-switch-orginalnie-zamknieta?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Granowo"
+  },
+  {
     "id": "27f8d741-ce62-4350-8dcb-190af80671a0",
     "title": "Mario vs Donkey Kong NS",
     "price": "130",
@@ -1432,7 +1432,7 @@
   {
     "id": "3c421f4f-3570-496c-9617-8de5530c1601",
     "title": "Xenoblade Chronicles 3",
-    "price": "170",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e75c3/17989cc94201b197b54ad126c441",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-mtx?navCategoryId=256922",
     "promoted": false,
