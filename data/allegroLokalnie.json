@@ -740,36 +740,6 @@
     "city": "Ełk"
   },
   {
-    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
-    "title": "Bayonetta 3 - Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
-    "title": "Nowa Bayonetta 3 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
-    "title": "Nowa Bayonetta Origins, Cereza and The Lost Demon - Nintendo Switch",
-    "price": "108",
-    "img": "https://a.allegroimg.com/s360x360/1e204b/df8e3d7d4c7683f6015edf4ac675",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-origins-cereza-and-the-lost-demon-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "52e17a20-229f-4fa9-a5d7-5d05ba326b49",
     "title": "Lego Ninjago PL-ANG Switch",
     "price": "74",
@@ -998,6 +968,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
+    "title": "Bayonetta 3 - Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
+    "title": "Nowa Bayonetta 3 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
+    "title": "Nowa Bayonetta Origins, Cereza and The Lost Demon - Nintendo Switch",
+    "price": "108",
+    "img": "https://a.allegroimg.com/s360x360/1e204b/df8e3d7d4c7683f6015edf4ac675",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-origins-cereza-and-the-lost-demon-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "abdc25c5-4d7d-48d4-9016-fb032bbf51ed",
