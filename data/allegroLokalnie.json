@@ -1200,16 +1200,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
     "title": "Super Smash Bros Ultimate",
     "price": "220",
@@ -2410,6 +2400,16 @@
     "city": "Toruń"
   },
   {
+    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
+    "title": "Bayonetta 2 collector's edition",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
     "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
     "title": "The legend of zelda Link's awakening collectors edition + gra",
     "price": "550",
@@ -2998,16 +2998,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Brzoza"
-  },
-  {
-    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
-    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
   },
   {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
@@ -4195,6 +4185,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5400,16 +5400,6 @@
     "city": "Wejherowo"
   },
   {
-    "id": "68517e25-21a3-4f3b-bd6c-14b694e5778d",
-    "title": "Nintendo switch gra",
-    "price": "1 450",
-    "img": "https://a.allegroimg.com/s360x360/1eac62/82a68d9b45e7908d13fa75d77b4e",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-7yb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowogrodziec"
-  },
-  {
     "id": "b840d8f3-afa9-4c26-bf4b-f00f0ec9d96c",
     "title": "let's get fit nintendo switch",
     "price": "79",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "47bea1d3-d565-45e7-954d-a267c1349731",
+    "title": "Nintendo Switch River City Saga Three Kingdoms",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e8efe/dfd2cf4c4431adcac06c3c6158ce",
+    "url": "https://allegrolokalnie.pl//oferta/river-city-saga-three-kingdoms?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   }
 ]
