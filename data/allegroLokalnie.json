@@ -1200,6 +1200,16 @@
     "city": "Toruń"
   },
   {
+    "id": "5268abb6-0b26-412c-887d-6cd2573a3f05",
+    "title": "No More Heroes Limited Run Games Folia",
+    "price": "285",
+    "img": "https://a.allegroimg.com/s360x360/1e46fa/916e388745e1be9f2ac9155293bc",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-limited-run-games-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
     "id": "e7a2d3a4-879d-40f7-8f29-d1bf066253b7",
     "title": "The Wonderful 101 Remastered Switch okładka 3d",
     "price": "210",
@@ -1790,16 +1800,6 @@
     "city": "Wrocław, Śródmieście"
   },
   {
-    "id": "b67d1341-e02a-4079-970c-cbcd64a53a56",
-    "title": "hogwarts legacy nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e0270/9eaefe51417ba4fae66e69207b89",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-nw4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sośno"
-  },
-  {
     "id": "9930fae4-1be9-4212-b4cb-8834e38aea5d",
     "title": "Gra Dying Light Platinum Edition na konsolkę Nintendo Switch",
     "price": "175",
@@ -2378,16 +2378,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Nowogród Bobrzański"
-  },
-  {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
@@ -2988,6 +2978,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
+    "title": "Pokémon Sword na konsolę Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ea515/04a574904fd58a5c581058259d92",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Zacisze"
   },
   {
     "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Morąg"
+  },
+  {
+    "id": "ed430276-8fc0-4107-a951-797dfd198b88",
+    "title": "Atelier Sophie 2 dla Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e9a53/cf983ea44998a5064d9c67d61f18",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   }
 ]
