@@ -506,7 +506,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e62e0/2a287bbe4faa93129168762eba35",
     "url": "https://allegrolokalnie.pl//oferta/lets-sing-2-mikrofony-dedykowane-do-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Bytom"
   },
   {
@@ -1008,6 +1008,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "abdc25c5-4d7d-48d4-9016-fb032bbf51ed",
+    "title": "Paper Mario The Thousand-Year Door",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e9058/04d7450d4645a20393c9b10d13fe",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-ldi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "3c60042b-8a13-47d7-99a0-c86d50d3ab91",
+    "title": "Paper Mario: The Thousand Year Door",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e23f2/c76e944848f3b534209350738378",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-ca4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tarnów"
   },
   {
     "id": "31a224ce-5b8d-426e-8d86-dc9a7320d4fe",
@@ -1662,11 +1682,11 @@
   {
     "id": "e0b6d81f-db8e-4ab2-b5ec-9f22b6750c30",
     "title": "Donkey Kong Switch",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e9f8c/09e1ac5d4f8ab3e6452c511c6e0e",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-switch-xeb?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Warszawa, Wola"
   },
   {
@@ -4426,7 +4446,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
     "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Bytom"
   },
   {
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "af51c381-61de-470f-a945-64ed3339e8ba",
-    "title": "NINTENDO SWITCH LEGO WORLDS",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e57b7/2ab64f1b4f9ea68cb54a78f5dce9",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-worlds-v7x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Śrem"
-  },
-  {
-    "id": "b3c73b0a-90df-4e08-b049-4492f255af12",
-    "title": "NINTENDO SWITCH HARRY POTTER COLLECTION",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1ee270/31c2f2944b4cb13e251bb7ab275a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-harry-potter-collection-apg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Śrem"
   }
 ]
