@@ -1200,16 +1200,6 @@
     "city": "Lębork"
   },
   {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
     "title": "Super Smash Bros Ultimate",
     "price": "220",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Łódź"
+  },
+  {
+    "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
+    "title": "The Legend of Zelda Tears of the Kingdom (Gra NS) TotK",
+    "price": "173",
+    "img": "https://a.allegroimg.com/s360x360/1e5e18/48eedf6b45058460821699ffaa1c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gra-ns-totk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Podgórze Duchackie"
   },
   {
     "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
@@ -3600,16 +3600,6 @@
     "city": "Księstwo"
   },
   {
-    "id": "923892b2-bbd9-4fc1-b2d0-b3f8d572c3b5",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e0ee7/33f2c7ae407aae7f81a15e3d0455",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-esf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
     "title": "Harvestella Nintendo Switch",
     "price": "130",
@@ -4195,6 +4185,26 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
+    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
+    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -4800,16 +4810,6 @@
     "city": "Karwia"
   },
   {
-    "id": "70288f9e-ecf6-42b6-ab53-d47556e6eb6c",
-    "title": "NINTENDO GRA NA KONSOLĘ LES SISTERS 2",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e2b3c/f0241caf4e989e4b819ec96da2b7",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-gra-na-konsole-les-sisters-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Karwia"
-  },
-  {
     "id": "c7275fa0-0aef-402a-852c-e3c75c97ec9a",
     "title": "Gra Nintendo Switch Metroid Dread",
     "price": "159",
@@ -5400,16 +5400,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
-    "title": "Minecraft nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
     "title": "WARIO WARE GET IT TOGETHER NOWA FOLIA",
     "price": "180",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "2052cc1e-dd52-4d2f-ae42-0170a2d3329f",
+    "title": "F.I.S.T Forged in Shadow Torch limited ed - nowa",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e8021/2a156c334c4894d1b804455f4d36",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-limited-ed-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
