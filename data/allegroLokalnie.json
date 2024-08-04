@@ -920,16 +920,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "3dfbc530-6f8c-40dc-9e2e-e3d4657c0688",
-    "title": "Zestaw 4 gier na Nintendo Switch",
-    "price": "400",
-    "img": "https://a.allegroimg.com/s360x360/1e1326/f63c6065401bb4bd2b2afc95810f",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-4-gry-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "17ae4f89-fc23-4fee-b07f-92fd2c417e24",
     "title": "Hyrule Warriors: Age of Calamity Switch",
     "price": "145",
@@ -948,6 +938,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "3dfbc530-6f8c-40dc-9e2e-e3d4657c0688",
+    "title": "Zestaw 4 gier na Nintendo Switch",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s360x360/1e1326/f63c6065401bb4bd2b2afc95810f",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-4-gry-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "abdc25c5-4d7d-48d4-9016-fb032bbf51ed",
