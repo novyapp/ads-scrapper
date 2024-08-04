@@ -1,25 +1,5 @@
 [
   {
-    "id": "95bcbd02-c0f0-40f8-96b9-b65690bc2eed",
-    "title": "The legend of Zelda Tears of the kingdom",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e59a3/f7c7c36742cfb3befa9a265f1bcb",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-4g6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
-  },
-  {
-    "id": "3dacff75-b3bd-42db-a315-16921d2559b6",
-    "title": "Pokemon legends arceus Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e1297/ac26852b4cef9c3f5ef5caf6d532",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-nintendo-switch-4ej?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
-  },
-  {
     "id": "21af1347-5e36-45c1-8d9d-26cbd6615cac",
     "title": "Zelda Breath of the wild Nintendo switch",
     "price": "140",
@@ -595,6 +575,46 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s360x360/1ef3c9/cec41a29496aa45d059d8a2c5303",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-mariokart-8-deluxe-e4y?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
+    "title": "Nintendo Switch gra Splatoon 2",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
+    "title": "Nintendo Switch gra taneczną Just Dance 2020",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
+    "title": "Nintendo Switch gra taneczną Just Dance 2020",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
+    "title": "Animal Crossing New Horizons gra Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "JAWORZE"
@@ -1768,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
+  },
+  {
+    "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
+    "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
+    "price": "650",
+    "img": "https://a.allegroimg.com/s360x360/1e4d24/a75d4b1c4fc5ab8c91b76a7a2ef4",
+    "url": "https://allegrolokalnie.pl//oferta/divinity-ii-original-sin-definitive-edition-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
   },
   {
     "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
@@ -5968,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "47bea1d3-d565-45e7-954d-a267c1349731",
-    "title": "Nintendo Switch River City Saga Three Kingdoms",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e8efe/dfd2cf4c4431adcac06c3c6158ce",
-    "url": "https://allegrolokalnie.pl//oferta/river-city-saga-three-kingdoms?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "44419e79-6951-474b-8981-e742e322d90b",
-    "title": "Triangle Strategy Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e9bfb/a3d467644acaab18fbb576946c97",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-fwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wągrowiec"
   }
 ]
