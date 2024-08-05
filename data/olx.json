@@ -1,5 +1,41 @@
 [
   {
+    "localId": 935895674,
+    "title": "Mario Kart 8 Deluxe",
+    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/4jgtg2kk2arr2-PL/image;s=200x0;q=50",
+    "url": "https://www.olx.pl/d/oferta/mario-kart-8-deluxe-CID99-ID11kWdv.html",
+    "pricePLN": "155 zł",
+    "city": "Czaple",
+    "type": "BUY_NOW",
+    "productType": "USED",
+    "date": "5.8.2024 20:37",
+    "timestamp": 1722890220000
+  },
+  {
+    "localId": 935894905,
+    "title": "Super Mario Bros Wonder + Super Mario Bros u Deluxe Zestaw 2 gier",
+    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/wspyb53zlxb7-PL/image;r=90;s=200x0;q=50",
+    "url": "https://www.olx.pl/d/oferta/super-mario-bros-wonder-super-mario-bros-u-deluxe-zestaw-2-gier-CID99-ID11kW17.html",
+    "pricePLN": "320 zł",
+    "city": "Poznań, Jeżyce",
+    "type": "BUY_NOW",
+    "productType": "NEW",
+    "date": "5.8.2024 20:35",
+    "timestamp": 1722890100000
+  },
+  {
+    "localId": 935894709,
+    "title": "Super Smash Bros Ultimate",
+    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/0w8vdybrwof52-PL/image;s=200x0;q=50",
+    "url": "https://www.olx.pl/d/oferta/super-smash-bros-ultimate-CID99-ID11kUXX.html",
+    "pricePLN": "165 zł",
+    "city": "Czaple",
+    "type": "BUY_NOW",
+    "productType": "USED",
+    "date": "5.8.2024 20:35",
+    "timestamp": 1722890100000
+  },
+  {
     "localId": 935886582,
     "title": "Nintendo switch sports",
     "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/bmiqescwdn0k3-PL/image;r=90;s=200x0;q=50",
@@ -26,7 +62,7 @@
   {
     "localId": 935880381,
     "title": "Pokemon Brilliant Diamond",
-    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/auizggdz4bqk2-PL/image;s=200x0;q=50",
+    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
     "url": "https://www.olx.pl/d/oferta/pokemon-brilliant-diamond-CID99-ID11kReR.html",
     "pricePLN": "110 zł",
     "city": "Pruszków",
@@ -38,7 +74,7 @@
   {
     "localId": 935876044,
     "title": "Super Mario Odyssey - Nintendo Switch",
-    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/bm65a9digcpq3-PL/image;s=200x0;q=50",
+    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
     "url": "https://www.olx.pl/d/oferta/super-mario-odyssey-nintendo-switch-CID99-ID11kQ6U.html",
     "pricePLN": "150 zł",
     "city": "Warszawa, Bemowo",
@@ -50,7 +86,7 @@
   {
     "localId": 929599053,
     "title": "Yoshi Amiibo No 3 Nintendo",
-    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/tp5ornmmvec-PL/image;s=200x0;q=50",
+    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
     "url": "https://www.olx.pl/d/oferta/yoshi-amiibo-no-3-nintendo-CID99-ID10Uwb7.html",
     "pricePLN": "85 zł",
     "city": "Szczecin, Niebuszewo",
@@ -442,41 +478,5 @@
     "productType": "USED",
     "date": "5.8.2024 17:00",
     "timestamp": 1722877200000
-  },
-  {
-    "localId": 935840726,
-    "title": "Diablo III: Eternal Collection na Nintendo Switch",
-    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
-    "url": "https://www.olx.pl/d/oferta/diablo-iii-eternal-collection-na-nintendo-switch-CID99-ID11kGWg.html",
-    "pricePLN": "89 zł",
-    "city": "Warszawa, Białołęka",
-    "type": "BUY_NOW",
-    "productType": "USED",
-    "date": "5.8.2024 16:59",
-    "timestamp": 1722877140000
-  },
-  {
-    "localId": 935840463,
-    "title": "Pokemon Let's Go Eevee! na Nintendo Switch",
-    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
-    "url": "https://www.olx.pl/d/oferta/pokemon-lets-go-eevee-na-nintendo-switch-CID99-ID11kGR1.html",
-    "pricePLN": "139 zł",
-    "city": "Warszawa, Białołęka",
-    "type": "BUY_NOW",
-    "productType": "USED",
-    "date": "5.8.2024 16:58",
-    "timestamp": 1722877080000
-  },
-  {
-    "localId": 935839951,
-    "title": "Super Smash Bros Ultimate na Nintendo Switch",
-    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
-    "url": "https://www.olx.pl/d/oferta/super-smash-bros-ultimate-na-nintendo-switch-CID99-ID11kGIL.html",
-    "pricePLN": "160 zł",
-    "city": "Warszawa, Białołęka",
-    "type": "BUY_NOW",
-    "productType": "USED",
-    "date": "5.8.2024 16:57",
-    "timestamp": 1722877020000
   }
 ]
