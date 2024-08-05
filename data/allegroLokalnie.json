@@ -590,16 +590,6 @@
     "city": "JAWORZE"
   },
   {
-    "id": "bd9bccaa-f63f-41bf-b21d-e6b6c9c44396",
-    "title": "Pokemon Shield",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e4d96/a2e2833a4de0a9991360b54820c4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-a75?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Małogoszcz"
-  },
-  {
     "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
     "title": "Animal Crossing New Horizons gra Nintendo switch",
     "price": "179",
@@ -878,6 +868,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "f8c355c0-2aed-4215-a754-34be9e07bd96",
+    "title": "Dredge Deluxe Edition nowa w folii Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1ece7b/6a8f47aa4c488ea8da8c7e60c26e",
+    "url": "https://allegrolokalnie.pl//oferta/dredge-deluxe-edition-nowa-w-folii-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
   },
   {
     "id": "62ebe160-9dd2-4842-a93a-ed6248338ab8",
@@ -1430,6 +1430,16 @@
     "city": "Toruń"
   },
   {
+    "id": "bd9bccaa-f63f-41bf-b21d-e6b6c9c44396",
+    "title": "Pokemon Shield",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e4d96/a2e2833a4de0a9991360b54820c4",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-a75?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Małogoszcz"
+  },
+  {
     "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
     "title": "Minecraft Story Mode Nintendo Switch",
     "price": "435",
@@ -1518,16 +1528,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "106ce6a6-7783-4029-bc6d-888fe06e788f",
-    "title": "Zelda Tears of The Kingdom",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e03f0/aa7683874e64b5108bcdbe29646f",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-6d5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zakrzewska Wola"
   },
   {
     "id": "7a5f0af0-1984-46a9-9aa0-ea1a7cccc52c",
