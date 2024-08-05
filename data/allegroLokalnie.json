@@ -3000,6 +3000,26 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "6f2d516c-3764-4d05-9f16-15f1b209ca2a",
+    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nowa",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e1b02/7d25dc0a4810b4d0b6a71ca4b83a",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nowa-jvb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pleszew"
+  },
+  {
+    "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
+    "title": "2 gry na Nintendo Switch",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s360x360/1eb312/9f8134ff4e65881d3409820c3782",
+    "url": "https://allegrolokalnie.pl//oferta/2-gry-na-nintendo-switch-ysr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Targówek"
+  },
+  {
     "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
     "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
     "price": "100",
@@ -3578,26 +3598,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Tuczempy "
-  },
-  {
-    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
-    "title": "Bayonetta 3 - Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
-    "title": "Nowa Bayonetta 3 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
   },
   {
     "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
@@ -5742,7 +5742,7 @@
   {
     "id": "ffdf61cf-ac99-4203-a006-59bb80fc149c",
     "title": "Zestaw na Nintendo Switch 4 gier",
-    "price": "285",
+    "price": "275",
     "img": "https://a.allegroimg.com/s360x360/1ef838/ad7bab384abcb4218b64a5aafca8",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-na-nintendo-switch-3-gry?navCategoryId=256922",
     "promoted": false,
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "47bea1d3-d565-45e7-954d-a267c1349731",
+    "title": "Nintendo Switch River City Saga Three Kingdoms",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e8efe/dfd2cf4c4431adcac06c3c6158ce",
+    "url": "https://allegrolokalnie.pl//oferta/river-city-saga-three-kingdoms?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "44419e79-6951-474b-8981-e742e322d90b",
+    "title": "Triangle Strategy Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e9bfb/a3d467644acaab18fbb576946c97",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-fwl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wągrowiec"
   }
 ]
