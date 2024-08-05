@@ -430,16 +430,6 @@
     "city": "Grodzisk Wlkp"
   },
   {
-    "id": "306e7e01-7880-4efa-9978-56b564d835ee",
-    "title": "Little nightmares Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ece35/f5ee71f040fe817aa58c905767a6",
-    "url": "https://allegrolokalnie.pl//oferta/little-nightmares-nintendo-switch-tfz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Elbląg"
-  },
-  {
     "id": "46358082-5394-4757-81fe-30f38215d45a",
     "title": "Game Builder Garage Nintendo Switch",
     "price": "49",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "2052cc1e-dd52-4d2f-ae42-0170a2d3329f",
+    "title": "F.I.S.T Forged in Shadow Torch limited ed - nowa",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e8021/2a156c334c4894d1b804455f4d36",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-limited-ed-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
