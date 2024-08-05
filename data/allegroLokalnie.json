@@ -460,16 +460,6 @@
     "city": "Małogoszcz"
   },
   {
-    "id": "bd9bccaa-f63f-41bf-b21d-e6b6c9c44396",
-    "title": "Pokemon Shield",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e4d96/a2e2833a4de0a9991360b54820c4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-a75?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Małogoszcz"
-  },
-  {
     "id": "dbee80fa-7afd-4aed-b10e-a1e33af9c192",
     "title": "RPG Maker MV Switch",
     "price": "100",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "JAWORZE"
+  },
+  {
+    "id": "bd9bccaa-f63f-41bf-b21d-e6b6c9c44396",
+    "title": "Pokemon Shield",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e4d96/a2e2833a4de0a9991360b54820c4",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-a75?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Małogoszcz"
   },
   {
     "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
