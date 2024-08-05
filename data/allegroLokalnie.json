@@ -182,7 +182,7 @@
   {
     "id": "7297ab44-30cc-42a9-b87c-c792416e4580",
     "title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch",
-    "price": "140",
+    "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1ec8fd/cf4ab78d43e585c7687d29256368",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-nek?navCategoryId=256922",
     "promoted": true,
@@ -900,36 +900,6 @@
     "city": "Toruń, Rudak"
   },
   {
-    "id": "753b8fe7-9f4c-4795-8bec-1647b88846f5",
-    "title": "Pokemon Sword Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s360x360/1eb206/b0cc4e1646999ac5d7ed9d911acb",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-icd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "16699c68-ce98-4642-b291-f6ec7e3816ca",
-    "title": "Pokemon Let’s Go Eevee",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ec277/756b15b8438fbb3a62a3ffc4ff21",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-aqw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "f0f4c4bf-9c13-44a9-a8a5-df763e2131d5",
-    "title": "Super Mario Wonder",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e5804/b3206c8548349b30ce76a9bf04b9",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-7zz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
     "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
     "price": "199",
@@ -1058,16 +1028,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "b946769c-df9a-4c5f-973d-4680c5f08d36",
-    "title": "Xenoblade Chronicles Switch stan bardzo dobry",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e025d/1cf2b5534ab7a3f04aa0b0d002a4",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-switch-stan-bardzo-dobry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gorzów Wielkopolski"
   },
   {
     "id": "30e9b9ad-d73a-4c1e-b033-e545e3d1c793",
@@ -3000,26 +2960,6 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "6f2d516c-3764-4d05-9f16-15f1b209ca2a",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nowa",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e1b02/7d25dc0a4810b4d0b6a71ca4b83a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nowa-jvb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pleszew"
-  },
-  {
-    "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
-    "title": "2 gry na Nintendo Switch",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s360x360/1eb312/9f8134ff4e65881d3409820c3782",
-    "url": "https://allegrolokalnie.pl//oferta/2-gry-na-nintendo-switch-ysr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Targówek"
-  },
-  {
     "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
     "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
     "price": "100",
@@ -3598,6 +3538,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Tuczempy "
+  },
+  {
+    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
+    "title": "Bayonetta 3 - Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
+    "title": "Nowa Bayonetta 3 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
@@ -5998,5 +5958,45 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wągrowiec"
+  },
+  {
+    "id": "4ea22437-e63e-4979-865a-f3699e7a92b8",
+    "title": "The binding of isaac: repentance Nintendo Switch",
+    "price": "450",
+    "img": "https://a.allegroimg.com/s360x360/1efe32/bfc5fad442da98005573a955f755",
+    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-repentance-nintendo-switch-go5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Straszyn"
+  },
+  {
+    "id": "fabf0fd6-c6e9-41d9-9b6d-f90020fa6a8c",
+    "title": "WARIOWARE Get It Together ! NOWA + PLAKAT Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ebcb6/749ad3304d70be56463fa5a8f183",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nowa-plakat-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "1e95e52e-6124-430a-8d64-5447ac079c1e",
+    "title": "Doom eternal ultimate edition NS Limited Run",
+    "price": "1 220",
+    "img": "https://a.allegroimg.com/s360x360/1e622d/a54e0fbf4fa89fbb4bf27d87dbac",
+    "url": "https://allegrolokalnie.pl//oferta/doom-eternal-ultimate-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Morąg"
+  },
+  {
+    "id": "ed430276-8fc0-4107-a951-797dfd198b88",
+    "title": "Atelier Sophie 2 dla Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e9a53/cf983ea44998a5064d9c67d61f18",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   }
 ]
