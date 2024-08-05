@@ -880,6 +880,26 @@
     "city": "Mikołów"
   },
   {
+    "id": "62ebe160-9dd2-4842-a93a-ed6248338ab8",
+    "title": "Wreckfest Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e58a4/3989782a4549a964610a3fb82398",
+    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-hes?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "d307f6cd-ba4b-4176-8434-2c4adbc76d92",
+    "title": "Celeste Nintendo Switch",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e71b6/ce28225941b2b575f53801fbaf07",
+    "url": "https://allegrolokalnie.pl//oferta/celeste-nintendo-switch-2zs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "56b78f5e-f3e1-4984-950c-78dba1b8834a",
     "title": "Super Mario Bros Deluxe",
     "price": "159",
@@ -1178,26 +1198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lębork"
-  },
-  {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "329",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -1800,16 +1800,6 @@
     "city": "Granowo"
   },
   {
-    "id": "419baa80-15cf-45cc-bbf6-d077fd29205e",
-    "title": "Wiedźmin Edycja Kompletna PL Switch RZADKI RARYTAS",
-    "price": "1 499",
-    "img": "https://a.allegroimg.com/s360x360/1eeada/823ddc3b448dbc7dd65de850c1b9",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-pl-switch-rzadki-rarytas-4m6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Borzęcin"
-  },
-  {
     "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
     "title": "Final Fantasy gra na Switch",
     "price": "110",
@@ -2395,6 +2385,16 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1e641d/ef479fe94fcdb1bc5d4d492f9af7",
     "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-switch-ilp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
+    "title": "Hyrule Warriors Age of Calamity Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -2998,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Targówek"
-  },
-  {
-    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
-    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
-    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
   },
   {
     "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Straszyn"
+  },
+  {
+    "id": "fabf0fd6-c6e9-41d9-9b6d-f90020fa6a8c",
+    "title": "WARIOWARE Get It Together ! NOWA + PLAKAT Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ebcb6/749ad3304d70be56463fa5a8f183",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nowa-plakat-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
