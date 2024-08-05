@@ -490,6 +490,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "99951723-aca2-436b-bced-92f38bc239f8",
+    "title": "Gra Donkey Kong Country Tropical Freeze / Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ebea6/f546b7c8490fa078fa14c433e120",
+    "url": "https://allegrolokalnie.pl//oferta/gra-donkey-kong-country-tropical-freeze-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław "
+  },
+  {
     "id": "c0a63aa5-fa24-4db5-a374-8356c538aee0",
     "title": "UNIKAT PERSONA 3 FES PORTABLE, SWITCH LIMITED RUN, NOWA 3XA!",
     "price": "449",
@@ -870,6 +880,16 @@
     "city": "Mikołów"
   },
   {
+    "id": "56b78f5e-f3e1-4984-950c-78dba1b8834a",
+    "title": "Super Mario Bros Deluxe",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e2f53/ba0757fe4902908ae7bf7d424359",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-bic?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Buczek"
+  },
+  {
     "id": "f7cf0986-a8af-4a5c-841b-b091e239454e",
     "title": "Gra Just Dance 2024 Nintendo Switch, Nowa",
     "price": "99",
@@ -1180,24 +1200,14 @@
     "city": "Rokietnica"
   },
   {
-    "id": "6ddfc642-65f8-4230-b8b0-952ad2cb6e4d",
-    "title": "Wiedźmin 3 Dziki Gon PL/ENG (NSW)",
-    "price": "152",
-    "img": "https://a.allegroimg.com/s360x360/1e5cc6/5fbb684c49d6a1a22db416dc0d8b",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-pleng-nsw?navCategoryId=256922",
+    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
+    "title": "Super Smash Bros Ultimate",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Gruszczyn"
-  },
-  {
-    "id": "77068926-763c-4f46-9e59-621735a040a4",
-    "title": "Mario + Rabbids Sparks of Hope - używana gra NS",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1e20bf/d9c55a564d4eb1c5be260c35427a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-uzywana-gra-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
+    "smartPost": false,
+    "city": "Rokietnica"
   },
   {
     "id": "6ddfc642-65f8-4230-b8b0-952ad2cb6e4d",
@@ -1798,6 +1808,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Borzęcin"
+  },
+  {
+    "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
+    "title": "Final Fantasy gra na Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3487/f29a99094a77be4ed8ca9433ecd6",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-gra-na-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Straszyn"
-  },
-  {
-    "id": "fabf0fd6-c6e9-41d9-9b6d-f90020fa6a8c",
-    "title": "WARIOWARE Get It Together ! NOWA + PLAKAT Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1ebcb6/749ad3304d70be56463fa5a8f183",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nowa-plakat-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   }
 ]
