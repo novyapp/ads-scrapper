@@ -62,7 +62,7 @@
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
-    "price": "117",
+    "price": "116",
     "img": "https://a.allegroimg.com/s360x360/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
     "promoted": true,
@@ -132,7 +132,7 @@
   {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
     "title": "Super Mario RPG Switch",
-    "price": "169",
+    "price": "168",
     "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
     "promoted": true,
@@ -880,6 +880,16 @@
     "city": "Mikołów"
   },
   {
+    "id": "48144e0a-f6d6-4a47-a499-803c5574ef8c",
+    "title": "Gothic Nintendo switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e0276/3ae9a3f04fd08681369bb03165d2",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-sgm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Celestynów"
+  },
+  {
     "id": "7a25442b-bbfc-491e-a94d-9e5909054db6",
     "title": "The Legend Of Zelda - Breath Of The Wild",
     "price": "189",
@@ -1188,16 +1198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lębork"
-  },
-  {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -1800,6 +1800,16 @@
     "city": "Granowo"
   },
   {
+    "id": "49094805-ac2c-4015-ab0a-089e11d38bee",
+    "title": "R-Type Final 2 (Standard Edition) - Nintendo Switch orginalnie zamknięta",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e6a93/8dd4cc3f41b4af3e970049835314",
+    "url": "https://allegrolokalnie.pl//oferta/rtype-final-2-standard-edition-nintendo-switch-orginalnie-zamknieta?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Granowo"
+  },
+  {
     "id": "419baa80-15cf-45cc-bbf6-d077fd29205e",
     "title": "Wiedźmin Edycja Kompletna PL Switch RZADKI RARYTAS",
     "price": "1 499",
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kobylany"
-  },
-  {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
@@ -3600,6 +3600,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
     "title": "Super Mario Bros Wonder",
     "price": "200",
@@ -3832,7 +3842,7 @@
   {
     "id": "5f6c4965-b0a0-4a8f-9d3d-a4d5bd90420f",
     "title": "Cuphead Nintendo Switch (pl napisy)",
-    "price": "110",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e0417/e7eac2e24febbf1b2b0d225f814e",
     "url": "https://allegrolokalnie.pl//oferta/cuphead-switch-pl-elm?navCategoryId=256922",
     "promoted": false,
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "5f2997d3-e7ff-4e76-99fb-93a7f2b24b21",
-    "title": "Tokyo 2020 Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1ef00c/a676d2be4c029b959c9ffb33c025",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gqu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   }
 ]
