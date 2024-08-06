@@ -1200,16 +1200,6 @@
     "city": "Lublin"
   },
   {
-    "id": "2190d83f-1462-4917-a9e2-a9b40ef633c3",
-    "title": "The Legends of Zelda Breath of the Wild",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1ef373/1dc38f4e4767b28c31d3c2c44bc4",
-    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-breath-of-the-wild-nrf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "b1a20460-3592-446c-9f42-07ca2b55b4fc",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "139",
@@ -2162,7 +2152,7 @@
   {
     "id": "a14738c2-e00e-46bf-a80b-cd5f9d547a29",
     "title": "CRASH BANDICOOT: N. SANE TRILOGY Nintendo Switch",
-    "price": "125",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1edc29/68b9f6414e6fa5816005b95d6f51",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-nintendo-switch-gps?navCategoryId=256922",
     "promoted": false,
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kobylany"
+  },
+  {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
-    "title": "Monster Hunter Rise + Steelbook",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czarnów"
   },
   {
     "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "81f8c744-785b-4dbf-97e1-4e36040fa28e",
+    "title": "Dungeons III na NS",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
+    "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
   }
 ]
