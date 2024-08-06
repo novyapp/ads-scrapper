@@ -370,16 +370,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
-    "title": "Dead cells prisoner edition switch",
-    "price": "849",
-    "img": "https://a.allegroimg.com/s360x360/1e4871/dd24ac144654b67477ab8f9b5e98",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Prądnik Biały"
-  },
-  {
     "id": "6b0abc70-012a-4e41-883c-407da755dda4",
     "title": "Gra  Ben 10 power trip",
     "price": "45",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
+    "title": "Dead cells prisoner edition switch",
+    "price": "849",
+    "img": "https://a.allegroimg.com/s360x360/1e4871/dd24ac144654b67477ab8f9b5e98",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
   },
   {
     "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
@@ -2592,7 +2592,7 @@
   {
     "id": "79071a1f-91ee-4f7b-bd21-1b68eaaf8ee8",
     "title": "Destroy all humans 60 zl",
-    "price": "70",
+    "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1e1069/f20ea7f84b8b9120d2662b8ff017",
     "url": "https://allegrolokalnie.pl//oferta/destroy-all-humans-70-zl?navCategoryId=256922",
     "promoted": false,
