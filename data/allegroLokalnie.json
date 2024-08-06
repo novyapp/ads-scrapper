@@ -20,16 +20,6 @@
     "city": "Piekary Śląskie"
   },
   {
-    "id": "7f45e5de-c9eb-4cc9-9e27-39081f6e5ff2",
-    "title": "Pokémon Shining Pearl Nintendo switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e8a2f/e69007c741808dcd893783cdc7ac",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-dmq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "0cdb4295-ba7b-42f6-86c3-cf5a2dc330db",
     "title": "Sifu Vengeance Edition na Nintendo Switch",
     "price": "79",
@@ -88,16 +78,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "01004e20-aaeb-4773-b1de-33aa5745dd33",
-    "title": "Mario Kart Live Home Circuit Luigi Nintendo Switch",
-    "price": "260",
-    "img": "https://a.allegroimg.com/s360x360/1eac2d/d98836214b7f94a55f8c640180e4",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kleszczów, Kleszczów"
   },
   {
     "id": "6391e8f8-52e1-4791-957e-96bf86755656",
@@ -590,16 +570,6 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
-    "title": "My Hero Ones Justice 2",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
-    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "d7cc61b1-feba-4dc5-90be-db96c200d858",
     "title": "Super Mario 3D World + Bowser’s Fury",
     "price": "189",
@@ -768,6 +738,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "f6e2ab99-4f8a-4894-9b2d-adf8a4974335",
+    "title": "Immortals Fenyx Rising",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e40fb/4afbfe2c4907911d5741e60da2de",
+    "url": "https://allegrolokalnie.pl//oferta/immortals-fenyx-rising-hi2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
+  },
+  {
+    "id": "3ec6e0d3-4012-4d81-9ce1-2223e68277f2",
+    "title": "Marcel Super Heroes 2",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e3b99/d42c01064b7e920c53147e702bc5",
+    "url": "https://allegrolokalnie.pl//oferta/marcel-super-heroes-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
   },
   {
     "id": "94c009ee-8656-4518-b76c-c4393385cadc",
@@ -1190,26 +1180,6 @@
     "city": "Szczecin"
   },
   {
-    "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
-    "title": "No More Heroes Desperate Struggle (LRG) Folia",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s360x360/1e9a49/843d61c645dc9793ae7c8d39a54d",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-desperate-struggle-lrg-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "5268abb6-0b26-412c-887d-6cd2573a3f05",
-    "title": "No More Heroes Limited Run Games Folia",
-    "price": "255",
-    "img": "https://a.allegroimg.com/s360x360/1e46fa/916e388745e1be9f2ac9155293bc",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-limited-run-games-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
     "id": "e7a2d3a4-879d-40f7-8f29-d1bf066253b7",
     "title": "The Wonderful 101 Remastered Switch okładka 3d",
     "price": "185",
@@ -1378,6 +1348,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "46358082-5394-4757-81fe-30f38215d45a",
@@ -2400,6 +2380,26 @@
     "city": "Bysław"
   },
   {
+    "id": "14633764-e0b6-496f-b856-660c4084f8b1",
+    "title": "Mario + Rabbids: Kingdom Battle Switch",
+    "price": "118",
+    "img": "https://a.allegroimg.com/s360x360/1e6f4e/306796374092a5c4b1918302d318",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-hqq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "8399d8e6-c878-4635-a4b0-99d905a7b2b1",
+    "title": "Gra Ring Fit Adventure +Ring Fit + Opaska na nogę (CAŁY ZESTAW)",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e9d66/69c3150a4fe69083823333c8be22",
+    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
     "title": "Let's Get Fit + Opaski",
     "price": "120",
@@ -2978,26 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gorzów Wielkopolski"
-  },
-  {
-    "id": "dafe3b07-c4c6-49e9-a9a9-55a8ba03dcaf",
-    "title": "Lets Sing 2024 Karaoke Nintendo Switch Okazja!",
-    "price": "74",
-    "img": "https://a.allegroimg.com/s360x360/1e0538/30534e6a4d6382e45dbc2a9b41eb",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-2024-karaoke-nintendo-switch-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gorzów Wielkopolski"
-  },
-  {
-    "id": "de8b37b0-4e0e-4095-895f-922f2768997e",
-    "title": "Zelda Breath of the wild, Pokemon scarlet",
-    "price": "240",
-    "img": "https://a.allegroimg.com/s360x360/1edcfd/286c05bd4788b682fd83282fe6b4",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-pokemon-scarlet?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Skludzewo"
   },
   {
     "id": "08ffeb08-39fa-44d9-9255-2e1761d1cf1e",
@@ -3600,6 +3580,46 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
+    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
+    "title": "Nintendo Switch Ninja Gaiden Master Collection",
+    "price": "229",
+    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
+    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1ee722/85e4224c422ba41dc338dd4c24f3",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "7ef899aa-019f-4fb3-8f8a-ff863d5ae09b",
+    "title": "Pokémon Brilliant Diamond & Shining Pearl Dual Pack Nintendo Switch",
+    "price": "339",
+    "img": "https://a.allegroimg.com/s360x360/1ee0ee/dd4a5dfe45fbad8095be9add159e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-dual-pack-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
+    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
     "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
     "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
     "price": "349",
@@ -4158,46 +4178,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
-    "title": "Fire emblem engage Nintendo switch nowa",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "0e09d3a0-604a-4200-b828-1c0965f3bc2c",
-    "title": "Gra Arms na Nintnendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e016a/aa806bb7483fbc8dffa4eb81d5a8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-arms-na-nintnendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
-    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
   },
   {
     "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
@@ -4800,6 +4780,46 @@
     "city": "Wilczyce"
   },
   {
+    "id": "ed1eab9e-607a-4f58-9a76-484eec65dbb3",
+    "title": "Poradnik kompendium Zelda breath of the wild",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e70d1/e7a4eea34fb48cba4ef46d34d4ca",
+    "url": "https://allegrolokalnie.pl//oferta/poradnik-kompendium-zelda-breath-of-the-wild?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "632bfd9f-a798-4f5b-9840-8f1fd7639e3d",
+    "title": "Zelda Tears of The kingdom kolekcjonerka + bonus",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s360x360/1e82eb/1b9144b14e729806c7cbb6937ee0",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-kolekcjonerka-bonus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "cded4db5-eadd-4907-8813-e1ac88865af7",
+    "title": "POKÉMON WALKING WAKE LEGENDARNY 100lvl.",
+    "price": "6",
+    "img": "https://a.allegroimg.com/s360x360/1e8aa0/565b44664ca8b160c3353e53dd6f",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-walking-wake-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "deaa0577-9263-45f9-9b72-a582d538bbb8",
+    "title": "POKÉMON RAGING BOLT LEGENDARNY 100lvl.",
+    "price": "7",
+    "img": "https://a.allegroimg.com/s360x360/1e0fbf/f76316964c91b8b2bc3eafa9ab4e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-raging-bolt-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
     "id": "74b3988d-f2c3-4d42-b115-bfed6cc997e2",
     "title": "POKÉMON GOUGHING FIRE LEGENDARNY 100lvl.",
     "price": "7",
@@ -5400,26 +5420,6 @@
     "city": "Pruszków, Malichy"
   },
   {
-    "id": "07b997dd-8130-4867-b281-f80d290b8816",
-    "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e08ee/de07a36f4e2e8d8bc5ec568930a0",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-bez-kodu-na-bayonette-1?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Krowodrza"
-  },
-  {
-    "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
-    "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1eef1e/7e3342ab40e1a680f4550f7bea94",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-terapagos-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "fefba7a2-d5df-407b-8f3a-f8927aaddb78",
     "title": "Pokken Tournament DX",
     "price": "180",
@@ -5978,25 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
-  },
-  {
-    "id": "e5bd28cf-a55f-498a-9e9e-fa6fefe17a68",
-    "title": "Hyrule Warriors Age of Calamity na NS",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1eaaba/c4a70be649bb84a3f90ec5f35194",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-na-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jasienica"
-  },
-  {
-    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
-    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
-    "price": "4",
-    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
   }
 ]
