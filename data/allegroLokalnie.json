@@ -370,16 +370,6 @@
     "city": "Kraków, Krowodrza"
   },
   {
-    "id": "0b76aefe-e67d-431b-9895-e13c31e0f4ba",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ecac9/4aaa399047f3841f3647d01ec0b8",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-v2f?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków, Krowodrza"
-  },
-  {
     "id": "6b0abc70-012a-4e41-883c-407da755dda4",
     "title": "Gra  Ben 10 power trip",
     "price": "40",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "0b76aefe-e67d-431b-9895-e13c31e0f4ba",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1ecac9/4aaa399047f3841f3647d01ec0b8",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-v2f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
   },
   {
     "id": "1fd98ef0-1c80-480f-885a-b46fc4ad52d5",
