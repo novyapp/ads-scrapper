@@ -1,5 +1,15 @@
 [
   {
+    "id": "b54861d0-fb76-4e18-8fab-4cbb436fbe88",
+    "title": "The Legend of Zelda Breath of The Wild",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e72bf/843d040d4a9b9e94aa149d7f3081",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-ma6?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Mosty"
+  },
+  {
     "id": "068965da-629f-40f2-b709-815db2f01e79",
     "title": "Metroid prime remastered Nintendo Switch",
     "price": "145",
@@ -360,19 +370,9 @@
     "city": "Kraków, Krowodrza"
   },
   {
-    "id": "4d544e49-c3b6-4c62-bce6-08e1e680b009",
-    "title": "Little Witch Nobeta - Switch (Nowa)",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e94f3/c83e066b417aa6222c0ba8183650",
-    "url": "https://allegrolokalnie.pl//oferta/little-witch-nobeta-switch-nowa-i36?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "6b0abc70-012a-4e41-883c-407da755dda4",
     "title": "Gra  Ben 10 power trip",
-    "price": "45",
+    "price": "40",
     "img": "https://a.allegroimg.com/s360x360/1e2f4d/c810ae1045dea6523a5a0cd29f2d",
     "url": "https://allegrolokalnie.pl//oferta/gra-ben-10-power-trip?navCategoryId=256922",
     "promoted": true,
@@ -590,24 +590,14 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
-    "title": "Gra Nintendo Switch Burnout Paradise remastered",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
-    "title": "Gra Nintendo Switch Burnout Paradise remastered",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wrocław, Wroclaw"
+    "id": "4d544e49-c3b6-4c62-bce6-08e1e680b009",
+    "title": "Little Witch Nobeta - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e94f3/c83e066b417aa6222c0ba8183650",
+    "url": "https://allegrolokalnie.pl//oferta/little-witch-nobeta-switch-nowa-i36?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "660a38b0-f807-4c4c-bf0d-0b0519531d38",
@@ -1200,6 +1190,16 @@
     "city": "Szczecin"
   },
   {
+    "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
+    "title": "No More Heroes Desperate Struggle (LRG) Folia",
+    "price": "290",
+    "img": "https://a.allegroimg.com/s360x360/1e9a49/843d61c645dc9793ae7c8d39a54d",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-desperate-struggle-lrg-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
     "id": "5268abb6-0b26-412c-887d-6cd2573a3f05",
     "title": "No More Heroes Limited Run Games Folia",
     "price": "255",
@@ -1338,6 +1338,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wieliczka"
+  },
+  {
+    "id": "4d544e49-c3b6-4c62-bce6-08e1e680b009",
+    "title": "Little Witch Nobeta - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e94f3/c83e066b417aa6222c0ba8183650",
+    "url": "https://allegrolokalnie.pl//oferta/little-witch-nobeta-switch-nowa-i36?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
@@ -5985,16 +5995,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e3e79/4da50918458585a688154b222cdf",
     "url": "https://allegrolokalnie.pl//oferta/dungeons-iii-na-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jasienica"
-  },
-  {
-    "id": "e5bd28cf-a55f-498a-9e9e-fa6fefe17a68",
-    "title": "Hyrule Warriors Age of Calamity na NS",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1eaaba/c4a70be649bb84a3f90ec5f35194",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-na-ns?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
