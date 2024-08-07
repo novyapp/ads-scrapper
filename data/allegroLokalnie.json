@@ -860,16 +860,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "31ca9722-e588-4bbf-a023-0d5ce92e7477",
-    "title": "Tactics Ogre Reborn - Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e0d26/4b24a7de4c31b3297fcaa430854e",
-    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-nintendo-switch-uvg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Bronowice"
-  },
-  {
     "id": "6613b35b-4aa5-4568-9376-a80aa160b77f",
     "title": "Gra New Super Lucky's Tale na Nintendo Switch",
     "price": "98",
@@ -1552,7 +1542,7 @@
   {
     "id": "bd9bccaa-f63f-41bf-b21d-e6b6c9c44396",
     "title": "Pokemon Shield",
-    "price": "180",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e4d96/a2e2833a4de0a9991360b54820c4",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-a75?navCategoryId=256922",
     "promoted": false,
@@ -2410,6 +2400,16 @@
     "city": "Wrocław, Śródmieście"
   },
   {
+    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
+    "title": "Warioware Get it together",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e2906/29bc28a2421c8e3a014714643729",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
     "id": "ea91757a-d4f3-4bbe-9363-43a8481e5551",
     "title": "Super Mario Bros. Wonder (gra)",
     "price": "140",
@@ -3000,6 +3000,16 @@
     "city": "Sanniki"
   },
   {
+    "id": "ed9f9ebf-9fb4-4f76-bfd4-ce408a63e599",
+    "title": "Xenoblade Chronicles 3 UŻYWANY",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e168f/58754f194ba6a7271eb6d683abe5",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-uzywany?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
     "title": "Mario RPG Nintendo Switch",
     "price": "130",
@@ -3585,16 +3595,6 @@
     "price": "229",
     "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
-    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1ee722/85e4224c422ba41dc338dd4c24f3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -4800,6 +4800,26 @@
     "city": "Jantar"
   },
   {
+    "id": "5c8ee304-b45a-47ff-bc6a-36f4a4a73b28",
+    "title": "Pokemon Let's Go Pikachu, stan idealny.",
+    "price": "194",
+    "img": "https://a.allegroimg.com/s360x360/1e9d2e/f41c15ed4506b227ba6ac9c79aa5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "a363529c-27a5-4015-b44e-619d7a6a0668",
+    "title": "The Legend of Zelda Tears of the Kingdom SWITCH",
+    "price": "480",
+    "img": "https://a.allegroimg.com/s360x360/1e8bef/2593eb1046a5b9a467c991495f39",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-cym?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jantar"
+  },
+  {
     "id": "b270791a-7873-42f1-b1c5-eaccd7020e3c",
     "title": "Mario + Rabbids: Kingdom Battle (Switch)",
     "price": "100",
@@ -5380,24 +5400,14 @@
     "city": "Oleśnica"
   },
   {
-    "id": "c4f3e2cd-15da-4785-91f2-39d6bb23d57e",
-    "title": "Toy Soldiers HD (Switch)",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e2491/53412f5d42fbb7434c5621ed5294",
-    "url": "https://allegrolokalnie.pl//oferta/toy-soldiers-switch?navCategoryId=256922",
+    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
+    "title": "Luigi’s Mansion 3 Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
-  },
-  {
-    "id": "3db5a9ee-ae11-4c5a-b66b-6e3b9abf4673",
-    "title": "Nintendo Switch Crysis Core FF7 Reunion",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e90e2/aa4ab162410f9ebb2cdd2873b181",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crysis-core-ff7-reunion?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żyrardów"
+    "smartPost": false,
+    "city": "Sosnowiec"
   },
   {
     "id": "a66353ab-b831-4e43-9ff6-366c0d554593",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "5303cd3e-f47a-404e-9890-6572fb1ff161",
-    "title": "MARIO GOLF SUPER RUSH NOWA FOLIA NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e00f3/d0c405fc4c26981cda2eed4dc462",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nowa-folia-nintendo-switch-6yk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   }
 ]
