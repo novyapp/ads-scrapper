@@ -600,6 +600,16 @@
     "city": "Białystok"
   },
   {
+    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
+    "title": "Ghost Trick na Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ed666/d919f9394cec88e6b3b15def60cc",
+    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "aa3fe2f1-39b6-48fc-b5e8-8d1ee09fabb1",
     "title": "UNIKAT DISCO ELYSIUM FINAL CUT, SWITCH, WERSJA PL!",
     "price": "159",
@@ -828,6 +838,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
+  },
+  {
+    "id": "6613b35b-4aa5-4568-9376-a80aa160b77f",
+    "title": "Gra New Super Lucky's Tale na Nintendo Switch",
+    "price": "98",
+    "img": "https://a.allegroimg.com/s360x360/1e1525/13f66d5d494b98fc9b6d7831d825",
+    "url": "https://allegrolokalnie.pl//oferta/gra-new-super-luckys-tale-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Leszno"
   },
   {
     "id": "31800080-c5f2-47c9-bf11-9433e16049c1",
@@ -1178,46 +1198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
-  },
-  {
-    "id": "18fcd76d-63e9-4165-8ed9-38396bdc53ca",
-    "title": "Gra Animal Crossing New Horizons na Nintendo Swich",
-    "price": "141",
-    "img": "https://a.allegroimg.com/s360x360/1eaf7e/0ae470e84f82a0e7e8bd4d30da37",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-na-nintendo-swich?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "9c264933-ff81-4e1f-8eee-28f2336849cf",
-    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e9d5c/7683498c408784a4f639622cb05d",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-gnz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Milicz"
-  },
-  {
-    "id": "18fcd76d-63e9-4165-8ed9-38396bdc53ca",
-    "title": "Gra Animal Crossing New Horizons na Nintendo Swich",
-    "price": "141",
-    "img": "https://a.allegroimg.com/s360x360/1eaf7e/0ae470e84f82a0e7e8bd4d30da37",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-na-nintendo-swich?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "9c264933-ff81-4e1f-8eee-28f2336849cf",
-    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e9d5c/7683498c408784a4f639622cb05d",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-gnz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Milicz"
   },
   {
     "id": "ae2f894f-b6db-4a32-9d09-cc88e79fc149",
@@ -1798,6 +1778,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Praga-Północ"
+  },
+  {
+    "id": "acd4e109-d8ca-4fb4-b626-56da67af405d",
+    "title": "Super Mario Bros wonder",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e1710/c7bc3ad84cd2a9534a7048798660",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-lvi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krasiczyn"
+  },
+  {
+    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
+    "title": "SIFU Redemption Edition Nintendo Switch",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "acd4e109-d8ca-4fb4-b626-56da67af405d",
+    "title": "Super Mario Bros wonder",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e1710/c7bc3ad84cd2a9534a7048798660",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-lvi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krasiczyn"
+  },
+  {
+    "id": "813668f1-0963-4ef6-9c8c-0267d7508543",
+    "title": "SIFU Redemption Edition Nintendo Switch",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s360x360/1eb85b/ccccd48a4eabb1b6e7d7d3ba8e4c",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "615798cd-0df3-40a8-8364-301e3e9ea36d",
@@ -3098,16 +3118,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
-  },
-  {
-    "id": "db7a514f-27a3-474c-b500-efbc115c6bb5",
-    "title": "Dead Cells: Action Game of the Year Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e4bc4/d4e5f28e40d5827bb1195d96bebf",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-nintendo-switch-ndw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "710eee37-8f1c-4be1-af24-fe2e49c7026c",
@@ -4790,16 +4800,6 @@
     "city": "Reda"
   },
   {
-    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
-    "title": "Final Fantasy XII (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
     "title": "Bayonetta 2 (Switch)",
     "price": "120",
@@ -5400,6 +5400,16 @@
     "city": "Łódź, Górna"
   },
   {
+    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
+    "title": "The Legend of Zelda: Link's Awakening Limited",
+    "price": "679",
+    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
     "id": "b58938b7-6c77-4009-9c4c-1076ed3b7788",
     "title": "The Legend of Zelda: Skyward Sword HD + dodatki",
     "price": "769",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "0d0833b9-f449-4bd7-99c8-1e906228e8b7",
-    "title": "SUPER MARIO ODYSSEY NINTENDO SWITCH",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ebbe3/81e83f2444a8bc469fe77ab506c2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-mmf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rumianek"
   }
 ]
