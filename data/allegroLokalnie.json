@@ -82,7 +82,7 @@
   {
     "id": "d2ce0f9b-de02-4a9a-9783-a7db84631e11",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "130",
+    "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1e98e5/8dd02287490e9e3bef109cf68aef",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-ka4?navCategoryId=256922",
     "promoted": true,
@@ -92,7 +92,7 @@
   {
     "id": "c6c88fce-f448-4057-bcb9-cef1c6b2e1bb",
     "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
-    "price": "130",
+    "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1eb0a7/06fe3feb412b9ee118be6c3084e2",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-22f?navCategoryId=256922",
     "promoted": true,
@@ -520,6 +520,16 @@
     "city": "Wrocław "
   },
   {
+    "id": "49094805-ac2c-4015-ab0a-089e11d38bee",
+    "title": "R-Type Final 2 (Standard Edition) - Nintendo Switch orginalnie zamknięta",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e6a93/8dd4cc3f41b4af3e970049835314",
+    "url": "https://allegrolokalnie.pl//oferta/rtype-final-2-standard-edition-nintendo-switch-orginalnie-zamknieta?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Granowo"
+  },
+  {
     "id": "c0a63aa5-fa24-4db5-a374-8356c538aee0",
     "title": "UNIKAT PERSONA 3 FES PORTABLE, SWITCH LIMITED RUN, NOWA 3XA!",
     "price": "449",
@@ -790,14 +800,24 @@
     "city": "Mikołów"
   },
   {
-    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
-    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
-    "price": "239",
-    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
-    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
+    "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
+    "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ebe94/0f927d134de591286d96e0b5c27b",
+    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-rumble-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Gdańsk"
+    "city": "Żelechów"
+  },
+  {
+    "id": "9f9c47e3-2b6d-41b3-8e27-ac6bfe4f1fc3",
+    "title": "SONIC MANIA PLUS SWITCH",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1ec964/a846b73d4b5fbb95e4c86c7330a1",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-mania-plus-switch-b32?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żelechów"
   },
   {
     "id": "f9387764-dbab-4c73-8d63-e6f09fdc4432",
@@ -1580,16 +1600,6 @@
     "city": "Młynice"
   },
   {
-    "id": "5aa7e7ff-e6e6-4b4d-9c9c-6f43480fc6bb",
-    "title": "Shadow man Remastered Switch Limited Run",
-    "price": "279",
-    "img": "https://a.allegroimg.com/s360x360/1e43b8/6afa27984c4fa835111d54c5b432",
-    "url": "https://allegrolokalnie.pl//oferta/shadow-man-remastered-switch-limited-run?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zbylitowska Góra"
-  },
-  {
     "id": "ac78d203-3aca-47c2-8a02-0fbe1ccc070e",
     "title": "Triangle Strategy - Nintendo switch",
     "price": "110",
@@ -1688,16 +1698,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ełk"
-  },
-  {
-    "id": "49094805-ac2c-4015-ab0a-089e11d38bee",
-    "title": "R-Type Final 2 (Standard Edition) - Nintendo Switch orginalnie zamknięta",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e6a93/8dd4cc3f41b4af3e970049835314",
-    "url": "https://allegrolokalnie.pl//oferta/rtype-final-2-standard-edition-nintendo-switch-orginalnie-zamknieta?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Granowo"
   },
   {
     "id": "419baa80-15cf-45cc-bbf6-d077fd29205e",
@@ -3000,16 +3000,6 @@
     "city": "Olkusz"
   },
   {
-    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
-    "title": "MINECRAFT - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilkszyn"
-  },
-  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "179",
@@ -3590,6 +3580,26 @@
     "city": "Gostynin"
   },
   {
+    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
+    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
+    "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
+    "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s360x360/1e8661/bf0a6f6c49a5b72278ae9c56d265",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-divine-edition-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
     "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
     "title": "Gra NSW Instant Sport Tenis",
     "price": "85",
@@ -4168,26 +4178,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
-    "title": "Switch Minecraft Dungeons - Kartridź Folia PL",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e4d2e/64de71e84834bd19c2e3909d393c",
-    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-dungeons-kartridz-folia-pl-7tl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
-    "title": "Mario + Rabbids: Kingdom Battle - Gold Edition Nintendo Switch Nowa",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e1bdb/eeed8ec64f2aa347d11caaa3b5aa",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
   },
   {
     "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
@@ -4810,6 +4800,16 @@
     "city": "Reda"
   },
   {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
     "title": "Metroid Dread (Switch)",
     "price": "150",
@@ -5330,6 +5330,16 @@
     "city": "Serock"
   },
   {
+    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
+    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
+    "price": "239",
+    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4954f5c5-5e25-4737-a857-7fa0f9bbc88b",
     "title": "The walking dead season pass nowe folia Switch",
     "price": "110",
@@ -5385,6 +5395,16 @@
     "price": "349",
     "img": "https://a.allegroimg.com/s360x360/1e6072/a1bf35a24a70aadb3a1d18b0c287",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-special-edition-nintendo-switch-2q7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
+    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
+    "title": "The Legend of Zelda: Link's Awakening Limited",
+    "price": "679",
+    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "0d0833b9-f449-4bd7-99c8-1e906228e8b7",
-    "title": "SUPER MARIO ODYSSEY NINTENDO SWITCH",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ebbe3/81e83f2444a8bc469fe77ab506c2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-mmf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rumianek"
   }
 ]
