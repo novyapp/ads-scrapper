@@ -150,16 +150,6 @@
     "city": "Białystok"
   },
   {
-    "id": "b54861d0-fb76-4e18-8fab-4cbb436fbe88",
-    "title": "The Legend of Zelda Breath of The Wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e72bf/843d040d4a9b9e94aa149d7f3081",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-ma6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mosty"
-  },
-  {
     "id": "068965da-629f-40f2-b709-815db2f01e79",
     "title": "Metroid prime remastered Nintendo Switch",
     "price": "145",
@@ -588,16 +578,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "9536f2bc-da92-41d3-9a92-8f80d352544e",
-    "title": "Nintendo Switch gra Mariokart 8 Deluxe",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1ef3c9/cec41a29496aa45d059d8a2c5303",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-mariokart-8-deluxe-e4y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "JAWORZE"
   },
   {
     "id": "9536f2bc-da92-41d3-9a92-8f80d352544e",
@@ -1200,14 +1180,14 @@
     "city": "Lębork"
   },
   {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
+    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "6ddfc642-65f8-4230-b8b0-952ad2cb6e4d",
@@ -1798,6 +1778,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
+    "title": "Harvestella Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e3924/9c98e11140979ce582ede39725c6",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   },
   {
     "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
@@ -5400,16 +5390,6 @@
     "city": "Goleniów"
   },
   {
-    "id": "b58938b7-6c77-4009-9c4c-1076ed3b7788",
-    "title": "The Legend of Zelda: Skyward Sword HD + dodatki",
-    "price": "769",
-    "img": "https://a.allegroimg.com/s360x360/1e7217/ab99f2bb44deb928f7213ba352f5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-dodatki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
     "id": "82567d23-5191-4e3e-9e83-1eb45d30b53a",
     "title": "ZESTAW 16 GIER NINTENDO SWITCH ZELDA MARIO",
     "price": "1 959",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Rumianek"
+  },
+  {
+    "id": "f5980fe4-5aae-42f1-8fa1-729992824a29",
+    "title": "Dead Cells Action Game Of The Year | Switch",
+    "price": "107",
+    "img": "https://a.allegroimg.com/s360x360/1ec6d6/aa5eb31249fbb8ca73b413802bf0",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-or-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsk Podlaski"
   }
 ]
