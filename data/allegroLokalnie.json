@@ -2482,7 +2482,7 @@
   {
     "id": "75f32a6a-f81e-4268-850d-61d174505622",
     "title": "Pokemon Let's Go Eevee",
-    "price": "164",
+    "price": "185",
     "img": "https://a.allegroimg.com/s360x360/1e34d2/0676abea412bb45338ed2d0b3e92",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-43g?navCategoryId=256922",
     "promoted": false,
@@ -3600,6 +3600,26 @@
     "city": "Ostrołęka"
   },
   {
+    "id": "e27a384b-6af9-42b5-a879-5451691f9f8b",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1e2a02/fa5983fc4e6891f08bdd01fe05c7",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-yhs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrołęka"
+  },
+  {
+    "id": "0569e316-fdef-493f-a84c-2c42e2f68234",
+    "title": "Super Monkey Ball Banana Mania Switch",
+    "price": "76",
+    "img": "https://a.allegroimg.com/s360x360/1ecefe/d8e5e8264571b101c86565eba12b",
+    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-mania-switch-dfe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "dd0f135e-89ba-48b3-ac9d-a9d52b695da4",
     "title": "Gra Nintendo Switch Ring Fit Adventure - NOWA",
     "price": "250",
@@ -4178,26 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "23902d86-e7d1-4287-9070-abf092375e0e",
-    "title": "Gra Animal Crossing New Horizons Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ebe84/85e50fb24fa697f44653caf910d9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-nintendo-switch-4it?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
-    "title": "Let's Sing ABBA Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
   },
   {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
@@ -5400,6 +5400,26 @@
     "city": "Sieradz"
   },
   {
+    "id": "07b997dd-8130-4867-b281-f80d290b8816",
+    "title": "Bayonetta 2 (Switch) BEZ KODU NA BAYONETTE 1",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e08ee/de07a36f4e2e8d8bc5ec568930a0",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-bez-kodu-na-bayonette-1?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "42abefe8-4fb5-4c17-988b-12bdf37fbd10",
+    "title": "POKÉMON TERAPAGOS LEGENDARNY 100lvl.",
+    "price": "5",
+    "img": "https://a.allegroimg.com/s360x360/1eef1e/7e3342ab40e1a680f4550f7bea94",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-terapagos-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
     "id": "fefba7a2-d5df-407b-8f3a-f8927aaddb78",
     "title": "Pokken Tournament DX",
     "price": "180",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "31da12c9-e1be-4f87-88ee-fb30dbdd5937",
-    "title": "POKÉMON CHIEN-PAO LEGENDARNY 100lvl.",
-    "price": "4",
-    "img": "https://a.allegroimg.com/s360x360/1ef4ef/9d5c46ac4d398bf88f906b7fba1b",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-chienpao-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "c46357b4-3a84-4664-9163-f5324f78c644",
-    "title": "Bayonetta 3 Trinity Masquerade Edition [NOWA]",
-    "price": "379",
-    "img": "https://a.allegroimg.com/s360x360/1e1568/003141a946ceac3973e5ae317049",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-ed5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   }
 ]
