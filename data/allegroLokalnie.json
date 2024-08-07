@@ -2400,6 +2400,16 @@
     "city": "Częstochowa, Tysiąclecie"
   },
   {
+    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
+    "title": "Warioware Get it together",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e2906/29bc28a2421c8e3a014714643729",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
     "id": "ea91757a-d4f3-4bbe-9363-43a8481e5551",
     "title": "Super Mario Bros. Wonder (gra)",
     "price": "140",
@@ -2990,16 +3000,6 @@
     "city": "Sanniki"
   },
   {
-    "id": "ed9f9ebf-9fb4-4f76-bfd4-ce408a63e599",
-    "title": "Xenoblade Chronicles 3 UŻYWANY",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e168f/58754f194ba6a7271eb6d683abe5",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-uzywany?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
     "title": "Mario RPG Nintendo Switch",
     "price": "130",
@@ -3585,6 +3585,16 @@
     "price": "229",
     "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
+    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1ee722/85e4224c422ba41dc338dd4c24f3",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -5390,26 +5400,6 @@
     "city": "Żyrardów"
   },
   {
-    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
-    "title": "Luigi’s Mansion 3 Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
-    "title": "Luigi’s Mansion 3 Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "a66353ab-b831-4e43-9ff6-366c0d554593",
     "title": "Harry Potter Dziedzictwo Hogwartu Switch",
     "price": "175",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "5303cd3e-f47a-404e-9890-6572fb1ff161",
+    "title": "MARIO GOLF SUPER RUSH NOWA FOLIA NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e00f3/d0c405fc4c26981cda2eed4dc462",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nowa-folia-nintendo-switch-6yk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
