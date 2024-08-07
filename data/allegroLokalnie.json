@@ -510,16 +510,6 @@
     "city": "Warszawa, Praga-Południe"
   },
   {
-    "id": "dd6cf7de-56e2-4052-98e1-9ece0b722116",
-    "title": "Crystar - Switch (Nowa)",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e0f88/01a7544f4911bda82f8af00ec3bd",
-    "url": "https://allegrolokalnie.pl//oferta/crystar-switch-nowa-yjq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "dbee80fa-7afd-4aed-b10e-a1e33af9c192",
     "title": "RPG Maker MV Switch",
     "price": "100",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Lublin"
+  },
+  {
+    "id": "dd6cf7de-56e2-4052-98e1-9ece0b722116",
+    "title": "Crystar - Switch (Nowa)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e0f88/01a7544f4911bda82f8af00ec3bd",
+    "url": "https://allegrolokalnie.pl//oferta/crystar-switch-nowa-yjq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "0da16444-095d-42a5-9c51-2be69a6630c0",
@@ -5400,6 +5400,16 @@
     "city": "Bysław"
   },
   {
+    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
+    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
     "title": "Gra Nintendo Switch Pokemon Shining Pearl",
     "price": "150",
@@ -5738,16 +5748,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Mysłowice"
-  },
-  {
-    "id": "b13c99a2-da7b-4127-afdf-e49f161fde87",
-    "title": "Smerfy: Misja Złoliść - Nintendo Switch / Dubbing",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e3384/4032b1a74841abd02ceb34e2c446",
-    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-dubbing?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   },
   {
     "id": "af51c381-61de-470f-a945-64ed3339e8ba",
