@@ -600,6 +600,16 @@
     "city": "Białystok"
   },
   {
+    "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
+    "title": "Goodbye World - Switch (Nowa)",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1eb844/aee49e3c474ba50887ff60cfe588",
+    "url": "https://allegrolokalnie.pl//oferta/goodbye-world-switch-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
     "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
     "price": "120",
@@ -850,14 +860,14 @@
     "city": "Mikołów"
   },
   {
-    "id": "7edc5eef-84f9-44e1-8327-3a8dacb08390",
-    "title": "Princess Peach: Showtime NINTENDO SWITCH ENG",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eea1b/01e185194a8086aded9b50355cbe",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-nintendo-switch-eng?navCategoryId=256922",
-    "promoted": true,
+    "id": "31ca9722-e588-4bbf-a023-0d5ce92e7477",
+    "title": "Tactics Ogre Reborn - Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s360x360/1e0d26/4b24a7de4c31b3297fcaa430854e",
+    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-nintendo-switch-uvg?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Warszawa"
+    "city": "Kraków, Bronowice"
   },
   {
     "id": "6613b35b-4aa5-4568-9376-a80aa160b77f",
@@ -2390,14 +2400,14 @@
     "city": "Częstochowa, Tysiąclecie"
   },
   {
-    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
-    "title": "Warioware Get it together",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e2906/29bc28a2421c8e3a014714643729",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
+    "id": "ea91757a-d4f3-4bbe-9363-43a8481e5551",
+    "title": "Super Mario Bros. Wonder (gra)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1ea133/e4ce2b1f4379a2f99720834cb66f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-gra?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
+    "smartPost": false,
+    "city": "Kraków"
   },
   {
     "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
@@ -3000,16 +3010,6 @@
     "city": "Elbląg"
   },
   {
-    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
-    "title": "Mario RPG Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
-  },
-  {
     "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
     "title": "Animal Crossing Nintendo Switch",
     "price": "190",
@@ -3600,6 +3600,16 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
+    "id": "7ef899aa-019f-4fb3-8f8a-ff863d5ae09b",
+    "title": "Pokémon Brilliant Diamond & Shining Pearl Dual Pack Nintendo Switch",
+    "price": "339",
+    "img": "https://a.allegroimg.com/s360x360/1ee0ee/dd4a5dfe45fbad8095be9add159e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-dual-pack-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
     "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
     "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
     "price": "299",
@@ -4185,16 +4195,6 @@
     "price": "174",
     "img": "https://a.allegroimg.com/s360x360/1e5f3c/6d9118c8429fa61857a06b5b453e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-scarlet-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "9947459b-4524-4573-bcf8-2b232930c57c",
-    "title": "Switch Pokemon Violet .. nowy folia",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e8be2/2ada7bef499bab2e818b526a3ecc",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-violet-nowy-folia-cyz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
@@ -5400,6 +5400,16 @@
     "city": "Sosnowiec"
   },
   {
+    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
+    "title": "Luigi’s Mansion 3 Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "a66353ab-b831-4e43-9ff6-366c0d554593",
     "title": "Harry Potter Dziedzictwo Hogwartu Switch",
     "price": "175",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "5303cd3e-f47a-404e-9890-6572fb1ff161",
-    "title": "MARIO GOLF SUPER RUSH NOWA FOLIA NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e00f3/d0c405fc4c26981cda2eed4dc462",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nowa-folia-nintendo-switch-6yk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   }
 ]
