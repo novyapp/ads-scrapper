@@ -50,16 +50,6 @@
     "city": "Białystok"
   },
   {
-    "id": "5bf6939d-2517-4f7a-9951-a3d511b67948",
-    "title": "Mario Kart 8 deluxe",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s360x360/1e356e/b157cd1d4b5086c1a1e946cb6ad8",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-xx2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "63e0011c-4270-4a80-86c4-43e60499da73",
     "title": "Star Wars The Skywalker Saga Switch PL",
     "price": "98",
@@ -588,16 +578,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "ea102dd3-8968-4b7d-bf5c-e17bef23bf21",
-    "title": "Switch Bakugan Champions of Vestroia",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1eafc0/27ffc126471d954200c70b5399f2",
-    "url": "https://allegrolokalnie.pl//oferta/switch-bakugan-champions-of-vestroia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Drezdenko"
   },
   {
     "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
@@ -1200,14 +1180,24 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "49094805-ac2c-4015-ab0a-089e11d38bee",
-    "title": "R-Type Final 2 (Standard Edition) - Nintendo Switch orginalnie zamknięta",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e6a93/8dd4cc3f41b4af3e970049835314",
-    "url": "https://allegrolokalnie.pl//oferta/rtype-final-2-standard-edition-nintendo-switch-orginalnie-zamknieta?navCategoryId=256922",
-    "promoted": true,
+    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
+    "title": "Mario Strikers Battle League Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3b5e/59f0f8134d10a9aae01914e55847",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lębork"
+  },
+  {
+    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Granowo"
+    "city": "Gdańsk"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -1358,6 +1348,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Świnoujście"
+  },
+  {
+    "id": "ea102dd3-8968-4b7d-bf5c-e17bef23bf21",
+    "title": "Switch Bakugan Champions of Vestroia",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1eafc0/27ffc126471d954200c70b5399f2",
+    "url": "https://allegrolokalnie.pl//oferta/switch-bakugan-champions-of-vestroia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Drezdenko"
   },
   {
     "id": "9ad9e6f9-2daf-4e0e-bb0f-7275c5304d85",
@@ -2385,16 +2385,6 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e9d66/69c3150a4fe69083823333c8be22",
     "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "da7f198b-0cdb-4332-b28e-2d3d147c3bbb",
-    "title": "Let's Get Fit + Opaski",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2127/0e8fe1c34ac6a5626cc961570236",
-    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-opaski?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -3600,6 +3590,16 @@
     "city": "Radom"
   },
   {
+    "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
+    "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s360x360/1e8661/bf0a6f6c49a5b72278ae9c56d265",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-divine-edition-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
     "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
     "title": "Gra NSW Instant Sport Tenis",
     "price": "85",
@@ -4790,16 +4790,6 @@
     "city": "Reda"
   },
   {
-    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
-    "title": "Final Fantasy XII (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
     "title": "Metroid Dread (Switch)",
     "price": "150",
@@ -5385,6 +5375,26 @@
     "price": "349",
     "img": "https://a.allegroimg.com/s360x360/1e6072/a1bf35a24a70aadb3a1d18b0c287",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-special-edition-nintendo-switch-2q7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
+    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
+    "title": "The Legend of Zelda: Link's Awakening Limited",
+    "price": "679",
+    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
+    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
+    "title": "The Legend of Zelda: Link's Awakening Limited",
+    "price": "679",
+    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
@@ -5978,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "0d0833b9-f449-4bd7-99c8-1e906228e8b7",
-    "title": "SUPER MARIO ODYSSEY NINTENDO SWITCH",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ebbe3/81e83f2444a8bc469fe77ab506c2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-mmf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rumianek"
   }
 ]
