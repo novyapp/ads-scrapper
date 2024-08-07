@@ -170,16 +170,6 @@
     "city": "Czarnków"
   },
   {
-    "id": "a6720617-509f-4722-8b49-b79259085359",
-    "title": "The Legend of Zelda: Tears of the Kingdom",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ef3a2/f5b782814e27a5450e5fda1494de",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-ckm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Piekary Śląskie"
-  },
-  {
     "id": "0cdb4295-ba7b-42f6-86c3-cf5a2dc330db",
     "title": "Sifu Vengeance Edition na Nintendo Switch",
     "price": "79",
@@ -595,16 +585,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eecb4/ce2f0873495d918d04b412d163bb",
     "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-the-jungle-book-aladdin-the-lion-king-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
-    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
@@ -1188,6 +1168,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław, Stare Miasto"
+  },
+  {
+    "id": "2190d83f-1462-4917-a9e2-a9b40ef633c3",
+    "title": "The Legends of Zelda Breath of the Wild",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ef373/1dc38f4e4767b28c31d3c2c44bc4",
+    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-breath-of-the-wild-nrf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
+    "id": "d9d55c0b-b3ee-40e9-9c57-312cd2cf849d",
+    "title": "Paper Mario the Origami King Nintendo Switch",
+    "price": "235",
+    "img": "https://a.allegroimg.com/s360x360/1eff53/f8f271814537b409a15042ebc068",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-ink?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
   },
   {
     "id": "2190d83f-1462-4917-a9e2-a9b40ef633c3",
@@ -1970,16 +1970,6 @@
     "city": "Bielawa"
   },
   {
-    "id": "adbbf297-2dc6-4441-9636-1d9e73dec7cc",
-    "title": "Pokemon brilliant diamond",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e94a1/b2344b304a2493bdd1bcc84f31d9",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-4k2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łososina dolna"
-  },
-  {
     "id": "408ba710-6001-4107-bea2-38210a4c6409",
     "title": "Gra Pokémon Shield",
     "price": "160",
@@ -2388,36 +2378,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "46977eaa-d9e4-4335-a7b2-91082e0436c6",
-    "title": "Need for Speed Hot Pursuit Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e641d/ef479fe94fcdb1bc5d4d492f9af7",
-    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-switch-ilp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "c6fe9283-1e59-4cf1-9c97-69689d34c963",
-    "title": "Hyrule Warriors Age of Calamity Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e2014/23cb9885455ba1bebf4d870308a5",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-74o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
-    "title": "Asterix i Obelix Slap Them All! Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e6509/7afb94a4495898cf033a465d8801",
-    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "a4ace9ee-a865-4e46-9f48-744857c7cab5",
@@ -2988,6 +2948,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
+    "title": "Gra Nintendo super Mario deluxe",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e82e9/1c41ead046caaa1d0f0c4ac6a645",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-deluxe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Opole Lubelskie"
+  },
+  {
+    "id": "6f316ec0-c253-4de0-8c7c-018bacee28b2",
+    "title": "The Legend of Zelda Breath of the Wild [Switch]",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e88aa/8b48905949c88988ea71eadb2d96",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-elw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Karczewice"
+  },
+  {
+    "id": "6497fab5-8c38-4c09-9b84-0f35d0d120cb",
+    "title": "Nintendo Switch Sports",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e9d52/4d03976541689556aa7bc8678e07",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-erv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rybnik, Śródmieście"
   },
   {
     "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
@@ -4790,36 +4780,6 @@
     "city": "Pruszków, Malichy"
   },
   {
-    "id": "842b43e9-9e7f-480c-a811-10068737974a",
-    "title": "POKÉMON SHINY ENTEI 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1e1eca/0492455a44799064d39c80ec0abb",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-entei-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "9526a0e2-a4b5-4204-885a-ac2f9138ca27",
-    "title": "POKÉMON SHINY SUICUNE 100lvl.",
-    "price": "4",
-    "img": "https://a.allegroimg.com/s360x360/1e7d21/e3e01eb743bd8f2d66ebd8143c58",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-suicune-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "b29bb901-21d8-438e-aeab-ac197d631be0",
-    "title": "POKÉMON SHINY RAIKOU 100lvl.",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1e1bf3/a4be8d3044c4acd92b9ee45423cc",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-raikou-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
     "title": "Gothic Classic i Gothic II Complete Classic Switch",
     "price": "369",
@@ -5388,6 +5348,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "71d87efc-72a9-4ca2-996c-0b68887df408",
+    "title": "Yoshi crafted World",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e8e01/0df59a6b4ca3981cfa6d2ac7c455",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-ilo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "7a4ab74e-fcd7-4d10-8d4b-509faa3baf8c",
+    "title": "Gra Nintendo Switch Pokemon Shining Pearl",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e58ff/252f62de446492b34d491d631e38",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-shining-pearl-v26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Serock"
+  },
+  {
+    "id": "4954f5c5-5e25-4737-a857-7fa0f9bbc88b",
+    "title": "The walking dead season pass nowe folia Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e10d1/695474bd4942a22a9673bfc29ef8",
+    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-season-pass-nowe-folia-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Oleśnica"
   },
   {
     "id": "71d87efc-72a9-4ca2-996c-0b68887df408",
