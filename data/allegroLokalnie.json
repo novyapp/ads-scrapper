@@ -1,5 +1,15 @@
 [
   {
+    "id": "21d63a41-36e2-4919-b34a-f317d80d5ccc",
+    "title": "The Legend of Zelda: Breath of the Wild stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1e6bf9/2412a6e04a5c9bc81c9b536034ae",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-stan-bdb-nb4?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "4d6cd7f5-e50e-4aa9-b9f7-b060bf7fb125",
     "title": "The Legend od Zelda Tears of the Kingdom",
     "price": "170",
@@ -585,16 +595,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eecb4/ce2f0873495d918d04b412d163bb",
     "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-the-jungle-book-aladdin-the-lion-king-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
-    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
-    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Grodzisk Mazowiecki"
@@ -2710,16 +2710,6 @@
     "city": "Opole"
   },
   {
-    "id": "dbf05ee3-9cf7-42ea-aa7b-d5eb34abf421",
-    "title": "Astral Chain [Nintendo Switch]",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1eced9/6dd1d46541cc9d79eb88733da0eb",
-    "url": "https://allegrolokalnie.pl//oferta/astral-chain-nintendo-switch-r2z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Kraków"
-  },
-  {
     "id": "c11dca93-a211-4b14-ba63-bc577cd5b12f",
     "title": "XIII Nintendo Switch",
     "price": "55",
@@ -2998,6 +2988,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gorzów Wielkopolski"
+  },
+  {
+    "id": "de8b37b0-4e0e-4095-895f-922f2768997e",
+    "title": "Zelda Breath of the wild, Pokemon scarlet",
+    "price": "240",
+    "img": "https://a.allegroimg.com/s360x360/1edcfd/286c05bd4788b682fd83282fe6b4",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-pokemon-scarlet?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Skludzewo"
+  },
+  {
+    "id": "de8b37b0-4e0e-4095-895f-922f2768997e",
+    "title": "Zelda Breath of the wild, Pokemon scarlet",
+    "price": "240",
+    "img": "https://a.allegroimg.com/s360x360/1edcfd/286c05bd4788b682fd83282fe6b4",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-pokemon-scarlet?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Skludzewo"
   },
   {
     "id": "08ffeb08-39fa-44d9-9255-2e1761d1cf1e",
@@ -3588,26 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "7ef899aa-019f-4fb3-8f8a-ff863d5ae09b",
-    "title": "Pokémon Brilliant Diamond & Shining Pearl Dual Pack Nintendo Switch",
-    "price": "339",
-    "img": "https://a.allegroimg.com/s360x360/1ee0ee/dd4a5dfe45fbad8095be9add159e",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-dual-pack-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "7ef899aa-019f-4fb3-8f8a-ff863d5ae09b",
-    "title": "Pokémon Brilliant Diamond & Shining Pearl Dual Pack Nintendo Switch",
-    "price": "339",
-    "img": "https://a.allegroimg.com/s360x360/1ee0ee/dd4a5dfe45fbad8095be9add159e",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-dual-pack-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   },
   {
     "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
@@ -4810,6 +4800,16 @@
     "city": "Reda"
   },
   {
+    "id": "7cab37d5-b0d6-4418-963e-9514c9afa8c0",
+    "title": "Catherine: Full Body (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e81d3/e39fc93f4d0c8a97b83221c48cc8",
+    "url": "https://allegrolokalnie.pl//oferta/catherine-full-body-switch-a2r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
     "title": "Bayonetta 2 (Switch)",
     "price": "120",
@@ -5400,16 +5400,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "0f817f4f-5733-4884-b4cb-95a8d350948f",
-    "title": "Metroid Dread Special Edition NINTENDO SWITCH",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s360x360/1e6072/a1bf35a24a70aadb3a1d18b0c287",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-special-edition-nintendo-switch-2q7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
     "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
     "title": "The Legend of Zelda: Link's Awakening Limited",
     "price": "679",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "e7695642-4154-409a-ba64-20c6a55ec2ac",
+    "title": "Gearshifters Nintendo Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1e44e4/d296f9d24d9fbac45b6baed52866",
+    "url": "https://allegrolokalnie.pl//oferta/gearshifters-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   }
 ]
