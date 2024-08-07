@@ -510,16 +510,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "2a1369a3-6e5f-4cff-b197-cb9a19186ef4",
-    "title": "Tactics Ogre Reborn (wer. Angielska)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e5e61/345dd44e4c5c8b10d2f823d8a42c",
-    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-wer-angielska?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Trzebień"
-  },
-  {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
     "price": "170",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Granowo"
+  },
+  {
+    "id": "2a1369a3-6e5f-4cff-b197-cb9a19186ef4",
+    "title": "Tactics Ogre Reborn (wer. Angielska)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e5e61/345dd44e4c5c8b10d2f823d8a42c",
+    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-wer-angielska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Trzebień"
   },
   {
     "id": "c0a63aa5-fa24-4db5-a374-8356c538aee0",
