@@ -590,16 +590,6 @@
     "city": "Granowo"
   },
   {
-    "id": "2a1369a3-6e5f-4cff-b197-cb9a19186ef4",
-    "title": "Tactics Ogre Reborn (wer. Angielska)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e5e61/345dd44e4c5c8b10d2f823d8a42c",
-    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-wer-angielska?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Trzebień"
-  },
-  {
     "id": "c0a63aa5-fa24-4db5-a374-8356c538aee0",
     "title": "UNIKAT PERSONA 3 FES PORTABLE, SWITCH LIMITED RUN, NOWA 3XA!",
     "price": "449",
@@ -1518,6 +1508,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "2a1369a3-6e5f-4cff-b197-cb9a19186ef4",
+    "title": "Tactics Ogre Reborn (wer. Angielska)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e5e61/345dd44e4c5c8b10d2f823d8a42c",
+    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-wer-angielska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Trzebień"
   },
   {
     "id": "0324137f-6d5c-4996-8379-874af79f6cc1",
@@ -5016,7 +5016,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e1b36/efbb7b4f41a9b0819a8b7ff5cab7",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-gra-q2f?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Wola Będkowska"
   },
   {
