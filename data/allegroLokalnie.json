@@ -885,7 +885,7 @@
     "price": "329",
     "img": "https://a.allegroimg.com/s360x360/1e8e3c/e40a91ab4505879bf24816bddae2",
     "url": "https://allegrolokalnie.pl//oferta/roboticsnotes-elitedash-double-pack-nowa-switch?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Mikołów"
   },
@@ -2400,26 +2400,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
-    "title": "Road 96 switch signature Edition Limited",
-    "price": "500",
-    "img": "https://a.allegroimg.com/s360x360/1e11b8/a70f9b274a4a85faff4f5db4878b",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-switch-signature-edition-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
-    "id": "a9afc5a9-4f66-478a-83ef-1d3e3edb3463",
-    "title": "STWÓRZ SWOJEGO WŁASNEGO POKEMONA",
-    "price": "4",
-    "img": "https://a.allegroimg.com/s360x360/1edaf2/dd4b158342f49addf3c1fe906fa3",
-    "url": "https://allegrolokalnie.pl//oferta/stworz-swojego-wlasnego-pokemona?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "71723ef3-f1e7-4893-ac28-831f4e86cc4b",
     "title": "Gra Mario Tenis Aces",
     "price": "140",
@@ -2995,6 +2975,46 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1e0259/5ed9d1264700a2412b8d2c89466f",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-posiadlosc-luigiego-3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
+    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1eb21f/05d28abd4254b818201c4f31207d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
+    "title": "Nintendo Switch Sports - gra Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e9cea/bda3e95b491382532f02ffd253b2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
+    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1eb21f/05d28abd4254b818201c4f31207d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
+    "title": "Nintendo Switch Sports - gra Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e9cea/bda3e95b491382532f02ffd253b2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
@@ -4200,26 +4220,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
-    "title": "Langrisser I & II dla Nintendo Switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
-    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
-    "title": "Harvestella dla Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e18b7/a139deab4f9fa98392004fcf4f33",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "c57ac223-10f8-4aaa-a91f-bea05acb6e8d",
     "title": "Gothic 1 i 2 NocKruka [Switch]",
     "price": "600",
@@ -5400,26 +5400,6 @@
     "city": "Warszawa, Białołęka"
   },
   {
-    "id": "9a0a606d-a73e-459e-ad3c-ad4dcb94f1ad",
-    "title": "Prince of Persów The Lost Crown",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ecfc2/bdee8c124679b81580ecbfdd2399",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persow-the-lost-crown?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Żarów"
-  },
-  {
-    "id": "e9590bdc-57dc-4fbd-ba0a-9784197e2660",
-    "title": "NBA 2K24 Kobe Bryant Edition EU Nintendo Switch",
-    "price": "73",
-    "img": "https://a.allegroimg.com/s360x360/1e1ed9/1b1eca104bfba492f317c3c024f3",
-    "url": "https://allegrolokalnie.pl//oferta/nba-2k24-kobe-bryant-edition-eu-nintendo-switch-wtp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kielce"
-  },
-  {
     "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
     "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
     "price": "99",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "1e95e52e-6124-430a-8d64-5447ac079c1e",
+    "title": "Doom eternal ultimate edition NS Limited Run",
+    "price": "1 220",
+    "img": "https://a.allegroimg.com/s360x360/1e622d/a54e0fbf4fa89fbb4bf27d87dbac",
+    "url": "https://allegrolokalnie.pl//oferta/doom-eternal-ultimate-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Morąg"
+  },
+  {
+    "id": "ed430276-8fc0-4107-a951-797dfd198b88",
+    "title": "Atelier Sophie 2 dla Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e9a53/cf983ea44998a5064d9c67d61f18",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   }
 ]
