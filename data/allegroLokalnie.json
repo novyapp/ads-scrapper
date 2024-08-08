@@ -470,16 +470,6 @@
     "city": "Warszawa, Mokotów"
   },
   {
-    "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
-    "title": "SWITCH Pokemon: Let's Go, Pikachu! / JRPG",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ec10c/2816a7e54841b09642eb5a0e429f",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-jrpg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Częstochowa"
-  },
-  {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
     "price": "170",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
+    "title": "SWITCH Pokemon: Let's Go, Pikachu! / JRPG",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1ec10c/2816a7e54841b09642eb5a0e429f",
+    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-jrpg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Częstochowa"
   },
   {
     "id": "270083c9-dadb-497d-a872-230efc69a9a6",
