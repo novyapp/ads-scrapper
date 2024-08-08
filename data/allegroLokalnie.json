@@ -580,16 +580,6 @@
     "city": "Białystok"
   },
   {
-    "id": "2603eb69-e827-4bfe-b413-c8cb3f556d54",
-    "title": "Gra Fire Emblem Engage Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e2ee7/aefa668049078f5394d3ede2fe0f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-fire-emblem-engage-nintendo-switch-zzs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Karwiany"
-  },
-  {
     "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
     "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
     "price": "120",
@@ -1488,6 +1478,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "2603eb69-e827-4bfe-b413-c8cb3f556d54",
+    "title": "Gra Fire Emblem Engage Nintendo Switch",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e2ee7/aefa668049078f5394d3ede2fe0f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-fire-emblem-engage-nintendo-switch-zzs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Karwiany"
   },
   {
     "id": "73d7c622-0b98-4f2e-ad5b-ab977da88c0a",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Morąg"
+  },
+  {
+    "id": "ed430276-8fc0-4107-a951-797dfd198b88",
+    "title": "Atelier Sophie 2 dla Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e9a53/cf983ea44998a5064d9c67d61f18",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-sophie-2-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   }
 ]
