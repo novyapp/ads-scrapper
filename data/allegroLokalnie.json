@@ -1200,16 +1200,6 @@
     "city": "Toruń, Rudak"
   },
   {
-    "id": "7a25442b-bbfc-491e-a94d-9e5909054db6",
-    "title": "The Legend Of Zelda - Breath Of The Wild",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e58a6/a9051ec644c287c1b146e73dc769",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-gtc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Toruń, Rudak"
-  },
-  {
     "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
     "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
     "price": "199",
@@ -2400,6 +2390,16 @@
     "city": "Łódź, Widzew"
   },
   {
+    "id": "5e8f05f3-b229-4819-8402-8ef088c952d2",
+    "title": "Bayonetta 2 nowa",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e2f0f/9ca92f594a7ea8eb7016b76e3347",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nowa-tyb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
     "id": "a74360ab-aa33-4ab4-bc30-7b0f0e8df56e",
     "title": "Rain Code collector's edition(mysteriful edition)",
     "price": "185",
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pleszew"
-  },
-  {
-    "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
-    "title": "2 gry na Nintendo Switch",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s360x360/1eb312/9f8134ff4e65881d3409820c3782",
-    "url": "https://allegrolokalnie.pl//oferta/2-gry-na-nintendo-switch-ysr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Targówek"
   },
   {
     "id": "a1704f63-b940-4ed2-ac59-03930f07ea9e",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
