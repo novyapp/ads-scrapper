@@ -112,7 +112,7 @@
   {
     "id": "bf99fe05-c72f-4a18-a35d-b248c2d0543b",
     "title": "Pokemon: Shining Pearl",
-    "price": "135",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e8d67/edff9ca747ad917237125661d811",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-bwk?navCategoryId=256922",
     "promoted": true,
@@ -468,6 +468,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
+  },
+  {
+    "id": "0324137f-6d5c-4996-8379-874af79f6cc1",
+    "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
+    "price": "419",
+    "img": "https://a.allegroimg.com/s360x360/1e29d5/7c78c1f74067a6d3421bc21b9f12",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-fall-of-man-premium-ed-nowa-o35?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "dbee80fa-7afd-4aed-b10e-a1e33af9c192",
@@ -1190,16 +1200,6 @@
     "city": "Toruń, Rudak"
   },
   {
-    "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
-    "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e6c8e/c73567cf4d9db14e668f8ae06c66",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-generations-ultimate-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
     "id": "0324137f-6d5c-4996-8379-874af79f6cc1",
     "title": "SHIN MEGAMI TENSEI V FALL OF MAN PREMIUM ED. (nowa!)",
     "price": "419",
@@ -1790,16 +1790,6 @@
     "city": "Robakowo"
   },
   {
-    "id": "766bf091-1a8d-4e41-b725-2ae5e3647b64",
-    "title": "Star Ocean: The Second Story R Nintendo Switch",
-    "price": "209",
-    "img": "https://a.allegroimg.com/s360x360/1e8cc6/b16b53f044cba95996f89381919f",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-nintendo-switch-33s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "3cdda98d-0512-4f59-a536-cb18d9a249e1",
     "title": "Gra Nintendo Switch Mario + Rabbids Sparks of Hope jak nowa",
     "price": "79",
@@ -2375,26 +2365,6 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s360x360/1e0c76/30af8ad5411581f09e1342526457",
     "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
-    "title": "Bayonetta 2 collector's edition",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
-    "title": "The legend of zelda Link's awakening collectors edition + gra",
-    "price": "500",
-    "img": "https://a.allegroimg.com/s360x360/1e5072/2580bb3b4bef9e049ca8d792d122",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-collectors-edition?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
@@ -2998,6 +2968,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ruda Śląska, Ruda"
+  },
+  {
+    "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
+    "title": "Persona 5 Royal na Nintendo Switch (japońskie)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e9fee/a86aaef240b4822bc311d2f29fa4",
+    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-na-nintendo-switch-japonskie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ruda Śląska, Ruda"
+  },
+  {
+    "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
+    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
+    "price": "24",
+    "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
