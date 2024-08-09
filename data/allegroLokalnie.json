@@ -130,16 +130,6 @@
     "city": "Poręby Kupieńskie"
   },
   {
-    "id": "b7acd742-69f8-46ea-b0fe-181f78867ccb",
-    "title": "Diablo III / 3 Eternal Collection NSW Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1edbb5/fa9be338497f8a50c9d5dbda38d6",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-iii-3-eternal-collection-nsw-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "3c7f6257-50ab-41b4-b2ad-807355c4f3a6",
     "title": "Sega Mega Drive Classics Switch",
     "price": "79",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zaborów, Zaborów"
+  },
+  {
+    "id": "b257d1c9-8072-4e88-87c8-d84acd54c999",
+    "title": "Pokemon Scarlet Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e8209/801c72aa4325aaeccbfef1854d84",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-switch-w6x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łąck"
   },
   {
     "id": "b257d1c9-8072-4e88-87c8-d84acd54c999",
@@ -4200,16 +4200,6 @@
     "city": "Zgorzelec"
   },
   {
-    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
-    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
-    "price": "1 049",
-    "img": "https://a.allegroimg.com/s360x360/1eff66/ee0d883f4ab0b1c34171fd5602c0",
-    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
     "id": "23902d86-e7d1-4287-9070-abf092375e0e",
     "title": "Gra Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "c46357b4-3a84-4664-9163-f5324f78c644",
+    "title": "Bayonetta 3 Trinity Masquerade Edition [NOWA]",
+    "price": "379",
+    "img": "https://a.allegroimg.com/s360x360/1e1568/003141a946ceac3973e5ae317049",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-ed5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   }
 ]
