@@ -760,16 +760,6 @@
     "city": "Jarosław"
   },
   {
-    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
-    "title": "Gra Bayonetta 2 na Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "421dd695-8035-4df9-80d1-58c008c579cc",
     "title": "Vengeful Guardian Moonrider Switch NOWY",
     "price": "115",
@@ -838,6 +828,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
+    "title": "Gra Bayonetta 2 na Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
   },
   {
     "id": "8fa5fa14-d753-4262-8217-17272b002762",
@@ -4200,16 +4200,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
-    "title": "Gry Nintendo Switch x2 Digimon Asterix",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ecdf7/1ae7c219465e88b74442c75d311c",
-    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-x2-digimon-asterix?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzelec"
-  },
-  {
     "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
     "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
     "price": "1 049",
@@ -4255,6 +4245,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e016a/aa806bb7483fbc8dffa4eb81d5a8",
     "url": "https://allegrolokalnie.pl//oferta/gra-arms-na-nintnendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
+  },
+  {
+    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
+    "title": "Gra Bayonetta 2 na Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
@@ -5400,16 +5400,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
-    "title": "Gra lets sing 2023 Nintendo",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "06faa115-6e76-4896-b127-2aa522a16a79",
     "title": "Minecraft premium pelerynka optifine",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
