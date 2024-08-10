@@ -2400,6 +2400,26 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
+    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
     "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
     "price": "149",
@@ -2978,26 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
-    "title": "Gra Nintendo super Mario deluxe",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e82e9/1c41ead046caaa1d0f0c4ac6a645",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-deluxe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Opole Lubelskie"
-  },
-  {
-    "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
-    "title": "Family Trainer - gra Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eca3e/798f6908489880bc298c97991bde",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-gra-nintendo-switch-ooy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ochota"
   },
   {
     "id": "fe8f39b9-59f5-448a-8b4a-785acc7aaf30",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "13b6e66e-b3aa-4048-b021-3ae7a0f9b4ec",
+    "title": "The Legend of Zelda Breath of the Wild SWITCH",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s360x360/1e0f9e/58b9661e4ae2b25314f601cca78a",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-e3p?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "5303cd3e-f47a-404e-9890-6572fb1ff161",
+    "title": "MARIO GOLF SUPER RUSH NOWA FOLIA NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e00f3/d0c405fc4c26981cda2eed4dc462",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nowa-folia-nintendo-switch-6yk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
