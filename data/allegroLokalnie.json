@@ -610,16 +610,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "aa3fe2f1-39b6-48fc-b5e8-8d1ee09fabb1",
-    "title": "UNIKAT DISCO ELYSIUM FINAL CUT, SWITCH, WERSJA PL!",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e1984/07a58890448e86b1e87ca144b6de",
-    "url": "https://allegrolokalnie.pl//oferta/unikat-disco-elysium-final-cut-switch-wersja-pl-zhh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chełm"
-  },
-  {
     "id": "dd8a2ff0-0887-4384-9b20-5cb68d77aa45",
     "title": "Disney Classic Games: The Jungle Book, Aladdin, The Lion King (Switch)",
     "price": "100",
@@ -828,6 +818,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "aa3fe2f1-39b6-48fc-b5e8-8d1ee09fabb1",
+    "title": "UNIKAT DISCO ELYSIUM FINAL CUT, SWITCH, WERSJA PL!",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e1984/07a58890448e86b1e87ca144b6de",
+    "url": "https://allegrolokalnie.pl//oferta/unikat-disco-elysium-final-cut-switch-wersja-pl-zhh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chełm"
   },
   {
     "id": "8fa5fa14-d753-4262-8217-17272b002762",
