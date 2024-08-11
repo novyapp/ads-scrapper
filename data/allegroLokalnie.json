@@ -2390,16 +2390,6 @@
     "city": "Toruń"
   },
   {
-    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
-    "title": "Bayonetta 2 collector's edition",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
     "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
     "title": "The legend of zelda Link's awakening collectors edition + gra",
     "price": "500",
@@ -3000,6 +2990,16 @@
     "city": "Reda"
   },
   {
+    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
+    "title": "Pokemon Shining Pearl",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -3585,16 +3585,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1edbfc/6657345040939f6cbf341256c8bd",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-shining-resonance-refrain-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "9eab889c-fd6a-4de1-b421-089d315b3672",
-    "title": "Nintendo Switch Dragon Marked for Death",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e18fd/e090958d466f99e2eba6651ccf6f",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -5400,16 +5390,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
-    "title": "Luigi’s Mansion 3 Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "a66353ab-b831-4e43-9ff6-366c0d554593",
     "title": "Harry Potter Dziedzictwo Hogwartu Switch",
     "price": "175",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "86af36d3-e63e-4657-b915-e3a9452c5af2",
+    "title": "No More Heroes 3 gra na Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1ea967/e062df28420cad19387f76c93614",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-gra-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Białystok"
   }
 ]
