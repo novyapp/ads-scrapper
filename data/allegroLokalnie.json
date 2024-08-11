@@ -1110,16 +1110,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "af0c938c-72e0-4f88-9c9a-4ff1b44106f5",
-    "title": "Princess Peach Showtime",
-    "price": "118",
-    "img": "https://a.allegroimg.com/s360x360/1e8547/a11dd5bc4588887dbba0ffa5963c",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-6oz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "a9b9c81e-b638-4094-b9ee-6f5a034497c1",
     "title": "Animal Crossing New Horizons",
     "price": "169",
@@ -1810,6 +1800,16 @@
     "city": "Wilczyce"
   },
   {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "46358082-5394-4757-81fe-30f38215d45a",
     "title": "Game Builder Garage Nintendo Switch",
     "price": "44",
@@ -1843,7 +1843,7 @@
     "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
     "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY",
     "price": "275",
-    "img": "https://a.allegroimg.com/s360x360/1e59e7/f4360aeb4329800be5f0a29d9c83",
+    "img": "https://a.allegroimg.com/s360x360/1e4b79/cf3660954cb28d25be710c3f446b",
     "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -2068,16 +2068,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "2f838869-ebe3-4f3f-a10a-ffbacb86a5b0",
-    "title": "Gra pokémon shield",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ea8c2/3d8fab7249d8b70ee32b1a27510e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shield-mng?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jasło"
   },
   {
     "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
@@ -4800,26 +4790,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "cded4db5-eadd-4907-8813-e1ac88865af7",
-    "title": "POKÉMON WALKING WAKE LEGENDARNY 100lvl.",
-    "price": "6",
-    "img": "https://a.allegroimg.com/s360x360/1e8aa0/565b44664ca8b160c3353e53dd6f",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-walking-wake-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "deaa0577-9263-45f9-9b72-a582d538bbb8",
-    "title": "POKÉMON RAGING BOLT LEGENDARNY 100lvl.",
-    "price": "7",
-    "img": "https://a.allegroimg.com/s360x360/1e0fbf/f76316964c91b8b2bc3eafa9ab4e",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-raging-bolt-legendarny-100lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
-  },
-  {
     "id": "74b3988d-f2c3-4d42-b115-bfed6cc997e2",
     "title": "POKÉMON GOUGHING FIRE LEGENDARNY 100lvl.",
     "price": "7",
@@ -5995,6 +5965,26 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1ebdd6/3da87e014d7e959140584b771870",
     "url": "https://allegrolokalnie.pl//oferta/hollow-knight-switch-hmd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "b9530d5a-a72a-4ca3-aa2e-98fd19da6f64",
+    "title": "Ori and the Will of the Wisps SWITCH",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eff28/7d52e29e43dea68f8301bc03d2f2",
+    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-o5s?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "545e0d86-1f95-4a29-81bf-724952e4c689",
+    "title": "Super Mario Odyssey SWITCH",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ee35a/943a12eb4996990d1d529e56beff",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-733?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
