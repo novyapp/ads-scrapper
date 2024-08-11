@@ -1236,7 +1236,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e3056/a92b19d64bab8365af35a3baacc0",
     "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Przemyśl"
   },
   {
@@ -2400,6 +2400,16 @@
     "city": "Toruń"
   },
   {
+    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
+    "title": "Bayonetta 2 collector's edition",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
     "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
     "title": "The legend of zelda Link's awakening collectors edition + gra",
     "price": "500",
@@ -3000,16 +3010,6 @@
     "city": "Reda"
   },
   {
-    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
-    "title": "Pokemon Shining Pearl",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -3246,7 +3246,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e5e44/77a741f34db5a389cb21c26e3200",
     "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-golden-harvest-edition?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Przemyśl"
   },
   {
