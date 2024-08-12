@@ -1200,16 +1200,6 @@
     "city": "Żelechów"
   },
   {
-    "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
-    "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ebe94/0f927d134de591286d96e0b5c27b",
-    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-rumble-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żelechów"
-  },
-  {
     "id": "f9387764-dbab-4c73-8d63-e6f09fdc4432",
     "title": "Asterix i Obelix XXXL Baran z Hibernii NS Switch",
     "price": "100",
@@ -2400,6 +2390,16 @@
     "city": "Toruń"
   },
   {
+    "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
+    "title": "Super Mario Bros Wonder Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź"
+  },
+  {
     "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
     "title": "The Legend of Zelda Tears of the Kingdom (Gra NS) TotK",
     "price": "173",
@@ -3362,7 +3362,7 @@
   {
     "id": "b43a13ef-67a2-4045-90fd-f72d7659ec7b",
     "title": "Splatoon 3 Nintendo Switch",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e6801/d51b96664f3b981c8ab3a4f2655e",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-omr?navCategoryId=256922",
     "promoted": false,
@@ -5400,16 +5400,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
-    "title": "NINJA JajaMaru - The Great Yokai Battle",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
-    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "528d5995-d1f6-4f3a-a28f-8ac990101f05",
     "title": "Switch Fitness Boxing nowa",
     "price": "148",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "krakow, Czyżyny"
+  },
+  {
+    "id": "273a9657-aac9-4e90-b42b-ec2c85648873",
+    "title": "Big Brain Academy: Brain vs Brain Nintendo Switch!",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb4e5/165b43004e9b9510a12daa4fba60",
+    "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-brain-vs-brain-nintendo-switch-dpj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Augustów"
   }
 ]
