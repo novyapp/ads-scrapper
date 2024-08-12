@@ -60,16 +60,6 @@
     "city": "Białystok"
   },
   {
-    "id": "d9d4e724-e929-4280-b428-1d8eb0f67f1e",
-    "title": "FiFa 22 Edycja legacy",
-    "price": "40",
-    "img": "https://a.allegroimg.com/s360x360/1ee1c4/32771ece42d789cdd6b97ee30537",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-edycja-legacy-25g?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Żędowice"
-  },
-  {
     "id": "d4f2ebe6-ab8e-4948-8f75-4fb985da583a",
     "title": "Gra Nintendo Switch Fitness Boxing 2 Rhythm & Exercise - Rytm i ćwiczenia",
     "price": "140",
@@ -1210,6 +1200,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "06ebc5f7-c67d-4eed-8cbf-a430a54e6090",
+    "title": "Super Mario RPG Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1ea8a6/df4885f7402a940da7366c78969a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-y3l?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "a9b9c81e-b638-4094-b9ee-6f5a034497c1",
     "title": "Animal Crossing New Horizons",
     "price": "169",
@@ -1800,16 +1800,6 @@
     "city": "Drezdenko"
   },
   {
-    "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
-    "title": "Splatoon 2 na Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e8b63/842b685a4d629b2c08d588cf7e84",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-zoo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Krowodrza"
-  },
-  {
     "id": "0b76aefe-e67d-431b-9895-e13c31e0f4ba",
     "title": "The Legend of Zelda: Breath of the Wild",
     "price": "170",
@@ -2342,7 +2332,7 @@
   {
     "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
     "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
-    "price": "499",
+    "price": "520",
     "img": "https://a.allegroimg.com/s360x360/1ef29a/cc7b45564ac7935ca757d033a286",
     "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-wjx?navCategoryId=256922",
     "promoted": false,
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ostróda"
+  },
+  {
+    "id": "282e4fe2-84dd-4f69-adeb-f6750dd39264",
+    "title": "Nowa polska wersja Construction Machines Simulator Okazja !",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e4057/616ff0554cee9465fcc503b0e6ec",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-polska-wersja-construction-machines-simulator-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "koszalin"
   },
   {
     "id": "282e4fe2-84dd-4f69-adeb-f6750dd39264",
@@ -4200,16 +4200,6 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "6d450970-1b5e-4a58-881c-7e8dd07be064",
-    "title": "Gra Bayonetta 2 na Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e09b5/6b7b0a9c46a8820824b47a374966",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bayonetta-2-na-nintendo-switch-5r5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
     "title": "Civilization VI Nintendo Switch",
     "price": "109",
@@ -4795,6 +4785,16 @@
     "price": "5",
     "img": "https://a.allegroimg.com/s360x360/1e1eca/0492455a44799064d39c80ec0abb",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-entei-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "9526a0e2-a4b5-4204-885a-ac2f9138ca27",
+    "title": "POKÉMON SHINY SUICUNE 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e7d21/e3e01eb743bd8f2d66ebd8143c58",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shiny-suicune-100lvl?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
