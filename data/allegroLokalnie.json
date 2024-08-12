@@ -1,5 +1,15 @@
 [
   {
+    "id": "c48d1219-2fa6-4947-b915-f30c5ad01d9c",
+    "title": "THE LEGEND OF ZELDA BREATH OF THE WILD",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e6026/b11a8e6b432fb60c31a2a6ca3c26",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-qz4?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bartoszyce"
+  },
+  {
     "id": "04dba557-ca1e-4ee0-ba60-e6e9b4f893b4",
     "title": "Gothic Classic Khorinis Saga Nintendo Switch",
     "price": "100",
@@ -88,16 +98,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "turek"
-  },
-  {
-    "id": "9ac22a56-e45f-43c3-9927-b427580d258e",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s360x360/1e47c4/75ad671247a2971715cab00e4a41",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-aqm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "WROCŁAW, Psie Pole"
   },
   {
     "id": "2bf0e56a-17bd-4699-b808-4560dd3e2505",
@@ -428,16 +428,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
-  },
-  {
-    "id": "b318b058-969b-4a40-8669-297a77e7392f",
-    "title": "Battle Chasers Nightwar",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1ed076/fc13746141dc8235fd87ef6a5533",
-    "url": "https://allegrolokalnie.pl//oferta/battle-chasers-nightwar-2so?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mysłowice"
   },
   {
     "id": "edad05cf-d92a-4411-8413-c5557b5e40d1",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "4d4bbee9-958b-49e7-bd88-138af535fe1f",
+    "title": "Link’s Awakening - Edycja Kolekcjonerska + AMIIBO",
+    "price": "439",
+    "img": "https://a.allegroimg.com/s360x360/1e8284/96c5d4404f7a81fe0421d61bd50e",
+    "url": "https://allegrolokalnie.pl//oferta/links-awakening-edycja-kolekcjonerska-amiibo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gulczewo"
   }
 ]
