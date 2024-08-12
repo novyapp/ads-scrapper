@@ -1030,16 +1030,6 @@
     "city": "Inowrocław"
   },
   {
-    "id": "557668db-4f4e-41e7-bfa6-37b255894097",
-    "title": "Pokemon Sword",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e339b/de60c4d546d181e07ffe28f084bf",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-gj2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dąbrowa Górnicza"
-  },
-  {
     "id": "0f152ae4-a1e1-4958-a56c-7f3037775e91",
     "title": "THE LEGEND OF ZELDA BREATH OF THE WILD",
     "price": "139",
@@ -1198,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bronowice"
+  },
+  {
+    "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
+    "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ebe94/0f927d134de591286d96e0b5c27b",
+    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-rumble-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żelechów"
   },
   {
     "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
@@ -2398,16 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
-  },
-  {
-    "id": "b7b8a202-3db6-45d0-975e-0c088531b3c8",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e39e2/a4e3608249cd934914700420bd1c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-y5h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łódź"
   },
   {
     "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
@@ -5400,14 +5390,14 @@
     "city": "Chorzów"
   },
   {
-    "id": "2033bec0-c606-4291-9be0-4f9fde4536ab",
-    "title": "Ring Fit Adventure Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e439b/252c16ff45e8afa4bfbff831e690",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-wly?navCategoryId=256922",
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Chorzów"
+    "city": "Twardogóra"
   },
   {
     "id": "d0b70348-0932-4240-b0ff-712e381998c4",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gulczewo"
+  },
+  {
+    "id": "4f2b96c0-6ce4-4476-a99d-9c56d7c8301e",
+    "title": "Gra Mario&Sonic at the Olympic Games Nintendo wii",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e0cb5/20a872234541bf1be6ce12a9fa35",
+    "url": "https://allegrolokalnie.pl//oferta/gra-mariosonic-at-the-olympic-games-nintendo-wii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "krakow, Czyżyny"
   }
 ]
