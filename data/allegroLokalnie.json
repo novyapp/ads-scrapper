@@ -1120,16 +1120,6 @@
     "city": "Bysław"
   },
   {
-    "id": "049b7425-448f-4727-9ff8-ba7e819a6a5c",
-    "title": "SpongeBob Battle for Bikini Bottom Nintendo Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1ef96f/55e8f2ef46d6966e60632ff166c0",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-battle-for-bikini-bottom-nintendo-switch-jiz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
     "title": "The Legend of Zelda: Skyward Sword HD Nintendo Switch",
     "price": "174",
@@ -1198,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "a9b9c81e-b638-4094-b9ee-6f5a034497c1",
+    "title": "Animal Crossing New Horizons",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1ea464/67f44af64f25aa1e1c2d9f60fac3",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-jiw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
   },
   {
     "id": "a9b9c81e-b638-4094-b9ee-6f5a034497c1",
@@ -2722,7 +2722,7 @@
   {
     "id": "e8951bb4-7b27-4a94-b0fb-8c4887bf3b83",
     "title": "Yoshi Crafted World Nintendo Switch",
-    "price": "200",
+    "price": "190",
     "img": "https://a.allegroimg.com/s360x360/1ea1d9/2f6436184d8596907f6d59a88002",
     "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-nintendo-switch-isu?navCategoryId=256922",
     "promoted": false,
@@ -2742,7 +2742,7 @@
   {
     "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
     "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
     "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
     "promoted": false,
@@ -4800,16 +4800,6 @@
     "city": "Pruszków, Malichy"
   },
   {
-    "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
-    "title": "Gothic Classic i Gothic II Complete Classic Switch",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s360x360/1e3171/5edab58845899685de37579e2f15",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-i-gothic-ii-complete-classic-switch-yd7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "5c8ee304-b45a-47ff-bc6a-36f4a4a73b28",
     "title": "Pokemon Let's Go Pikachu, stan idealny.",
     "price": "194",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "e7695642-4154-409a-ba64-20c6a55ec2ac",
+    "title": "Gearshifters Nintendo Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1e44e4/d296f9d24d9fbac45b6baed52866",
+    "url": "https://allegrolokalnie.pl//oferta/gearshifters-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   }
 ]
