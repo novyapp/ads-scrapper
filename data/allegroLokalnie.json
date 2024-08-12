@@ -1,5 +1,15 @@
 [
   {
+    "id": "04dba557-ca1e-4ee0-ba60-e6e9b4f893b4",
+    "title": "Gothic Classic Khorinis Saga Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ebc80/1054ae6e4cfe9fb6dfd997326d8c",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-khorinis-saga-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pogorzela"
+  },
+  {
     "id": "107039ee-c586-40fa-97be-bdbd14ee823f",
     "title": "DREAMWORKS ALL STAR KART RACING -Sam KARTRIDŻ",
     "price": "117",
@@ -88,16 +98,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "WROCŁAW, Psie Pole"
-  },
-  {
-    "id": "0ab4e040-824f-4e56-820a-90502f872d65",
-    "title": "Luigi's Mansion 2 HD",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s360x360/1e6907/ca31c8724b8a935b42932fd9337f",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-k6x?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilkowice "
   },
   {
     "id": "2bf0e56a-17bd-4699-b808-4560dd3e2505",
@@ -1070,16 +1070,6 @@
     "city": "Dąbrowa Górnicza"
   },
   {
-    "id": "80c802e1-5519-4941-b71f-9ab0d88a6524",
-    "title": "Gothic 1+2 switch dubbing pl",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e7f28/1679222a4133b8b91b4ab3539569",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-1-2-switch-dubbing-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
-  },
-  {
     "id": "c614852e-d2db-464e-9e70-415b2ccde4b0",
     "title": "LEGO GWIEZDNE WOJNY: SAGA SKYWALKERÓW NINTENDO SWITCH PL",
     "price": "89",
@@ -1188,6 +1178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "a9b9c81e-b638-4094-b9ee-6f5a034497c1",
+    "title": "Animal Crossing New Horizons",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1ea464/67f44af64f25aa1e1c2d9f60fac3",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-jiw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
   },
   {
     "id": "a9b9c81e-b638-4094-b9ee-6f5a034497c1",
@@ -2172,7 +2172,7 @@
   {
     "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
     "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
-    "price": "650",
+    "price": "600",
     "img": "https://a.allegroimg.com/s360x360/1e8270/635d7ad442edb2c6ff770314f733",
     "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch?navCategoryId=256922",
     "promoted": false,
@@ -3590,16 +3590,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "72ab5411-bcaa-4d55-9ab4-584169e09ced",
-    "title": "Nintendo Switch Infinity Strash Dragon Quest The Adventure of Dai",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1edc88/06eed94543abbe0b2776e233c1bb",
-    "url": "https://allegrolokalnie.pl//oferta/infinity-strash-dragon-quest-the-adventure-of-dai-l3n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
     "title": "Nintendo Switch Ninja Gaiden Master Collection",
     "price": "229",
@@ -4200,6 +4190,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "4320fbca-e83a-49cb-9054-698e81536834",
+    "title": "Warioware Move It!",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
     "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
     "price": "69",
@@ -4682,7 +4682,7 @@
   {
     "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
     "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
-    "price": "300",
+    "price": "280",
     "img": "https://a.allegroimg.com/s360x360/1e3a4c/a9d45e5b4328a4cca117ceaec9e5",
     "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-edycja-kolekcjonerska-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -5390,16 +5390,6 @@
     "city": "Goleniów"
   },
   {
-    "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
-    "title": "The Legend of Zelda: Link's Awakening Limited",
-    "price": "679",
-    "img": "https://a.allegroimg.com/s360x360/1e5a28/5d35147d4fe58ff916a76fdc0949",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-limited-zyg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
     "id": "b58938b7-6c77-4009-9c4c-1076ed3b7788",
     "title": "The Legend of Zelda: Skyward Sword HD + dodatki",
     "price": "769",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Rumianek"
+  },
+  {
+    "id": "f5980fe4-5aae-42f1-8fa1-729992824a29",
+    "title": "Dead Cells Action Game Of The Year | Switch",
+    "price": "107",
+    "img": "https://a.allegroimg.com/s360x360/1ec6d6/aa5eb31249fbb8ca73b413802bf0",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-or-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsk Podlaski"
   }
 ]
