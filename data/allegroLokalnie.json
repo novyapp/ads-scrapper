@@ -600,16 +600,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "16c9f7ee-7385-469c-b80e-501b894f72f4",
-    "title": "Monster Hunter Stories 2: Wings of Ruin Nintendo Switch PL",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e161b/461297a043cb8a67eb5592fc79af",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
     "title": "Hades Nintendo Switch EU nowa",
     "price": "379",
@@ -1010,16 +1000,6 @@
     "city": "Warszawa, Warszawa"
   },
   {
-    "id": "4370746b-d2ea-4141-9091-ad4250a21e12",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e06ea/5d053ba1408eb041c140fb796b8c",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-kk6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Przemyśl"
-  },
-  {
     "id": "9f529b43-3ecb-4605-a8cc-529c65c6299c",
     "title": "Gra Minecraft Nintendo Switch",
     "price": "89",
@@ -1198,6 +1178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żelechów"
+  },
+  {
+    "id": "f9387764-dbab-4c73-8d63-e6f09fdc4432",
+    "title": "Asterix i Obelix XXXL Baran z Hibernii NS Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e4aa4/e89de6a548d8b24f6a6a55e56c7f",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-xxxl-baran-z-hibernii-ns-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Bałuty"
   },
   {
     "id": "f9387764-dbab-4c73-8d63-e6f09fdc4432",
@@ -3000,6 +2990,16 @@
     "city": "Olsztyn"
   },
   {
+    "id": "9f1075ef-48e5-4335-8197-5d2a81592beb",
+    "title": "Super Mario Wonder Nintendo Switch",
+    "price": "147",
+    "img": "https://a.allegroimg.com/s360x360/1e4930/e58e44d744b796bed6ddd83b691c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-55w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
     "title": "Gra Nintendo super Mario deluxe",
     "price": "160",
@@ -3585,16 +3585,6 @@
     "price": "299",
     "img": "https://a.allegroimg.com/s360x360/1edc88/06eed94543abbe0b2776e233c1bb",
     "url": "https://allegrolokalnie.pl//oferta/infinity-strash-dragon-quest-the-adventure-of-dai-l3n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
-    "title": "Nintendo Switch Ninja Gaiden Master Collection",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -5400,6 +5390,16 @@
     "city": "Goleniów"
   },
   {
+    "id": "b58938b7-6c77-4009-9c4c-1076ed3b7788",
+    "title": "The Legend of Zelda: Skyward Sword HD + dodatki",
+    "price": "769",
+    "img": "https://a.allegroimg.com/s360x360/1e7217/ab99f2bb44deb928f7213ba352f5",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-dodatki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
+  },
+  {
     "id": "82567d23-5191-4e3e-9e83-1eb45d30b53a",
     "title": "ZESTAW 16 GIER NINTENDO SWITCH ZELDA MARIO",
     "price": "1 959",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bielsk Podlaski"
-  },
-  {
-    "id": "b4470584-ab0b-45d4-8b83-e39430a9a2c4",
-    "title": "Daemon X Machina / Switch / Oraz Inne Gry",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1eacc1/eda77d3b4f6b85a2289edbdc7516",
-    "url": "https://allegrolokalnie.pl//oferta/daemon-x-machina-switch-oraz-inne-gry-6v4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   }
 ]
