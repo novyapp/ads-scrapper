@@ -42,7 +42,7 @@
   {
     "id": "e8c9df21-9b1a-4c05-9c36-3b55c11be9cc",
     "title": "super mario party superstars",
-    "price": "179",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1edee0/625c4c954daab2b68fe05669404b",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-superstars?navCategoryId=256922",
     "promoted": true,
@@ -1198,6 +1198,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Opole"
+  },
+  {
+    "id": "e8d5607f-1c12-414b-83d4-62d2374d3dc2",
+    "title": "Cave Story+ Nintendo Switch",
+    "price": "275",
+    "img": "https://a.allegroimg.com/s360x360/1ef183/fcaf03754e7cab1cdda32c860345",
+    "url": "https://allegrolokalnie.pl//oferta/cave-story-nintendo-switch-2wz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "037029d4-3e54-45e6-8972-a2b9de1776c5",
@@ -4790,16 +4800,6 @@
     "city": "Reda"
   },
   {
-    "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
-    "title": "Bayonetta 2 (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e69ed/ae1284d24109a5b83c8bfe165367",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-xdh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
     "title": "Final Fantasy XII (Switch)",
     "price": "120",
@@ -5400,6 +5400,16 @@
     "city": "Chorzów"
   },
   {
+    "id": "2033bec0-c606-4291-9be0-4f9fde4536ab",
+    "title": "Ring Fit Adventure Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e439b/252c16ff45e8afa4bfbff831e690",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-wly?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
+  },
+  {
     "id": "d0b70348-0932-4240-b0ff-712e381998c4",
     "title": "NINJA JajaMaru - The Great Yokai Battle",
     "price": "75",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "krakow, Czyżyny"
-  },
-  {
-    "id": "273a9657-aac9-4e90-b42b-ec2c85648873",
-    "title": "Big Brain Academy: Brain vs Brain Nintendo Switch!",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1eb4e5/165b43004e9b9510a12daa4fba60",
-    "url": "https://allegrolokalnie.pl//oferta/big-brain-academy-brain-vs-brain-nintendo-switch-dpj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Augustów"
   }
 ]
