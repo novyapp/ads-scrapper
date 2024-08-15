@@ -1790,6 +1790,16 @@
     "city": "Halinów"
   },
   {
+    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
+    "title": "Yurukill - Switch (Nowa)",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e5cff/e1b3942e4e29adc6944ee2297e84",
+    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
     "title": "SWITCH Pokemon: Let's Go, Pikachu! / JRPG",
     "price": "179",
@@ -2975,16 +2985,6 @@
     "price": "19",
     "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
-    "title": "Everybody 1-2-Switch!",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e74c5/2a327be943a0838238971b138c90",
-    "url": "https://allegrolokalnie.pl//oferta/everybody-12switch-77p?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Augustów"
+  },
+  {
+    "id": "a7413226-cfa7-48d7-9a20-d383cc11674a",
+    "title": "Tanuki Justice Kartridż jak Nowa",
+    "price": "163",
+    "img": "https://a.allegroimg.com/s360x360/1eb287/44bd07d541598a78113f96c8b0af",
+    "url": "https://allegrolokalnie.pl//oferta/tanuki-justice-kartridz-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Szczebrzeszyn"
   }
 ]
