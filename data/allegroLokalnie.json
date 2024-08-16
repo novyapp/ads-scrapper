@@ -1,22 +1,12 @@
 [
   {
-    "id": "cc7ecc58-b368-406e-974c-277f96a7199d",
-    "title": "NEW SUPER MARIO BROS. U DELUXE",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e0ec0/496a07da448c8e1a7fe0188ff792",
-    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-kww?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
     "id": "e1ac12c8-cf17-4221-a440-999a86f87fff",
     "title": "Travis Strikes Again: No More Heroes",
     "price": "99",
     "img": "https://a.allegroimg.com/s360x360/1e3484/5c272ff84a73951d587d8b4d3653",
     "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-7wj?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -26,17 +16,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed135/be9c593b432fa7a7f45a5cc0e602",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-switch-z24?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
-    "id": "9fb4fbd8-e47d-4f19-9f48-bfb631aa961b",
-    "title": "Darksiders Warmastered Edition",
-    "price": "39",
-    "img": "https://a.allegroimg.com/s360x360/1e9e54/68857a0a4f0a8d32e5c81032923b",
-    "url": "https://allegrolokalnie.pl//oferta/darksiders-warmastered-edition-26l?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -46,7 +26,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
     "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -4180,46 +4160,6 @@
     "city": "Kalisz"
   },
   {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "4320fbca-e83a-49cb-9054-698e81536834",
-    "title": "Warioware Move It!",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
-    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "0cec294c-47c1-4ca0-a1c1-ad2aaeab39ba",
     "title": "Nintendo Switch Pokemon Scarlet ... jak nowy",
     "price": "174",
@@ -4775,6 +4715,46 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e81d3/e39fc93f4d0c8a97b83221c48cc8",
     "url": "https://allegrolokalnie.pl//oferta/catherine-full-body-switch-a2r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
+    "title": "Bayonetta 2 (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e69ed/ae1284d24109a5b83c8bfe165367",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-xdh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
+    "title": "Final Fantasy XII (Switch)",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
+    "title": "Metroid Dread (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
+    "title": "Bayonetta 3 (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1075/8d5d7153430a895272b41df4766a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-uhp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
