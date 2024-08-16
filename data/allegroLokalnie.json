@@ -1,5 +1,15 @@
 [
   {
+    "id": "39b0c6a6-4988-48c2-ba6a-a6219480fa43",
+    "title": "Xenoblade Chronicles 3 jak Nówka",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e50ff/47e5210845bb89c9fbf9afebfbca",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-jak-nowka?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "73a6dcee-65e4-4530-9b30-d4d3cbc8ba93",
     "title": "Kirby and the Forgotten Land  jak Nówka",
     "price": "169",
@@ -588,16 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kielce"
-  },
-  {
-    "id": "83320671-4922-47e1-8800-da470c51e673",
-    "title": "Minecraft PL Switch",
-    "price": "108",
-    "img": "https://a.allegroimg.com/s360x360/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
@@ -3600,16 +3600,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
-    "title": "Super Mario Bros Wonder",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1eaaa1/3aa0fc6d48939e10e591854601ca",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-yg6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Tuczempy "
-  },
-  {
     "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
     "title": "Bayonetta 3 - Nintendo Switch",
     "price": "119",
@@ -4795,6 +4785,26 @@
     "price": "165",
     "img": "https://a.allegroimg.com/s360x360/1e70d1/e7a4eea34fb48cba4ef46d34d4ca",
     "url": "https://allegrolokalnie.pl//oferta/poradnik-kompendium-zelda-breath-of-the-wild?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "632bfd9f-a798-4f5b-9840-8f1fd7639e3d",
+    "title": "Zelda Tears of The kingdom kolekcjonerka + bonus",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s360x360/1e82eb/1b9144b14e729806c7cbb6937ee0",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-kolekcjonerka-bonus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "632bfd9f-a798-4f5b-9840-8f1fd7639e3d",
+    "title": "Zelda Tears of The kingdom kolekcjonerka + bonus",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s360x360/1e82eb/1b9144b14e729806c7cbb6937ee0",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-kolekcjonerka-bonus?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "5303cd3e-f47a-404e-9890-6572fb1ff161",
-    "title": "MARIO GOLF SUPER RUSH NOWA FOLIA NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e00f3/d0c405fc4c26981cda2eed4dc462",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nowa-folia-nintendo-switch-6yk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   }
 ]
