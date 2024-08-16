@@ -1,5 +1,15 @@
 [
   {
+    "id": "933002a6-36cf-430d-baa9-a6aebdc0c18a",
+    "title": "New Super Mario Bros. U Deluxe stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1e35c8/c7c1f4e145cbb1f2beed0afc237d",
+    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-stan-bdb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "aa82cebf-3728-4e7b-855d-1bf80ff15532",
     "title": "The Legend of Zelda: Breath of the Wild stan BdB",
     "price": "168",
@@ -58,16 +68,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Nowiny"
-  },
-  {
-    "id": "e1ac12c8-cf17-4221-a440-999a86f87fff",
-    "title": "Travis Strikes Again: No More Heroes",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e3484/5c272ff84a73951d587d8b4d3653",
-    "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-7wj?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "aa03967b-6869-448e-a161-6f49d72ef171",
@@ -588,26 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "76a71474-6763-40e2-9f12-2931073baf47",
-    "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
-    "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
-  },
-  {
-    "id": "76a71474-6763-40e2-9f12-2931073baf47",
-    "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
-    "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
   },
   {
     "id": "0324137f-6d5c-4996-8379-874af79f6cc1",
@@ -1198,6 +1178,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Katowice, Wełnowiec"
+  },
+  {
+    "id": "e6f2d85f-722a-4904-8951-5befdc5971ac",
+    "title": "Super Mario Odyssey - Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e8989/c1e09baf48b3be3adbef8d007930",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-seg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ochota"
+  },
+  {
+    "id": "e6f2d85f-722a-4904-8951-5befdc5971ac",
+    "title": "Super Mario Odyssey - Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e8989/c1e09baf48b3be3adbef8d007930",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-seg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ochota"
   },
   {
     "id": "b021ac4e-0fd1-4b3f-939d-ee8f3774bdf9",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gulczewo"
-  },
-  {
-    "id": "4f2b96c0-6ce4-4476-a99d-9c56d7c8301e",
-    "title": "Gra Mario&Sonic at the Olympic Games Nintendo wii",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1e0cb5/20a872234541bf1be6ce12a9fa35",
-    "url": "https://allegrolokalnie.pl//oferta/gra-mariosonic-at-the-olympic-games-nintendo-wii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "krakow, Czyżyny"
   }
 ]
