@@ -1,5 +1,15 @@
 [
   {
+    "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
+    "title": "Super Mario RPG [UKV]",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e95bd/0a601f594ca59179aed4106dffef",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-ukv-yab?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bytom"
+  },
+  {
     "id": "82f33d43-006e-43e2-938f-acd7fb56dd54",
     "title": "The Legend of Zelda Tears of the Kingdom Switch",
     "price": "170",
@@ -3590,16 +3600,6 @@
     "city": "Tuczempy "
   },
   {
-    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
-    "title": "Bayonetta 3 - Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
     "title": "Nowa Bayonetta 3 - Nintendo Switch",
     "price": "129",
@@ -4188,6 +4188,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Katowice"
+  },
+  {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia, Karwiny"
   },
   {
     "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Białystok"
-  },
-  {
-    "id": "e7695642-4154-409a-ba64-20c6a55ec2ac",
-    "title": "Gearshifters Nintendo Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e44e4/d296f9d24d9fbac45b6baed52866",
-    "url": "https://allegrolokalnie.pl//oferta/gearshifters-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
   }
 ]
