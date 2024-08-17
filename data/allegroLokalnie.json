@@ -580,26 +580,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "0cdb4295-ba7b-42f6-86c3-cf5a2dc330db",
-    "title": "Sifu Vengeance Edition na Nintendo Switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1e9f55/ea15d6e242fcaaa5a63f5e947609",
-    "url": "https://allegrolokalnie.pl//oferta/sifu-vengeance-edition-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Rybnik"
-  },
-  {
-    "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
-    "title": "Captain Toad: Treasure Tracker Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e3c06/92a08a8b4fa89d62e4e7a09d13a9",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ycw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
     "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
     "title": "Hogwarts legacy nintendo switch",
     "price": "120",
@@ -5978,5 +5958,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "31da12c9-e1be-4f87-88ee-fb30dbdd5937",
+    "title": "POKÉMON CHIEN-PAO LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1ef4ef/9d5c46ac4d398bf88f906b7fba1b",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chienpao-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "c46357b4-3a84-4664-9163-f5324f78c644",
+    "title": "Bayonetta 3 Trinity Masquerade Edition [NOWA]",
+    "price": "379",
+    "img": "https://a.allegroimg.com/s360x360/1e1568/003141a946ceac3973e5ae317049",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-ed5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   }
 ]
