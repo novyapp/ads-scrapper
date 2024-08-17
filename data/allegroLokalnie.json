@@ -690,16 +690,6 @@
     "city": "Warszawa, Praga-Południe"
   },
   {
-    "id": "766bf091-1a8d-4e41-b725-2ae5e3647b64",
-    "title": "Star Ocean: The Second Story R Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e8cc6/b16b53f044cba95996f89381919f",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-nintendo-switch-33s?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "dbee80fa-7afd-4aed-b10e-a1e33af9c192",
     "title": "RPG Maker MV Switch",
     "price": "100",
@@ -3010,6 +3000,26 @@
     "city": "ciechanów"
   },
   {
+    "id": "c11dca93-a211-4b14-ba63-bc577cd5b12f",
+    "title": "XIII Nintendo Switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1e9803/a498bc53434a9ffb3dc7bccf7f19",
+    "url": "https://allegrolokalnie.pl//oferta/xiii-nintendo-switch-hun?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
+    "title": "Dreamcutter Switch tylko kartrydż z grą",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ea2e1/01743a424fa29ba1ff21e09aa466",
+    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "ciechanów"
+  },
+  {
     "id": "0d1ce6c2-fd46-471b-b83f-e7475c4e3a46",
     "title": "New SUPER MARIO BROS. U DELUXE",
     "price": "140",
@@ -3585,6 +3595,16 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
+    "title": "Nowa Bayonetta 3 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
@@ -4178,26 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdynia, Karwiny"
-  },
-  {
-    "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
-    "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e0bd5/dc5f3e68464aad62b71bd793179f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-bros-wonder-nintendo-switch-gadzety-z-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
-    "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e0bd5/dc5f3e68464aad62b71bd793179f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-bros-wonder-nintendo-switch-gadzety-z-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   },
   {
     "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
@@ -5400,16 +5400,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "0f817f4f-5733-4884-b4cb-95a8d350948f",
-    "title": "Metroid Dread Special Edition NINTENDO SWITCH",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s360x360/1e6072/a1bf35a24a70aadb3a1d18b0c287",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-special-edition-nintendo-switch-2q7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
     "id": "7ec108cb-c3eb-4ac8-88ca-f0bd607af682",
     "title": "The Legend of Zelda: Link's Awakening Limited",
     "price": "679",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
+  },
+  {
+    "id": "0d0833b9-f449-4bd7-99c8-1e906228e8b7",
+    "title": "SUPER MARIO ODYSSEY NINTENDO SWITCH",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ebbe3/81e83f2444a8bc469fe77ab506c2",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-mmf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rumianek"
+  },
+  {
+    "id": "f5980fe4-5aae-42f1-8fa1-729992824a29",
+    "title": "Dead Cells Action Game Of The Year | Switch",
+    "price": "107",
+    "img": "https://a.allegroimg.com/s360x360/1ec6d6/aa5eb31249fbb8ca73b413802bf0",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-or-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsk Podlaski"
   }
 ]
