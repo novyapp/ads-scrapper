@@ -1,5 +1,15 @@
 [
   {
+    "id": "02df8f92-6096-4725-ac6f-32d811b62abd",
+    "title": "Gra Metroid Dread",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e3745/4d0305d74c05b3112ea82016caca",
+    "url": "https://allegrolokalnie.pl//oferta/gra-metroid-dread-bry?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Częstochowa"
+  },
+  {
     "id": "471ef5a0-7bc3-403d-bfca-658dd5e32388",
     "title": "Gra The Legend Of Zelda Tears Of The Kingdom",
     "price": "170",
@@ -600,16 +610,6 @@
     "city": "warszawa"
   },
   {
-    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
-    "title": "Hogwarts legacy nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
     "id": "95bcbd02-c0f0-40f8-96b9-b65690bc2eed",
     "title": "The legend of Zelda Tears of the kingdom",
     "price": "180",
@@ -1070,14 +1070,14 @@
     "city": "Bysław"
   },
   {
-    "id": "335ab1fa-fca9-4162-9eab-808b5237aa61",
-    "title": "SIFU Redemption Edition Nintendo Switch",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s360x360/1e0cf8/01c7bd464fb9be1f01c46d3feec9",
-    "url": "https://allegrolokalnie.pl//oferta/sifu-redemption-edition-nintendo-switch-gl2?navCategoryId=256922",
+    "id": "02185a90-6566-4e85-9835-5fcc5cc95d00",
+    "title": "Atari 50 dla Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e2bef/b478f91d4d3dae10fac420f94fbc",
+    "url": "https://allegrolokalnie.pl//oferta/atari-50-dla-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Bydgoszcz"
+    "city": "Piaseczno"
   },
   {
     "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
@@ -3000,6 +3000,26 @@
     "city": "Wałbrzych"
   },
   {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
+    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
+    "title": "GRIP: Combat Racing Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e8f73/5a22b88942bc8384a71c126441d3",
+    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona góra, Nowe Miasto"
+  },
+  {
     "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
     "title": "Mario Odyssey NINTENDO SWITCH ideał",
     "price": "187",
@@ -4175,26 +4195,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
-    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
-    "price": "549",
-    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "8397538f-2158-4ec9-96ac-41271e325076",
-    "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
-    "price": "549",
-    "img": "https://a.allegroimg.com/s360x360/11a7f3/d4306da3477984b878303c966d53",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
