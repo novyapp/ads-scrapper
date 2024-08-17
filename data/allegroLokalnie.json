@@ -1120,16 +1120,6 @@
     "city": "Katowice"
   },
   {
-    "id": "e2ccafae-6deb-4748-8eee-754d1c5c22a0",
-    "title": "Karta Nintendo eshop 250 zł",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s360x360/1e86e6/4c894e8a48d39d60e097c2e02fb9",
-    "url": "https://allegrolokalnie.pl//oferta/karta-nintendo-eshop-250-zl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "e2eb520f-e6f7-4247-9d83-d07208c01f6b",
     "title": "Dark souls Remastered Nintendo Switch",
     "price": "120",
@@ -1800,14 +1790,14 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
-    "title": "Pokemon Sword + Pokemon Sword Expansion Pass Nintendo Switch",
-    "price": "500",
-    "img": "https://a.allegroimg.com/s360x360/1e5e1b/71b1d5524f2dac2e011c492a401a",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-pokemon-sword-expansion-pass-nintendo-switch?navCategoryId=256922",
+    "id": "302742ba-bd32-459e-a41b-0470ff916b5d",
+    "title": "Plecak z edycji Destroy All Humans",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s360x360/1efc35/e23061b240d987e7211ac27a8996",
+    "url": "https://allegrolokalnie.pl//oferta/plecak-z-edycji-destroy-all-humans-p35?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
+    "smartPost": false,
+    "city": "Wrocław, Śródmieście"
   },
   {
     "id": "302742ba-bd32-459e-a41b-0470ff916b5d",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Młynice"
+  },
+  {
+    "id": "2c4d0cb4-d88c-4638-bbef-d1b336b14926",
+    "title": "Princess peach nintendo switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1ea970/003e4356458d8aad25671c48b776",
+    "url": "https://allegrolokalnie.pl//oferta/princess-peach-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Złotoryja"
   },
   {
     "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
@@ -2998,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "olecko"
-  },
-  {
-    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
-    "title": "Super Mario 3d World Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1eb394/18c354254e8e8521965fc745798d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
   },
   {
     "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
@@ -5400,16 +5390,6 @@
     "city": "Radzyń Podlaski"
   },
   {
-    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
-    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radzyń Podlaski"
-  },
-  {
     "id": "8fefb9c0-4872-4d98-9674-982f8b4904fc",
     "title": "NINTENDO SWITCH, - Joy-Con - Czerwony / Niebieski",
     "price": "750",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
+  },
+  {
+    "id": "e5bd28cf-a55f-498a-9e9e-fa6fefe17a68",
+    "title": "Hyrule Warriors Age of Calamity na NS",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1eaaba/c4a70be649bb84a3f90ec5f35194",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-na-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
