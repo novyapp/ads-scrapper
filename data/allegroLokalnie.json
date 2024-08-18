@@ -2120,16 +2120,6 @@
     "city": "Milicz"
   },
   {
-    "id": "ad0b2ee7-e7c5-431a-93be-2bc089045be3",
-    "title": "Pokemon Brilliant Diamond Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1eb0a0/10ef1c484b45b35e36179ff04e12",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-gxg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Siepraw"
-  },
-  {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
     "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
     "price": "265",
@@ -2360,6 +2350,16 @@
     "city": "Świnoujście"
   },
   {
+    "id": "53c5eade-734e-42b4-8c9a-80ea898e52bf",
+    "title": "Super Mario Bros Deluxe",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ed238/b25899004d85ad551744a531e526",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-deluxe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Katowice"
+  },
+  {
     "id": "ea102dd3-8968-4b7d-bf5c-e17bef23bf21",
     "title": "Switch Bakugan Champions of Vestroia",
     "price": "110",
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
+    "title": "Super Mario Bros U Deluxe Switch (nowa, folia)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e6686/53d424c04f61a116615e33d1ba66",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieliczka"
   },
   {
     "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
@@ -2948,16 +2958,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kobylany"
-  },
-  {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
@@ -3560,6 +3560,56 @@
     "city": "Warszawa"
   },
   {
+    "id": "46ca95b5-1035-429f-b6ce-c661fdedc977",
+    "title": "Disney Classic Games Collection Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e0fd5/0ca9b2d4405a9d10040acf16fb61",
+    "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-collection-nintendo-switch-623?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pelplin"
+  },
+  {
+    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
+    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s360x360/1ee25d/8f3e191c4a54841858fa880c52ce",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "8befc788-a939-4056-82ab-453f163e6e4b",
+    "title": "Blasphemous Nintendo switch",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s360x360/1e418c/e57c8408460ea78b30e200aed4f1",
+    "url": "https://allegrolokalnie.pl//oferta/blasphemous-nintendo-switch-puy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "e4c1215c-230c-4553-a140-988902b78c31",
+    "title": "MARIOGOLF SUPER RUSH/ Gra NINTENDO SWITCH / KARTRIDŻ",
+    "price": "107",
+    "img": "https://a.allegroimg.com/s360x360/1e9063/29e431b444f4a16ed98941cbfeac",
+    "url": "https://allegrolokalnie.pl//oferta/mariogolf-super-rush-gra-nintendo-switch-kartridz-efj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Ostrzeszów"
+  },
+  {
+    "id": "46ca95b5-1035-429f-b6ce-c661fdedc977",
+    "title": "Disney Classic Games Collection Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e0fd5/0ca9b2d4405a9d10040acf16fb61",
+    "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-collection-nintendo-switch-623?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pelplin"
+  },
+  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "195",
@@ -4150,66 +4200,6 @@
     "city": "Reda"
   },
   {
-    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "01b96155-4589-492e-aa47-9597f3113a57",
-    "title": "Trek to Yomi Switch Nowa Folia",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s360x360/1e1b90/578f1d854b01b6761b58032452c0",
-    "url": "https://allegrolokalnie.pl//oferta/trek-to-yomi-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "19665c83-4e6a-4edc-ba13-f6b8e3afbb22",
-    "title": "The legend od Zelda breath od the wild",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ede51/1912e7984eb8b7a378ef2500855b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-breath-od-the-wild-dyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
-    "title": "FIFA 22 I Switch I Po Polsku I Folia",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1eb4bf/7d7ba3fd489ab88bbf1e58ecc6d9",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-i-switch-i-po-polsku-i-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
-    "title": "Scribblenauts Showdown Gra Nintendo Switch",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
-    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
     "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
     "title": "Neptunia sisters vs sisters (Nintendo switch)",
     "price": "140",
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
+  },
+  {
+    "id": "37ce04b2-4f3a-402c-afbc-ea040bbc7687",
+    "title": "Oxide the room Nintendo switch jak Nowa bez folii horror. Bonus",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e00bd/828a353e45b8bdf992114041222a",
+    "url": "https://allegrolokalnie.pl//oferta/oxide-the-room-nintendo-switch-jak-nowa-bez-folii-horror-bonus-54p?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Polesie"
   },
   {
     "id": "37ce04b2-4f3a-402c-afbc-ea040bbc7687",
@@ -5958,5 +5958,45 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "ff31da73-3ecf-47b6-abf1-70850673ab02",
+    "title": "Pokemon Shining Pearl Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e1793/2bb543d84c34a1212be0cd248d4d",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-bxo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "5db312c2-4a42-41be-ac89-ae35d2e6ccb3",
+    "title": "Pokemon Brilliant Diamond Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e72bc/bd09111544e6b1aa0936833c4edf",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-kum?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "2052cc1e-dd52-4d2f-ae42-0170a2d3329f",
+    "title": "F.I.S.T Forged in Shadow Torch limited ed - nowa",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e8021/2a156c334c4894d1b804455f4d36",
+    "url": "https://allegrolokalnie.pl//oferta/fist-forged-in-shadow-torch-limited-ed-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "ab09bcbc-65dd-4f43-82b5-49c03c4b0897",
+    "title": "Dead cells - na Nintendo Switch - nowa",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e0236/074024de4318b69074fc2715ff46",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-na-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
