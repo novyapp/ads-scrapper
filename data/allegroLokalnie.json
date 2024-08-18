@@ -600,16 +600,6 @@
     "city": "Iłża"
   },
   {
-    "id": "95bcbd02-c0f0-40f8-96b9-b65690bc2eed",
-    "title": "The legend of Zelda Tears of the kingdom",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e59a3/f7c7c36742cfb3befa9a265f1bcb",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-4g6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
-  },
-  {
     "id": "c1d2fc58-ed41-471e-81e1-3d21208e90b8",
     "title": "Super Mario 3d World + Bowser Fury Switch/Nowa",
     "price": "169",
@@ -1028,6 +1018,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "d6697f7c-a431-4a77-b218-b9434cf5aad3",
+    "title": "Gra „Mario Tennis Aces",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e7134/f14f69ec4303ac31fd33dd21f17a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-mario-tennis-aces-rff?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostróda"
   },
   {
     "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
@@ -1602,7 +1602,7 @@
   {
     "id": "dd1b06e4-170c-4364-8ec0-66de80939007",
     "title": "Pokémon Legends Arceus NS Nintendo Switch",
-    "price": "169",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e2216/c94aee5c4b129491a0438f7f23de",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-ns-nintendo-switch?navCategoryId=256922",
     "promoted": false,
