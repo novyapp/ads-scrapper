@@ -2446,7 +2446,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e9ce0/065f411c4ba0871a125785f8c69e",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-pua?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Otmuchów"
   },
   {
@@ -2456,7 +2456,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e93f3/36ab65b54d7ab769e4d3da2a096e",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-akz?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Otmuchów"
   },
   {
@@ -2490,16 +2490,6 @@
     "city": "Lublin"
   },
   {
-    "id": "60e87de0-f170-46d2-a968-ed1dbc2d7047",
-    "title": "Monster Hunter Rise Nintendo Switch",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s360x360/1e4845/56ab6bae4c089385eba8323debf7",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-hal?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "adffb4a6-3cfa-45f0-b8b9-cfa9cf5913f5",
     "title": "The Legends of Zelda Breath of the Wild Nintendo Switch",
     "price": "169",
@@ -2526,7 +2516,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e5152/0088b958413dbcc1f539f357dd70",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-plakat?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Otmuchów"
   },
   {
@@ -2988,6 +2978,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
+    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
+    "title": "GRIP: Combat Racing Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e8f73/5a22b88942bc8384a71c126441d3",
+    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona góra, Nowe Miasto"
   },
   {
     "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
@@ -4790,26 +4800,6 @@
     "city": "Sławno"
   },
   {
-    "id": "67e02bcd-3feb-4b88-a182-25d3a83a834b",
-    "title": "Let's Sing ABBA + 2 mikrofony Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e4ba9/e9178c6e474bb64916545e47e959",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-2-mikrofony-nintendo-switch-3wm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
-    "id": "c9a2ab1d-42c3-4405-aeab-9021ab2d0479",
-    "title": "Pikachu Kehrt zurück gra Nintendo switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1ec1c0/c8568793445f9d715890d947da7f",
-    "url": "https://allegrolokalnie.pl//oferta/pikachu-kehrt-zurueck-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
-  },
-  {
     "id": "679ef6d3-fd88-4b9f-81b2-6aec9db3775d",
     "title": "Astral Chain na nintendo switch - nowa w folii",
     "price": "199",
@@ -5388,6 +5378,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "fefba7a2-d5df-407b-8f3a-f8927aaddb78",
+    "title": "Pokken Tournament DX",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e55d0/5553a50b45e5ad2e0fbf98a73759",
+    "url": "https://allegrolokalnie.pl//oferta/pokken-tournament-dx-7mt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "71d87efc-72a9-4ca2-996c-0b68887df408",
+    "title": "Yoshi crafted World",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e8e01/0df59a6b4ca3981cfa6d2ac7c455",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-ilo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
   },
   {
     "id": "fefba7a2-d5df-407b-8f3a-f8927aaddb78",
