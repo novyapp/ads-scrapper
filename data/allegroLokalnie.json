@@ -150,16 +150,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "933002a6-36cf-430d-baa9-a6aebdc0c18a",
-    "title": "New Super Mario Bros. U Deluxe stan BdB",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s360x360/1e35c8/c7c1f4e145cbb1f2beed0afc237d",
-    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-stan-bdb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
     "id": "aa82cebf-3728-4e7b-855d-1bf80ff15532",
     "title": "The Legend of Zelda: Breath of the Wild stan BdB",
     "price": "168",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Iłża"
-  },
-  {
-    "id": "c1d2fc58-ed41-471e-81e1-3d21208e90b8",
-    "title": "Super Mario 3d World + Bowser Fury Switch/Nowa",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e227c/054e4afa4755bfa4a2a15e2a5751",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-switchnowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kielce"
   },
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
@@ -1195,6 +1175,16 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e62cd/70d1c2b7438bb842742cc9e1add1",
     "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
+    "title": "DC Super Hero Girls Teen Power",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
+    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
