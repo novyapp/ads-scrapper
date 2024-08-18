@@ -1,15 +1,5 @@
 [
   {
-    "id": "2232dc59-6607-451c-a0be-0719ce639dac",
-    "title": "Lego Star Wars the skywalker saga nintendo switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e22b5/5928d73c40ecb98aa48d5fc9b0ee",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-nintendo-switch-axp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "6b967924-0246-47c3-aa8a-064ef1739f19",
     "title": "Star Wars Heritage Pack",
     "price": "250",
@@ -610,6 +600,16 @@
     "city": "Rybnik"
   },
   {
+    "id": "0cdb4295-ba7b-42f6-86c3-cf5a2dc330db",
+    "title": "Sifu Vengeance Edition na Nintendo Switch",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e9f55/ea15d6e242fcaaa5a63f5e947609",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-vengeance-edition-na-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Rybnik"
+  },
+  {
     "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
     "title": "Captain Toad: Treasure Tracker Nintendo Switch",
     "price": "140",
@@ -1190,11 +1190,11 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "9de44ba8-8a85-4c40-81da-da0c692925ba",
-    "title": "Puzzle Bobble Everybubble!",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1eabe7/83e3f109499aad89401eb01b3098",
-    "url": "https://allegrolokalnie.pl//oferta/puzzle-bobble-everybubble?navCategoryId=256922",
+    "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
+    "title": "Collection of Mana",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebcb7/5a70a33a4276841c0848676ed2dc",
+    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -1210,31 +1210,11 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "f0f544cb-3f63-42a0-b18a-49504b0d5e8a",
-    "title": "Klonoa Phantasy Reverie Series",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1ed74a/e999d3c1423e9537caace28d35a3",
-    "url": "https://allegrolokalnie.pl//oferta/klonoa-phantasy-reverie-series-cav?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "702ad199-5c18-467f-922d-fa19ceab380f",
     "title": "Cruis'n Blast Nintendo Switch",
     "price": "65",
     "img": "https://a.allegroimg.com/s360x360/1eeba6/5ed9566a4e9ba7a2ae189fa2b651",
     "url": "https://allegrolokalnie.pl//oferta/cruisn-blast-nintendo-switch-6tg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "ebecf9db-3016-41d0-800c-caed09b11ab6",
-    "title": "Crash Team Racing Nitro Fueled",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1ec5b9/6becd39a46bda3e8c13ce2f13782",
-    "url": "https://allegrolokalnie.pl//oferta/crash-team-racing-nitro-fueled-qny?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -1265,16 +1245,6 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e7e63/47705ef140b487b6adf479dcab9f",
     "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-b7k?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "98db8890-efee-4767-bc77-7ceb70a7d6c1",
-    "title": "Wonderful 101 Remastered",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e77cf/1a40ac4b41439028d0ab9a8863f0",
-    "url": "https://allegrolokalnie.pl//oferta/wonderful-101-remastered?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -1513,7 +1483,7 @@
     "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
     "title": "UNDERTALE (SWITCH) WYD US, EGZ NOWY",
     "price": "287",
-    "img": "https://a.allegroimg.com/s360x360/1ec2d7/a18652b24104bc53778558140e7c",
+    "img": "https://a.allegroimg.com/s360x360/1ea1c4/4b85664446a69be57711c7d983e2",
     "url": "https://allegrolokalnie.pl//oferta/undertale-switch-wyd-us-egz-nowy-ezb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -1778,6 +1748,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
+  },
+  {
+    "id": "037029d4-3e54-45e6-8972-a2b9de1776c5",
+    "title": "Captain Toad Treasure Tracker Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ec9c1/7b3d83994319b56138992fe3681e",
+    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ffo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
   },
   {
     "id": "037029d4-3e54-45e6-8972-a2b9de1776c5",
@@ -2153,7 +2133,7 @@
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
     "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
     "price": "265",
-    "img": "https://a.allegroimg.com/s360x360/1e87b6/ed03f3ae4b60a21f783f03fdda82",
+    "img": "https://a.allegroimg.com/s360x360/1e8d74/e931bcee4793a9683f84e8928e33",
     "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -2980,16 +2960,6 @@
     "city": "Kobylany"
   },
   {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
     "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
     "price": "179",
@@ -3590,6 +3560,16 @@
     "city": "Pelplin"
   },
   {
+    "id": "46ca95b5-1035-429f-b6ce-c661fdedc977",
+    "title": "Disney Classic Games Collection Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e0fd5/0ca9b2d4405a9d10040acf16fb61",
+    "url": "https://allegrolokalnie.pl//oferta/disney-classic-games-collection-nintendo-switch-623?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pelplin"
+  },
+  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "195",
@@ -4178,16 +4158,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
-  },
-  {
-    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s360x360/1e7e4a/fc9466904853975ebfc40b7d319d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   },
   {
     "id": "01b96155-4589-492e-aa47-9597f3113a57",
@@ -5978,5 +5948,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "ff31da73-3ecf-47b6-abf1-70850673ab02",
+    "title": "Pokemon Shining Pearl Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e1793/2bb543d84c34a1212be0cd248d4d",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-bxo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
