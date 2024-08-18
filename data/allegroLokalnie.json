@@ -1010,6 +1010,16 @@
     "city": "Bysław"
   },
   {
+    "id": "950d98a5-9fcc-4124-bd0f-ca1337e6d365",
+    "title": "Gra Wiedźmin dziki gon Edycja Kompletna",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1eb107/fd1888ec49a2ae55494cb187d8e7",
+    "url": "https://allegrolokalnie.pl//oferta/gra-wiedzmin-dziki-gon-edycja-kompletna-6r7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Tarchomin"
+  },
+  {
     "id": "d6697f7c-a431-4a77-b218-b9434cf5aad3",
     "title": "Gra „Mario Tennis Aces",
     "price": "135",
@@ -1185,16 +1195,6 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e62cd/70d1c2b7438bb842742cc9e1add1",
     "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
-    "title": "DC Super Hero Girls Teen Power",
-    "price": "40",
-    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
-    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
+  },
+  {
+    "id": "0b9aced8-3955-43f5-82c8-afd9dfbbd012",
+    "title": "POKÉMON CHI-YU LEGENDARNY 100lvl.",
+    "price": "4",
+    "img": "https://a.allegroimg.com/s360x360/1e3402/3a7c16354a4788f1eb75d50da8d0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-chiyu-legendarny-100lvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków, Malichy"
   }
 ]
