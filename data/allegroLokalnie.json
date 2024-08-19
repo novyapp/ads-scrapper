@@ -112,7 +112,7 @@
   {
     "id": "2a75c8c8-a975-4cef-bb8c-c62ae8bb2067",
     "title": "Metroid Dread (Switch)",
-    "price": "149",
+    "price": "139",
     "img": "https://a.allegroimg.com/s360x360/1ee9b5/3af316254897b556b914ecff2995",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-kco?navCategoryId=256922",
     "promoted": true,
@@ -231,7 +231,7 @@
   },
   {
     "id": "e704d2fd-e6bc-4620-b7ef-5ff16dbbaf54",
-    "title": "Gra Nintendo Switch Mario Kart",
+    "title": "Gra Nintendo Switch Mario Kart 8 Deluxe",
     "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1edf9b/fb6560b8400d94599def20fcd8bf",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-mario-kart?navCategoryId=256922",
@@ -342,7 +342,7 @@
   {
     "id": "b28cfee4-1e4a-4234-be03-11e024788730",
     "title": "Bo: Path of the Tear Lotus Nowa Switch",
-    "price": "260",
+    "price": "230",
     "img": "https://a.allegroimg.com/s360x360/1e8db8/1a66cf6549ffa9a8255b28e09f30",
     "url": "https://allegrolokalnie.pl//oferta/bo-path-of-the-tear-lotus-nowa-switch?navCategoryId=256922",
     "promoted": true,
@@ -588,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "turek"
+  },
+  {
+    "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
+    "title": "Super Mario 3D World +Bowser's Fury Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e4b00/e05a0d65484fb9fe761e00fcdf71",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
   },
   {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
@@ -1190,16 +1200,6 @@
     "city": "Warszawa, Żoliborz"
   },
   {
-    "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
-    "title": "Shin Megami Tensei III nintendo switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1e51f3/9e343e4b4dcdb52b03ecd2ab55e2",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-iii-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Twardogóra"
-  },
-  {
     "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
     "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
     "price": "249",
@@ -1632,7 +1632,7 @@
   {
     "id": "b915c125-983d-4a87-ac08-64fd32e06f42",
     "title": "Gal Metal JAPAN NINTENDO SWITCH",
-    "price": "90",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1ef70b/040747e84c99a8840b257661b0ab",
     "url": "https://allegrolokalnie.pl//oferta/gal-metal-japan-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -2400,6 +2400,16 @@
     "city": "Halinów"
   },
   {
+    "id": "be00afde-822d-4512-b29d-fa5deb5accca",
+    "title": "LEGO NINJAGO Nintendo Switch najtaniej",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e9a53/7528f1fb4216acc2b087c3b206cf",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-nintendo-switch-najtaniej?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Halinów"
+  },
+  {
     "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
     "title": "Yurukill - Switch (Nowa)",
     "price": "179",
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
-    "title": "Bayonetta Cereza",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e85e1/3d8826c44c969d6088e4e119364e",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-cereza-fft?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Widzew"
   },
   {
     "id": "5e8f05f3-b229-4819-8402-8ef088c952d2",
@@ -5388,6 +5388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "5a36e5b1-bcf7-4530-adad-b72cdffc749c",
+    "title": "Distraint Collection - Switch (Nowa)",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s360x360/1eb96d/59eb96c54097ad8557d5a8bc72db",
+    "url": "https://allegrolokalnie.pl//oferta/distraint-collection?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "5a36e5b1-bcf7-4530-adad-b72cdffc749c",
