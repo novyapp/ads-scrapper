@@ -1200,6 +1200,16 @@
     "city": "Iłża"
   },
   {
+    "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
+    "title": "Story of seasons: Doraemon",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1e45e0/5b9c17ff42f38b36b4a7d1c67563",
+    "url": "https://allegrolokalnie.pl//oferta/story-of-seasons-doraemon?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Chocianów"
+  },
+  {
     "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
     "title": "Nintendo Switch Pokemon Legends Arceus nowa folia + plakat",
     "price": "235",
@@ -2212,7 +2222,7 @@
   {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
     "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
-    "price": "265",
+    "price": "279",
     "img": "https://a.allegroimg.com/s360x360/1e8d74/e931bcee4793a9683f84e8928e33",
     "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
     "promoted": false,
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
-  },
-  {
-    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
-    "title": "Lego Ninjago Il Film Video Game",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1ec6c9/1e336f374c9ab332325d16a12139",
-    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Mokotów"
   },
   {
     "id": "f37392f8-6f95-4fa6-8be9-171adf247ec7",
@@ -2985,6 +2985,16 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
+    "title": "The legend of zelda Link's awakening collectors edition + gra",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s360x360/1e5072/2580bb3b4bef9e049ca8d792d122",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-collectors-edition?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
@@ -3640,16 +3650,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "8befc788-a939-4056-82ab-453f163e6e4b",
-    "title": "Blasphemous Nintendo switch",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s360x360/1e418c/e57c8408460ea78b30e200aed4f1",
-    "url": "https://allegrolokalnie.pl//oferta/blasphemous-nintendo-switch-puy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "02700a86-732a-410a-bd80-a7083bd13810",
     "title": "Gry nintendo switch",
     "price": "999",
@@ -4188,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "ae1b2f67-c604-488b-8d2c-089905db7ea2",
-    "title": "Syberia Trilogy I Switch I Po Polsku I Dubbing",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ebe4f/9a028d59436e9b089d7a464ed40a",
-    "url": "https://allegrolokalnie.pl//oferta/syberia-trilogy-i-switch-i-po-polsku-i-dubbing?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   },
   {
     "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
@@ -5400,6 +5390,16 @@
     "city": "Poznań"
   },
   {
+    "id": "b4d96202-4db5-478b-8857-041c509b4cb9",
+    "title": "TRIANGLE STRATEGY , NINTENDO SWITCH , NOWA / FOLIA",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1efbb9/533fa600492f97dff49aadbeb87d",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-nowa-folia-g3a?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "35363411-eac1-48f1-acba-f5856cb39c26",
     "title": "SHIN MEGAMI TENSEI V , NINTENDO SWITCH",
     "price": "139",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
-  },
-  {
-    "id": "1d83a294-3e3a-4640-8d7a-929428a466ac",
-    "title": "LEGEND OF ZELDA BREATH OF THE WILD NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ee0d4/83404863492eb5468ece9176b29f",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-hnp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Białołęka"
   }
 ]
