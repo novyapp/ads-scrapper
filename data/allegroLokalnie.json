@@ -1032,7 +1032,7 @@
   {
     "id": "82597963-72fd-4b3a-9d77-b2cacc5ab1b6",
     "title": "Hades Nintendo Switch EU nowa",
-    "price": "379",
+    "price": "359",
     "img": "https://a.allegroimg.com/s360x360/1e85c9/951acf3041f293fdf6ab0443a1e3",
     "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-eu-nowa-hjl?navCategoryId=256922",
     "promoted": true,
@@ -1176,7 +1176,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e51f3/9e343e4b4dcdb52b03ecd2ab55e2",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-iii-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
@@ -1248,6 +1248,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
+    "title": "Need for Speed Hot Pursuit Remastered NINTENDO SWITCH",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ebc3c/0673e7ec4819a45799eafd9a34aa",
+    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-remastered-nintendo-switch-ek5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "4241002d-8d9b-484b-94f1-a2c393e54746",
@@ -1798,6 +1808,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
+    "title": "nowa Minecraft Switch, folia, UKV",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e800e/55c372b848be8e5e9e0812b84680",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-minecraft-switch-folia-ukv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Słupsk"
+  },
+  {
+    "id": "241b59d1-536a-4fdf-afb7-0e67f68f2acb",
+    "title": "nowa Dragon Quest Builders 2 Switch, folia, UKV",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1eea33/0ff9a3274cdba685f819f7334de0",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-dragon-quest-builders-2-switch-folia-ukv-xso?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Słupsk"
   },
   {
     "id": "ea3edd85-4cce-4b58-8d42-116923071b9e",
@@ -2368,46 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Rokietnica"
-  },
-  {
-    "id": "f76de3af-4958-4d02-9b56-110659ce595b",
-    "title": "Snipperclips plus Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e98f0/6caccc2e4a1aac156e64d1977bd1",
-    "url": "https://allegrolokalnie.pl//oferta/snipperclips-plus-nintendo-switch-wqb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "6c6befcd-7ed5-4ec4-8594-b5dff75e3f9b",
-    "title": "Farming Simulator 23 Nintendo Switch PL",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s360x360/1ed10b/ba2658234a28b100312c844016bd",
-    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-23-nintendo-switch-pl-cje?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "77068926-763c-4f46-9e59-621735a040a4",
-    "title": "Mario + Rabbids Sparks of Hope - używana gra NS",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1e20bf/d9c55a564d4eb1c5be260c35427a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-uzywana-gra-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "f76de3af-4958-4d02-9b56-110659ce595b",
-    "title": "Snipperclips plus Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e98f0/6caccc2e4a1aac156e64d1977bd1",
-    "url": "https://allegrolokalnie.pl//oferta/snipperclips-plus-nintendo-switch-wqb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "6c6befcd-7ed5-4ec4-8594-b5dff75e3f9b",
@@ -2998,6 +2988,36 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
+    "title": "Alwa's Collection Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1eb378/82273d684076b45047aeec1aa5af",
+    "url": "https://allegrolokalnie.pl//oferta/alwas-collection-switch-pdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
+  },
+  {
+    "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
+    "title": "Alwa's Collection Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1eb378/82273d684076b45047aeec1aa5af",
+    "url": "https://allegrolokalnie.pl//oferta/alwas-collection-switch-pdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
+  },
+  {
+    "id": "13258140-3397-41ba-8e8d-b9808c36eccc",
+    "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów Gra NINTENDO SWITCH + DLC",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e1d9f/8218319c4e7e986fb5affaf987a2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-gra-nintendo-switch-dlc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   },
   {
     "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
@@ -3600,16 +3620,6 @@
     "city": "Reda"
   },
   {
-    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
-    "title": "Pokemon Shining Pearl",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom"
-  },
-  {
-    "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
-    "title": "Gra NSW Instant Sport Tenis",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e063e/bf69d78444c6881bf5a139a81c05",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
@@ -5456,7 +5456,7 @@
     "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
     "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
@@ -5596,7 +5596,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e1279/20a2517b4d73960f8dde0acc0d65",
     "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-vsa?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
@@ -5606,7 +5606,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e1436/f9ac19ba456a9854d1a323b194e6",
     "url": "https://allegrolokalnie.pl//oferta/wonder-boy-nintendo-switch-6vh?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
@@ -5646,7 +5646,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
     "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
@@ -5656,7 +5656,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e84fc/7ed03b1b403999f5216ec64418a6",
     "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-x72?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
@@ -5856,7 +5856,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
     "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Twardogóra"
   },
   {
