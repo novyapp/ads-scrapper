@@ -530,16 +530,6 @@
     "city": "Białystok, Sienkiewicza"
   },
   {
-    "id": "610f79e5-04ba-47e2-8da5-9e64959030d9",
-    "title": "Princess Peach Showtime!",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e2d1b/4db3b17e4b459e2bc37fa566971c",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-6or?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Izabelin"
-  },
-  {
     "id": "107039ee-c586-40fa-97be-bdbd14ee823f",
     "title": "DREAMWORKS ALL STAR KART RACING -Sam KARTRIDŻ",
     "price": "117",
@@ -2410,6 +2400,16 @@
     "city": "Częstochowa"
   },
   {
+    "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
+    "title": "SWITCH Pokemon: Let's Go, Pikachu! / JRPG",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1ec10c/2816a7e54841b09642eb5a0e429f",
+    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-jrpg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Częstochowa"
+  },
+  {
     "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
     "title": "Gra Harvest Moon The Winds of Anthos + maskotka na Nintendo Switch",
     "price": "170",
@@ -2812,7 +2812,7 @@
   {
     "id": "afc1c321-07f5-4e45-bd5a-4f7540d148c2",
     "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
-    "price": "600",
+    "price": "700",
     "img": "https://a.allegroimg.com/s360x360/1e8270/635d7ad442edb2c6ff770314f733",
     "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch?navCategoryId=256922",
     "promoted": false,
@@ -3600,16 +3600,6 @@
     "city": "Sanniki"
   },
   {
-    "id": "267c17b5-ec09-47e9-b645-7a7f6ac82a37",
-    "title": "Mario RPG Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ec3b0/d42f619b4a399f4a10922049c859",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rpg-nintendo-switch-5nj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Elbląg"
-  },
-  {
     "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
     "title": "Animal Crossing Nintendo Switch",
     "price": "190",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wejherowo"
+  },
+  {
+    "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
+    "title": "Switch Splatoon 2 .. nowy folia",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e8265/41edfdf24510b80be652d3537420",
+    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-nowy-folia-exy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
