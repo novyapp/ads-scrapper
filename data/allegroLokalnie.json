@@ -1,5 +1,15 @@
 [
   {
+    "id": "9b4f3363-207f-415f-a4a5-ea6743b2c387",
+    "title": "Fire Emblem Warriors: Three Hopes - Limited Edition Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e62c3/6e449fd047d0bef4dd3cd64d4a2b",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-limited-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "2c13f5ff-0361-40f8-b3f9-26258fd5a533",
     "title": "Vengeful Guardian Moonrider Switch NOWA",
     "price": "169",
@@ -822,7 +832,7 @@
   {
     "id": "6391e8f8-52e1-4791-957e-96bf86755656",
     "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
-    "price": "190",
+    "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1ecb2c/1c1d902a4128a5b595dbcb8f6ed5",
     "url": "https://allegrolokalnie.pl//oferta/dodonpachi-ressurrection-edycja-limitowana-nintendo-switch-jpn-nowa-el7?navCategoryId=256922",
     "promoted": true,
@@ -872,7 +882,7 @@
   {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
-    "price": "170",
+    "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
     "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
     "promoted": true,
@@ -1082,7 +1092,7 @@
   {
     "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
     "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
-    "price": "190",
+    "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e9ecb/a893419946349ed954fde672377d",
     "url": "https://allegrolokalnie.pl//oferta/darius-cozmic-collection-nintendo-switch-jpn-nowa-qss?navCategoryId=256922",
     "promoted": true,
@@ -1188,16 +1198,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Iłża"
-  },
-  {
-    "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
-    "title": "Story of seasons: Doraemon",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e45e0/5b9c17ff42f38b36b4a7d1c67563",
-    "url": "https://allegrolokalnie.pl//oferta/story-of-seasons-doraemon?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chocianów"
   },
   {
     "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
@@ -1562,7 +1562,7 @@
   {
     "id": "7c7e1746-3237-44b9-b563-9f90cd7cf83c",
     "title": "Penny Punching Princess NINTENDO SWITCH",
-    "price": "190",
+    "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e8443/cd08d18448a287e44b5d0f3643ba",
     "url": "https://allegrolokalnie.pl//oferta/penny-punching-princess-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -1572,7 +1572,7 @@
   {
     "id": "63864300-71e6-4287-bc5e-799bab6f81a8",
     "title": "Scribblenauts Showdown NINTENDO SWITCH",
-    "price": "70",
+    "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1ef07a/44c129d146969c9a78cb841a09cd",
     "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-nintendo-switch-5nd?navCategoryId=256922",
     "promoted": false,
@@ -1582,7 +1582,7 @@
   {
     "id": "b915c125-983d-4a87-ac08-64fd32e06f42",
     "title": "Gal Metal JAPAN NINTENDO SWITCH",
-    "price": "120",
+    "price": "90",
     "img": "https://a.allegroimg.com/s360x360/1ef70b/040747e84c99a8840b257661b0ab",
     "url": "https://allegrolokalnie.pl//oferta/gal-metal-japan-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -1798,6 +1798,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rypin"
+  },
+  {
+    "id": "ad75df46-319b-47bb-b334-b5701632a048",
+    "title": "Dragon Ball Fighterz Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e3d21/73542a9143f585e320847e3e18ab",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kielce"
   },
   {
     "id": "841b06c6-5546-4cd7-a870-f13749a3b22e",
