@@ -810,16 +810,6 @@
     "city": "Iłża"
   },
   {
-    "id": "c1d2fc58-ed41-471e-81e1-3d21208e90b8",
-    "title": "Super Mario 3d World + Bowser Fury Switch/Nowa",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e227c/054e4afa4755bfa4a2a15e2a5751",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-switchnowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
     "price": "107",
@@ -1198,16 +1188,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Iłża"
-  },
-  {
-    "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
-    "title": "Story of seasons: Doraemon",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e45e0/5b9c17ff42f38b36b4a7d1c67563",
-    "url": "https://allegrolokalnie.pl//oferta/story-of-seasons-doraemon?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chocianów"
   },
   {
     "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
@@ -1810,6 +1790,16 @@
     "city": "Kielce"
   },
   {
+    "id": "ad75df46-319b-47bb-b334-b5701632a048",
+    "title": "Dragon Ball Fighterz Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e3d21/73542a9143f585e320847e3e18ab",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kielce"
+  },
+  {
     "id": "841b06c6-5546-4cd7-a870-f13749a3b22e",
     "title": "Metro Redux Nintendo Switch",
     "price": "140",
@@ -2400,16 +2390,6 @@
     "city": "Poznań"
   },
   {
-    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
-    "title": "Lego Ninjago Il Film Video Game",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1ec6c9/1e336f374c9ab332325d16a12139",
-    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Mokotów"
-  },
-  {
     "id": "f37392f8-6f95-4fa6-8be9-171adf247ec7",
     "title": "The Legend Of Zelda Breath Of The Wild",
     "price": "170",
@@ -2995,6 +2975,16 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "060f5e6a-f28c-4759-b1e9-7ed471b49c21",
+    "title": "The legend of zelda Link's awakening collectors edition + gra",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s360x360/1e5072/2580bb3b4bef9e049ca8d792d122",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-collectors-edition?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
@@ -5400,16 +5390,6 @@
     "city": "Poznań"
   },
   {
-    "id": "35363411-eac1-48f1-acba-f5856cb39c26",
-    "title": "SHIN MEGAMI TENSEI V , NINTENDO SWITCH",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e9692/47f8c0c64dea94ce1572a8cd0491",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-2js?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
     "title": "Nintendo Labo Variety Kit",
     "price": "250",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "ff31da73-3ecf-47b6-abf1-70850673ab02",
+    "title": "Pokemon Shining Pearl Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e1793/2bb543d84c34a1212be0cd248d4d",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-bxo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
