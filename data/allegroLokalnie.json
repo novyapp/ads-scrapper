@@ -540,16 +540,6 @@
     "city": "Ostrzeszów"
   },
   {
-    "id": "9cce0fa1-7c26-4cc7-9c12-6b615d971b68",
-    "title": "Super Smash Bros. Ultimate - [Nintendo Switch]",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1eccd4/47dd2a8e46fcb0f967543b3b4440",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-4fk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "turek"
-  },
-  {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
     "price": "185",
@@ -595,6 +585,16 @@
     "price": "214",
     "img": "https://a.allegroimg.com/s360x360/1ee13c/e36d92a54eafa529b5a18f9f2f0e",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-switch-szk?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "7a39afcf-2f57-4ea7-9f99-4863a66674dd",
+    "title": "Crisis Core Final Fantasy VII Reunion Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1eb141/3074756f4d528e439739ddf42001",
+    "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-switch-kxo?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
@@ -3000,16 +3000,6 @@
     "city": "Poznań, Stare Miasto"
   },
   {
-    "id": "0511ca72-0eda-4241-be41-5d20ed88e59b",
-    "title": "STAR OCEAN THE SECOND STORY R  (SWITCH) + SOUNDTRACK",
-    "price": "445",
-    "img": "https://a.allegroimg.com/s360x360/1eceea/7904789a4c2d891c753a4ee09544",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-soundtrack-6ui?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
     "title": "Road 96 switch signature Edition Limited",
     "price": "420",
@@ -4210,6 +4200,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "fa3ed1d1-2a72-469d-bca7-c4eeae976b00",
+    "title": "Ring Fit Adventure na Nintendo Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1efa58/009187af43caa855e764905e491c",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-jtp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
     "title": "Nowe Labo Robot Kit Nintendo Switch",
     "price": "80",
@@ -4798,16 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
-  },
-  {
-    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "2944a5fb-c8c3-4ee0-bbc9-766a9ce9549a",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "0307e372-6f0d-4798-b149-1609ef003159",
+    "title": "Bloodstained Ritual of the Night Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mysłowice"
   }
 ]
