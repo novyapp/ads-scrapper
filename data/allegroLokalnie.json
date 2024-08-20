@@ -50,16 +50,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "cd96a8cc-9b3b-4512-bf83-512164a26454",
-    "title": "Mario Kart 8 Deluxe",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e388d/1546273647a0abb32651c4d1e4b2",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-ijv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Parszów"
-  },
-  {
     "id": "3fa3f839-9e82-4b4f-8eb6-bc0e1039e3e9",
     "title": "The Legend of Zelda: Breath of the Wild",
     "price": "159",
@@ -340,26 +330,6 @@
     "city": "Wrocław, Śródmieście"
   },
   {
-    "id": "6dd99a1e-568e-4785-a778-623d4ad0a680",
-    "title": "Red Dead Redemption Nintendo Switch bez pudełka",
-    "price": "128",
-    "img": "https://a.allegroimg.com/s360x360/1e4699/f0e3b7b54f19bf8d99cd6f854e89",
-    "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-nintendo-switch-bez-pudelka?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chełm "
-  },
-  {
-    "id": "f1aa664f-e6a4-49f2-b631-56b74e498df6",
-    "title": "Super Mario Bros. Wonder Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e88ed/75e7455547469c2300f2d578a7e7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-e36?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "2232dc59-6607-451c-a0be-0719ce639dac",
     "title": "Lego Star Wars the skywalker saga nintendo switch",
     "price": "80",
@@ -598,6 +568,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok, Sienkiewicza"
+  },
+  {
+    "id": "107039ee-c586-40fa-97be-bdbd14ee823f",
+    "title": "DREAMWORKS ALL STAR KART RACING -Sam KARTRIDŻ",
+    "price": "117",
+    "img": "https://a.allegroimg.com/s360x360/1ee214/74fef3da4eee8bae788f1012c40d",
+    "url": "https://allegrolokalnie.pl//oferta/dreamworks-all-star-kart-racing-sam-kartridz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Ostrzeszów"
+  },
+  {
+    "id": "ba1b815a-21c5-4534-9443-90dfd9dfebd2",
+    "title": "FIREEMBLEM WARRIORS THREE HOPES -Sam KARTRIDŻ",
+    "price": "127",
+    "img": "https://a.allegroimg.com/s360x360/1e8ef1/a6df63b1417c839e908def735432",
+    "url": "https://allegrolokalnie.pl//oferta/fireemblem-warriors-three-hopes-sam-kartridz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Ostrzeszów"
   },
   {
     "id": "107039ee-c586-40fa-97be-bdbd14ee823f",
@@ -3000,16 +2990,6 @@
     "city": "Kraśnik"
   },
   {
-    "id": "e7194adb-7dfe-4f5c-a90a-b29ae494a680",
-    "title": "HYRULE WARRIORS: DEFINITIVE EDITION Nintendo Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e834b/2eb040b844d5999e7285b6a64483",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-definitive-edition-nintendo-switch-goc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraśnik"
-  },
-  {
     "id": "304087c2-fefa-41dd-b6af-cf3c84da3428",
     "title": "Gra Pikmin 4 Nintendo Switch",
     "price": "159",
@@ -3595,6 +3575,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
     "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ruda Śląska, Ruda"
+  },
+  {
+    "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
+    "title": "Persona 5 Royal na Nintendo Switch (japońskie)",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e9fee/a86aaef240b4822bc311d2f29fa4",
+    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-na-nintendo-switch-japonskie?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ruda Śląska, Ruda"
