@@ -476,7 +476,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed135/be9c593b432fa7a7f45a5cc0e602",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-switch-z24?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -486,7 +486,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
     "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -956,7 +956,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eff91/3e940a7f4d2ba3f918f942966160",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-bendy-and-the-ink-machine-kardridz-rarytas?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wrocław, Wroclaw"
   },
   {
@@ -966,7 +966,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ec2f3/8030aac241de93faadf6d4a0a1f4",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-darksiders-genesis-5fq?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wrocław, Wroclaw"
   },
   {
@@ -1096,7 +1096,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed7c9/1ad90f3f4be3a485f605176ad1c2",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-tales-of-vesperia-definitive-edition-bandai-namco?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wrocław, Wroclaw"
   },
   {
@@ -1106,7 +1106,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wrocław, Wroclaw"
   },
   {
@@ -1188,16 +1188,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Iłża"
-  },
-  {
-    "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
-    "title": "Story of seasons: Doraemon",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1e45e0/5b9c17ff42f38b36b4a7d1c67563",
-    "url": "https://allegrolokalnie.pl//oferta/story-of-seasons-doraemon?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chocianów"
   },
   {
     "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
@@ -1756,7 +1746,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e8443/cd08d18448a287e44b5d0f3643ba",
     "url": "https://allegrolokalnie.pl//oferta/penny-punching-princess-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1766,7 +1756,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ef07a/44c129d146969c9a78cb841a09cd",
     "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-nintendo-switch-5nd?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1776,7 +1766,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ef70b/040747e84c99a8840b257661b0ab",
     "url": "https://allegrolokalnie.pl//oferta/gal-metal-japan-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1786,7 +1776,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed718/7ced93964d9c9031a01521054999",
     "url": "https://allegrolokalnie.pl//oferta/disgaea-5-complete-nintendo-switch-re3?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1796,8 +1786,18 @@
     "img": "https://a.allegroimg.com/s360x360/1e68a7/4297f6c14103bc149e0e971b14ef",
     "url": "https://allegrolokalnie.pl//oferta/super-bomberman-r-nintendo-switch-kjz?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Tomaszów Mazowiecki"
+  },
+  {
+    "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
+    "title": "UNDERTALE (SWITCH) WYD US, EGZ NOWY",
+    "price": "287",
+    "img": "https://a.allegroimg.com/s360x360/1e4269/0bab9b574d85b53427d54ef97e24",
+    "url": "https://allegrolokalnie.pl//oferta/undertale-switch-wyd-us-egz-nowy-ezb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
   },
   {
     "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
@@ -1946,7 +1946,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e3d21/73542a9143f585e320847e3e18ab",
     "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Kielce"
   },
   {
@@ -1956,7 +1956,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e9005/e675763a4bfda76eb3ba92c1d8c4",
     "url": "https://allegrolokalnie.pl//oferta/metro-redux-nintendo-switch-2nr?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Kielce"
   },
   {
@@ -1966,7 +1966,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eb676/69ce5f1c46f79fc5d73232e74ddf",
     "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-z3b?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Kielce"
   },
   {
@@ -1976,7 +1976,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e874e/7c8ad9a040c4bb57498c8fc37805",
     "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-nintendo-switch-rc4?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Kielce"
   },
   {
@@ -1986,7 +1986,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e90be/e7bd26df4a49a403f37856cf60c9",
     "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-nintendo-switch-jl7?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Kielce"
   },
   {
@@ -1996,7 +1996,7 @@
     "img": "https://a.allegroimg.com/s360x360/1edea3/e049404c409fbda73bce21059af0",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-zc3?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Kielce"
   },
   {
@@ -2566,7 +2566,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ef049/aae9853e4a77a5aa0a46bd1c5374",
     "url": "https://allegrolokalnie.pl//oferta/paw-patrol-world-swiat-psiego-patrolu-ns?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Świnoujście"
   },
   {
@@ -2616,7 +2616,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e6686/53d424c04f61a116615e33d1ba66",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nowa-folia?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wieliczka"
   },
   {
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
-    "title": "Alwa's Collection Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1eb378/82273d684076b45047aeec1aa5af",
-    "url": "https://allegrolokalnie.pl//oferta/alwas-collection-switch-pdb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "KOBIERZYCE"
   },
   {
     "id": "4b874a76-42c3-4b60-8d0f-19d8b55561b7",
@@ -5366,7 +5356,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e1b36/efbb7b4f41a9b0819a8b7ff5cab7",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-gra-q2f?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wola Będkowska"
   },
   {
@@ -5995,6 +5985,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1e2ec2/b64fc4d7414ca84e0995176dc3f5",
     "url": "https://allegrolokalnie.pl//oferta/the-lego-movie-2-videogame-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "d4d48faa-3ea1-435a-8d6d-e72bf585b646",
+    "title": "GAME BUILDER GARAGE Nintendo SWITCH NOWA",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1ee691/0b57d94547998073ad98a5f5112f",
+    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
