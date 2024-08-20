@@ -600,16 +600,6 @@
     "city": "Białystok"
   },
   {
-    "id": "341d97c4-14c7-4149-a95c-e6c2163345c7",
-    "title": "Sonic Forces Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e9b66/d8541d4b4ecdb0f5b2f6b998c4cd",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-switch-zdf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
     "title": "Ori and the Will of the Wisps Switch",
     "price": "145",
@@ -1200,6 +1190,16 @@
     "city": "Chocianów"
   },
   {
+    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
+    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
+    "price": "480",
+    "img": "https://a.allegroimg.com/s360x360/1ef0ad/9da8a3bd4f6d884ad84415853f74",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Mysłowice"
+  },
+  {
     "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
     "title": "Nintendo Switch Pokemon Legends Arceus nowa folia + plakat",
     "price": "235",
@@ -1788,16 +1788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
-    "title": "nowa Minecraft Switch, folia, UKV",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e800e/55c372b848be8e5e9e0812b84680",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-minecraft-switch-folia-ukv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Słupsk"
   },
   {
     "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
@@ -3600,6 +3590,16 @@
     "city": "Reda"
   },
   {
+    "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
+    "title": "Gra na Nintendo Switch Hollow Knight",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ee8ee/f5f5295d4e9db86a5880e60c249d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-hollow-knight?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Mistrzejowice"
+  },
+  {
     "id": "9f1075ef-48e5-4335-8197-5d2a81592beb",
     "title": "Super Mario Bros. Wonder Nintendo Switch",
     "price": "147",
@@ -4188,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
-    "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ee158/3566c7e342fcb472f3e8e44ce931",
-    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-tennis-aces-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "524761cc-d378-4d0f-a1da-ceb17b84a4c3",
+    "title": "Bayonetta 3 Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e1f/b38a0fb348cab026ee0fb2a6c819",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-w63?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Plewiska"
   }
 ]
