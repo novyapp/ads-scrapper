@@ -632,7 +632,7 @@
   {
     "id": "b0cf52bb-29b0-402f-b0ef-7ec9622c1f8a",
     "title": "Super Mario 3D collection All-Stars / Nintendo Switch * Sklep Bytom",
-    "price": "419",
+    "price": "415",
     "img": "https://a.allegroimg.com/s360x360/1ec095/17b255b8464c84b41f9d750032a2",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-collection-nintendo-switch-sklep-bytom?navCategoryId=256922",
     "promoted": true,
@@ -1712,7 +1712,7 @@
   {
     "id": "9048d663-717a-4cd5-9f25-33e6d523bcb2",
     "title": "Cursed Castilla Nintendo Switch",
-    "price": "300",
+    "price": "350",
     "img": "https://a.allegroimg.com/s360x360/1eede1/8edca5724f6a83dfdfe612bb8807",
     "url": "https://allegrolokalnie.pl//oferta/cursed-castilla-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -1788,16 +1788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
-    "title": "nowa Minecraft Switch, folia, UKV",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e800e/55c372b848be8e5e9e0812b84680",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-minecraft-switch-folia-ukv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Słupsk"
   },
   {
     "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "77068926-763c-4f46-9e59-621735a040a4",
+    "title": "Mario + Rabbids Sparks of Hope - używana gra NS",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1e20bf/d9c55a564d4eb1c5be260c35427a",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-uzywana-gra-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   },
   {
     "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
@@ -5400,16 +5400,6 @@
     "city": "Kownaciska"
   },
   {
-    "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
-    "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e455c/8809682847a7927e4130e6fdc607",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-nzd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kownaciska"
-  },
-  {
     "id": "5fb9c6be-9c20-4019-a732-a8a251b5c076",
     "title": "Asterix & Obelix XXXL The Ram From Hibernia - Nowa w Folii",
     "price": "216",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "524761cc-d378-4d0f-a1da-ceb17b84a4c3",
+    "title": "Bayonetta 3 Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3e1f/b38a0fb348cab026ee0fb2a6c819",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-w63?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Plewiska"
   }
 ]
