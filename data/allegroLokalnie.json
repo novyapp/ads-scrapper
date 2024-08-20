@@ -1726,7 +1726,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e8443/cd08d18448a287e44b5d0f3643ba",
     "url": "https://allegrolokalnie.pl//oferta/penny-punching-princess-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1736,7 +1736,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ef07a/44c129d146969c9a78cb841a09cd",
     "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-nintendo-switch-5nd?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1746,7 +1746,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ef70b/040747e84c99a8840b257661b0ab",
     "url": "https://allegrolokalnie.pl//oferta/gal-metal-japan-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1756,7 +1756,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed718/7ced93964d9c9031a01521054999",
     "url": "https://allegrolokalnie.pl//oferta/disgaea-5-complete-nintendo-switch-re3?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1766,7 +1766,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e68a7/4297f6c14103bc149e0e971b14ef",
     "url": "https://allegrolokalnie.pl//oferta/super-bomberman-r-nintendo-switch-kjz?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Tomaszów Mazowiecki"
   },
   {
@@ -1785,6 +1785,16 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s360x360/1e800e/55c372b848be8e5e9e0812b84680",
     "url": "https://allegrolokalnie.pl//oferta/nowa-minecraft-switch-folia-ukv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Słupsk"
+  },
+  {
+    "id": "241b59d1-536a-4fdf-afb7-0e67f68f2acb",
+    "title": "nowa Dragon Quest Builders 2 Switch, folia, UKV",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1eea33/0ff9a3274cdba685f819f7334de0",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-dragon-quest-builders-2-switch-folia-ukv-xso?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Słupsk"
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
-    "title": "No More Heroes Desperate Struggle (LRG) Folia",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s360x360/1e9a49/843d61c645dc9793ae7c8d39a54d",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-desperate-struggle-lrg-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
   },
   {
     "id": "5268abb6-0b26-412c-887d-6cd2573a3f05",
@@ -5388,6 +5388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kownaciska"
+  },
+  {
+    "id": "5fb9c6be-9c20-4019-a732-a8a251b5c076",
+    "title": "Asterix & Obelix XXXL The Ram From Hibernia - Nowa w Folii",
+    "price": "216",
+    "img": "https://a.allegroimg.com/s360x360/1e22b0/55d66806414ea069a5bd01507cee",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-obelix-xxxl-the-ram-from-hibernia-5cw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "5fb9c6be-9c20-4019-a732-a8a251b5c076",
