@@ -3556,7 +3556,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -4185,6 +4185,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1ee158/3566c7e342fcb472f3e8e44ce931",
     "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-tennis-aces-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "35287bdb-3482-49dc-892c-982066fbed25",
+    "title": "Wyprzedaż KOLEKCJI! Mario + Rabbids Kingdom Battle na Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s360x360/1e771f/4386951f4100bef003575bfdc99a",
+    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-rabbids-kingdom-battle-na-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
@@ -4946,7 +4956,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ea20d/af838ff9464aa5ed0de004f20625",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -5388,6 +5398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "ad6d3412-81e8-4f4b-b871-feb16214c367",
+    "title": "Let's get fit nintendo switch",
+    "price": "66",
+    "img": "https://a.allegroimg.com/s360x360/1edb98/adcc3c8349fd9f17caa349ab2524",
+    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-p5h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   },
   {
     "id": "4a09b12b-d0f2-4955-b355-bf9d6d05461a",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
-  },
-  {
-    "id": "0307e372-6f0d-4798-b149-1609ef003159",
-    "title": "Bloodstained Ritual of the Night Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e3a60/739843eb4f19b4814eb98039f5bf",
-    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-nintendo-switch-fcm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Mysłowice"
   }
 ]
