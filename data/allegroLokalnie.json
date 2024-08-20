@@ -60,16 +60,6 @@
     "city": "Parszów"
   },
   {
-    "id": "3cc93c54-71c3-42d9-b36d-004253f22c4c",
-    "title": "Metal Gear Solid Master Collection NINTENDO SWITCH",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e60bf/63f236d54832be89726efdb1db28",
-    "url": "https://allegrolokalnie.pl//oferta/metal-gear-solid-master-collection-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wyszogród"
-  },
-  {
     "id": "95272d37-3882-4cce-a5dd-7ca5a2b30306",
     "title": "Gra Luigi Mansion 2 HD Nintendo Switch",
     "price": "170",
@@ -506,7 +496,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed135/be9c593b432fa7a7f45a5cc0e602",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-switch-z24?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -516,7 +506,7 @@
     "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
     "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa, Praga-Południe"
   },
   {
@@ -4800,16 +4790,6 @@
     "city": "Pasym"
   },
   {
-    "id": "44b35e11-7d16-477d-96bb-4e027790e39b",
-    "title": "Gra Dead Cells Edycja gry roku Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
     "id": "34591acf-5d78-45f6-8881-a4ca7a253a1b",
     "title": "Gra Autonauts na konsole Nintendo Switch Nowa",
     "price": "100",
@@ -5395,6 +5375,16 @@
     "price": "59",
     "img": "https://a.allegroimg.com/s360x360/1e9bf2/aeb7082b47a5ba9cbae4d16772d0",
     "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
+  },
+  {
+    "id": "30f1e953-4801-440b-abe6-789fd2238db2",
+    "title": "Snack World: The Dungeon Crawl - Gold Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ebdad/d96b9f5e4899995fb748ccaa9076",
+    "url": "https://allegrolokalnie.pl//oferta/snack-world-the-dungeon-crawl-gold-switch-yja?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
