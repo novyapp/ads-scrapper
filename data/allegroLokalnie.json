@@ -1,5 +1,15 @@
 [
   {
+    "id": "5d88624b-b6de-4414-acff-540e47db2d75",
+    "title": "Animal Crossing New Horizons Nintendo",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e6848/23939c1d4e5da2b9ea058ef5daa7",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-j7n?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Damasławek"
+  },
+  {
     "id": "a43fa878-cf97-4635-8a9f-6d2ff7200174",
     "title": "Super Mario Bros Wonder",
     "price": "149",
@@ -115,16 +125,6 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s360x360/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
     "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "2a75c8c8-a975-4cef-bb8c-c62ae8bb2067",
-    "title": "Metroid Dread (Switch)",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1ee9b5/3af316254897b556b914ecff2995",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-kco?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Rzeszów"
@@ -600,6 +600,16 @@
     "city": "Białystok"
   },
   {
+    "id": "341d97c4-14c7-4149-a95c-e6c2163345c7",
+    "title": "Sonic Forces Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e9b66/d8541d4b4ecdb0f5b2f6b998c4cd",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-switch-zdf?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
     "title": "Ori and the Will of the Wisps Switch",
     "price": "145",
@@ -692,7 +702,7 @@
   {
     "id": "d2ce0f9b-de02-4a9a-9783-a7db84631e11",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "124",
+    "price": "123",
     "img": "https://a.allegroimg.com/s360x360/1e98e5/8dd02287490e9e3bef109cf68aef",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-ka4?navCategoryId=256922",
     "promoted": true,
@@ -752,7 +762,7 @@
   {
     "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "114",
+    "price": "113",
     "img": "https://a.allegroimg.com/s360x360/1e2a51/26f569c247e69b18505bb6b499ec",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-ore?navCategoryId=256922",
     "promoted": true,
@@ -762,7 +772,7 @@
   {
     "id": "3deb5eaf-4697-4c59-ae32-5bbc92250bba",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "116",
+    "price": "115",
     "img": "https://a.allegroimg.com/s360x360/1ed578/d9549b6347ec98926a7678ad0ca9",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-vbn?navCategoryId=256922",
     "promoted": true,
@@ -1188,26 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Chocianów"
-  },
-  {
-    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
-    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
-    "price": "480",
-    "img": "https://a.allegroimg.com/s360x360/1ef0ad/9da8a3bd4f6d884ad84415853f74",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Mysłowice"
-  },
-  {
-    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
-    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
-    "price": "480",
-    "img": "https://a.allegroimg.com/s360x360/1ef0ad/9da8a3bd4f6d884ad84415853f74",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Mysłowice"
   },
   {
     "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
@@ -1772,7 +1762,7 @@
   {
     "id": "b5a81905-0c8c-4ced-9baf-03ac7101aa02",
     "title": "Disgaea 5 Complete NINTENDO SWITCH",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1ed718/7ced93964d9c9031a01521054999",
     "url": "https://allegrolokalnie.pl//oferta/disgaea-5-complete-nintendo-switch-re3?navCategoryId=256922",
     "promoted": false,
@@ -1798,6 +1788,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
+    "title": "nowa Minecraft Switch, folia, UKV",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e800e/55c372b848be8e5e9e0812b84680",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-minecraft-switch-folia-ukv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Słupsk"
+  },
+  {
+    "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
+    "title": "nowa Minecraft Switch, folia, UKV",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e800e/55c372b848be8e5e9e0812b84680",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-minecraft-switch-folia-ukv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Słupsk"
   },
   {
     "id": "241b59d1-536a-4fdf-afb7-0e67f68f2acb",
@@ -3590,16 +3600,6 @@
     "city": "Reda"
   },
   {
-    "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
-    "title": "Gra na Nintendo Switch Hollow Knight",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee8ee/f5f5295d4e9db86a5880e60c249d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-hollow-knight?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Mistrzejowice"
-  },
-  {
     "id": "9f1075ef-48e5-4335-8197-5d2a81592beb",
     "title": "Super Mario Bros. Wonder Nintendo Switch",
     "price": "147",
@@ -4188,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
+    "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1ee158/3566c7e342fcb472f3e8e44ce931",
+    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-tennis-aces-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
@@ -4800,16 +4810,6 @@
     "city": "Pasym"
   },
   {
-    "id": "34591acf-5d78-45f6-8881-a4ca7a253a1b",
-    "title": "Gra Autonauts na konsole Nintendo Switch Nowa",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e0b61/b19a52344de0abe8ab5aade0ffcb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-autonauts-na-konsole-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
     "id": "90198270-d1e0-41ce-9355-2b89749f781c",
     "title": "WarioWare Get it Together! Wydanie pre-order.",
     "price": "149",
@@ -5400,6 +5400,16 @@
     "city": "Strzelin"
   },
   {
+    "id": "e5c72456-89e4-438e-ba42-36cd5b77d9b4",
+    "title": "Gra NINTENDO SWITCH Pokémon SCARLET",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e455c/8809682847a7927e4130e6fdc607",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-nzd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kownaciska"
+  },
+  {
     "id": "5fb9c6be-9c20-4019-a732-a8a251b5c076",
     "title": "Asterix & Obelix XXXL The Ram From Hibernia - Nowa w Folii",
     "price": "216",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "524761cc-d378-4d0f-a1da-ceb17b84a4c3",
-    "title": "Bayonetta 3 Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e3e1f/b38a0fb348cab026ee0fb2a6c819",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-w63?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Plewiska"
   }
 ]
