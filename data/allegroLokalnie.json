@@ -1,5 +1,25 @@
 [
   {
+    "id": "7bd4550e-2dc9-4077-a5f0-5da19a9ad26c",
+    "title": "NBA 2K24 Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e2339/4a52e40544e5a6cb73567d88accc",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k24-nintendo-switch-5ft?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "20e26cb4-fb7b-4b9f-9edf-07a05daa9247",
+    "title": "FIFA 20 Nintendo Switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1eab85/aa0a443049a9aed17de423b517ad",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-20-nintendo-switch-hrx?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "0e036f9e-0f32-451a-9f09-2ddb553b1b18",
     "title": "Luigi Mansion 3 Nintendo Switch",
     "price": "184",
@@ -4180,26 +4200,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
-    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
-    "price": "239",
-    "img": "https://a.allegroimg.com/s360x360/1ee722/85e4224c422ba41dc338dd4c24f3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
-    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom"
-  },
-  {
     "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
     "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
     "price": "349",
@@ -4778,26 +4778,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
-    "title": "Mario + Rabbids: Kingdom Battle - Gold Edition Nintendo Switch Nowa",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e1bdb/eeed8ec64f2aa347d11caaa3b5aa",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
-    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
   },
   {
     "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
@@ -5400,6 +5380,46 @@
     "city": "Koszalin"
   },
   {
+    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
+    "title": "Switch Gothic PL pudełko NOWA",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
+  },
+  {
+    "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
+    "title": "Ash of Gods: Redemption Switch",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1e9bf2/aeb7082b47a5ba9cbae4d16772d0",
+    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
+  },
+  {
+    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
+    "title": "Switch Gothic PL pudełko NOWA",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
+  },
+  {
+    "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
+    "title": "Ash of Gods: Redemption Switch",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1e9bf2/aeb7082b47a5ba9cbae4d16772d0",
+    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
+  },
+  {
     "id": "30f1e953-4801-440b-abe6-789fd2238db2",
     "title": "Snack World: The Dungeon Crawl - Gold Switch",
     "price": "85",
@@ -5975,26 +5995,6 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
     "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "bb1e690a-bf21-42c4-89cd-b1fb8f7b7078",
-    "title": "THE LEGO MOVIE 2 VIDEOGAME Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e2ec2/b64fc4d7414ca84e0995176dc3f5",
-    "url": "https://allegrolokalnie.pl//oferta/the-lego-movie-2-videogame-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "d4d48faa-3ea1-435a-8d6d-e72bf585b646",
-    "title": "GAME BUILDER GARAGE Nintendo SWITCH NOWA",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1ee691/0b57d94547998073ad98a5f5112f",
-    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
