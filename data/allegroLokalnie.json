@@ -1413,7 +1413,7 @@
     "id": "a5d449c8-c282-4933-a6fc-8d321181a507",
     "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY",
     "price": "255",
-    "img": "https://a.allegroimg.com/s360x360/1e7f17/617bb7e747f989e6a47bed77bd78",
+    "img": "https://a.allegroimg.com/s360x360/1e97f1/3eabf14641d1885bcaad21d31865",
     "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-ndi?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -1473,7 +1473,7 @@
     "id": "85274f6e-8016-4548-b4d2-ffc9ce94d0c4",
     "title": "UNDERTALE + ARTBOOK (SWITCH) WYD US, EGZ NOWY, W FOLII",
     "price": "438",
-    "img": "https://a.allegroimg.com/s360x360/1eeaa8/41f9decf477f9a161209453ca875",
+    "img": "https://a.allegroimg.com/s360x360/1e4955/2965289044ae86068745bb48a44b",
     "url": "https://allegrolokalnie.pl//oferta/undertale-artbook-switch-wyd-us-egz-nowy-w-folii-7qa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -3000,6 +3000,16 @@
     "city": "Kraśnik"
   },
   {
+    "id": "e7194adb-7dfe-4f5c-a90a-b29ae494a680",
+    "title": "HYRULE WARRIORS: DEFINITIVE EDITION Nintendo Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e834b/2eb040b844d5999e7285b6a64483",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-definitive-edition-nintendo-switch-goc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
     "id": "304087c2-fefa-41dd-b6af-cf3c84da3428",
     "title": "Gra Pikmin 4 Nintendo Switch",
     "price": "159",
@@ -3380,16 +3390,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "e8951bb4-7b27-4a94-b0fb-8c4887bf3b83",
-    "title": "Yoshi Crafted World Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1ea1d9/2f6436184d8596907f6d59a88002",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-nintendo-switch-isu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
     "id": "c77e8991-3238-4c25-8586-53d03d9dc2a4",
     "title": "Sprzedam w bardzo dobrym stanie używane gry na Nintendo switch",
     "price": "140",
@@ -3600,23 +3600,13 @@
     "city": "Ruda Śląska, Ruda"
   },
   {
-    "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
-    "title": "Persona 5 Royal na Nintendo Switch (japońskie)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e9fee/a86aaef240b4822bc311d2f29fa4",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-na-nintendo-switch-japonskie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
-  },
-  {
     "id": "b2a614c1-3e17-4365-ad87-a34fa459866e",
     "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
     "price": "19",
     "img": "https://a.allegroimg.com/s360x360/1ea199/9162909f4bbd91c49bd11f73964b",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -5006,7 +4996,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ea20d/af838ff9464aa5ed0de004f20625",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
