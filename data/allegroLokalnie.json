@@ -110,16 +110,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "3fa3f839-9e82-4b4f-8eb6-bc0e1039e3e9",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1efb06/5b11b2b24c6ebd8c24d810338346",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-evm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Parszów"
-  },
-  {
     "id": "95272d37-3882-4cce-a5dd-7ca5a2b30306",
     "title": "Gra Luigi Mansion 2 HD Nintendo Switch",
     "price": "170",
@@ -595,16 +585,6 @@
     "price": "117",
     "img": "https://a.allegroimg.com/s360x360/1ee214/74fef3da4eee8bae788f1012c40d",
     "url": "https://allegrolokalnie.pl//oferta/dreamworks-all-star-kart-racing-sam-kartridz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Ostrzeszów"
-  },
-  {
-    "id": "ba1b815a-21c5-4534-9443-90dfd9dfebd2",
-    "title": "FIREEMBLEM WARRIORS THREE HOPES -Sam KARTRIDŻ",
-    "price": "127",
-    "img": "https://a.allegroimg.com/s360x360/1e8ef1/a6df63b1417c839e908def735432",
-    "url": "https://allegrolokalnie.pl//oferta/fireemblem-warriors-three-hopes-sam-kartridz?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Ostrzeszów"
@@ -1800,6 +1780,26 @@
     "city": "Bielsko-Biała"
   },
   {
+    "id": "dcd8f7af-31b5-4a2d-8470-b2d7a9480043",
+    "title": "Animal Crossing New Horizons Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1eefcc/6301c826438f88c30b0ee86c66fa",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-epl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szubin"
+  },
+  {
+    "id": "dcd8f7af-31b5-4a2d-8470-b2d7a9480043",
+    "title": "Animal Crossing New Horizons Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1eefcc/6301c826438f88c30b0ee86c66fa",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-epl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szubin"
+  },
+  {
     "id": "5aaa0024-c761-4a26-8722-a23143c0dd66",
     "title": "Beholgar Nintendo Switch",
     "price": "150",
@@ -2388,26 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław, Śródmieście"
-  },
-  {
-    "id": "a7d35416-5483-4123-9a7c-965f73eebb02",
-    "title": "Assassin's Creed: The Rebel Collection Switch BLACK FLAG + ROGUE 2 GRY",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e5173/98b634c648aca93384252ab816bd",
-    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-the-rebel-collection-switch-black-flag-rogue-2-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "a7d35416-5483-4123-9a7c-965f73eebb02",
-    "title": "Assassin's Creed: The Rebel Collection Switch BLACK FLAG + ROGUE 2 GRY",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e5173/98b634c648aca93384252ab816bd",
-    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-the-rebel-collection-switch-black-flag-rogue-2-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
@@ -4195,6 +4175,16 @@
     "price": "299",
     "img": "https://a.allegroimg.com/s360x360/1edc88/06eed94543abbe0b2776e233c1bb",
     "url": "https://allegrolokalnie.pl//oferta/infinity-strash-dragon-quest-the-adventure-of-dai-l3n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
+    "title": "Nintendo Switch Ninja Gaiden Master Collection",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
