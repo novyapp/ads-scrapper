@@ -10,16 +10,6 @@
     "city": "Białystok"
   },
   {
-    "id": "8ae404a3-541b-4b7b-bcfb-823cee921441",
-    "title": "Pokemon: Shining Pearl Nintendo Switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e99ff/912d691740aa8e913bfb9083f4f1",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-wqs?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bolesławiec"
-  },
-  {
     "id": "a5d71da7-078f-421e-bdac-b718fb49122d",
     "title": "Kirby and the Forgotten Land",
     "price": "190",
@@ -1328,6 +1318,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "2a374bcf-f180-4f15-8d9d-d5964ab8c42c",
+    "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e235c/77addfa9410e9663458195db1e83",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-ipe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krościenko Wyżne"
   },
   {
     "id": "f5d910cc-0af2-49a4-8749-20e0e3923806",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczawin"
+  },
+  {
+    "id": "ae7cd707-0018-4ced-89e5-33d54debbf3e",
+    "title": "Gry Nintendo switch-minceraft i snipperclips plus",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed24c/b8630c15436983d4e6a9b9b3f17a",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switchminceraft-i-snipperclips-plus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Supraśl"
   }
 ]
