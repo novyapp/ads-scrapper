@@ -1,5 +1,15 @@
 [
   {
+    "id": "a5d71da7-078f-421e-bdac-b718fb49122d",
+    "title": "Kirby and the Forgotten Land",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e4539/5e39d690409a877f866c83affec8",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-jrc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ostróda "
+  },
+  {
     "id": "51a748ae-867e-4ed5-ba16-d54261c60580",
     "title": "Princess Peach: Showtime!",
     "price": "160",
@@ -12,7 +22,7 @@
   {
     "id": "3c65f436-162a-49b2-be9b-b3a3daa1a60b",
     "title": "Gra Spyro Reignited Trilogy na Nintendo Switch",
-    "price": "129",
+    "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e31c4/c8b57b734cf6a2b0cc21bcf6f6ff",
     "url": "https://allegrolokalnie.pl//oferta/gra-spyro-reignited-trilogy-na-nintendo-switch-ic7?navCategoryId=256922",
     "promoted": true,
@@ -1612,7 +1622,7 @@
   {
     "id": "d6697f7c-a431-4a77-b218-b9434cf5aad3",
     "title": "Gra „Mario Tennis Aces",
-    "price": "135",
+    "price": "122",
     "img": "https://a.allegroimg.com/s360x360/1e7134/f14f69ec4303ac31fd33dd21f17a",
     "url": "https://allegrolokalnie.pl//oferta/gra-mario-tennis-aces-rff?navCategoryId=256922",
     "promoted": false,
@@ -2218,16 +2228,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "b8a9633e-15a2-4294-89fd-7f99e777c530",
-    "title": "Gothic II Nintendo Switch PL",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1eb8ec/feccb55b4b5f89e476a890bf42a5",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Poznań"
   },
   {
     "id": "fbd73f5e-ad31-4c89-b5e7-eeb6b5a8ceb5",
@@ -3152,7 +3152,7 @@
   {
     "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
     "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
-    "price": "520",
+    "price": "445",
     "img": "https://a.allegroimg.com/s360x360/1e6eef/3bd3ce6841b496ef6813aec65853",
     "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-wjx?navCategoryId=256922",
     "promoted": false,
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Bemowo"
-  },
-  {
-    "id": "746b7976-d730-4214-8aca-a5729c000be9",
-    "title": "Max The Curse of Brotherhood switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1eaaef/15c1293e476ca81706e74e78313d",
-    "url": "https://allegrolokalnie.pl//oferta/max-the-curse-of-brotherhood-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Szubin"
   }
 ]
