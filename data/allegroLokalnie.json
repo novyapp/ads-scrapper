@@ -1190,6 +1190,16 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
+    "id": "935baf5d-0498-4610-9762-114ae00f4bce",
+    "title": "Mario Odyssey na Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e4ebf/5f8e61a643fbafd2b0ad9e2d2efd",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-na-nintendo-switch-jqi?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Żoliborz"
+  },
+  {
     "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
     "title": "Shin Megami Tensei III nintendo switch",
     "price": "60",
@@ -1775,16 +1785,6 @@
     "price": "349",
     "img": "https://a.allegroimg.com/s360x360/1edd71/3a6c12464163867a3145af88ec63",
     "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-soundtrack-switch-ang-y66?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
-    "title": "Grandia HD Collection Switch ANG",
-    "price": "339",
-    "img": "https://a.allegroimg.com/s360x360/1e4efd/95afc69647a8b5a221ac34a97132",
-    "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -2990,6 +2990,16 @@
     "city": "Poznań, Stare Miasto"
   },
   {
+    "id": "419baa80-15cf-45cc-bbf6-d077fd29205e",
+    "title": "Wiedźmin Edycja Kompletna PL Switch RZADKI RARYTAS",
+    "price": "1 499",
+    "img": "https://a.allegroimg.com/s360x360/1eeada/823ddc3b448dbc7dd65de850c1b9",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-pl-switch-rzadki-rarytas-4m6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Borzęcin"
+  },
+  {
     "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
     "title": "Final Fantasy gra na Switch",
     "price": "99",
@@ -3223,7 +3233,7 @@
     "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
     "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
     "price": "445",
-    "img": "https://a.allegroimg.com/s360x360/1e6eef/3bd3ce6841b496ef6813aec65853",
+    "img": "https://a.allegroimg.com/s360x360/1ef29a/cc7b45564ac7935ca757d033a286",
     "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-wjx?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -4178,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
-    "title": "Super Mario Bros Wonder",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1eaaa1/3aa0fc6d48939e10e591854601ca",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-yg6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Tuczempy "
   },
   {
     "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "d0b70348-0932-4240-b0ff-712e381998c4",
+    "title": "NINJA JajaMaru - The Great Yokai Battle",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e948f/61b61bf44eb086e7daadf3285c39",
+    "url": "https://allegrolokalnie.pl//oferta/ninja-jajamaru-the-great-yokai-battle?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   }
 ]
