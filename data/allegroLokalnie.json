@@ -1190,16 +1190,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "935baf5d-0498-4610-9762-114ae00f4bce",
-    "title": "Mario Odyssey na Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e4ebf/5f8e61a643fbafd2b0ad9e2d2efd",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-na-nintendo-switch-jqi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
-  },
-  {
     "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
     "title": "Shin Megami Tensei III nintendo switch",
     "price": "60",
@@ -1785,6 +1775,16 @@
     "price": "349",
     "img": "https://a.allegroimg.com/s360x360/1edd71/3a6c12464163867a3145af88ec63",
     "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-soundtrack-switch-ang-y66?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
+    "title": "Grandia HD Collection Switch ANG",
+    "price": "339",
+    "img": "https://a.allegroimg.com/s360x360/1e4efd/95afc69647a8b5a221ac34a97132",
+    "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -2856,7 +2856,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e6686/53d424c04f61a116615e33d1ba66",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nowa-folia?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Wieliczka"
   },
   {
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Poznań, Stare Miasto"
-  },
-  {
-    "id": "419baa80-15cf-45cc-bbf6-d077fd29205e",
-    "title": "Wiedźmin Edycja Kompletna PL Switch RZADKI RARYTAS",
-    "price": "1 499",
-    "img": "https://a.allegroimg.com/s360x360/1eeada/823ddc3b448dbc7dd65de850c1b9",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-edycja-kompletna-pl-switch-rzadki-rarytas-4m6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Borzęcin"
   },
   {
     "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
@@ -4190,6 +4180,26 @@
     "city": "Wrocław"
   },
   {
+    "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
+    "title": "Super Mario Bros Wonder",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1eaaa1/3aa0fc6d48939e10e591854601ca",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-yg6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Tuczempy "
+  },
+  {
+    "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
+    "title": "Super Mario Bros Wonder",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1eaaa1/3aa0fc6d48939e10e591854601ca",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-yg6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Tuczempy "
+  },
+  {
     "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
     "title": "Bayonetta 3 - Nintendo Switch",
     "price": "119",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
-    "title": "Monster Truck Championship Nintendo Switch!",
-    "price": "72",
-    "img": "https://a.allegroimg.com/s360x360/1e96b7/0de25e194aebbe4bfad681b60740",
-    "url": "https://allegrolokalnie.pl//oferta/monster-truck-championship-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Konstancin-Jeziorna"
   },
   {
     "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
