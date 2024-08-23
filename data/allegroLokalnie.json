@@ -1,5 +1,15 @@
 [
   {
+    "id": "e1b300ed-d781-48c8-917b-ad581b6b4ac2",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1e67c9/590f4d9041f48b7dbbc975957f68",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-5wc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "eb24ee6f-6bdf-4403-8bb5-8fb52613d159",
     "title": "Ring Fit Adventure + akcesoria",
     "price": "199",
@@ -1442,7 +1452,7 @@
   {
     "id": "af0da2ed-2963-49be-9c75-1330f909db14",
     "title": "Gra na Nintendo switch Minecraft dungeons",
-    "price": "80",
+    "price": "50",
     "img": "https://a.allegroimg.com/s360x360/1e8631/921bd00249129423cade247417f9",
     "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-minecraft-dungeons?navCategoryId=256922",
     "promoted": false,
@@ -1475,16 +1485,6 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s360x360/11419c/054c42e340f0aab5722242b3f8cb",
     "url": "https://allegrolokalnie.pl//oferta/lego-jurassic-world-nintendo-switch-4s3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "0f4bca1f-2e1e-45cf-99f0-1fad73290320",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/11dfcd/c31b22b841f995a267f067ac657d",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-zms?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -1788,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "KUNOWICE"
+  },
+  {
+    "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
+    "title": "Wargroove 1+2 + Soundtrack Switch ANG",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s360x360/1edd71/3a6c12464163867a3145af88ec63",
+    "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-soundtrack-switch-ang-y66?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
@@ -2620,16 +2630,6 @@
     "city": "Lublin"
   },
   {
-    "id": "9c264933-ff81-4e1f-8eee-28f2336849cf",
-    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e9d5c/7683498c408784a4f639622cb05d",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-gnz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Milicz"
-  },
-  {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
     "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
     "price": "279",
@@ -2988,26 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zaborów, Zaborów"
-  },
-  {
-    "id": "fa26946a-c24a-458a-bfdc-3818f97fb482",
-    "title": "Mario Strikers Battle League Football",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e75ac/7bd31f204ca796d18c5c01993c04",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-ou4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
-  },
-  {
-    "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
-    "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
-    "price": "475",
-    "img": "https://a.allegroimg.com/s360x360/1e54d1/9961bc2243c198dffb04d95d4f60",
-    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-rain-code-mysteriful-limited-edition-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Poznań, Stare Miasto"
   },
   {
     "id": "419baa80-15cf-45cc-bbf6-d077fd29205e",
@@ -4810,6 +4790,26 @@
     "city": "Gostynin"
   },
   {
+    "id": "b3243ba9-2f74-4048-a328-f06e88befd89",
+    "title": "Fire Emblem: Engage",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8b71/f1d981294a2eb693602a04b167b0",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nbq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia, Karwiny"
+  },
+  {
+    "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
+    "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e0bd5/dc5f3e68464aad62b71bd793179f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-bros-wonder-nintendo-switch-gadzety-z-gry?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
     "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
     "title": "Monster Truck Championship Nintendo Switch!",
     "price": "72",
@@ -5985,16 +5985,6 @@
     "price": "769",
     "img": "https://a.allegroimg.com/s360x360/1e7217/ab99f2bb44deb928f7213ba352f5",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-dodatki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
-    "id": "82567d23-5191-4e3e-9e83-1eb45d30b53a",
-    "title": "ZESTAW 16 GIER NINTENDO SWITCH ZELDA MARIO",
-    "price": "1 959",
-    "img": "https://a.allegroimg.com/s360x360/1e67fd/e356736a47dd8970ef1107fd9998",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-16-gier-nintendo-switch-zelda-mario?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
