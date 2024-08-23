@@ -272,7 +272,7 @@
   {
     "id": "2ed115d1-fdd3-461e-b271-7c44eca6486a",
     "title": "Mario + Rabbids Kingdom Battle",
-    "price": "99",
+    "price": "89",
     "img": "https://a.allegroimg.com/s360x360/1e062b/97a92a51425fb310e9b5843d39e0",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-s46?navCategoryId=256922",
     "promoted": true,
@@ -1348,16 +1348,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "9e9a6bfa-ccc1-46ad-8ed3-d6d028ce150a",
-    "title": "Pokemon let's go Pikachu",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ec272/d54c264343bfa771b788371627e6",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-agc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "af0da2ed-2963-49be-9c75-1330f909db14",
@@ -5400,16 +5390,6 @@
     "city": "Reda"
   },
   {
-    "id": "8f85a6e9-0b40-4030-a40c-c2aa42fc2a39",
-    "title": "Final Fantasy XII (Switch)",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e674e/8176ed2042b9b3dd5b46f9546940",
-    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-xii-switch-whm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "09d2cc81-7e6e-4f21-a935-7eeba020d099",
     "title": "Metroid Dread (Switch)",
     "price": "150",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bieńczyce"
+  },
+  {
+    "id": "7ce648fa-2fab-4962-921d-2c5b71ba4d9d",
+    "title": "TRIANGLE STRATEGY - NINTENDO SWITCH - STAN IDEALNY",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e4d2d/70823c994a1f9f05b1fc7f71b08a",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Bemowo"
   }
 ]
