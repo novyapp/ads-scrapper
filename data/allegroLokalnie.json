@@ -1790,16 +1790,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
-    "title": "Dragon Quest Treasures",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ed090/192c26914b1b8c19f33a90456d1a",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
     "title": "Shovel Knight Treasure Trove",
     "price": "80",
@@ -2390,14 +2380,14 @@
     "city": "Przemyśl"
   },
   {
-    "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
-    "title": "Charade Maniacs gra visual novel",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e3056/a92b19d64bab8365af35a3baacc0",
-    "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
+    "id": "cb0d3bde-188e-4ab3-85a1-55c93a2b8b64",
+    "title": "POKEMON: LET'S GO, PIKACHU!",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e2ed7/4c97a04f4fe9b6b2bf6394026a4c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-hbb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Przemyśl"
+    "city": "Tczew"
   },
   {
     "id": "cb0d3bde-188e-4ab3-85a1-55c93a2b8b64",
@@ -2990,11 +2980,11 @@
     "city": "Warszawa"
   },
   {
-    "id": "342c6bca-e334-415e-bd13-5d7c3afbf7ab",
-    "title": "Xenoblade chronicles 2 Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e93f3/36ab65b54d7ab769e4d3da2a096e",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-akz?navCategoryId=256922",
+    "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e9ce0/065f411c4ba0871a125785f8c69e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-pua?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Otmuchów"
@@ -3600,6 +3590,16 @@
     "city": "Łomża"
   },
   {
+    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
+    "title": "Nintendo Switch Sports - gra Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e9cea/bda3e95b491382532f02ffd253b2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -4185,16 +4185,6 @@
     "price": "165",
     "img": "https://a.allegroimg.com/s360x360/1edbfc/6657345040939f6cbf341256c8bd",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-shining-resonance-refrain-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "9eab889c-fd6a-4de1-b421-089d315b3672",
-    "title": "Nintendo Switch Dragon Marked for Death",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e18fd/e090958d466f99e2eba6651ccf6f",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -4800,6 +4790,16 @@
     "city": "Łódź, Górna"
   },
   {
+    "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
+    "title": "Switch Minecraft Dungeons - Kartridź Folia PL",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e4d2e/64de71e84834bd19c2e3909d393c",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-dungeons-kartridz-folia-pl-7tl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
     "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
     "title": "Mario + Rabbids: Kingdom Battle - Gold Edition Nintendo Switch Nowa",
     "price": "120",
@@ -5172,7 +5172,7 @@
   {
     "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
     "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
-    "price": "270",
+    "price": "280",
     "img": "https://a.allegroimg.com/s360x360/1e3a4c/a9d45e5b4328a4cca117ceaec9e5",
     "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-edycja-kolekcjonerska-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -5388,16 +5388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Koszalin"
-  },
-  {
-    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
-    "title": "Switch Gothic PL pudełko NOWA",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sarnów"
   },
   {
     "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
@@ -5985,6 +5975,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1ee691/0b57d94547998073ad98a5f5112f",
     "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "4f347388-619a-4f34-9512-3371d16abbf9",
+    "title": "HOKKO LIFE Nintendo SWITCH N O W A folia",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eba27/5ea02d034136bea5e67145845c5e",
+    "url": "https://allegrolokalnie.pl//oferta/hokko-life-nintendo-switch-n-o-w-a-folia?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
