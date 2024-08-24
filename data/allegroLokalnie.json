@@ -30,16 +30,6 @@
     "city": "Dąbrowa Tarnowska"
   },
   {
-    "id": "07910ab2-69d0-4101-bdbe-84854b41d8dc",
-    "title": "Mario vs donkey kong",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e24f3/485fd1714f45afd7851d4d56cb13",
-    "url": "https://allegrolokalnie.pl//oferta/mario-vs-donkey-kong-iq2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dąbrowa Tarnowska"
-  },
-  {
     "id": "6f33668c-4f5c-4ec3-9a49-69fde7d06a4f",
     "title": "Pokémon brilliant diamond & shining pearl+stelbook Nintendo Switch",
     "price": "375",
@@ -1800,6 +1790,16 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "d7018dcd-0d99-40d3-8d43-f06dd850d931",
+    "title": "LUIGI'S MANSION 2 HD / NINTENDO SWITCH",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1ee291/ad08572c4cdf8f3170cdd6af6e16",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-3ld?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
     "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
     "title": "Wargroove 1+2 + Soundtrack Switch ANG",
     "price": "339",
@@ -2990,26 +2990,6 @@
     "city": "Warszawa, Praga-Północ"
   },
   {
-    "id": "5c698472-757e-4191-be0e-1772f7531c7b",
-    "title": "Splatoon 3 Nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e8904/61cd510e48eb95efe657ba70a314",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ksn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
-    "id": "5c698472-757e-4191-be0e-1772f7531c7b",
-    "title": "Splatoon 3 Nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e8904/61cd510e48eb95efe657ba70a314",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ksn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
-  },
-  {
     "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
     "title": "Harvestella Switch",
     "price": "165",
@@ -3598,6 +3578,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Brzoza"
+  },
+  {
+    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
+    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e2a2a/8c2d1c02408ba7d1a52824333e41",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
+    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
+    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e2a2a/8c2d1c02408ba7d1a52824333e41",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
   },
   {
     "id": "8565e7cc-8182-430d-9097-f3419fd21346",
@@ -4190,26 +4190,6 @@
     "city": "Białystok"
   },
   {
-    "id": "86006d65-51ab-4a72-a5c5-3d614bb03f1f",
-    "title": "Fire Emblem Warriors Three Hopes Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1eca81/ee22f53f451cb944c830a0ceb104",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-qsb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Olkusz"
-  },
-  {
-    "id": "86006d65-51ab-4a72-a5c5-3d614bb03f1f",
-    "title": "Fire Emblem Warriors Three Hopes Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1eca81/ee22f53f451cb944c830a0ceb104",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-qsb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Olkusz"
-  },
-  {
     "id": "053b46fc-3448-418d-9e0d-9181c03a9ce9",
     "title": "Nintendo Switch Attack on Titan 2",
     "price": "499",
@@ -4798,6 +4778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
+    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
+    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "0cec294c-47c1-4ca0-a1c1-ad2aaeab39ba",
@@ -5390,26 +5390,6 @@
     "city": "Biały Bór"
   },
   {
-    "id": "0a7f5f29-eadd-4bf1-bee7-b5b397e25e4f",
-    "title": "Animal Crossing New Horizons Nintendo switch gra",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e1b36/efbb7b4f41a9b0819a8b7ff5cab7",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-gra-q2f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wola Będkowska"
-  },
-  {
-    "id": "0a7f5f29-eadd-4bf1-bee7-b5b397e25e4f",
-    "title": "Animal Crossing New Horizons Nintendo switch gra",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e1b36/efbb7b4f41a9b0819a8b7ff5cab7",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-gra-q2f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wola Będkowska"
-  },
-  {
     "id": "9a5cea27-bbd6-46c4-9af2-91fe357977fc",
     "title": "SpongeBob squarepants battle of bikini bottom PL",
     "price": "90",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Włochy"
+  },
+  {
+    "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
+    "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
+    "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
