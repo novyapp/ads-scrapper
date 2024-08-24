@@ -10,16 +10,6 @@
     "city": "Kielce, Kielce"
   },
   {
-    "id": "e1b300ed-d781-48c8-917b-ad581b6b4ac2",
-    "title": "The Legend of Zelda: Tears of the Kingdom",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1e67c9/590f4d9041f48b7dbbc975957f68",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-5wc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "eb24ee6f-6bdf-4403-8bb5-8fb52613d159",
     "title": "Ring Fit Adventure + akcesoria",
     "price": "199",
@@ -352,7 +342,7 @@
   {
     "id": "8c874b73-0d74-4910-87d1-5c629917526e",
     "title": "Gra Nintendo Switch Elder Scrolls V Skyrim",
-    "price": "199",
+    "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1e369b/5d66947e44299162df53f02c1c7e",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-elder-scrolls-v-skyrim?navCategoryId=256922",
     "promoted": true,
@@ -1790,6 +1780,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "03125efc-473b-4250-8569-5ec84b2d6c90",
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ef044/5ced7876466da828bf1615d22884",
+    "url": "https://allegrolokalnie.pl//oferta/teenage-mutant-ninja-turtles-the-cowabunga-collection-smk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
     "title": "Dragon Quest Treasures",
     "price": "100",
@@ -2378,6 +2378,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
+    "title": "Charade Maniacs gra visual novel",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e3056/a92b19d64bab8365af35a3baacc0",
+    "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Przemyśl"
   },
   {
     "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
@@ -2980,16 +2990,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "1b8a36c6-9665-41dc-8916-e3a2d88c9915",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e9ce0/065f411c4ba0871a125785f8c69e",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-pua?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Otmuchów"
-  },
-  {
     "id": "342c6bca-e334-415e-bd13-5d7c3afbf7ab",
     "title": "Xenoblade chronicles 2 Nintendo Switch",
     "price": "170",
@@ -3590,16 +3590,6 @@
     "city": "Łomża"
   },
   {
-    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
-    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1eb21f/05d28abd4254b818201c4f31207d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
     "title": "Nintendo Switch Sports - gra Nintendo Switch",
     "price": "159",
@@ -4185,6 +4175,16 @@
     "price": "499",
     "img": "https://a.allegroimg.com/s360x360/1e7c7b/92628bd643a5a203887ae8eb076c",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-attack-on-titan-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "5fe37c3a-0bc2-4884-98f0-85cd902e2d62",
+    "title": "Nintendo Switch Shining Resonance Refrain Kartridż",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1edbfc/6657345040939f6cbf341256c8bd",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-shining-resonance-refrain-kartridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
