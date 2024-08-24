@@ -32,7 +32,7 @@
   {
     "id": "a5d71da7-078f-421e-bdac-b718fb49122d",
     "title": "Kirby and the Forgotten Land",
-    "price": "190",
+    "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1e4539/5e39d690409a877f866c83affec8",
     "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-jrc?navCategoryId=256922",
     "promoted": true,
@@ -732,7 +732,7 @@
   {
     "id": "d2ce0f9b-de02-4a9a-9783-a7db84631e11",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "123",
+    "price": "122",
     "img": "https://a.allegroimg.com/s360x360/1e98e5/8dd02287490e9e3bef109cf68aef",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-ka4?navCategoryId=256922",
     "promoted": true,
@@ -1268,6 +1268,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "4bb07dde-72f0-4fff-a1eb-e61a05683749",
+    "title": "Dragon Quest Monsters Switch",
+    "price": "157",
+    "img": "https://a.allegroimg.com/s360x360/1e5ff5/68d4248b4c33928d75fac4c56da8",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-monsters-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Uraz"
   },
   {
     "id": "6da7564f-a4ef-4678-adaf-d45e82d91565",
@@ -2390,16 +2400,6 @@
     "city": "Bysław"
   },
   {
-    "id": "0159a6f5-5359-4a76-8e48-0066d03ff9f3",
-    "title": "Super Mario Maker 2",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e2edf/52426a34422489d0fc48476b5c00",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-jho?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
     "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
     "price": "140",
@@ -2988,6 +2988,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
+    "title": "Mario Strikers: Battle League Football Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e3d37/a0423bc94d7e8911f9ed15922091",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-lr4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Północ"
   },
   {
     "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Straszyn"
-  },
-  {
-    "id": "bd5370a0-411f-4a98-92e2-a5554fd5d007",
-    "title": "Lego Przygoda 2 Movie Nintendo Switch kod na email",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s360x360/1ea633/66951db547ef8696eb7746d2da55",
-    "url": "https://allegrolokalnie.pl//oferta/lego-przygoda-2-movie-nintendo-switch-kod-na-email?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sławno"
   },
   {
     "id": "4c5d2358-9418-437b-9433-906d78f1f1fb",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "e0827944-9776-44dd-afc4-c993b1459ccb",
+    "title": "Zestaw Ring Fit Adventure dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e5af9/61454f30411eb36d9ff041e88aea",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-ring-fit-adventure-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bieńczyce"
   }
 ]
