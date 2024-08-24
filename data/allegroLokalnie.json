@@ -1,5 +1,25 @@
 [
   {
+    "id": "a8232f3d-d184-44c5-bc62-a1467223b0fa",
+    "title": "Super Mario Maker 2",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ef3cf/c7bfe70a45168becc4c9bd1543c3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-gvp?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "7bb39aaf-72c8-4379-abe9-92e869f58596",
+    "title": "Animal Crossing New Horizons",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e6901/55b9163d4874b48994d400bea28b",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-66g?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "f568ff97-5501-4992-8aa4-83d0b7b7514a",
     "title": "Mario vs donkey kong",
     "price": "185",
@@ -1200,26 +1220,6 @@
     "city": "Iłża"
   },
   {
-    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
-    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1e69d7/d2038f54458685ebf3990309dd72",
-    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
-    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
-  },
-  {
     "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
     "title": "Story of seasons: Doraemon",
     "price": "85",
@@ -1795,6 +1795,26 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e11f9/e5de409140b1b0879d15fc0bf76c",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nintendo-switch-osz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "8418cf9e-9184-4ec8-83f2-ec5d305347ed",
+    "title": "gra Fashion Dreamer",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed8f5/2d45d3b14cfeb13e9670ea1cf21e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-fashion-dreamer?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
+    "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
+    "title": "Fire Emblem Warriors",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e5b6a/f48e5f7841aeb14e843a73299e2b",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4800,26 +4820,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "9947459b-4524-4573-bcf8-2b232930c57c",
-    "title": "Switch Pokemon Violet .. nowy folia",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e8be2/2ada7bef499bab2e818b526a3ecc",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-violet-nowy-folia-cyz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
-    "title": "Switch Minecraft Dungeons - Kartridź Folia PL",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e4d2e/64de71e84834bd19c2e3909d393c",
-    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-dungeons-kartridz-folia-pl-7tl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "7c82b8d8-c01c-47eb-95dd-d6eb8bbc6483",
     "title": "Mario + Rabbids: Kingdom Battle - Gold Edition Nintendo Switch Nowa",
     "price": "120",
@@ -5400,6 +5400,26 @@
     "city": "Dębno"
   },
   {
+    "id": "8a094510-a190-4e1d-8382-1012b9438fa4",
+    "title": "Nowa Construction Machines Simulator NSW Polski!",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1edc10/926bf29d44779dcd4bad1e13cd1a",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-construction-machines-simulator-nsw-niemiecki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
+    "title": "Switch Gothic PL pudełko NOWA",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
+  },
+  {
     "id": "b6fa0e3d-874e-487b-9d33-34468df2a108",
     "title": "Ash of Gods: Redemption Switch",
     "price": "59",
@@ -5975,26 +5995,6 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1e2ec2/b64fc4d7414ca84e0995176dc3f5",
     "url": "https://allegrolokalnie.pl//oferta/the-lego-movie-2-videogame-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "d4d48faa-3ea1-435a-8d6d-e72bf585b646",
-    "title": "GAME BUILDER GARAGE Nintendo SWITCH NOWA",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1ee691/0b57d94547998073ad98a5f5112f",
-    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "4f347388-619a-4f34-9512-3371d16abbf9",
-    "title": "HOKKO LIFE Nintendo SWITCH N O W A folia",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1eba27/5ea02d034136bea5e67145845c5e",
-    "url": "https://allegrolokalnie.pl//oferta/hokko-life-nintendo-switch-n-o-w-a-folia?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
