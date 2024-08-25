@@ -52,7 +52,7 @@
   {
     "id": "00d82261-bdab-49ec-8271-9c644f278778",
     "title": "Super Mario Bros. Wonder Switch",
-    "price": "172",
+    "price": "171",
     "img": "https://a.allegroimg.com/s360x360/1e2770/9a6f84004d2695cace40fa440423",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-sya?navCategoryId=256922",
     "promoted": true,
@@ -62,7 +62,7 @@
   {
     "id": "32c89b35-727e-4ff3-b4bc-82992e90dea3",
     "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "173",
+    "price": "172",
     "img": "https://a.allegroimg.com/s360x360/1ea655/2a7f016f4844a775d89f367516e9",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-36m?navCategoryId=256922",
     "promoted": true,
@@ -1932,7 +1932,7 @@
   {
     "id": "0cbc69c7-dddc-436a-a1ae-cf8b111da56c",
     "title": "Pikmin 1 + 2 Nintendo Switch",
-    "price": "130",
+    "price": "110",
     "img": "https://a.allegroimg.com/s360x360/1e11f9/e5de409140b1b0879d15fc0bf76c",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nintendo-switch-osz?navCategoryId=256922",
     "promoted": false,
@@ -2385,16 +2385,6 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1eb676/69ce5f1c46f79fc5d73232e74ddf",
     "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-z3b?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
-    "id": "343a2db7-d03a-4d79-a7fc-93855c98f9aa",
-    "title": "Grand Theft Auto The Trilogy Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e874e/7c8ad9a040c4bb57498c8fc37805",
-    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-nintendo-switch-rc4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kielce"
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "7a5f0af0-1984-46a9-9aa0-ea1a7cccc52c",
+    "title": "Sonic Superstars Nintendo Switch, kartridż",
+    "price": "133",
+    "img": "https://a.allegroimg.com/s360x360/1ea838/88d21d584e768632d4a634b773e1",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-superstars-nintendo-switch-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Robakowo"
   },
   {
     "id": "3cdda98d-0512-4f59-a536-cb18d9a249e1",
@@ -5400,16 +5400,6 @@
     "city": "Reda"
   },
   {
-    "id": "7cab37d5-b0d6-4418-963e-9514c9afa8c0",
-    "title": "Catherine: Full Body (Switch)",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e81d3/e39fc93f4d0c8a97b83221c48cc8",
-    "url": "https://allegrolokalnie.pl//oferta/catherine-full-body-switch-a2r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "14c7e7bb-6eef-404f-893e-9e579362f017",
     "title": "Bayonetta 2 (Switch)",
     "price": "120",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bieńczyce"
+  },
+  {
+    "id": "7ce648fa-2fab-4962-921d-2c5b71ba4d9d",
+    "title": "TRIANGLE STRATEGY - NINTENDO SWITCH - STAN IDEALNY",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e4d2d/70823c994a1f9f05b1fc7f71b08a",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Bemowo"
   }
 ]
