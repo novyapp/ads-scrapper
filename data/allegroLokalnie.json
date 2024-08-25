@@ -1,5 +1,25 @@
 [
   {
+    "id": "00d82261-bdab-49ec-8271-9c644f278778",
+    "title": "Super Mario Bros. Wonder Switch",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s360x360/1e2770/9a6f84004d2695cace40fa440423",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-sya?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "32c89b35-727e-4ff3-b4bc-82992e90dea3",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "173",
+    "img": "https://a.allegroimg.com/s360x360/1ea655/2a7f016f4844a775d89f367516e9",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-36m?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wieliczka"
+  },
+  {
     "id": "af6ab2ef-e656-4507-9bf5-3d32946bdc3a",
     "title": "Mario golf super rush gra na nintendo switch",
     "price": "119",
@@ -232,7 +252,7 @@
   {
     "id": "dc8fe472-118c-463f-9458-f56f0c04775f",
     "title": "Gra Nintendo Switch Asterix & Obelix Slap them All Switch edycja limitowana",
-    "price": "145",
+    "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1e1043/77a82e4642539c1c33d24d47d54d",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-asterix-obelix-slap-them-all-switch-edycja-limitowana?navCategoryId=256922",
     "promoted": true,
@@ -4200,26 +4220,6 @@
     "city": "Białystok"
   },
   {
-    "id": "0569e316-fdef-493f-a84c-2c42e2f68234",
-    "title": "Super Monkey Ball Banana Mania Switch",
-    "price": "72",
-    "img": "https://a.allegroimg.com/s360x360/1ecefe/d8e5e8264571b101c86565eba12b",
-    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-mania-switch-dfe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "dd0f135e-89ba-48b3-ac9d-a9d52b695da4",
-    "title": "Gra Nintendo Switch Ring Fit Adventure - NOWA",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1efc3f/41d45ec143c596e1ebb45b7c1c3a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-ring-fit-adventure-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "86006d65-51ab-4a72-a5c5-3d614bb03f1f",
     "title": "Fire Emblem Warriors Three Hopes Switch",
     "price": "80",
@@ -4798,6 +4798,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "4320fbca-e83a-49cb-9054-698e81536834",
+    "title": "Warioware Move It!",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
+    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "0cec294c-47c1-4ca0-a1c1-ad2aaeab39ba",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
-  },
-  {
-    "id": "795b3db1-c2f1-4854-b253-5d3ff29f2d34",
-    "title": "Wiedźmin 3 Edycja Kompletna+ dodatki PL Switch",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s360x360/1e8de3/197e686749bca19d123cc165a44e",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-komplenta-dodatki-pl-switch-iq4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Włochy"
-  },
-  {
-    "id": "d1809e3c-5ff4-4269-9a2f-8d681f1c0f46",
-    "title": "SWITCH LEGO WORLDS stan BDB kardzidz",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1eeff5/1832b0ce4281bb22830766aae3e6",
-    "url": "https://allegrolokalnie.pl//oferta/switch-lego-worlds-stan-bdb-kardzidz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   }
 ]
