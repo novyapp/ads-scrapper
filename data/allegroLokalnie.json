@@ -600,16 +600,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "deb5ac18-3ab9-4ba7-9e14-5121a2a56ece",
-    "title": "Bayonetta 2 stan BdB",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e3759/30da4ec94350aafa2022a1c1777a",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-stan-bdb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
     "id": "af5c1a26-47b8-4bb7-8671-c7ba8c4e06df",
     "title": "Super Mario Odyssey stan BdB",
     "price": "168",
@@ -762,7 +752,7 @@
   {
     "id": "b0cf52bb-29b0-402f-b0ef-7ec9622c1f8a",
     "title": "Super Mario 3D collection All-Stars / Nintendo Switch * Sklep Bytom",
-    "price": "419",
+    "price": "415",
     "img": "https://a.allegroimg.com/s360x360/1ec095/17b255b8464c84b41f9d750032a2",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-collection-nintendo-switch-sklep-bytom?navCategoryId=256922",
     "promoted": true,
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Jarosław"
+  },
+  {
+    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
+    "title": "Scribblenauts Showdown Gra Nintendo Switch",
+    "price": "29",
+    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
+    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Tczew"
   },
   {
     "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
@@ -2523,7 +2523,7 @@
     "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
     "title": "UNDERTALE (SWITCH) WYD US, EGZ NOWY",
     "price": "287",
-    "img": "https://a.allegroimg.com/s360x360/1ecac6/b11926a94410bc61cef3dfb27a82",
+    "img": "https://a.allegroimg.com/s360x360/1e4269/0bab9b574d85b53427d54ef97e24",
     "url": "https://allegrolokalnie.pl//oferta/undertale-switch-wyd-us-egz-nowy-ezb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -5400,26 +5400,6 @@
     "city": "Osielsko"
   },
   {
-    "id": "950cf0e6-d4cc-42ae-b3bf-73253be4ef33",
-    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM",
-    "price": "240",
-    "img": "https://a.allegroimg.com/s360x360/1e1f1e/0f3ea5d84a46ac545df85eb32b9b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wmm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "KACZORY"
-  },
-  {
-    "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
-    "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e3b32/cbfab8474d03a598ea3ef298292b",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-mno?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Osielsko"
-  },
-  {
     "id": "70288f9e-ecf6-42b6-ab53-d47556e6eb6c",
     "title": "NINTENDO GRA NA KONSOLĘ LES SISTERS 2",
     "price": "59",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Twardogóra"
+  },
+  {
+    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
+    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radzyń Podlaski"
+  },
+  {
+    "id": "8fefb9c0-4872-4d98-9674-982f8b4904fc",
+    "title": "NINTENDO SWITCH, - Joy-Con - Czerwony / Niebieski",
+    "price": "750",
+    "img": "https://a.allegroimg.com/s360x360/1ed666/e529f03c4ef3b821071a070c175c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-joycon-czerwony-niebieski-5e2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "przyjazn"
   }
 ]
