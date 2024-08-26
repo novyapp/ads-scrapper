@@ -1,5 +1,15 @@
 [
   {
+    "id": "e4cc2017-4cfc-4ceb-8575-7e49bb7323c1",
+    "title": "Ring Fit Adventure gra Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e15f9/cd84d0094e82b26b2ed15dbd33f2",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-gra-nintendo-switch-bje?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
     "id": "41924e07-8dea-492a-96fe-39aae560ddf1",
     "title": "No More Heroes 3 III NSW Nintendo Switch",
     "price": "80",
@@ -588,16 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wasilków"
-  },
-  {
-    "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
-    "title": "Crash bandicoot n sane trilogy switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1eeb9c/6f40af794f599752264da71a144c",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-switch-r4u?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Suchy Dwór"
   },
   {
     "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
@@ -1782,7 +1782,7 @@
   {
     "id": "28e72b12-1665-45db-8954-d07c09326914",
     "title": "Overcooked 2 Nintendo Switch STAN IDEALNY",
-    "price": "120",
+    "price": "115",
     "img": "https://a.allegroimg.com/s360x360/1ef88e/c5953f154f5b8b2688f2466552bb",
     "url": "https://allegrolokalnie.pl//oferta/overcooked-2-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": false,
@@ -2400,6 +2400,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -2990,16 +3000,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
-  },
-  {
     "id": "f76de3af-4958-4d02-9b56-110659ce595b",
     "title": "Snipperclips plus Nintendo Switch",
     "price": "135",
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
-  },
-  {
-    "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
-    "title": "Road 96 switch signature Edition Limited",
-    "price": "420",
-    "img": "https://a.allegroimg.com/s360x360/1e11b8/a70f9b274a4a85faff4f5db4878b",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-switch-signature-edition-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
   },
   {
     "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kielce"
+  },
+  {
+    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
+    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
+    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   }
 ]
