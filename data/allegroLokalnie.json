@@ -1360,16 +1360,6 @@
     "city": "Łódź"
   },
   {
-    "id": "76a23530-d544-46a6-ae3e-eba2f2f5aab6",
-    "title": "Gothic II Complete Edition",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e6c49/ee872ea14700ae2910510ea26f32",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Poznań"
-  },
-  {
     "id": "0a12779e-f0b8-42f3-a0d0-168a082a1f47",
     "title": "Gry na konsolę Nintendo switch paper matio the origami king",
     "price": "150",
@@ -2400,6 +2390,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
   },
   {
     "id": "f76de3af-4958-4d02-9b56-110659ce595b",
@@ -4200,6 +4190,16 @@
     "city": "Wilkszyn"
   },
   {
+    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
+    "title": "MINECRAFT - Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilkszyn"
+  },
+  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "179",
@@ -4788,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
-    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
   },
   {
     "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
@@ -5400,16 +5390,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "1c6b33c9-fe54-4f2f-b70b-f5486b4e08b2",
-    "title": "Gra Super Mario Bros u deluxe nintendo switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e818b/c3b3de5f47c0b33e095a73aaf3c0",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-bros-u-deluxe-nintendo-switch-gp2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "9eaeda69-7407-43a7-9f7d-94aa34ef11b7",
     "title": "Sakuna Of Rice And Ruin (Switch)",
     "price": "140",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kielce"
+  },
+  {
+    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
+    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
+    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   }
 ]
