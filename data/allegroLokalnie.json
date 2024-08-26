@@ -480,16 +480,6 @@
     "city": "Poznań"
   },
   {
-    "id": "7840550d-0df4-43b6-84f3-27524a1f55fa",
-    "title": "Gra Nintendo Switch The Wolfenstein II The New Colossus",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1ec3d6/556aebd2414cb0aa6452528dd6e8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-the-wolfenstein-ii-the-new-colossus?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "14773d96-499e-4262-be72-58461882485d",
     "title": "Gra Nintendo Switch Doom",
     "price": "159",
@@ -1200,16 +1190,6 @@
     "city": "Jarosław"
   },
   {
-    "id": "2c849131-86de-4420-8994-e9a75d36900f",
-    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/11d1d6/15a9b6aa4496991429c4ad26329d",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Jarosław"
-  },
-  {
     "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
     "title": "Scribblenauts Showdown Gra Nintendo Switch",
     "price": "29",
@@ -1328,6 +1308,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Łódź"
+  },
+  {
+    "id": "6349c2c4-d980-4685-8620-0a242fd19afc",
+    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1edc79/6bef313548d99e2a8889a68c7803",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-qtg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ząbki"
+  },
+  {
+    "id": "41e6d9df-6e97-4191-8203-f44cd80e2a67",
+    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e9541/1d1dd62c42fa87715fb6e43a69ce",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-j2h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ząbki"
   },
   {
     "id": "f883ab63-6a32-4359-a339-9a267a4515d9",
@@ -2390,16 +2390,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "d8de5ab1-a4aa-4c0a-972c-749b6af91a3c",
-    "title": "ARMS Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ec363/4a3e12854ea590e17e88e9c4b10e",
-    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-a3i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "cda44abd-2fd2-43a7-9e97-a930069d0838",
     "title": "Rayman Legends Definitive Edition Nintendo Switch",
     "price": "120",
@@ -3172,7 +3162,7 @@
   {
     "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
     "title": "Super Mario Bros U Deluxe Switch (nowa, folia)",
-    "price": "189",
+    "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1e6686/53d424c04f61a116615e33d1ba66",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nowa-folia?navCategoryId=256922",
     "promoted": false,
@@ -3588,6 +3578,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "282e4fe2-84dd-4f69-adeb-f6750dd39264",
+    "title": "Nowa polska wersja Construction Machines Simulator Okazja !",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e4057/616ff0554cee9465fcc503b0e6ec",
+    "url": "https://allegrolokalnie.pl//oferta/nowa-polska-wersja-construction-machines-simulator-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "koszalin"
   },
   {
     "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
@@ -5390,26 +5390,6 @@
     "city": "Reda"
   },
   {
-    "id": "9eaeda69-7407-43a7-9f7d-94aa34ef11b7",
-    "title": "Sakuna Of Rice And Ruin (Switch)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1edfaf/72f9a67b47a6924f0a424c564718",
-    "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-switch-nff?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
-    "id": "950cf0e6-d4cc-42ae-b3bf-73253be4ef33",
-    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM",
-    "price": "240",
-    "img": "https://a.allegroimg.com/s360x360/1e1f1e/0f3ea5d84a46ac545df85eb32b9b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wmm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "KACZORY"
-  },
-  {
     "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
     "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
     "price": "119",
@@ -5512,7 +5492,7 @@
   {
     "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
     "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
-    "price": "280",
+    "price": "350",
     "img": "https://a.allegroimg.com/s360x360/1e3a4c/a9d45e5b4328a4cca117ceaec9e5",
     "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-edycja-kolekcjonerska-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -5988,5 +5968,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Twardogóra"
+  },
+  {
+    "id": "a261cd6b-26dd-43bb-8f9d-ea244d9c27bf",
+    "title": "rabbids party of legends",
+    "price": "76",
+    "img": "https://a.allegroimg.com/s360x360/1e84fc/7ed03b1b403999f5216ec64418a6",
+    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-x72?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
+    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radzyń Podlaski"
   }
 ]
