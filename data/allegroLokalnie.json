@@ -2100,16 +2100,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "0cbc69c7-dddc-436a-a1ae-cf8b111da56c",
-    "title": "Pikmin 1 + 2 Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e11f9/e5de409140b1b0879d15fc0bf76c",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nintendo-switch-osz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "8418cf9e-9184-4ec8-83f2-ec5d305347ed",
     "title": "gra Fashion Dreamer",
     "price": "100",
@@ -4810,6 +4800,16 @@
     "city": "Groblice"
   },
   {
+    "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
+    "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
+  },
+  {
     "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
     "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
     "price": "549",
@@ -5400,16 +5400,6 @@
     "city": "Młynice"
   },
   {
-    "id": "679ef6d3-fd88-4b9f-81b2-6aec9db3775d",
-    "title": "Astral Chain na nintendo switch - nowa w folii",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e1273/980c51c9423e8a2104176d7ff3d5",
-    "url": "https://allegrolokalnie.pl//oferta/astral-chain-na-nintendo-switch-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
     "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
     "price": "280",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żyrardów"
+  },
+  {
+    "id": "c05df34b-7e5e-42c2-96be-ae54badf3832",
+    "title": "Luigi’s Mansion 3 Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e5269/3a2f7fd247eeb18c4ae713a40cd0",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-7u6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
   }
 ]
