@@ -600,16 +600,6 @@
     "city": "Suchy Dwór"
   },
   {
-    "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
-    "title": "Crash bandicoot n sane trilogy switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1eeb9c/6f40af794f599752264da71a144c",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-switch-r4u?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Suchy Dwór"
-  },
-  {
     "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
     "title": "Super Mario RPG [UKV]",
     "price": "109",
@@ -1195,6 +1185,16 @@
     "price": "135",
     "img": "https://a.allegroimg.com/s360x360/1ed7c9/1ad90f3f4be3a485f605176ad1c2",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-tales-of-vesperia-definitive-edition-bandai-namco?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
+    "title": "Gra Nintendo Switch Burnout Paradise remastered",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
@@ -2385,16 +2385,6 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1eb6eb/87f9d65b4b67934d99e730b397f4",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-b35?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kielce"
+  },
+  {
+    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
+    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
+    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   }
 ]
