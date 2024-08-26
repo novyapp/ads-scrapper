@@ -200,16 +200,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "f568ff97-5501-4992-8aa4-83d0b7b7514a",
-    "title": "Mario vs donkey kong",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e023a/d09988f74459abdb4f05c47c75fd",
-    "url": "https://allegrolokalnie.pl//oferta/mario-vs-donkey-kong-zqi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dąbrowa Tarnowska"
-  },
-  {
     "id": "6f33668c-4f5c-4ec3-9a49-69fde7d06a4f",
     "title": "Pokémon brilliant diamond & shining pearl+stelbook Nintendo Switch",
     "price": "375",
@@ -1210,6 +1200,16 @@
     "city": "Tczew"
   },
   {
+    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
+    "title": "Scribblenauts Showdown Gra Nintendo Switch",
+    "price": "29",
+    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
+    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
     "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
     "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
     "price": "59",
@@ -1800,16 +1800,6 @@
     "city": "Grodzisk Wielkopolski"
   },
   {
-    "id": "225fc29d-b67b-4d55-b5c2-118928b8835b",
-    "title": "Super Mario Wonder Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e22f1/68f372e0474d8ba58fbf3cce8208",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-cap?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "6da7564f-a4ef-4678-adaf-d45e82d91565",
     "title": "Star Wars Jedi Knight Collection Nintendo Switch kartridż EN",
     "price": "75",
@@ -1958,16 +1948,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Włocławek"
-  },
-  {
-    "id": "aeee9ee6-9d6e-4ce8-bdb8-c32bfc5bebbc",
-    "title": "No more heroes 3 Nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ee113/25c09ddd45c4a214bfa2075f6e49",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-nintendo-switch-jxj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "a5cc492e-f9f5-4a31-9f1a-4fedf503ccd3",
@@ -4220,6 +4200,26 @@
     "city": "Sosnowiec"
   },
   {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
+    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1ee25d/8f3e191c4a54841858fa880c52ce",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "02700a86-732a-410a-bd80-a7083bd13810",
     "title": "Gry nintendo switch",
     "price": "999",
@@ -4798,26 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
-    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e5fd1/bf8c730f4be6b74b722c4759750c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
-    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e9acc/3680cbf84de4a1639029e27219b7",
-    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   },
   {
     "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Twardogóra"
+  },
+  {
+    "id": "a261cd6b-26dd-43bb-8f9d-ea244d9c27bf",
+    "title": "rabbids party of legends",
+    "price": "76",
+    "img": "https://a.allegroimg.com/s360x360/1e84fc/7ed03b1b403999f5216ec64418a6",
+    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-x72?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
+    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radzyń Podlaski"
   }
 ]
