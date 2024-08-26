@@ -1,5 +1,25 @@
 [
   {
+    "id": "b14417d9-5087-41cf-a98e-a33d470239fc",
+    "title": "Sea of Stars N.Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e2582/20b811f34b1eb6dcc636c91cd9ee",
+    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-nswitch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "c678f3f2-0eec-43b3-90ea-793b834068ef",
+    "title": "The Legend of Zelda: Skyward Sword HD",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1886/f4b748d548adb163ca9dd8c53e35",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-sa7?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "2816104a-f523-4862-92e9-f056b3843282",
     "title": "Marvel Ultimate Alliance 3: The Black Order Switch",
     "price": "169",
@@ -72,7 +92,7 @@
   {
     "id": "00d82261-bdab-49ec-8271-9c644f278778",
     "title": "Super Mario Bros. Wonder Switch",
-    "price": "171",
+    "price": "169",
     "img": "https://a.allegroimg.com/s360x360/1e2770/9a6f84004d2695cace40fa440423",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-sya?navCategoryId=256922",
     "promoted": true,
@@ -1178,26 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Jarosław"
-  },
-  {
-    "id": "862047e2-71b9-4a3d-b797-10f84e9f68cf",
-    "title": "Scribblenauts Showdown Gra Nintendo Switch",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s360x360/1e51c0/a34db6824a0185674d7db42dc93a",
-    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-gra-nintendo-switch-prezent-dla-syna-dzien-ojca?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
-    "id": "eefcc3c8-2096-41e0-ba5c-9e14fc6d54d1",
-    "title": "Gra NBA 2K20 2K 20 Nintendo Switch Nintendo Switch v2 Lite",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e3d7e/d3a5521d436d993aa06ad47063f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k20-2k-20-nintendo-switch-nintendo-switch-v2-lite?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "935baf5d-0498-4610-9762-114ae00f4bce",
@@ -2395,6 +2395,46 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1eb6eb/87f9d65b4b67934d99e730b397f4",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-b35?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "0cfa781c-b3ad-4464-8505-ec117e8b8a21",
+    "title": "Animal Crossing Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e73dd/3d1c0e544915b5af7ae28fccb14b",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-xcg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "d8de5ab1-a4aa-4c0a-972c-749b6af91a3c",
+    "title": "ARMS Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ec363/4a3e12854ea590e17e88e9c4b10e",
+    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-a3i?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "cda44abd-2fd2-43a7-9e97-a930069d0838",
+    "title": "Rayman Legends Definitive Edition Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ea80b/d6099c084e4f83a0c8e63f7b9bef",
+    "url": "https://allegrolokalnie.pl//oferta/rayman-legends-definitive-edition-nintendo-switch-rsi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
+    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1eadec/d4bc6e344ca5b154b6331ef0d08a",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-izk?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5958,45 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Twardogóra"
-  },
-  {
-    "id": "a261cd6b-26dd-43bb-8f9d-ea244d9c27bf",
-    "title": "rabbids party of legends",
-    "price": "76",
-    "img": "https://a.allegroimg.com/s360x360/1e84fc/7ed03b1b403999f5216ec64418a6",
-    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-x72?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Twardogóra"
-  },
-  {
-    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
-    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radzyń Podlaski"
-  },
-  {
-    "id": "8fefb9c0-4872-4d98-9674-982f8b4904fc",
-    "title": "NINTENDO SWITCH, - Joy-Con - Czerwony / Niebieski",
-    "price": "750",
-    "img": "https://a.allegroimg.com/s360x360/1ed666/e529f03c4ef3b821071a070c175c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-joycon-czerwony-niebieski-5e2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "przyjazn"
-  },
-  {
-    "id": "5d273dde-ec90-4b1a-bb7c-5da1eeaf5b02",
-    "title": "MARIO+RABBIDS SPARKS OF HOPE",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e3b79/4651585d44f594d622378a0ae68d",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-w5d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
   }
 ]
