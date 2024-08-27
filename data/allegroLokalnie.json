@@ -60,16 +60,6 @@
     "city": "Sieradz"
   },
   {
-    "id": "c678f3f2-0eec-43b3-90ea-793b834068ef",
-    "title": "The Legend of Zelda: Skyward Sword HD",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e1886/f4b748d548adb163ca9dd8c53e35",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-sa7?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "2816104a-f523-4862-92e9-f056b3843282",
     "title": "Marvel Ultimate Alliance 3: The Black Order Switch",
     "price": "169",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Suchy Dwór"
-  },
-  {
-    "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
-    "title": "Super Mario RPG [UKV]",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e95bd/0a601f594ca59179aed4106dffef",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-ukv-yab?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bytom"
   },
   {
     "id": "39b0c6a6-4988-48c2-ba6a-a6219480fa43",
@@ -1195,6 +1175,16 @@
     "price": "135",
     "img": "https://a.allegroimg.com/s360x360/1ed7c9/1ad90f3f4be3a485f605176ad1c2",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-tales-of-vesperia-definitive-edition-bandai-namco?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wrocław, Wroclaw"
+  },
+  {
+    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
+    "title": "Gra Nintendo Switch Burnout Paradise remastered",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
@@ -1800,16 +1790,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "5b84f137-6486-489f-aba0-52868c5565ca",
-    "title": "Gra Pokemon Legends Arceus Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e25a1/e328746142a7a26d184d6c658a84",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-legends-arceus-nintendo-switch-62t?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "1bd3ee81-d0a6-4445-935b-f740688e15d5",
     "title": "Hades Nintendo switch",
     "price": "209",
@@ -2398,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
+    "title": "Castlevania advance collection switch",
+    "price": "275",
+    "img": "https://a.allegroimg.com/s360x360/1e5fe6/41e2b2714f2f806f4bb68eb5e8b3",
+    "url": "https://allegrolokalnie.pl//oferta/castlevania-advance-collection-switch-gb3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   },
   {
     "id": "02185a90-6566-4e85-9835-5fcc5cc95d00",
@@ -3000,16 +2990,6 @@
     "city": "Lębork"
   },
   {
-    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
-    "title": "Mario Strikers Battle League Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e3b5e/59f0f8134d10a9aae01914e55847",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lębork"
-  },
-  {
     "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
     "price": "279",
@@ -3598,6 +3578,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "03d9f08e-38fd-49d8-a86b-59b5635f2b84",
+    "title": "Dr Kawashima's Brain Training for Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5ebc/a954c1324371a66a28daf7d1b702",
+    "url": "https://allegrolokalnie.pl//oferta/dr-kawashimas-brain-training-for-nintendo-switch-y56?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
   },
   {
     "id": "0511ca72-0eda-4241-be41-5d20ed88e59b",
@@ -4800,6 +4790,16 @@
     "city": "Kazimierz Dolny"
   },
   {
+    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
+    "title": "Pokemon Violet Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1eaeb5/98f89d274396aa355b1313835fd5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gaszowice"
+  },
+  {
     "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
     "price": "96",
@@ -5388,16 +5388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
-  },
-  {
-    "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
-    "title": "Bayonetta 3    switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ed925/e2e094044761be589dd738e71a64",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wroclaw"
   },
   {
     "id": "1c6b33c9-fe54-4f2f-b70b-f5486b4e08b2",
