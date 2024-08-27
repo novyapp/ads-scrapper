@@ -1360,16 +1360,6 @@
     "city": "Łódź"
   },
   {
-    "id": "5eb156a2-4bc5-4b54-a0bd-380ceb1a4fa2",
-    "title": "Xenoblade Chronicles Definitive Edition Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e054c/1c0d94b24854a138a66462e1bac0",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-switch-flz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żelechów"
-  },
-  {
     "id": "db4aa16a-c15e-4691-b259-9c9739973f81",
     "title": "Star Wars Jedi Knight Collection Nintendo Switch",
     "price": "95",
@@ -3000,6 +2990,26 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "6c6befcd-7ed5-4ec4-8594-b5dff75e3f9b",
+    "title": "Farming Simulator 23 Nintendo Switch PL",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s360x360/1ed10b/ba2658234a28b100312c844016bd",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-23-nintendo-switch-pl-cje?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "6c6befcd-7ed5-4ec4-8594-b5dff75e3f9b",
+    "title": "Farming Simulator 23 Nintendo Switch PL",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s360x360/1ed10b/ba2658234a28b100312c844016bd",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-23-nintendo-switch-pl-cje?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "77068926-763c-4f46-9e59-621735a040a4",
     "title": "Mario + Rabbids Sparks of Hope - używana gra NS",
     "price": "89",
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
-  },
-  {
-    "id": "282e4fe2-84dd-4f69-adeb-f6750dd39264",
-    "title": "Nowa polska wersja Construction Machines Simulator Okazja !",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1e4057/616ff0554cee9465fcc503b0e6ec",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-polska-wersja-construction-machines-simulator-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "koszalin"
   },
   {
     "id": "282e4fe2-84dd-4f69-adeb-f6750dd39264",
@@ -5400,16 +5400,6 @@
     "city": "KACZORY"
   },
   {
-    "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
-    "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e3b32/cbfab8474d03a598ea3ef298292b",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-mno?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Osielsko"
-  },
-  {
     "id": "70288f9e-ecf6-42b6-ab53-d47556e6eb6c",
     "title": "NINTENDO GRA NA KONSOLĘ LES SISTERS 2",
     "price": "59",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "przyjazn"
+  },
+  {
+    "id": "5d273dde-ec90-4b1a-bb7c-5da1eeaf5b02",
+    "title": "MARIO+RABBIDS SPARKS OF HOPE",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e3b79/4651585d44f594d622378a0ae68d",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-w5d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Młynice"
   }
 ]
