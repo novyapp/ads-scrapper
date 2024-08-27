@@ -252,7 +252,7 @@
   {
     "id": "6f33668c-4f5c-4ec3-9a49-69fde7d06a4f",
     "title": "Pokémon brilliant diamond & shining pearl+stelbook Nintendo Switch",
-    "price": "375",
+    "price": "350",
     "img": "https://a.allegroimg.com/s360x360/1ebd94/9a0d2ded41deb1ecd2a9355ff305",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-stelbook-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -2390,6 +2390,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
+    "title": "DC Super Hero Girls Teen Power",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
+    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
     "title": "Miitopia Nintendo Switch",
     "price": "120",
@@ -2978,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
-    "title": "Paper Mario Thousand Year Door NS",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1eaa34/864f78804164bb38a523d1ecc8f6",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-thousand-year-door-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Stare Miasto"
   },
   {
     "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Żarów"
+  },
+  {
+    "id": "e9590bdc-57dc-4fbd-ba0a-9784197e2660",
+    "title": "NBA 2K24 Kobe Bryant Edition EU Nintendo Switch",
+    "price": "73",
+    "img": "https://a.allegroimg.com/s360x360/1e1ed9/1b1eca104bfba492f317c3c024f3",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k24-kobe-bryant-edition-eu-nintendo-switch-wtp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kielce"
   }
 ]
