@@ -1760,16 +1760,6 @@
     "city": "Wrocław, Krzyki"
   },
   {
-    "id": "b6a8ff67-ea7b-4c08-9e81-2a4c1d7d7045",
-    "title": "Zestaw 3 gier Nintendo Switch",
-    "price": "380",
-    "img": "https://a.allegroimg.com/s360x360/1e42e0/bfdb87a44a5089ea4840f6eee94c",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-3-gier-nintendo-switch-6pc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "KUNOWICE"
-  },
-  {
     "id": "5b84f137-6486-489f-aba0-52868c5565ca",
     "title": "Gra Pokemon Legends Arceus Nintendo Switch",
     "price": "165",
@@ -2400,16 +2390,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
-    "title": "Super Smash Bros. Ultimate Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -2998,6 +2978,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
+    "title": "Super Smash Bros Ultimate",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rokietnica"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -4198,16 +4188,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Poznań, Grunwald"
-  },
-  {
-    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
-    "title": "MINECRAFT - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilkszyn"
   },
   {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kielce"
+  },
+  {
+    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
+    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
+    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   }
 ]
