@@ -3590,6 +3590,16 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
+    "title": "Road 96 switch signature Edition Limited",
+    "price": "420",
+    "img": "https://a.allegroimg.com/s360x360/1e11b8/a70f9b274a4a85faff4f5db4878b",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-switch-signature-edition-limited?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
     "id": "a9afc5a9-4f66-478a-83ef-1d3e3edb3463",
     "title": "STWÓRZ SWOJEGO WŁASNEGO POKEMONA",
     "price": "5",
@@ -4190,16 +4200,6 @@
     "city": "Wilkszyn"
   },
   {
-    "id": "4e182bbe-382a-492e-849e-072d18e162b8",
-    "title": "MINECRAFT - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e0e11/8bc5312a4ceaad33602f19b35b44",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-leg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilkszyn"
-  },
-  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "179",
@@ -4778,6 +4778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
+    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
+    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e5fd1/bf8c730f4be6b74b722c4759750c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   },
   {
     "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
@@ -5380,26 +5400,6 @@
     "city": "KACZORY"
   },
   {
-    "id": "9eaeda69-7407-43a7-9f7d-94aa34ef11b7",
-    "title": "Sakuna Of Rice And Ruin (Switch)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1edfaf/72f9a67b47a6924f0a424c564718",
-    "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-switch-nff?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
-    "id": "950cf0e6-d4cc-42ae-b3bf-73253be4ef33",
-    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM",
-    "price": "240",
-    "img": "https://a.allegroimg.com/s360x360/1e1f1e/0f3ea5d84a46ac545df85eb32b9b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wmm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "KACZORY"
-  },
-  {
     "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
     "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
     "price": "119",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Twardogóra"
+  },
+  {
+    "id": "f995fde1-0d32-4165-9852-64e4037495b3",
+    "title": "Bayonetta Origins Cereza and the Lost Demon Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ed941/9e9091ae473ab975b786c0283f4c",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-and-the-lost-demon-switch-aq7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radzyń Podlaski"
+  },
+  {
+    "id": "8fefb9c0-4872-4d98-9674-982f8b4904fc",
+    "title": "NINTENDO SWITCH, - Joy-Con - Czerwony / Niebieski",
+    "price": "750",
+    "img": "https://a.allegroimg.com/s360x360/1ed666/e529f03c4ef3b821071a070c175c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-joycon-czerwony-niebieski-5e2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "przyjazn"
   }
 ]
