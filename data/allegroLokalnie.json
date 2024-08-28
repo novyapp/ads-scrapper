@@ -1450,6 +1450,16 @@
     "city": "Łódź"
   },
   {
+    "id": "42506da8-6a1c-4f64-83a3-71f3ad8c3f5b",
+    "title": "link s Awakening",
+    "price": "700",
+    "img": "https://a.allegroimg.com/s360x360/1e15da/3cd038444b76843d2ab387f9ce93",
+    "url": "https://allegrolokalnie.pl//oferta/link-s-awakening?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gulczewo"
+  },
+  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
     "price": "105",
@@ -1785,16 +1795,6 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s360x360/1e0fbb/2b7afc984581907ea224f2f4336a",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-madison?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "d90c4522-3fdb-483f-a574-a4fda4f0c232",
-    "title": "Nintendo Switch Luigi's Mansion 3",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e0f01/51d0a7a649d5ab6d725a4c98c1ac",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-luigis-mansion-3-e3s?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -2400,36 +2400,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "a5d449c8-c282-4933-a6fc-8d321181a507",
-    "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY",
-    "price": "265",
-    "img": "https://a.allegroimg.com/s360x360/1e97f1/3eabf14641d1885bcaad21d31865",
-    "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-ndi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "74bcaa13-46ea-4834-9245-dc0e46ddabdb",
-    "title": "MARIO+Rabbids Kingdom Battele Nintendo Switch Używana",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e43c9/127c382042cdbda9f0bfe5a6254f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battele-nintendo-switch-uzywana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kędzierzyn-Koźle, Koźle"
-  },
-  {
-    "id": "85274f6e-8016-4548-b4d2-ffc9ce94d0c4",
-    "title": "UNDERTALE + ARTBOOK (SWITCH) WYD US, EGZ NOWY, W FOLII",
-    "price": "437",
-    "img": "https://a.allegroimg.com/s360x360/1eeaa8/41f9decf477f9a161209453ca875",
-    "url": "https://allegrolokalnie.pl//oferta/undertale-artbook-switch-wyd-us-egz-nowy-w-folii-7qa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
     "title": "Wargroove 1+2 + Soundtrack Switch ANG",
     "price": "319",
@@ -2998,6 +2968,36 @@
     "promoted": false,
     "smartPost": false,
     "city": "Rębielice Królewskie"
+  },
+  {
+    "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
+    "title": "Pokemon Sword + Pokemon Sword Expansion Pass Nintendo Switch",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s360x360/1e5e1b/71b1d5524f2dac2e011c492a401a",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-pokemon-sword-expansion-pass-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
+  },
+  {
+    "id": "302742ba-bd32-459e-a41b-0470ff916b5d",
+    "title": "Plecak z edycji Destroy All Humans",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s360x360/1efc35/e23061b240d987e7211ac27a8996",
+    "url": "https://allegrolokalnie.pl//oferta/plecak-z-edycji-destroy-all-humans-p35?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
+    "title": "Charade Maniacs gra visual novel",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e3056/a92b19d64bab8365af35a3baacc0",
+    "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Przemyśl"
   },
   {
     "id": "cb0d3bde-188e-4ab3-85a1-55c93a2b8b64",
@@ -4200,26 +4200,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
-    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e7d67/39848e2d4bc288e92509f4ca7e1c",
-    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
-  },
-  {
-    "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
-    "title": "Persona 5 Royal na Nintendo Switch (japońskie)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e9fee/a86aaef240b4822bc311d2f29fa4",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-na-nintendo-switch-japonskie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
-  },
-  {
     "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
     "title": "Everybody 1-2-Switch!",
     "price": "80",
@@ -4818,16 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
-  },
-  {
-    "id": "2cdaf615-7123-4266-859f-ec26520c28a1",
-    "title": "Gra Switch Splatoon 2 Cartridge",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ef7cd/00946c914efea632fd600ddb09f8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-switch-splatoon-2-cartridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wejherowo"
   },
   {
     "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
@@ -5988,5 +5958,45 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "0cc32acd-b40e-4eed-ac24-048000cfe5ad",
+    "title": "Nintendo Labo Variety Kit",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e323f/60aa1b6e4899b3d067d1edf954ff",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-variety-kit-icb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
+  },
+  {
+    "id": "b5b70d2b-ccc1-4c39-8bd2-48cae9ab9375",
+    "title": "Jumanji Dzikie Przygody gra Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e86e1/e62b8e2d42589bf6ebc00bfa97dc",
+    "url": "https://allegrolokalnie.pl//oferta/jumanji-dzikie-przygody-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Strumień"
+  },
+  {
+    "id": "be7a3b76-c519-4344-955d-cb9e2a9a4773",
+    "title": "Dragon quest xi echoes of an elusive age switch",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1e4fbc/59f112c841339aaf7f33ccc2cad8",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-echoes-of-an-elusive-age-switch-3bd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
+    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
+    "title": "Minecraft nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
   }
 ]
