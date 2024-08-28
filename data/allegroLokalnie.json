@@ -1,5 +1,15 @@
 [
   {
+    "id": "1468031a-afb9-4fab-ba02-44deb5e22d7d",
+    "title": "ANIMAL CROSSING NEW HORIZONS",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e35ee/0b7c579f40e78bfbab09483aa10c",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-4bn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
     "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
     "title": "Hyrule Warriors: Age of Calamity Switch",
     "price": "140",
@@ -380,16 +390,6 @@
     "city": "Skierniewice"
   },
   {
-    "id": "20e26cb4-fb7b-4b9f-9edf-07a05daa9247",
-    "title": "FIFA 20 Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s360x360/1eab85/aa0a443049a9aed17de423b517ad",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-20-nintendo-switch-hrx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "dc8fe472-118c-463f-9458-f56f0c04775f",
     "title": "Gra Nintendo Switch Asterix & Obelix Slap them All Switch edycja limitowana",
     "price": "120",
@@ -412,7 +412,7 @@
   {
     "id": "65deb90c-bf19-472e-b2b3-e2a70da96750",
     "title": "MarioKart 8 Deluxe Nintendo Switch",
-    "price": "185",
+    "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1e2127/b7fda61348f89f7f1590b3aba327",
     "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-8-koz?navCategoryId=256922",
     "promoted": true,
@@ -598,26 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "6b967924-0246-47c3-aa8a-064ef1739f19",
-    "title": "Star Wars Heritage Pack",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e7c7a/ceee1e65450880ce47e66307027c",
-    "url": "https://allegrolokalnie.pl//oferta/star-wars-heritage-pack?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "b28cfee4-1e4a-4234-be03-11e024788730",
-    "title": "Bo: Path of the Tear Lotus Nowa Switch",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e8db8/1a66cf6549ffa9a8255b28e09f30",
-    "url": "https://allegrolokalnie.pl//oferta/bo-path-of-the-tear-lotus-nowa-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wasilków"
   },
   {
     "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
@@ -1022,7 +1002,7 @@
   {
     "id": "d9d55c0b-b3ee-40e9-9c57-312cd2cf849d",
     "title": "Paper Mario the Origami King Nintendo Switch",
-    "price": "189",
+    "price": "185",
     "img": "https://a.allegroimg.com/s360x360/1eff53/f8f271814537b409a15042ebc068",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-ink?navCategoryId=256922",
     "promoted": true,
@@ -1198,6 +1178,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "JAWORZE"
+  },
+  {
+    "id": "b6028dad-c307-427c-b6a4-dd2a84126328",
+    "title": "Nintendo Switch Sports + Opaska stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1e7c44/0641b2de4cef8cbd5d8387d82960",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-opaska-stan-bdb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
+    "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e9ecb/a893419946349ed954fde672377d",
+    "url": "https://allegrolokalnie.pl//oferta/darius-cozmic-collection-nintendo-switch-jpn-nowa-qss?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
   },
   {
     "id": "b6028dad-c307-427c-b6a4-dd2a84126328",
@@ -1398,6 +1398,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Łódź"
+  },
+  {
+    "id": "5f13f753-c105-4b49-8ebf-047672c69af6",
+    "title": "Psi Patrol / On a Roll",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1ee884/4b419e5544b8b87f382b71d6636a",
+    "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
+    "title": "GRA NINTENDO GAME NIGHT",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e15ac/ca77e8b44d3897e105e7f79c5c4a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-game-night?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Sącz, Kochanowskiego"
   },
   {
     "id": "0ec92964-933e-4de3-9957-af586766daee",
@@ -1780,6 +1800,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "ed7425b8-a3ba-4487-a908-b6a28b7b77fc",
+    "title": "Nintendo Switch Happy Birthdays",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e25de/c3055cea41ad85d3f4ccbe081d28",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-happy-birthdays?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "9032fa75-73d4-4fbb-ad0e-df7912a9456f",
     "title": "Nintendo Switch Croixleur Sigma",
     "price": "130",
@@ -1798,6 +1828,56 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "cda52cae-bd39-4f80-93d9-390a748356ed",
+    "title": "Nintendo Switch Trails of Cold Steel IV 4",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s360x360/1e790b/43b0196843329a6887ac637d0565",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trails-of-cold-steel-iv-4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "95988eb0-d339-4cfb-98bc-8ba17676dafa",
+    "title": "Nintendo Switch Nightmare Reaper - Super Rare Games",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s360x360/1e65ba/4175b3814156a57edc310d20bcea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-nightmare-reaper-super-rare-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "86b6d0ce-046f-468f-b2be-2daeb47a7641",
+    "title": "Nintendo Switch Crowns and Pawns - Super Rare Games",
+    "price": "270",
+    "img": "https://a.allegroimg.com/s360x360/1eebbe/e871dd694f03931cf9a45eb14786",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crowns-and-pawns-super-rare-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "3c3b1448-5a59-47ba-b213-83d335da839c",
+    "title": "Farming simulator 20 Nintendo Switch",
+    "price": "77",
+    "img": "https://a.allegroimg.com/s360x360/1e6375/9b91f07d473d97b9a4310bacb56f",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-20-nintendo-switch-ch3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Dzikowo Chrapy, Chrapy"
+  },
+  {
+    "id": "7b812ff9-2d89-408b-866d-04f31e778ccc",
+    "title": "Crash Team Racing CTR",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e75b5/c14678b4493ab7102f650b6fdda8",
+    "url": "https://allegrolokalnie.pl//oferta/crash-team-racing-ctr-5ys?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ochota"
   },
   {
     "id": "2188c01f-8297-433d-a5bc-fdf45cbaa4ce",
@@ -2348,56 +2428,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
-    "title": "DC Super Hero Girls Teen Power",
-    "price": "40",
-    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
-    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
-    "title": "Miitopia Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e29b6/47dea86b413dbd7c580eaa9a0a79",
-    "url": "https://allegrolokalnie.pl//oferta/miitopia-nintendo-switch-q3d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
-    "title": "Castlevania advance collection switch",
-    "price": "275",
-    "img": "https://a.allegroimg.com/s360x360/1e5fe6/41e2b2714f2f806f4bb68eb5e8b3",
-    "url": "https://allegrolokalnie.pl//oferta/castlevania-advance-collection-switch-gb3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
-  },
-  {
-    "id": "02185a90-6566-4e85-9835-5fcc5cc95d00",
-    "title": "Atari 50 dla Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e2bef/b478f91d4d3dae10fac420f94fbc",
-    "url": "https://allegrolokalnie.pl//oferta/atari-50-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
-    "title": "Super Smash Bros. Ultimate Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
@@ -3492,7 +3522,7 @@
   {
     "id": "8fd69435-9620-4fcf-a391-7a26391256c2",
     "title": "Fifa 22 Edycja Legacy Nintendo Switch",
-    "price": "59",
+    "price": "55",
     "img": "https://a.allegroimg.com/s360x360/1e4bf9/f4ef12c7453795d69ae9045892f3",
     "url": "https://allegrolokalnie.pl//oferta/fifa-22-edycja-legacy-qtz?navCategoryId=256922",
     "promoted": false,
@@ -5968,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "9a0a606d-a73e-459e-ad3c-ad4dcb94f1ad",
-    "title": "Prince of Persów The Lost Crown",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ecfc2/bdee8c124679b81580ecbfdd2399",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persow-the-lost-crown?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Żarów"
-  },
-  {
-    "id": "e9590bdc-57dc-4fbd-ba0a-9784197e2660",
-    "title": "NBA 2K24 Kobe Bryant Edition EU Nintendo Switch",
-    "price": "73",
-    "img": "https://a.allegroimg.com/s360x360/1e1ed9/1b1eca104bfba492f317c3c024f3",
-    "url": "https://allegrolokalnie.pl//oferta/nba-2k24-kobe-bryant-edition-eu-nintendo-switch-wtp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kielce"
-  },
-  {
-    "id": "bcd5ab01-3b47-4f12-8bc5-87b4a331c82e",
-    "title": "Dariusburst: Another Chronicle EX+ Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ec47d/bcdbda1c42ecae0eb6eb671d2526",
-    "url": "https://allegrolokalnie.pl//oferta/dariusburst-another-chronicle-ex-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Twardogóra"
   }
 ]
