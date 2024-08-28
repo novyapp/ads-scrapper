@@ -210,16 +210,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "840db236-eb09-428b-9fad-aa7238dfb9ba",
-    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e17a1/95dc646f4a7db7af7aab2da91163",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-cxk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gorzów Wlkp"
-  },
-  {
     "id": "b440f9b0-97c4-477f-90e4-c29a9c5c7db9",
     "title": "Metroid prime remastered Nintendo Switch",
     "price": "119",
@@ -472,7 +462,7 @@
   {
     "id": "9b4f3363-207f-415f-a4a5-ea6743b2c387",
     "title": "Fire Emblem Warriors: Three Hopes - Limited Edition Nintendo Switch",
-    "price": "250",
+    "price": "240",
     "img": "https://a.allegroimg.com/s360x360/1e62c3/6e449fd047d0bef4dd3cd64d4a2b",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-limited-edition-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1451,7 +1441,7 @@
   },
   {
     "id": "dfb4c259-65b0-4770-a46b-fe49313d2f26",
-    "title": "Legend od Zelda Link’s Awakening na Switch",
+    "title": "Legend of Zelda Link’s Awakening na Switch",
     "price": "190",
     "img": "https://a.allegroimg.com/s360x360/1ed22b/36fe08d6445cae65524d212880f6",
     "url": "https://allegrolokalnie.pl//oferta/legend-od-zelda-links-awakening-na-switch?navCategoryId=256922",
@@ -2353,7 +2343,7 @@
     "id": "a5d449c8-c282-4933-a6fc-8d321181a507",
     "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY",
     "price": "265",
-    "img": "https://a.allegroimg.com/s360x360/1ee4a0/4029f1ab472db8838ee072023b86",
+    "img": "https://a.allegroimg.com/s360x360/1e97f1/3eabf14641d1885bcaad21d31865",
     "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-ndi?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -3286,7 +3276,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ef049/aae9853e4a77a5aa0a46bd1c5374",
     "url": "https://allegrolokalnie.pl//oferta/paw-patrol-world-swiat-psiego-patrolu-ns?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Świnoujście"
   },
   {
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
+    "title": "WARIO WARE GET IT TOGETHER NOWA FOLIA",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e5aab/45a4d9174d618a16bbbebae3a8cc",
+    "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nowa-folia-gadzety?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   }
 ]
