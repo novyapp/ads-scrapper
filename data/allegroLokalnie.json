@@ -1,5 +1,15 @@
 [
   {
+    "id": "8b38f399-6b45-4a3b-9865-fb5bd041df5e",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s360x360/1ed9e7/75edcac54b8a8c0aa0fbcc5e8e21",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-dbx?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wieliczka"
+  },
+  {
     "id": "74943ce2-ba0a-4601-b1aa-315a14e3ebd9",
     "title": "Super Smash Bros. Ultimate NSW Nintendo Switch",
     "price": "190",
@@ -1102,7 +1112,7 @@
   {
     "id": "887a945a-5aa3-4298-9236-bdbafa7a932b",
     "title": "Railway Empire Nintendo Switch",
-    "price": "89",
+    "price": "85",
     "img": "https://a.allegroimg.com/s360x360/1e9751/8775b9954f90bc1c5fdd0431d179",
     "url": "https://allegrolokalnie.pl//oferta/railway-empire-nintendo-switch-x5d?navCategoryId=256922",
     "promoted": true,
@@ -1790,16 +1800,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "5158cb37-692a-4f47-a396-4fd2f0313c5f",
-    "title": "Nintendo Switch Crisis Remastered",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1edd30/0ed30275436e8a161a03718a6eb5",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-remastered?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
     "title": "Nintendo Switch Mario Kart 8",
     "price": "185",
@@ -2385,6 +2385,16 @@
     "price": "319",
     "img": "https://a.allegroimg.com/s360x360/1edd71/3a6c12464163867a3145af88ec63",
     "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-soundtrack-switch-ang-y66?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
+    "title": "Grandia HD Collection Switch ANG",
+    "price": "319",
+    "img": "https://a.allegroimg.com/s360x360/1e4efd/95afc69647a8b5a221ac34a97132",
+    "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
-  },
-  {
-    "id": "cb0d3bde-188e-4ab3-85a1-55c93a2b8b64",
-    "title": "POKEMON: LET'S GO, PIKACHU!",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e2ed7/4c97a04f4fe9b6b2bf6394026a4c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-hbb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tczew"
   },
   {
     "id": "3ec6e0d3-4012-4d81-9ce1-2223e68277f2",
@@ -4800,6 +4800,16 @@
     "city": "Wejherowo"
   },
   {
+    "id": "2cdaf615-7123-4266-859f-ec26520c28a1",
+    "title": "Gra Switch Splatoon 2 Cartridge",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1ef7cd/00946c914efea632fd600ddb09f8",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-splatoon-2-cartridge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wejherowo"
+  },
+  {
     "id": "08c35e85-7f05-4df8-89c5-67ff32f788cb",
     "title": "Switch Splatoon 2 .. nowy folia",
     "price": "129",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siemianowice Śląskie"
-  },
-  {
-    "id": "c4da8788-a321-4965-bd94-e10cc41c84ed",
-    "title": "Minecraft nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e40c5/f924dd7740179fb728fc14ddad7a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-vk4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   }
 ]
