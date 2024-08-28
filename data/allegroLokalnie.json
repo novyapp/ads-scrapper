@@ -600,16 +600,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "39b0c6a6-4988-48c2-ba6a-a6219480fa43",
-    "title": "Xenoblade Chronicles 3 jak Nówka",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e50ff/47e5210845bb89c9fbf9afebfbca",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-jak-nowka?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
     "id": "deb5ac18-3ab9-4ba7-9e14-5121a2a56ece",
     "title": "Bayonetta 2 stan BdB",
     "price": "115",
@@ -852,7 +842,7 @@
   {
     "id": "9609a802-90bb-4bf0-952b-f836e4e7bf8b",
     "title": "Lego Star Wars PL Switch",
-    "price": "96",
+    "price": "95",
     "img": "https://a.allegroimg.com/s360x360/1ef925/398f30304f30844ac7fcd584a812",
     "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-cyg?navCategoryId=256922",
     "promoted": true,
@@ -862,7 +852,7 @@
   {
     "id": "293cfb28-fa1d-4986-967f-bce8b40984e7",
     "title": "Mario + Rabbids Sparks of Hope Switch",
-    "price": "95",
+    "price": "94",
     "img": "https://a.allegroimg.com/s360x360/1ea6d5/d3cd8941488da075abff72e9e96d",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-switch-yvn?navCategoryId=256922",
     "promoted": true,
@@ -872,7 +862,7 @@
   {
     "id": "5d2bf0dc-1bf9-400f-920b-4acb93cedda0",
     "title": "Lego Ninjago PL-ANG Switch",
-    "price": "69",
+    "price": "68",
     "img": "https://a.allegroimg.com/s360x360/1e222c/648b51304a34a113cc300de96380",
     "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
     "promoted": true,
@@ -962,7 +952,7 @@
   {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
     "title": "Super Mario RPG Switch",
-    "price": "154",
+    "price": "153",
     "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
     "promoted": true,
@@ -972,7 +962,7 @@
   {
     "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
     "title": "Kangurek Kao Switch PL",
-    "price": "107",
+    "price": "106",
     "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
     "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
     "promoted": true,
@@ -2400,6 +2390,16 @@
     "city": "Piaseczno"
   },
   {
+    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
-  },
-  {
-    "id": "a9afc5a9-4f66-478a-83ef-1d3e3edb3463",
-    "title": "STWÓRZ SWOJEGO WŁASNEGO POKEMONA",
-    "price": "5",
-    "img": "https://a.allegroimg.com/s360x360/1edaf2/dd4b158342f49addf3c1fe906fa3",
-    "url": "https://allegrolokalnie.pl//oferta/stworz-swojego-wlasnego-pokemona?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszków, Malichy"
   },
   {
     "id": "a9afc5a9-4f66-478a-83ef-1d3e3edb3463",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Młynice"
+  },
+  {
+    "id": "a5778b19-3ceb-4a12-8bc0-69818800f5c7",
+    "title": "Gra lets sing 2023 Nintendo",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1ed186/cf94632d4adb8f59ef425d93912b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-lets-sing-2023-nintendo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Piaseczno"
   }
 ]
