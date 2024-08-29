@@ -10,16 +10,6 @@
     "city": "Wałycz"
   },
   {
-    "id": "c7ce6401-258c-4fad-b2f0-cc9d85fb0c91",
-    "title": "Luigi Mansion 2 HD",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1eb2c6/9051fb8c4bc080b61272664444bc",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-2-hd-udu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wałycz"
-  },
-  {
     "id": "b5d9d2bb-cd4d-4135-a588-bd0a6d80226c",
     "title": "Mario Kart 8 Deluxe Nintendo switch",
     "price": "165",
@@ -1198,16 +1188,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
-    "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec762/ed3c560040b0ad66f0d95b5d079d",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-xenoverse-2-nintendo-switch-xqd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "6dcfc100-0324-4708-8905-b09f8f583d55",
@@ -3393,7 +3373,7 @@
     "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
     "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
     "price": "289",
-    "img": "https://a.allegroimg.com/s360x360/1ef0ac/7b2553b940a3b6c3fab7f69b6466",
+    "img": "https://a.allegroimg.com/s360x360/1e7ec0/93a226364fe6ba136f819466ab71",
     "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -3423,7 +3403,7 @@
     "id": "3fd76805-3d8a-4425-8218-06e5841bcbab",
     "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
     "price": "329",
-    "img": "https://a.allegroimg.com/s360x360/1e2e16/f5b7204148b1a045d752ca93f9c9",
+    "img": "https://a.allegroimg.com/s360x360/1eee3e/714b42e04c98890f26be54052efb",
     "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-zux?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -4198,6 +4178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
+    "title": "Monster Hunter Rise + Steelbook",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Czarnów"
   },
   {
     "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
@@ -5400,16 +5390,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
-    "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1ea79e/be5a7fba4dcb9c8a7b5133b1c287",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-nowa-itx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "255a7c0c-a050-4cd2-a884-0541d97da575",
     "title": "Gra Bayonetta 2 na Nintendo Switch",
     "price": "129",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
+    "title": "WARIO WARE GET IT TOGETHER NOWA FOLIA",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e5aab/45a4d9174d618a16bbbebae3a8cc",
+    "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nowa-folia-gadzety?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   }
 ]
