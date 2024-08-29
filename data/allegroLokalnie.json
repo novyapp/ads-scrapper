@@ -1190,16 +1190,6 @@
     "city": "Białystok"
   },
   {
-    "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
-    "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec762/ed3c560040b0ad66f0d95b5d079d",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-xenoverse-2-nintendo-switch-xqd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "6dcfc100-0324-4708-8905-b09f8f583d55",
     "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna Nintendo Switch UNIKAT",
     "price": "280",
@@ -1785,6 +1775,16 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s360x360/1e0fbb/2b7afc984581907ea224f2f4336a",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-madison?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "d90c4522-3fdb-483f-a574-a4fda4f0c232",
+    "title": "Nintendo Switch Luigi's Mansion 3",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e0f01/51d0a7a649d5ab6d725a4c98c1ac",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-luigis-mansion-3-e3s?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -4190,16 +4190,6 @@
     "city": "Czarnów"
   },
   {
-    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
-    "title": "Pokemon Shining Pearl",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -4788,6 +4778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
+    "title": "Metroid Prime Remastered (Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1fe2/7fb339b04406b6886bc2091e9aac",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   },
   {
     "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
