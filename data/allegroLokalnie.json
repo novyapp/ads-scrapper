@@ -1460,6 +1460,16 @@
     "city": "Łódź"
   },
   {
+    "id": "c537d589-ba76-4ee9-a396-3e5c2dd35971",
+    "title": "Zelda Breath of the Wild Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1ed3fb/a6257ed04f40876b28dff3e93d30",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-nintendo-switch-f3q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdansk"
+  },
+  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
     "price": "105",
@@ -1632,7 +1642,7 @@
   {
     "id": "3f8bbe8c-2820-4394-acbe-39e1cbbccf71",
     "title": "GRA METROID DREAD SWITCH Nintendo Switch unikat",
-    "price": "149",
+    "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1ee76f/a47ff84943a6aaad569f96f69be3",
     "url": "https://allegrolokalnie.pl//oferta/gra-metroid-dread-switch-nintendo-switch-unikat?navCategoryId=256922",
     "promoted": false,
@@ -1948,16 +1958,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Aleksandrów Łódzki"
-  },
-  {
-    "id": "5d976cdb-2a33-426d-b4b1-800007d6635f",
-    "title": "Super Mario 3D All Stars",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s360x360/1e69ef/93d2059a4a46b3848dadb6ff1374",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-tss?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "ca38d795-20bc-49d6-b2e4-e6fcaa2bfa58",
@@ -4190,6 +4190,16 @@
     "city": "Czarnów"
   },
   {
+    "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
+    "title": "Pokemon Shining Pearl",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e1d84/49b1bf3a416cbb253e3a18b7b283",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shinning-pearl-kax?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "0bdcb4bd-ada8-4aae-80c3-9ae7dfa95d28",
     "title": "Gra na Nintendo Switch Hollow Knight",
     "price": "130",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
-    "title": "Metroid Prime Remastered (Switch)",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e1fe2/7fb339b04406b6886bc2091e9aac",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
   },
   {
     "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "bbebb3ef-8c3c-40ca-8f99-9f4660031b80",
+    "title": "Baldur’s Gate I & II Enhanced Edition",
+    "price": "479",
+    "img": "https://a.allegroimg.com/s360x360/1edc86/53ee659d4e94b120437905a4bc4b",
+    "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-i-ii-enhanced-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wejherowo"
   }
 ]
