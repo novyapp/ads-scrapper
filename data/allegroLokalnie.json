@@ -202,7 +202,7 @@
   {
     "id": "3a21bd90-8a1c-4fa5-84a3-f1a7771dda7e",
     "title": "Gra Advance Wars RE-BOOT Camp 1+2",
-    "price": "130",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e2e00/0adc772b46ebaa82b2fa699da580",
     "url": "https://allegrolokalnie.pl//oferta/gra-advance-wars-reboot-camp-1-2?navCategoryId=256922",
     "promoted": true,
@@ -298,16 +298,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Wieliczka"
-  },
-  {
-    "id": "74943ce2-ba0a-4601-b1aa-315a14e3ebd9",
-    "title": "Super Smash Bros. Ultimate NSW Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e1e62/99024bb74c09970fcde563ae7baf",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nsw-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "d74c6db1-aa5d-43ae-9fb5-a750d01e46e5",
@@ -448,16 +438,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Mikołów"
-  },
-  {
-    "id": "6f707409-9888-457f-8dce-99b6f8f33a39",
-    "title": "Gra The Legend of Zelda Breath of the Wild",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e1d13/c427e32f461684a74a4c9d354fd2",
-    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-x4n?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Sieradz"
   },
   {
     "id": "2816104a-f523-4862-92e9-f056b3843282",
@@ -5995,6 +5975,26 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e0e1f/53ea100441c397f3b1b751d70c64",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-switch-7v3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "4655db38-5b9b-44dd-8774-33e30f0cc3c2",
+    "title": "Bayonetta 3 (Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1075/8d5d7153430a895272b41df4766a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-uhp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "08f592e2-746e-4ea2-b4e9-07b3f8c81995",
+    "title": "Xenoblade Chronicles Definitive Edition (Switch)",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ec188/7f9a1ddc456c96c0a4aac741f90b",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-switch-334?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
