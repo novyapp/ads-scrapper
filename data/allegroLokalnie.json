@@ -1330,6 +1330,16 @@
     "city": "Warszawa, Rembertów"
   },
   {
+    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
+    "title": "Mario Odyssey NINTENDO SWITCH ideał",
+    "price": "187",
+    "img": "https://a.allegroimg.com/s360x360/1e8d32/01d6bed64fc7bbe433d6c736aa19",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
     "id": "270083c9-dadb-497d-a872-230efc69a9a6",
     "title": "Ghost Trick na Nintendo Switch",
     "price": "200",
@@ -1788,16 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Elbląg"
-  },
-  {
-    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
-    "title": "Super Mario Odyssey gra na Nintendo Switch",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s360x360/1e9f03/4a44f40f40b7866bf522f47e03bb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   },
   {
     "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
@@ -2400,6 +2400,16 @@
     "city": "Włocławek"
   },
   {
+    "id": "af0da2ed-2963-49be-9c75-1330f909db14",
+    "title": "Gra na Nintendo switch Minecraft dungeons",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e8631/921bd00249129423cade247417f9",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-minecraft-dungeons?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włocławek"
+  },
+  {
     "id": "a5cc492e-f9f5-4a31-9f1a-4fedf503ccd3",
     "title": "Spongebob SquarePants: Battle for Bikini Bottom Nintendo Switch",
     "price": "80",
@@ -2978,6 +2988,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Katowice, Wełnowiec"
+  },
+  {
+    "id": "47487921-4826-41c5-be0c-60cee33df1b1",
+    "title": "Pokemon Sword + Steelbook - Nintendo Switch",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s360x360/1e1f55/891c4507458d9c04735600bc8138",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-steelbook-nintendo-switch-3zi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ochota"
+  },
+  {
+    "id": "794f00d6-4d45-4226-95ff-8d24185171d4",
+    "title": "It Takes Two Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebd7b/33fabcd14da8be8df307f9f4477b",
+    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintendo-switch-nlz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   },
   {
     "id": "0240adf0-b5b5-416b-b940-8c40693211f0",
@@ -3570,36 +3600,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
-    "price": "289",
-    "img": "https://a.allegroimg.com/s360x360/1e15e0/423aa6474b8d9dce8f905e124fcc",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "b5c633d9-040b-4218-8aa5-b899f51a5331",
-    "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
-    "price": "242",
-    "img": "https://a.allegroimg.com/s360x360/1ece66/346fa3304c799c2c319b739f46ba",
-    "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-qcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
-    "price": "289",
-    "img": "https://a.allegroimg.com/s360x360/1e15e0/423aa6474b8d9dce8f905e124fcc",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "9ee2cecd-a87c-4dc1-b4da-bca5904266c2",
     "title": "Animal Crossing Nintendo Switch",
     "price": "150",
@@ -4180,14 +4180,34 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
-    "title": "Mario Odyssey NINTENDO SWITCH ideał",
-    "price": "187",
-    "img": "https://a.allegroimg.com/s360x360/1e8d32/01d6bed64fc7bbe433d6c736aa19",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
-    "promoted": true,
+    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
+    "title": "Pokemon Sword Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6668/415244aa4f8596585309602a043c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Lublin"
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
+    "title": "Bayonetta 3 Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed4a9/67acc7514666b6afc31fbb098266",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
+    "title": "Bayonetta 3 Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed4a9/67acc7514666b6afc31fbb098266",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
   },
   {
     "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
