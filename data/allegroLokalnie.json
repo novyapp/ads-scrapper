@@ -1450,16 +1450,6 @@
     "city": "Kraków"
   },
   {
-    "id": "8f4af2ba-e906-453b-84a8-088b3069df84",
-    "title": "The Legend of Zelda: Link's Awakening [Nintendo Switch]",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e94d3/23bcc7ad49fdb7888d627959f4d3",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-nintendo-switch-gzg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "c899b16e-cf6e-49b2-bed2-a0c59fc56f78",
     "title": "Metroid Prime Remastered Nintendo Switch",
     "price": "130",
@@ -1662,7 +1652,7 @@
   {
     "id": "02aa3726-694a-4f0a-8631-477b44d77185",
     "title": "MUSHIHIMESAMA / NOWA / LIMITED RUN GAMES / SWITCH",
-    "price": "280",
+    "price": "260",
     "img": "https://a.allegroimg.com/s360x360/1e12c7/8ea8265245f2957c6d21f2d6d943",
     "url": "https://allegrolokalnie.pl//oferta/mushihimesama-nowa-limited-run-games-switch?navCategoryId=256922",
     "promoted": false,
@@ -1785,6 +1775,26 @@
     "price": "49",
     "img": "https://a.allegroimg.com/s360x360/1ef473/266228164af5a23d3acab14c8740",
     "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "1fdd59c4-e7a1-4084-8123-082b3086e173",
+    "title": "Spirit of the North Kartridż jak Nowa",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1ee3e5/866ea9034d2fa289ac6ac9f6104c",
+    "url": "https://allegrolokalnie.pl//oferta/spirit-of-the-north-kartridz-jak-nowa-ysb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "485fc898-6882-45f4-91fb-6b365916bac2",
+    "title": "Tanuki Justice Kartridż Limitowana Edycja stan BdB",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1ea783/5f8eda9c425cadf86d54e97ee903",
+    "url": "https://allegrolokalnie.pl//oferta/tanuki-justice-kartridz-limitowana-edycja-stan-bdb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Szczebrzeszyn"
@@ -2388,26 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kędzierzyn-Koźle, Koźle"
-  },
-  {
-    "id": "85274f6e-8016-4548-b4d2-ffc9ce94d0c4",
-    "title": "UNDERTALE + ARTBOOK (SWITCH) WYD US, EGZ NOWY, W FOLII",
-    "price": "445",
-    "img": "https://a.allegroimg.com/s360x360/1eeaa8/41f9decf477f9a161209453ca875",
-    "url": "https://allegrolokalnie.pl//oferta/undertale-artbook-switch-wyd-us-egz-nowy-w-folii-7qa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
-    "title": "Wargroove 1+2 + Soundtrack Switch ANG",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s360x360/1edd71/3a6c12464163867a3145af88ec63",
-    "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-soundtrack-switch-ang-y66?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Nowogrodziec"
+  },
+  {
+    "id": "b840d8f3-afa9-4c26-bf4b-f00f0ec9d96c",
+    "title": "let's get fit nintendo switch",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1e1279/20a2517b4d73960f8dde0acc0d65",
+    "url": "https://allegrolokalnie.pl//oferta/lets-get-fit-nintendo-switch-vsa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
+  },
+  {
+    "id": "7833fbc4-98dd-4383-9f30-e93c8d5e6f78",
+    "title": "Wonder boy nintendo switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1436/f9ac19ba456a9854d1a323b194e6",
+    "url": "https://allegrolokalnie.pl//oferta/wonder-boy-nintendo-switch-6vh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Twardogóra"
   }
 ]
