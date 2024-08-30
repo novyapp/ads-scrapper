@@ -392,7 +392,7 @@
   {
     "id": "78ff524d-42a7-4f49-883e-2ace3c5ba3b6",
     "title": "Xenoblade Chronicles 3",
-    "price": "140",
+    "price": "125",
     "img": "https://a.allegroimg.com/s360x360/1e3606/02f20448402284afe7cb7ab36b6b",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-h4z?navCategoryId=256922",
     "promoted": true,
@@ -402,7 +402,7 @@
   {
     "id": "8f441e54-7551-4fe9-86c3-21fbc96255fd",
     "title": "Bayonetta 2 Switch",
-    "price": "110",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e64b5/8739f7cc44efb873c5e50c417a60",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-nmw?navCategoryId=256922",
     "promoted": true,
@@ -2400,16 +2400,6 @@
     "city": "Krościenko Wyżne"
   },
   {
-    "id": "2a374bcf-f180-4f15-8d9d-d5964ab8c42c",
-    "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e235c/77addfa9410e9663458195db1e83",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-ipe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krościenko Wyżne"
-  },
-  {
     "id": "ee885ea9-ff83-4162-ba61-2e56437939e1",
     "title": "Syberia Trilogy I Switch I Po Polsku I Dubbing",
     "price": "299",
@@ -2998,6 +2988,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "c9bab88a-6674-4d4f-b1a9-1937b73d9d48",
+    "title": "FIFA 22 Legacy Edition Switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/119523/fed4930f4988bc6c0eec3c3c9e37",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-legacy-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Katowice, Wełnowiec"
+  },
+  {
+    "id": "c9bab88a-6674-4d4f-b1a9-1937b73d9d48",
+    "title": "FIFA 22 Legacy Edition Switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/119523/fed4930f4988bc6c0eec3c3c9e37",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-legacy-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Katowice, Wełnowiec"
   },
   {
     "id": "47487921-4826-41c5-be0c-60cee33df1b1",
@@ -3590,26 +3600,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
-    "title": "Minecraft Story Mode Nintendo Switch",
-    "price": "435",
-    "img": "https://a.allegroimg.com/s360x360/1e1e5b/724610b84cfbbee23b3a6ba1ecf4",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-story-modenintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
-    "title": "Minecraft Story Mode Nintendo Switch",
-    "price": "435",
-    "img": "https://a.allegroimg.com/s360x360/1e1e5b/724610b84cfbbee23b3a6ba1ecf4",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-story-modenintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "b5c633d9-040b-4218-8aa5-b899f51a5331",
     "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
     "price": "242",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "olecko"
+  },
+  {
+    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
+    "title": "Super Mario 3d World Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1eb394/18c354254e8e8521965fc745798d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
   },
   {
     "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
