@@ -600,16 +600,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "dc8fe472-118c-463f-9458-f56f0c04775f",
-    "title": "Gra Nintendo Switch Asterix & Obelix Slap them All Switch edycja limitowana",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e1043/77a82e4642539c1c33d24d47d54d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-asterix-obelix-slap-them-all-switch-edycja-limitowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wrocław, Wroclaw"
-  },
-  {
     "id": "65deb90c-bf19-472e-b2b3-e2a70da96750",
     "title": "MarioKart 8 Deluxe Nintendo Switch",
     "price": "175",
@@ -1800,6 +1790,16 @@
     "city": "Elbląg"
   },
   {
+    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
+    "title": "Super Mario Odyssey gra na Nintendo Switch",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s360x360/1e9f03/4a44f40f40b7866bf522f47e03bb",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
     "title": "Luigi Mansion 3 gra na Nintendo Switch",
     "price": "190",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "af0da2ed-2963-49be-9c75-1330f909db14",
-    "title": "Gra na Nintendo switch Minecraft dungeons",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s360x360/1e8631/921bd00249129423cade247417f9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-minecraft-dungeons?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włocławek"
   },
   {
     "id": "af0da2ed-2963-49be-9c75-1330f909db14",
@@ -3000,6 +2990,16 @@
     "city": "Warszawa, Ochota"
   },
   {
+    "id": "794f00d6-4d45-4226-95ff-8d24185171d4",
+    "title": "It Takes Two Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebd7b/33fabcd14da8be8df307f9f4477b",
+    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintendo-switch-nlz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
+  },
+  {
     "id": "0240adf0-b5b5-416b-b940-8c40693211f0",
     "title": "Troll Hunters Lowca Trolli nintendo",
     "price": "55",
@@ -3585,16 +3585,6 @@
     "price": "242",
     "img": "https://a.allegroimg.com/s360x360/1ece66/346fa3304c799c2c319b739f46ba",
     "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-qcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
-    "price": "289",
-    "img": "https://a.allegroimg.com/s360x360/1e15e0/423aa6474b8d9dce8f905e124fcc",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Koszalin"
+  },
+  {
+    "id": "eb11218b-4baa-4fdc-ad16-3ccaf1362a46",
+    "title": "Switch Gothic PL pudełko NOWA",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1e9ac2/4fd1ae2c4bb3a747abf8a1e782bb",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gothic-pl-pudelko-nowa-hee?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sarnów"
   }
 ]
