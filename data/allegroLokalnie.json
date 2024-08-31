@@ -1270,16 +1270,6 @@
     "city": "Białystok"
   },
   {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
     "id": "d9d55c0b-b3ee-40e9-9c57-312cd2cf849d",
     "title": "Paper Mario the Origami King Nintendo Switch",
     "price": "185",
@@ -1648,6 +1638,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Łódź"
+  },
+  {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Białystok"
   },
   {
     "id": "f640aae1-d441-4246-8291-ea5db72a105b",
