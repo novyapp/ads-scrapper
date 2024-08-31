@@ -1,5 +1,15 @@
 [
   {
+    "id": "0e42e4f6-c001-41d7-a2df-4fb4c1740e43",
+    "title": "The Legend of Zelda: Breath of the Wild NINTENDO SWITCH",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e7b3d/5c071f8c43b59f291f730beefcda",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-dse?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "56b15b6d-87d2-4f62-bd0d-fd767fa16a54",
     "title": "Mario Kart 8 Deluxe",
     "price": "160",
@@ -1380,46 +1390,6 @@
     "city": "Chełm"
   },
   {
-    "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
-    "title": "Nintendo Switch gra Splatoon 2",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
-    "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
-    "title": "Nintendo Switch gra taneczną Just Dance 2020",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
-    "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
-    "title": "Animal Crossing New Horizons gra Nintendo switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
-    "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
-    "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e9be2/1f880a4b470d9349cbb28229bf20",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
     "id": "b6028dad-c307-427c-b6a4-dd2a84126328",
     "title": "Nintendo Switch Sports + Opaska stan BdB",
     "price": "168",
@@ -1660,6 +1630,46 @@
     "city": "Łódź"
   },
   {
+    "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
+    "title": "Nintendo Switch gra Splatoon 2",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
+    "title": "Nintendo Switch gra taneczną Just Dance 2020",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
+    "title": "Animal Crossing New Horizons gra Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
+    "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e9be2/1f880a4b470d9349cbb28229bf20",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
     "id": "ace121b6-6390-48c3-8644-bf46ffaf0df1",
     "title": "Minecraft Nintendo Switch",
     "price": "95",
@@ -1800,16 +1810,6 @@
     "city": "Bielsko-Biała"
   },
   {
-    "id": "992433f3-6ffb-4394-8cad-e371a9c75508",
-    "title": "Super Mario Bross Wonder Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e300d/78a0df6f408a8b71cf16846cda21",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bross-wonder-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
-  },
-  {
     "id": "59ef3cc8-f0cf-439f-b258-661faf9bd5e4",
     "title": "Just Dance Nintendo Switch",
     "price": "90",
@@ -1902,7 +1902,7 @@
   {
     "id": "e1d566db-032a-4599-8667-3dd93614dbaa",
     "title": "New Super Mario Bros U deluxe Nintendo Switch",
-    "price": "199",
+    "price": "195",
     "img": "https://a.allegroimg.com/s360x360/1e3d2b/231b08c748cdb09859b93a12c02a",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-x7q?navCategoryId=256922",
     "promoted": false,
@@ -1912,7 +1912,7 @@
   {
     "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
     "title": "NBA 2k18 Nintendo Switch",
-    "price": "65",
+    "price": "59",
     "img": "https://a.allegroimg.com/s360x360/1e6f5f/d9c7103e492dbe13444497e77406",
     "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-3eb?navCategoryId=256922",
     "promoted": false,
@@ -2395,6 +2395,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e25de/c3055cea41ad85d3f4ccbe081d28",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-happy-birthdays?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "9032fa75-73d4-4fbb-ad0e-df7912a9456f",
+    "title": "Nintendo Switch Croixleur Sigma",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e18d8/6139e3b74e0eb32bd30bbe2f753e",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-croixleur-sigma?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -3000,16 +3010,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
-    "title": "Miitopia Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e29b6/47dea86b413dbd7c580eaa9a0a79",
-    "url": "https://allegrolokalnie.pl//oferta/miitopia-nintendo-switch-q3d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
     "title": "Castlevania advance collection switch",
     "price": "270",
@@ -3598,6 +3598,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
+    "title": "Super Smash Bros Ultimate",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rokietnica"
   },
   {
     "id": "6c6befcd-7ed5-4ec4-8594-b5dff75e3f9b",
@@ -4200,16 +4210,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
-    "title": "Family Trainer SWITCH",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e5265/9569954d4eb0b25090cd597455af",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
     "title": "Bayonetta Cereza",
     "price": "110",
@@ -4800,6 +4800,16 @@
     "city": "Wałbrzych"
   },
   {
+    "id": "710eee37-8f1c-4be1-af24-fe2e49c7026c",
+    "title": "Nintendo Switch Monster Hunter Stories 2",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ea015/b523e6894316b39eb2d7357360fc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-monster-hunter-stories-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia"
+  },
+  {
     "id": "a9d4f344-7bf2-44c8-901a-f69d5b063256",
     "title": "Gry Nintendo switch",
     "price": "450",
@@ -5385,16 +5395,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s360x360/119a04/c19840cb44319d20d29cec3accad",
     "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "0d1e91b3-866a-4b8c-853a-0634008c0351",
-    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE unikat zadbana",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/115a25/d58a32e0459b99ccb33c65f5782f",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
