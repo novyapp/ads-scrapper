@@ -1,25 +1,5 @@
 [
   {
-    "id": "56b15b6d-87d2-4f62-bd0d-fd767fa16a54",
-    "title": "Mario Kart 8 Deluxe",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1eb547/17ac7ded495c98011c89b0ab6a86",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-jzl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wąbrzeźno"
-  },
-  {
-    "id": "4634097c-3efc-4ad2-bbee-e737d11928b8",
-    "title": "Donkey Kong Tropical Freeze",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ef7f9/a88444954c218adf012f681387e1",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-tropical-freeze-gj2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wąbrzeźno"
-  },
-  {
     "id": "c670512f-1f14-45ed-b39c-283c43a032fe",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "159",
@@ -620,6 +600,26 @@
     "city": "Białystok"
   },
   {
+    "id": "eb24ee6f-6bdf-4403-8bb5-8fb52613d159",
+    "title": "Ring Fit Adventure + akcesoria",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e6e14/f67f2cc34cf7843b173ecb87e158",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-akcesoria?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "91dfd91b-1b93-4721-8bcd-5a5a8be02db4",
+    "title": "The Legend of Zelda - Breath of the Wild Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e42f9/8833f9b146bba87b3b8bd6cc21be",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-tlc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "28ad8a85-b48c-4284-ae37-5c54d9bd0bb0",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
     "price": "519",
@@ -1198,26 +1198,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "warszawa"
-  },
-  {
-    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
-    "title": "Hogwarts legacy nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
-    "id": "83320671-4922-47e1-8800-da470c51e673",
-    "title": "Minecraft PL Switch",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
   },
   {
     "id": "6391e8f8-52e1-4791-957e-96bf86755656",
@@ -2400,6 +2380,26 @@
     "city": "Aleksandrów Łódzki"
   },
   {
+    "id": "ca38d795-20bc-49d6-b2e4-e6fcaa2bfa58",
+    "title": "Shin Megami Tensei V",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1ea9a6/c61a842a44389634fe0ceb459d17",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-x3y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "8a90b129-b2ea-4e60-89e3-282e0e1eeb76",
+    "title": "Ring Fit Adventure na Nintendo Switch",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1e9b3a/74a9e7a8438abdb703e6f227fbb9",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-sox?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
     "id": "1bd3ee81-d0a6-4445-935b-f740688e15d5",
     "title": "Hades Nintendo switch",
     "price": "199",
@@ -2978,26 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
-    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1eadec/d4bc6e344ca5b154b6331ef0d08a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-izk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "959b8b77-fdbe-47fb-83ab-f4cb5844ec7e",
-    "title": "Nintendo Switch 13 sentinels aegis rim",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e37d8/7d1d10744610a0baaacbe5aab4cc",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-13-sentinels-aegis-rim?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
     "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
@@ -4200,6 +4180,46 @@
     "city": "Kobylany"
   },
   {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
+    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
+    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
     "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
     "price": "149",
@@ -4780,46 +4800,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
-    "title": "No More Heroes 3 Switch - Wrocław",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
-    "title": "The Walking Dead: Thie Final Season NS Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/119236/11d2948c4a9a8ab435cab7433563",
-    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-thie-final-season-ns-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
-    "title": "No More Heroes 3 Switch - Wrocław",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
-    "title": "The Walking Dead: Thie Final Season NS Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/119236/11d2948c4a9a8ab435cab7433563",
-    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-thie-final-season-ns-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
     "title": "Gothic II PL (Nintendo switch) polskie wydanie",
     "price": "149",
@@ -5398,6 +5378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
+    "title": "Harvestella dla Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e18b7/a139deab4f9fa98392004fcf4f33",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   },
   {
     "id": "c57ac223-10f8-4aaa-a91f-bea05acb6e8d",
