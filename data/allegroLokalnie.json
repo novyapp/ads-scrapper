@@ -40,16 +40,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "56b15b6d-87d2-4f62-bd0d-fd767fa16a54",
-    "title": "Mario Kart 8 Deluxe",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1eb547/17ac7ded495c98011c89b0ab6a86",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-jzl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wąbrzeźno"
-  },
-  {
     "id": "4634097c-3efc-4ad2-bbee-e737d11928b8",
     "title": "Donkey Kong Tropical Freeze",
     "price": "150",
@@ -1200,6 +1190,16 @@
     "city": "Białystok"
   },
   {
+    "id": "5d2bf0dc-1bf9-400f-920b-4acb93cedda0",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e222c/648b51304a34a113cc300de96380",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "109",
@@ -1788,16 +1788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "02711c4e-1cda-4d34-8a5f-73f48efc78bf",
-    "title": "Gra Pokemon Legend Arceus",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e318b/c05e37f54a63b224b91e7c8eb2ba",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-legend-arceus-lf7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "warszawa"
   },
   {
     "id": "95013582-7a1a-4b51-8f2c-50435f48b928",
@@ -2400,16 +2390,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "ed7425b8-a3ba-4487-a908-b6a28b7b77fc",
-    "title": "Nintendo Switch Happy Birthdays",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e25de/c3055cea41ad85d3f4ccbe081d28",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-happy-birthdays?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "9032fa75-73d4-4fbb-ad0e-df7912a9456f",
     "title": "Nintendo Switch Croixleur Sigma",
     "price": "130",
@@ -2995,6 +2975,16 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e62cd/70d1c2b7438bb842742cc9e1add1",
     "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
+    "title": "DC Super Hero Girls Teen Power",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
+    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5400,16 +5390,6 @@
     "city": "Gostynin"
   },
   {
-    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
-    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
     "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
     "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
     "price": "149",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "c9a2ab1d-42c3-4405-aeab-9021ab2d0479",
+    "title": "Pikachu Kehrt zurück gra Nintendo switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ec1c0/c8568793445f9d715890d947da7f",
+    "url": "https://allegrolokalnie.pl//oferta/pikachu-kehrt-zurueck-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Młynice"
   }
 ]
