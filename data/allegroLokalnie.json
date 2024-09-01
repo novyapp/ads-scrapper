@@ -3000,6 +3000,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "763c0fe1-6acb-4f08-8b46-3b2ffcb6e19d",
+    "title": "Dragon Quest Builders",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "ef673fd5-cda8-4f73-bedd-a8da42bacb9e",
     "title": "The Banner Saga Trilogy PL",
     "price": "200",
@@ -4190,16 +4200,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
-    "title": "Road 96 switch signature Edition Limited",
-    "price": "420",
-    "img": "https://a.allegroimg.com/s360x360/1e11b8/a70f9b274a4a85faff4f5db4878b",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-switch-signature-edition-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "a9afc5a9-4f66-478a-83ef-1d3e3edb3463",
     "title": "STWÓRZ SWOJEGO WŁASNEGO POKEMONA",
     "price": "6",
@@ -4785,6 +4785,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
+    "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e9be2/1f880a4b470d9349cbb28229bf20",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "JAWORZE"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "c9a2ab1d-42c3-4405-aeab-9021ab2d0479",
-    "title": "Pikachu Kehrt zurück gra Nintendo switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1ec1c0/c8568793445f9d715890d947da7f",
-    "url": "https://allegrolokalnie.pl//oferta/pikachu-kehrt-zurueck-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Młynice"
   }
 ]
