@@ -50,16 +50,6 @@
     "city": "Opole"
   },
   {
-    "id": "cb8529b6-e374-4418-a316-f9e24209cb40",
-    "title": "Legend of Zelda Breath of The Wild Nintendo Switch fizyczna kopia",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1edc56/b11996c84cc6963ba6d75ab8f8ad",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-the-wild-nintendo-switch-fizyczna-kopia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "bcbab6a3-9ace-4058-a1f7-eb369a29c33c",
     "title": "Animal Crossing New Horizons Nintendo Switch fizyczna kopia",
     "price": "150",
@@ -1800,16 +1790,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "fedf4d7a-ae0e-4db0-a37a-4be242123582",
-    "title": "Gra Assassin's Creed The Ezio Collection - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ea26c/8db7f5294392b4ecd5116f1b6a8c",
-    "url": "https://allegrolokalnie.pl//oferta/gra-assassins-creed-the-ezio-collection-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "39aa9e37-1ddf-4e99-8e5d-65d26eafce0a",
     "title": "Gra Super Mario Party - Nintendo Switch",
     "price": "150",
@@ -2395,6 +2375,16 @@
     "price": "50",
     "img": "https://a.allegroimg.com/s360x360/1eb0a1/d16273f44aa18b6a916d9d4c757f",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "8020fe87-0157-44ae-8711-72d2ff9b4b5c",
+    "title": "Nintendo Switch Smerfy 2",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e0a9d/bde1d1a244eb9069ba3b31009615",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-smerfy-2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -4800,16 +4790,6 @@
     "city": "JAWORZE"
   },
   {
-    "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
-    "title": "Nintendo Switch gra Splatoon 2",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
     "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
     "title": "Nintendo Switch gra taneczną Just Dance 2020",
     "price": "95",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Wilda"
+  },
+  {
+    "id": "93dc4b7b-d337-4330-b9ee-be403fcfb43d",
+    "title": "Crisis Core Final Fantasy VII Reunion",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ead35/3f5a803a4fde9b03763e099af864",
+    "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-6sd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sucha"
   }
 ]
