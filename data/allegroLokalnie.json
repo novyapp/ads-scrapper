@@ -3000,6 +3000,26 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
     "title": "DC Super Hero Girls Teen Power",
     "price": "40",
@@ -3568,26 +3588,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
-  },
-  {
-    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
-    "title": "Super Mario RPG Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Białystok"
   },
   {
     "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
@@ -4790,6 +4790,16 @@
     "city": "JAWORZE"
   },
   {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "190",
@@ -5375,16 +5385,6 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
     "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
-    "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/117c74/caf8d2594f7381d70af4296a86a1",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Młynice"
+  },
+  {
+    "id": "679ef6d3-fd88-4b9f-81b2-6aec9db3775d",
+    "title": "Astral Chain na nintendo switch - nowa w folii",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e1273/980c51c9423e8a2104176d7ff3d5",
+    "url": "https://allegrolokalnie.pl//oferta/astral-chain-na-nintendo-switch-nowa-w-folii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
