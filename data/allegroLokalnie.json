@@ -1280,6 +1280,26 @@
     "city": "Krakow, Swoszowice"
   },
   {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "d9d55c0b-b3ee-40e9-9c57-312cd2cf849d",
     "title": "Paper Mario the Origami King Nintendo Switch",
     "price": "185",
@@ -1775,26 +1795,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1ea26c/8db7f5294392b4ecd5116f1b6a8c",
     "url": "https://allegrolokalnie.pl//oferta/gra-assassins-creed-the-ezio-collection-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "39aa9e37-1ddf-4e99-8e5d-65d26eafce0a",
-    "title": "Gra Super Mario Party - Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ed616/53e2f0b64516b2e1472d70afe513",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-party-nintendo-switch-o6n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "06b687c4-905f-4ef6-8199-7b9e5d9fa18b",
-    "title": "Gra The Legend of Zelda: Breath of the Wild - Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ec83c/16612d0849c0a1f86a1923e1af43",
-    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-gbi?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
@@ -3000,24 +3000,24 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
-    "title": "Super Mario RPG Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
+    "id": "763c0fe1-6acb-4f08-8b46-3b2ffcb6e19d",
+    "title": "Dragon Quest Builders",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
+    "id": "ef673fd5-cda8-4f73-bedd-a8da42bacb9e",
+    "title": "The Banner Saga Trilogy PL",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e62cd/70d1c2b7438bb842742cc9e1add1",
+    "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   },
   {
     "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
