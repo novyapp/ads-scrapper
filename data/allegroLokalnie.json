@@ -180,16 +180,6 @@
     "city": "Nysa"
   },
   {
-    "id": "2c2a960b-c682-4324-bab1-e754fc103007",
-    "title": "Super Mario 3D World + Bowser's Fury Gra Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e3116/81978518458e95ed3d11167c4e08",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Nysa"
-  },
-  {
     "id": "35f4b2f0-fb49-4d7f-9b3f-bdf2cf4f9339",
     "title": "Gra Super Bomberman R Switch",
     "price": "120",
@@ -702,7 +692,7 @@
   {
     "id": "28ad8a85-b48c-4284-ae37-5c54d9bd0bb0",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
-    "price": "519",
+    "price": "499",
     "img": "https://a.allegroimg.com/s360x360/119d57/59bcc3fa4637b6195088bf17585a",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-gra-ns?navCategoryId=256922",
     "promoted": true,
@@ -2985,16 +2975,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s360x360/1e9c68/c76700b248a387f5b370578561cb",
     "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-z3r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "763c0fe1-6acb-4f08-8b46-3b2ffcb6e19d",
-    "title": "Dragon Quest Builders",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "c9a2ab1d-42c3-4405-aeab-9021ab2d0479",
+    "title": "Pikachu Kehrt zurück gra Nintendo switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ec1c0/c8568793445f9d715890d947da7f",
+    "url": "https://allegrolokalnie.pl//oferta/pikachu-kehrt-zurueck-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Młynice"
   }
 ]
