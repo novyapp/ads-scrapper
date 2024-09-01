@@ -20,16 +20,6 @@
     "city": "Pionki"
   },
   {
-    "id": "a5fcd8b1-688d-4310-877b-ccaba9972489",
-    "title": "Metal Gear Solid vol. 1 Master Collection Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e2a18/96344cfd49c08ec1d16ede580b62",
-    "url": "https://allegrolokalnie.pl//oferta/metal-gear-solid-vol-1-master-collection-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "d486d8f3-29d1-43cc-8e79-00d927a7a9aa",
     "title": "Red Dead Redemption - Nintendo switch",
     "price": "159",
@@ -1810,6 +1800,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "fedf4d7a-ae0e-4db0-a37a-4be242123582",
+    "title": "Gra Assassin's Creed The Ezio Collection - Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ea26c/8db7f5294392b4ecd5116f1b6a8c",
+    "url": "https://allegrolokalnie.pl//oferta/gra-assassins-creed-the-ezio-collection-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "39aa9e37-1ddf-4e99-8e5d-65d26eafce0a",
     "title": "Gra Super Mario Party - Nintendo Switch",
     "price": "150",
@@ -2395,16 +2395,6 @@
     "price": "50",
     "img": "https://a.allegroimg.com/s360x360/1eb0a1/d16273f44aa18b6a916d9d4c757f",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "8020fe87-0157-44ae-8711-72d2ff9b4b5c",
-    "title": "Nintendo Switch Smerfy 2",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e0a9d/bde1d1a244eb9069ba3b31009615",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-smerfy-2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wilkszyn"
+  },
+  {
+    "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
+    "title": "Nintendo Switch gra Splatoon 2",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
   },
   {
     "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
