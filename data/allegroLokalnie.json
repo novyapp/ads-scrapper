@@ -1200,6 +1200,16 @@
     "city": "Białystok"
   },
   {
+    "id": "5d2bf0dc-1bf9-400f-920b-4acb93cedda0",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s360x360/1e222c/648b51304a34a113cc300de96380",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "109",
@@ -1790,6 +1800,26 @@
     "city": "Warszawa"
   },
   {
+    "id": "a899ec67-20d1-4c7a-b11a-1e41a2b68534",
+    "title": "Super Smash Bros Ultimate gra nintendo switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e82cc/68c5c86b4e58b729d646232fcdfb",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-gra-nintendo-switch-fez?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "48c0e9f9-e062-438e-88b0-05616c667036",
+    "title": "Gra Dying Light: Platinum Edition - Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1ee510/0547e17541f29f888d0b1039f86e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-dying-light-platinum-edition-nintendo-switch-ece?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "fedf4d7a-ae0e-4db0-a37a-4be242123582",
     "title": "Gra Assassin's Creed The Ezio Collection - Nintendo Switch",
     "price": "100",
@@ -2028,26 +2058,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "95f8d1b6-2d91-45ff-8baa-b0e569f582f3",
-    "title": "Nintendo Switch Super Mario 3D All Stars",
-    "price": "500",
-    "img": "https://a.allegroimg.com/s360x360/1e17e4/c41978614ec39aec4f55024e6730",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-3d-all-stars-l6p?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "b581fea2-9dd3-4a64-9086-2fde8a5d2268",
-    "title": "Nintendo Switch Super Mario Odyssey",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e959a/f20da4644119adc74253c00f5cfb",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-odyssey-ynx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jaworzno"
   },
   {
     "id": "c537d589-ba76-4ee9-a396-3e5c2dd35971",
@@ -2385,16 +2395,6 @@
     "price": "50",
     "img": "https://a.allegroimg.com/s360x360/1eb0a1/d16273f44aa18b6a916d9d4c757f",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "8020fe87-0157-44ae-8711-72d2ff9b4b5c",
-    "title": "Nintendo Switch Smerfy 2",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e0a9d/bde1d1a244eb9069ba3b31009615",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-smerfy-2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -4800,6 +4800,16 @@
     "city": "JAWORZE"
   },
   {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "190",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Młynice"
-  },
-  {
-    "id": "679ef6d3-fd88-4b9f-81b2-6aec9db3775d",
-    "title": "Astral Chain na nintendo switch - nowa w folii",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e1273/980c51c9423e8a2104176d7ff3d5",
-    "url": "https://allegrolokalnie.pl//oferta/astral-chain-na-nintendo-switch-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
   }
 ]
