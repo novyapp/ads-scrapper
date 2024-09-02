@@ -600,16 +600,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "00d82261-bdab-49ec-8271-9c644f278778",
-    "title": "Super Mario Bros. Wonder Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e2770/9a6f84004d2695cace40fa440423",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-sya?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
-  },
-  {
     "id": "af6ab2ef-e656-4507-9bf5-3d32946bdc3a",
     "title": "Mario golf super rush gra na nintendo switch",
     "price": "119",
@@ -1195,6 +1185,16 @@
     "price": "124",
     "img": "https://a.allegroimg.com/s360x360/1eb0a7/06fe3feb412b9ee118be6c3084e2",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-22f?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
+    "id": "9609a802-90bb-4bf0-952b-f836e4e7bf8b",
+    "title": "Lego Star Wars PL Switch",
+    "price": "93",
+    "img": "https://a.allegroimg.com/s360x360/1ef925/398f30304f30844ac7fcd584a812",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-cyg?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
@@ -2985,16 +2985,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1ebcb7/5a70a33a4276841c0848676ed2dc",
     "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "7787ac4a-81e9-4180-adf8-677b5fe726ba",
-    "title": "Layton's Mystery Journey",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e9c68/c76700b248a387f5b370578561cb",
-    "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-z3r?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Zwierzyniec"
+  },
+  {
+    "id": "ed1eab9e-607a-4f58-9a76-484eec65dbb3",
+    "title": "Poradnik kompendium Zelda breath of the wild",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e70d1/e7a4eea34fb48cba4ef46d34d4ca",
+    "url": "https://allegrolokalnie.pl//oferta/poradnik-kompendium-zelda-breath-of-the-wild?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
