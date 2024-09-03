@@ -80,16 +80,6 @@
     "city": "Święciechowa"
   },
   {
-    "id": "7356462b-f43b-4a5f-a19a-cbd34b40a438",
-    "title": "Super Mario Bros. Wonder. Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1ef257/7d1383564c3785b5e9c9939199dd",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-7wc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Murowaniec"
-  },
-  {
     "id": "efe9403b-a1bd-45d0-9f11-cf0f6dd34dec",
     "title": "Mario vs. Donkey Kong Nintendo Switch",
     "price": "140",
@@ -3600,26 +3590,6 @@
     "city": "Strzelin"
   },
   {
-    "id": "49b9bf16-5e1a-465c-b45f-49a73b45dd92",
-    "title": "The Legend of Zelda: Tears of the Kingdom Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e9192/f9b462814546904aa307deafe548",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-vlk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
-  },
-  {
-    "id": "fac005e1-d5f5-4cd5-b27d-d4d07d49e5e7",
-    "title": "FIFA 23: Legacy Edition Nintendo Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1e7c94/74568f94407990917ef497f7db56",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-23-legacy-edition-nintendo-switch-tgp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
-  },
-  {
     "id": "39a2e1e0-56f6-4a9b-91cc-1adeb3e89461",
     "title": "Gra Nintendo Pokémon Arceus",
     "price": "199",
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Włostów"
+  },
+  {
+    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
+    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
+    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Żoliborz"
+  },
+  {
+    "id": "500ae353-cc7b-4111-886f-985ac82a120c",
+    "title": "Cereza and The Lost Demon Beyonetta Origins",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e6d65/b9b769804d7a86a712308bbd72b3",
+    "url": "https://allegrolokalnie.pl//oferta/cereza-and-the-lost-demon-beyonetta-origins?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
+    "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1ea79e/be5a7fba4dcb9c8a7b5133b1c287",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-nowa-itx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   }
 ]
