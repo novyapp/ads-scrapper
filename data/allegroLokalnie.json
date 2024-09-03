@@ -622,7 +622,7 @@
   {
     "id": "d9197392-867c-418d-b1a2-e939316f37f7",
     "title": "Super Mario 3d World + Bowser Fury Switch/Nowa",
-    "price": "179",
+    "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1ee5ff/ff61fb9c4e1c8c0ecaa8632a218b",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-switchnowa-j2j?navCategoryId=256922",
     "promoted": true,
@@ -1480,16 +1480,6 @@
     "city": "warszawa"
   },
   {
-    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
-    "title": "Hogwarts legacy nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
     "title": "Super Mario RPG Switch",
     "price": "149",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Gdańsk"
+  },
+  {
+    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
+    "title": "Hogwarts legacy nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "warszawa"
   },
   {
     "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
@@ -3650,16 +3650,6 @@
     "city": "Rypin"
   },
   {
-    "id": "7cc6ad34-6be3-4416-9f1f-8bae299ffdb6",
-    "title": "Karty Amiibo Sanrio Collaboration Pack",
-    "price": "30",
-    "img": "https://a.allegroimg.com/s360x360/1ebfd4/62d744e149ae8da4ef41340fc4d2",
-    "url": "https://allegrolokalnie.pl//oferta/karty-amiibo-sanrio-collaboration-pack?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Cieplewo"
-  },
-  {
     "id": "ad75df46-319b-47bb-b334-b5701632a048",
     "title": "Dragon Ball Fighterz Nintendo Switch",
     "price": "125",
@@ -5400,6 +5390,26 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
+    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
+    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
+    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
+    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1ebbf3/e406362747dfa82d038d6ed84679",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
     "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
     "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
     "price": "349",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
-  },
-  {
-    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e7858/a6ab191b4e7db4838c95781b6b39",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włostów"
   }
 ]
