@@ -252,7 +252,7 @@
   {
     "id": "0e42e4f6-c001-41d7-a2df-4fb4c1740e43",
     "title": "The Legend of Zelda: Breath of the Wild NINTENDO SWITCH",
-    "price": "165",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1eeca1/144e255047debead6a2660f5d200",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-dse?navCategoryId=256922",
     "promoted": true,
@@ -1770,16 +1770,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
-    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
-  },
-  {
     "id": "b4470584-ab0b-45d4-8b83-e39430a9a2c4",
     "title": "Daemon X Machina / Switch / Oraz Inne Gry",
     "price": "89",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
+    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Iłża"
   },
   {
     "id": "ba61f356-f09a-49c5-8eb1-09eb8551543c",
@@ -1838,16 +1838,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
-    "title": "Nintendo Switch Pokemon Legends Arceus nowa folia + plakat",
-    "price": "235",
-    "img": "https://a.allegroimg.com/s360x360/1e8d89/e8f21d04435dba6e2e615e481bd8",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-legends-arceus-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "05c104df-512f-457b-8403-40e97faddd3d",
@@ -1958,6 +1948,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
+    "title": "Nintendo Switch Pokemon Legends Arceus nowa folia + plakat",
+    "price": "235",
+    "img": "https://a.allegroimg.com/s360x360/1e8d89/e8f21d04435dba6e2e615e481bd8",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-legends-arceus-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
@@ -3600,16 +3600,6 @@
     "city": "Cieplewo"
   },
   {
-    "id": "ad75df46-319b-47bb-b334-b5701632a048",
-    "title": "Dragon Ball Fighterz Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e3d21/73542a9143f585e320847e3e18ab",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kielce"
-  },
-  {
     "id": "94dc2b8e-466b-4342-8d5a-3efff83a0c7f",
     "title": "Karty Amiibo Animal Crossing",
     "price": "210",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zaborów, Zaborów"
+  },
+  {
+    "id": "fa26946a-c24a-458a-bfdc-3818f97fb482",
+    "title": "Mario Strikers Battle League Football",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e75ac/7bd31f204ca796d18c5c01993c04",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-ou4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Młynice"
   },
   {
     "id": "fa26946a-c24a-458a-bfdc-3818f97fb482",
@@ -5400,16 +5400,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
-    "title": "Xenoblade Chronicles Definitive Edition",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e3a8a/32139ca74fba8970c3fa47ea47a5",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-kwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
     "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
     "price": "179",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "33b15c2b-4e36-4cbe-83e3-f57ea81124b9",
+    "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s360x360/1ea79e/be5a7fba4dcb9c8a7b5133b1c287",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-nowa-itx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   }
 ]
