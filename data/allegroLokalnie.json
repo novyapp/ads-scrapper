@@ -3380,16 +3380,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "5c9aa266-b75b-4ab8-9416-e75586734c38",
-    "title": "Pokémon: Legends Arceus",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e8f6b/cb4d03b14ca78773c1f19eb65218",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-wgu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Kraków"
-  },
-  {
     "id": "dcd8f7af-31b5-4a2d-8470-b2d7a9480043",
     "title": "Animal Crossing New Horizons Nintendo Switch",
     "price": "149",
@@ -4210,6 +4200,16 @@
     "city": "Kraków"
   },
   {
+    "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
+    "title": "Final Fantasy gra na Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1e3487/f29a99094a77be4ed8ca9433ecd6",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-gra-na-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
     "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
     "price": "600",
@@ -4800,16 +4800,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
-    "title": "Monster Hunter Rise + Steelbook",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czarnów"
-  },
-  {
     "id": "649fc9d1-d37a-4186-9c82-4531d0a69127",
     "title": "Pokemon Shining Pearl",
     "price": "160",
@@ -5395,6 +5385,16 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e771f/4386951f4100bef003575bfdc99a",
     "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-rabbids-kingdom-battle-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "fa3ed1d1-2a72-469d-bca7-c4eeae976b00",
+    "title": "Ring Fit Adventure na Nintendo Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s360x360/1efa58/009187af43caa855e764905e491c",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-jtp?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
