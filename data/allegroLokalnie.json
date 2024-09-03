@@ -510,16 +510,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "d74c6db1-aa5d-43ae-9fb5-a750d01e46e5",
-    "title": "Splatoon 2 NSW Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1ebfc4/fb994eac4ef9a196dec20d22f79a",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nsw-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "dfb4c259-65b0-4770-a46b-fe49313d2f26",
     "title": "Legend of Zelda Link’s Awakening na Switch",
     "price": "190",
@@ -1195,6 +1185,16 @@
     "price": "99",
     "img": "https://a.allegroimg.com/s360x360/1ed135/be9c593b432fa7a7f45a5cc0e602",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-switch-z24?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
+    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
+    "title": "Ultra Street Fighter II: The Final Challengers",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Warszawa, Praga-Południe"
@@ -2988,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Głogów"
+  },
+  {
+    "id": "2a374bcf-f180-4f15-8d9d-d5964ab8c42c",
+    "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e235c/77addfa9410e9663458195db1e83",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-ipe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krościenko Wyżne"
   },
   {
     "id": "af0da2ed-2963-49be-9c75-1330f909db14",
