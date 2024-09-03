@@ -540,16 +540,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "8b38f399-6b45-4a3b-9865-fb5bd041df5e",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1ed9e7/75edcac54b8a8c0aa0fbcc5e8e21",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-dbx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
-  },
-  {
     "id": "dfb4c259-65b0-4770-a46b-fe49313d2f26",
     "title": "Legend of Zelda Link’s Awakening na Switch",
     "price": "190",
@@ -1448,16 +1438,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Rybnik"
-  },
-  {
-    "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
-    "title": "Captain Toad: Treasure Tracker Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e3c06/92a08a8b4fa89d62e4e7a09d13a9",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ycw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "warszawa"
   },
   {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
@@ -3820,6 +3800,16 @@
     "city": "Kraków, Czyżyny"
   },
   {
+    "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
+    "title": "Captain Toad: Treasure Tracker Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e3c06/92a08a8b4fa89d62e4e7a09d13a9",
+    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ycw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "warszawa"
+  },
+  {
     "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
     "title": "Hogwarts legacy nintendo switch",
     "price": "120",
@@ -4778,6 +4768,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
+  },
+  {
+    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
+    "title": "Nintendo Switch Sports - gra Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e9cea/bda3e95b491382532f02ffd253b2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
+    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
+    "title": "Animal Crossing New Horizons",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
@@ -5978,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Włostów"
+  },
+  {
+    "id": "deac2599-8838-41bb-aa55-c16eb0c6bc17",
+    "title": "Shadowverse: Champion's Battle | Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e4b2a/425d87b04faa907c2389f7c04f69",
+    "url": "https://allegrolokalnie.pl//oferta/shadowverse-champions-battle-or-nintendo-switch-rq6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Żoliborz"
   }
 ]
