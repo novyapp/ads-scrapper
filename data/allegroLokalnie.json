@@ -1,5 +1,15 @@
 [
   {
+    "id": "48d67bcf-5b2d-439a-a4a9-53a8e3e97613",
+    "title": "Let's Go Pikachu! NSW",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e6892/1080f3734028b8a9074196a7348d",
+    "url": "https://allegrolokalnie.pl//oferta/lets-go-pikachu-nsw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poręba"
+  },
+  {
     "id": "95138d35-3a18-4572-a8d1-b034ee8ea623",
     "title": "Gra Pikmin 4 - Nintendo Switch",
     "price": "155",
@@ -1780,24 +1790,14 @@
     "city": "Gdańsk"
   },
   {
-    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
-    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
+    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
+    "title": "Hogwarts legacy nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": false,
     "smartPost": false,
-    "city": "Iłża"
-  },
-  {
-    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
-    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
+    "city": "warszawa"
   },
   {
     "id": "b4470584-ab0b-45d4-8b83-e39430a9a2c4",
@@ -2390,6 +2390,16 @@
     "city": "Bielsko-Biała"
   },
   {
+    "id": "a7700c24-8a95-4ff8-89da-0306a458d2ec",
+    "title": "Xenoblade chronicles 2 Eu Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1eef1e/a6bed48a49ce9e7a41166c7be7b4",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-eu-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
     "id": "fecf162c-bd6a-4a7a-8a4f-4f84fb446a3d",
     "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
     "price": "600",
@@ -2975,16 +2985,6 @@
     "price": "165",
     "img": "https://a.allegroimg.com/s360x360/11e1d0/1794f03f48e7ae89dfe42d613e60",
     "url": "https://allegrolokalnie.pl//oferta/new-pokemon-snap-nintendo-switch-3wl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "da1886ec-4c35-40ae-80c2-32365c4ee581",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s360x360/116b8a/23054c774741a7afacbed9a274a5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-umo?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -3660,6 +3660,16 @@
     "city": "Kielce"
   },
   {
+    "id": "94dc2b8e-466b-4342-8d5a-3efff83a0c7f",
+    "title": "Karty Amiibo Animal Crossing",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1e20a0/a385adf0489180e15c7a8531756f",
+    "url": "https://allegrolokalnie.pl//oferta/karty-amiibo-animal-crossing?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Cieplewo"
+  },
+  {
     "id": "841b06c6-5546-4cd7-a870-f13749a3b22e",
     "title": "Metro Redux Nintendo Switch",
     "price": "140",
@@ -3828,6 +3838,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
+  },
+  {
+    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
+    "title": "Hogwarts legacy nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "warszawa"
   },
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
@@ -4178,16 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Przemyśl, Przemyśl"
-  },
-  {
-    "id": "7231539e-3382-48df-bc10-15dfb229cd63",
-    "title": "Let’s Sing 2 mikrofony dedykowane do Nintendo switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s360x360/1e62e0/2a287bbe4faa93129168762eba35",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-2-mikrofony-dedykowane-do-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
   },
   {
     "id": "7231539e-3382-48df-bc10-15dfb229cd63",
