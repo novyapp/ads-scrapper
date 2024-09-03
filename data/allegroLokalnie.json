@@ -1,5 +1,15 @@
 [
   {
+    "id": "7356462b-f43b-4a5f-a19a-cbd34b40a438",
+    "title": "Super Mario Bros. Wonder. Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ef257/7d1383564c3785b5e9c9939199dd",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-7wc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Murowaniec"
+  },
+  {
     "id": "efe9403b-a1bd-45d0-9f11-cf0f6dd34dec",
     "title": "Mario vs. Donkey Kong Nintendo Switch",
     "price": "140",
@@ -600,16 +610,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "78ff524d-42a7-4f49-883e-2ace3c5ba3b6",
-    "title": "Xenoblade Chronicles 3",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e3606/02f20448402284afe7cb7ab36b6b",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-h4z?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "8f441e54-7551-4fe9-86c3-21fbc96255fd",
     "title": "Bayonetta 2 Switch",
     "price": "100",
@@ -1195,6 +1195,16 @@
     "price": "99",
     "img": "https://a.allegroimg.com/s360x360/1ed135/be9c593b432fa7a7f45a5cc0e602",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-switch-z24?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
+    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
+    "title": "Ultra Street Fighter II: The Final Challengers",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Warszawa, Praga-Południe"
@@ -2400,16 +2410,6 @@
     "city": "Nowy Dwór Mazowiecki"
   },
   {
-    "id": "368fc4ec-a349-4597-baca-ee15f868b01f",
-    "title": "FIFA 23 Legacy Edition Nintendo Switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1eea14/43c4d08b4f0ba20d63e0b4abd919",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-23-legacy-edition-nintendo-switch-ryj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Dwór Mazowiecki"
-  },
-  {
     "id": "cd447940-7fc9-4b6e-828c-35efcca273ef",
     "title": "Gra Legend of Zelda Tears of the Kingdom Nintendo Switch",
     "price": "184",
@@ -2538,16 +2538,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "ea2eeefc-2c38-4303-b1dc-4bf60c87dd33",
-    "title": "Borderlands 3 Ultimate Edition SWITCH",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e6ca6/0a77285a4ce599117f8ded8eb9c5",
-    "url": "https://allegrolokalnie.pl//oferta/borderlands-3-ultimate-edition-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jastrzębie-Zdrój"
   },
   {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Głogów"
+  },
+  {
+    "id": "2a374bcf-f180-4f15-8d9d-d5964ab8c42c",
+    "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e235c/77addfa9410e9663458195db1e83",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-ipe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krościenko Wyżne"
   },
   {
     "id": "af0da2ed-2963-49be-9c75-1330f909db14",
@@ -3600,16 +3600,6 @@
     "city": "Rypin"
   },
   {
-    "id": "39a2e1e0-56f6-4a9b-91cc-1adeb3e89461",
-    "title": "Gra Nintendo Pokémon Arceus",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e9b5f/162f3d77414999ed86d09bdd658e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-pokemon-arceus?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rypin"
-  },
-  {
     "id": "ad75df46-319b-47bb-b334-b5701632a048",
     "title": "Dragon Ball Fighterz Nintendo Switch",
     "price": "125",
@@ -4192,12 +4182,22 @@
   {
     "id": "887a945a-5aa3-4298-9236-bdbafa7a932b",
     "title": "Railway Empire Nintendo Switch",
-    "price": "85",
+    "price": "79",
     "img": "https://a.allegroimg.com/s360x360/1e9751/8775b9954f90bc1c5fdd0431d179",
     "url": "https://allegrolokalnie.pl//oferta/railway-empire-nintendo-switch-x5d?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
+    "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
+    "price": "475",
+    "img": "https://a.allegroimg.com/s360x360/1e54d1/9961bc2243c198dffb04d95d4f60",
+    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-rain-code-mysteriful-limited-edition-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Poznań, Stare Miasto"
   },
   {
     "id": "ea7d9908-9275-40e4-b9e4-33b005afb64e",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Polesie"
-  },
-  {
-    "id": "2221b75b-2d7f-4292-a804-de69a99f5730",
-    "title": "The Legend of Zelda: Breath of the Wild - Na konsolę Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e5c02/54da964947dd9d74a761a8c52834",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-na-konsole-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdynia"
   }
 ]
