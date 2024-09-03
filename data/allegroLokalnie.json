@@ -1190,6 +1190,16 @@
     "city": "Warszawa, Praga-Południe"
   },
   {
+    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
+    "title": "Ultra Street Fighter II: The Final Challengers",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
     "id": "ef582aed-f36a-4489-8baa-8ddf5ebafe43",
     "title": "NEO: The World Ends With You, Gra Nintendo Switch kartridż",
     "price": "88",
@@ -1942,7 +1952,7 @@
   {
     "id": "adc7e2f8-a7ab-418c-b6fb-e1e3829092b9",
     "title": "Gothic II Complete Edition PL",
-    "price": "85",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1e44c3/31e5389847fa9faa7f151d0c2307",
     "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-edition-pl?navCategoryId=256922",
     "promoted": false,
@@ -2378,16 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Dwór Mazowiecki"
-  },
-  {
-    "id": "cd447940-7fc9-4b6e-828c-35efcca273ef",
-    "title": "Gra Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "price": "184",
-    "img": "https://a.allegroimg.com/s360x360/1e1798/2ca7e7274c049ea5c8fa8645eb10",
-    "url": "https://allegrolokalnie.pl//oferta/gra-legend-of-zelda-tears-of-the-kingdom-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Leszno"
   },
   {
     "id": "cd447940-7fc9-4b6e-828c-35efcca273ef",
@@ -2988,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Krościenko Wyżne"
+  },
+  {
+    "id": "af0da2ed-2963-49be-9c75-1330f909db14",
+    "title": "Gra na Nintendo switch Minecraft dungeons",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e8631/921bd00249129423cade247417f9",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-minecraft-dungeons?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włocławek"
   },
   {
     "id": "a5cc492e-f9f5-4a31-9f1a-4fedf503ccd3",
@@ -4178,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
-    "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
-    "price": "475",
-    "img": "https://a.allegroimg.com/s360x360/1e54d1/9961bc2243c198dffb04d95d4f60",
-    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-rain-code-mysteriful-limited-edition-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Poznań, Stare Miasto"
   },
   {
     "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Polesie"
+  },
+  {
+    "id": "2221b75b-2d7f-4292-a804-de69a99f5730",
+    "title": "The Legend of Zelda: Breath of the Wild - Na konsolę Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e5c02/54da964947dd9d74a761a8c52834",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-na-konsole-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdynia"
   }
 ]
