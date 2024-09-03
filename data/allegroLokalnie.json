@@ -462,7 +462,7 @@
   {
     "id": "e1d566db-032a-4599-8667-3dd93614dbaa",
     "title": "New Super Mario Bros U deluxe Nintendo Switch",
-    "price": "189",
+    "price": "185",
     "img": "https://a.allegroimg.com/s360x360/1e3d2b/231b08c748cdb09859b93a12c02a",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-x7q?navCategoryId=256922",
     "promoted": true,
@@ -472,7 +472,7 @@
   {
     "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
     "title": "NBA 2k18 Nintendo Switch",
-    "price": "55",
+    "price": "49",
     "img": "https://a.allegroimg.com/s360x360/1e6f5f/d9c7103e492dbe13444497e77406",
     "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-3eb?navCategoryId=256922",
     "promoted": true,
@@ -890,16 +890,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "65deb90c-bf19-472e-b2b3-e2a70da96750",
-    "title": "MarioKart 8 Deluxe Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e2127/b7fda61348f89f7f1590b3aba327",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-8-koz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
     "title": "Need for Speed Hot Pursuit Remastered NINTENDO SWITCH",
     "price": "99",
@@ -1180,6 +1170,16 @@
     "city": "Nowiny"
   },
   {
+    "id": "dcd8f7af-31b5-4a2d-8470-b2d7a9480043",
+    "title": "Animal Crossing New Horizons Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1eefcc/6301c826438f88c30b0ee86c66fa",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-epl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szubin"
+  },
+  {
     "id": "29ae44da-f90b-4e2a-9db1-9d73abb4d2c0",
     "title": "HOLLOW KNIGHT / NINTENDO SWITCH / GRA NA KARTRIDŻU",
     "price": "129",
@@ -1188,16 +1188,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Nowiny"
-  },
-  {
-    "id": "aa03967b-6869-448e-a161-6f49d72ef171",
-    "title": "Civilization VI  Switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1ed135/be9c593b432fa7a7f45a5cc0e602",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-switch-z24?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
@@ -1788,6 +1778,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Chocianów"
+  },
+  {
+    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
+    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
+    "price": "480",
+    "img": "https://a.allegroimg.com/s360x360/1ef0ad/9da8a3bd4f6d884ad84415853f74",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Mysłowice"
   },
   {
     "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Cieplewo"
-  },
-  {
-    "id": "ad75df46-319b-47bb-b334-b5701632a048",
-    "title": "Dragon Ball Fighterz Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e3d21/73542a9143f585e320847e3e18ab",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kielce"
   },
   {
     "id": "94dc2b8e-466b-4342-8d5a-3efff83a0c7f",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Polesie"
+  },
+  {
+    "id": "2221b75b-2d7f-4292-a804-de69a99f5730",
+    "title": "The Legend of Zelda: Breath of the Wild - Na konsolę Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e5c02/54da964947dd9d74a761a8c52834",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-na-konsole-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdynia"
   }
 ]
