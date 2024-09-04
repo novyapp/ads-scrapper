@@ -1,5 +1,15 @@
 [
   {
+    "id": "d4b140da-3fa6-4c8d-9331-c334328effc9",
+    "title": "Metroid Prime Remastered (Nintendo Switch)",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1ef8db/542db11d4378b245e093ec4cb139",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-dgz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraków, Kraków"
+  },
+  {
     "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
     "title": "mario golf super rush nintendo switch",
     "price": "130",
@@ -198,16 +208,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Poznań, Poznań"
-  },
-  {
-    "id": "efe9403b-a1bd-45d0-9f11-cf0f6dd34dec",
-    "title": "Mario vs. Donkey Kong Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e1046/6b08b1644fe8a4a7369e0fe43479",
-    "url": "https://allegrolokalnie.pl//oferta/mario-vs-donkey-kong-nintendo-switch-fpn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poręba"
   },
   {
     "id": "686ea4f2-bda9-4acc-a75c-cd440714ddbc",
@@ -1790,16 +1790,6 @@
     "city": "Jarosław"
   },
   {
-    "id": "2c849131-86de-4420-8994-e9a75d36900f",
-    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/11d1d6/15a9b6aa4496991429c4ad26329d",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Jarosław"
-  },
-  {
     "id": "15791cec-7ccf-4bfc-a8e8-7ac4251e7e4a",
     "title": "FIFA 22 I Switch I Po Polsku I Folia",
     "price": "199",
@@ -2388,6 +2378,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk"
+  },
+  {
+    "id": "48c0e9f9-e062-438e-88b0-05616c667036",
+    "title": "Gra Dying Light: Platinum Edition - Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1ee510/0547e17541f29f888d0b1039f86e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-dying-light-platinum-edition-nintendo-switch-ece?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   },
   {
     "id": "fedf4d7a-ae0e-4db0-a37a-4be242123582",
@@ -4210,16 +4210,6 @@
     "city": "Kraśnik"
   },
   {
-    "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
-    "title": "Klonoa Phantasy Reverie Series Nowa Folia",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1ec643/3e58dfd44eeeb746ba90f0e98ce7",
-    "url": "https://allegrolokalnie.pl//oferta/klonoa-phantasy-reverie-series-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
     "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
     "title": "My Hero Ones Justice 2",
     "price": "159",
@@ -5390,14 +5380,14 @@
     "city": "Białystok"
   },
   {
-    "id": "053b46fc-3448-418d-9e0d-9181c03a9ce9",
-    "title": "Nintendo Switch Attack on Titan 2",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s360x360/1e7c7b/92628bd643a5a203887ae8eb076c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-attack-on-titan-2?navCategoryId=256922",
+    "id": "86006d65-51ab-4a72-a5c5-3d614bb03f1f",
+    "title": "Fire Emblem Warriors Three Hopes Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1eca81/ee22f53f451cb944c830a0ceb104",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-qsb?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+    "smartPost": false,
+    "city": "Olkusz"
   },
   {
     "id": "5fe37c3a-0bc2-4884-98f0-85cd902e2d62",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
+  },
+  {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   }
 ]
