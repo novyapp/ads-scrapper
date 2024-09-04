@@ -212,7 +212,7 @@
   {
     "id": "1a2244ee-5953-4055-896f-bef1c8309ca5",
     "title": "GOTHIC 1 NINTENDO SWITCH PL",
-    "price": "90",
+    "price": "85",
     "img": "https://a.allegroimg.com/s360x360/1ee070/7708ae0a44b7aeeb5f932d516458",
     "url": "https://allegrolokalnie.pl//oferta/gothic-1-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -2170,16 +2170,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "2953a0b8-69d5-4fd1-a360-0f3f11616cb2",
-    "title": "The Legend of Zelda Link’s Awakening",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e413c/da1eda804726b9168429290351b4",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-h6x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Bielany"
-  },
-  {
     "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
     "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
     "price": "190",
@@ -2398,6 +2388,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Siemianowice Śląskie, Bytków"
+  },
+  {
+    "id": "2a372558-646e-4559-817d-a651184cdabe",
+    "title": "Super Mario Odyssey gra nintendo switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e8710/988c38014df58dd4a7a7e31b4a53",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-wo5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "2a372558-646e-4559-817d-a651184cdabe",
+    "title": "Super Mario Odyssey gra nintendo switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e8710/988c38014df58dd4a7a7e31b4a53",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-wo5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdańsk"
   },
   {
     "id": "a899ec67-20d1-4c7a-b11a-1e41a2b68534",
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dąbrowa"
-  },
-  {
-    "id": "dda7b984-0189-4a38-a73b-ed52672729db",
-    "title": "Ghost Song Nintendo Switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s360x360/1e692a/b13e01f7415e94998ce16edb1abb",
-    "url": "https://allegrolokalnie.pl//oferta/ghost-song-nintendo-switch-3g6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
   },
   {
     "id": "89f321b0-2345-4ff9-8311-9a8bdfd52772",
@@ -5400,6 +5400,16 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
+    "id": "9eab889c-fd6a-4de1-b421-089d315b3672",
+    "title": "Nintendo Switch Dragon Marked for Death",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e18fd/e090958d466f99e2eba6651ccf6f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
     "id": "72ab5411-bcaa-4d55-9ab4-584169e09ced",
     "title": "Nintendo Switch Infinity Strash Dragon Quest The Adventure of Dai",
     "price": "299",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
-    "title": "LEGO Star Wars Skywalker Saga Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
   }
 ]
