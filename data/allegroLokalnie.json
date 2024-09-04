@@ -600,6 +600,16 @@
     "city": "Białystok"
   },
   {
+    "id": "15e76d71-1f38-4244-b00c-31da54029c9c",
+    "title": "Super Mario Odyssey",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ecf60/24dfea2746409f32a7532489353a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-5g5?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wałycz"
+  },
+  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
     "price": "100",
@@ -1200,16 +1210,6 @@
     "city": "Suchy Dwór"
   },
   {
-    "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
-    "title": "Crash bandicoot n sane trilogy switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1eeb9c/6f40af794f599752264da71a144c",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-switch-r4u?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Suchy Dwór"
-  },
-  {
     "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
     "title": "Super Mario RPG [UKV]",
     "price": "109",
@@ -1552,7 +1552,7 @@
   {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
     "title": "Super Mario RPG Switch",
-    "price": "149",
+    "price": "148",
     "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
     "promoted": true,
