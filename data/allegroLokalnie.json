@@ -600,6 +600,26 @@
     "city": "Kraków, Dębniki"
   },
   {
+    "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
+    "title": "Gra Quake Switch",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s360x360/1e45a9/265303484768a0ac9de2cf279a2b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-quake-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "58f62057-082e-4c6f-a87c-ae9b969c2452",
+    "title": "Gra MotoGP Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ea51a/f3520d144a4f8c7506526202c411",
+    "url": "https://allegrolokalnie.pl//oferta/gra-motogp-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "9fb1e527-7080-4f01-b067-81ca687c7f80",
     "title": "Gra na Nintendo Switch TrailBlazers",
     "price": "60",
@@ -728,16 +748,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "dfb4c259-65b0-4770-a46b-fe49313d2f26",
-    "title": "Legend of Zelda Link’s Awakening na Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1ed22b/36fe08d6445cae65524d212880f6",
-    "url": "https://allegrolokalnie.pl//oferta/legend-od-zelda-links-awakening-na-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mysłowice"
   },
   {
     "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
@@ -1185,16 +1195,6 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e14e2/39d88abc4fbf8d0e72db184f168b",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-diablo-iii-eternal-collection-cow?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "14773d96-499e-4262-be72-58461882485d",
-    "title": "Gra Nintendo Switch Doom",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e3c0e/59951fc848ea8cb12120004a0dd9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-doom-qk3?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Poznań"
@@ -1800,6 +1800,16 @@
     "city": "POZNAŃ, Stare Miasto"
   },
   {
+    "id": "128b1b11-966f-4d59-a0aa-e670fe3d7822",
+    "title": "Gra Nintendo Switch Lover Pretend",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e2742/7578f1d8434c9cf53a02c6d98e7b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lover-pretend?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "POZNAŃ, Stare Miasto"
+  },
+  {
     "id": "2c849131-86de-4420-8994-e9a75d36900f",
     "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
     "price": "139",
@@ -2385,16 +2395,6 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1e8710/988c38014df58dd4a7a7e31b4a53",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-wo5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "a899ec67-20d1-4c7a-b11a-1e41a2b68534",
-    "title": "Super Smash Bros Ultimate gra nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e82cc/68c5c86b4e58b729d646232fcdfb",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-gra-nintendo-switch-fez?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk"
@@ -3282,7 +3282,7 @@
   {
     "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
     "title": "Grandia HD Collection Switch ANG",
-    "price": "329",
+    "price": "319",
     "img": "https://a.allegroimg.com/s360x360/1e4efd/95afc69647a8b5a221ac34a97132",
     "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
     "promoted": false,
@@ -4800,6 +4800,16 @@
     "city": "Brzoza"
   },
   {
+    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
+    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e1ba4/2fa71d2641fb95228a4234ecc26e",
+    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Brzoza"
+  },
+  {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
     "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
     "price": "99",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
-    "title": "LEGO Star Wars Skywalker Saga Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
   }
 ]
