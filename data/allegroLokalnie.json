@@ -130,16 +130,6 @@
     "city": "zgorzelec"
   },
   {
-    "id": "55ae43ac-8930-487d-b5f3-b54aedf4417d",
-    "title": "The Legend of Zelda Link’s Awakening",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1ec3e8/b06eed1f4dff9044d604a032bd1b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-pyh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Bielany"
-  },
-  {
     "id": "a6177109-8bdc-45d2-bb23-1721a31fc86b",
     "title": "The Witcher 3: Wild Hunt - Complete Edition nintendo switch",
     "price": "210",
@@ -595,6 +585,16 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1ee6ee/204f8ac74299854a2ed361e44a11",
     "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k23-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "125f8008-2aef-4ce5-a4eb-222e31ae5660",
+    "title": "Gra Minecraft Legends Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e7edb/6e130d6b4cb5aceda1a3d1385c32",
+    "url": "https://allegrolokalnie.pl//oferta/gra-minecraft-legends-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Kraków, Dębniki"
@@ -1200,16 +1200,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "3f388bce-0c5d-44ab-bc83-3be42a6c3fdb",
-    "title": "Gra Nintendo Switch Diablo III Eternal Collection",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e14e2/39d88abc4fbf8d0e72db184f168b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-diablo-iii-eternal-collection-cow?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "14773d96-499e-4262-be72-58461882485d",
     "title": "Gra Nintendo Switch Doom",
     "price": "139",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Stare Miasto"
+  },
+  {
+    "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
+    "title": "Gra Nintendo Switch Burnout Paradise remastered",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e8fba/4cb9d028465fb1e9f1d015976701",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-burnout-paradise-remastered-f5w?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wrocław, Wroclaw"
   },
   {
     "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
@@ -3600,16 +3600,6 @@
     "city": "Dąbrowa"
   },
   {
-    "id": "dda7b984-0189-4a38-a73b-ed52672729db",
-    "title": "Ghost Song Nintendo Switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s360x360/1e692a/b13e01f7415e94998ce16edb1abb",
-    "url": "https://allegrolokalnie.pl//oferta/ghost-song-nintendo-switch-3g6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
     "id": "89f321b0-2345-4ff9-8311-9a8bdfd52772",
     "title": "Final Fantasy I-VI Collection Remaster Switch ANG",
     "price": "399",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
   },
   {
     "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
@@ -5400,16 +5400,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "9eab889c-fd6a-4de1-b421-089d315b3672",
-    "title": "Nintendo Switch Dragon Marked for Death",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e18fd/e090958d466f99e2eba6651ccf6f",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "72ab5411-bcaa-4d55-9ab4-584169e09ced",
     "title": "Nintendo Switch Infinity Strash Dragon Quest The Adventure of Dai",
     "price": "299",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
