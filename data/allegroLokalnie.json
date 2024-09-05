@@ -2562,7 +2562,7 @@
   {
     "id": "fecf162c-bd6a-4a7a-8a4f-4f84fb446a3d",
     "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
-    "price": "550",
+    "price": "600",
     "img": "https://a.allegroimg.com/s360x360/1eb4b8/15f54def41008a7f771fc929e613",
     "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch-5qc?navCategoryId=256922",
     "promoted": false,
@@ -3045,16 +3045,6 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/116b8a/23054c774741a7afacbed9a274a5",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lng?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "4fdce5c4-ead5-4f58-a29a-2eccf9a0b039",
-    "title": "Pokemon Let's Go Eevee Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/11b135/f16101ce4a52a7261cde913a1b16",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-c4o?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Tomaszów Mazowiecki"
+  },
+  {
+    "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
+    "title": "UNDERTALE (SWITCH) WYD US, EGZ NOWY",
+    "price": "287",
+    "img": "https://a.allegroimg.com/s360x360/1ecac6/b11926a94410bc61cef3dfb27a82",
+    "url": "https://allegrolokalnie.pl//oferta/undertale-switch-wyd-us-egz-nowy-ezb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
   },
   {
     "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
@@ -4200,16 +4200,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
-    "title": "Dead cells prisoner edition switch",
-    "price": "849",
-    "img": "https://a.allegroimg.com/s360x360/1e4871/dd24ac144654b67477ab8f9b5e98",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Prądnik Biały"
-  },
-  {
     "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
     "title": "Klonoa Phantasy Reverie Series Nowa Folia",
     "price": "89",
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Grabówka"
+  },
+  {
+    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
+    "title": "Dreamcutter Switch tylko kartrydż z grą",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ea2e1/01743a424fa29ba1ff21e09aa466",
+    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "ciechanów"
   },
   {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "2944a5fb-c8c3-4ee0-bbc9-766a9ce9549a",
+    "title": "Triangle Strategy Tactician's Limited Edition edycja kolekcjonerska Switch",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s360x360/1e0b5d/fb08fc7a4402b61a5261289151f5",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-tacticians-limited-edition-edycja-kolekcjonerska-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   }
 ]
