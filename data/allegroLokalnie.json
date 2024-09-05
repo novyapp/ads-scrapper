@@ -1,5 +1,15 @@
 [
   {
+    "id": "15395b66-0196-4c6f-9779-7bcf9c761e48",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "142",
+    "img": "https://a.allegroimg.com/s360x360/1eb9f4/61bef4f04769920bf077a3006ebf",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-dx4?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "77b2ff5c-046a-4fc8-816e-313d49580e58",
     "title": "Diablo 3 Nintendo switch",
     "price": "110",
@@ -585,16 +595,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
     "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "5273e082-9006-4d7f-859b-7743c654db87",
-    "title": "Gra Pikmin 1+2 Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1eadb9/26e293af4b2cb2cb4eef36e80dd5",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pikmin-1-2-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Kraków, Dębniki"
@@ -2400,6 +2400,16 @@
     "city": "Łódź, Widzew"
   },
   {
+    "id": "97676510-cdbe-4aca-8bd2-3ead6b5e253a",
+    "title": "American Hero - Switch - Limited Run Games",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/119baa/6fb5e9c844ca8b51a05930d593d5",
+    "url": "https://allegrolokalnie.pl//oferta/american-hero-switch-limited-run-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pionki"
+  },
+  {
     "id": "1e3113fb-328f-4c3d-a940-431b269a8343",
     "title": "A Boy and His Blob - Switch - Limited Run Games",
     "price": "300",
@@ -3600,16 +3610,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
-    "title": "UNDERTALE (SWITCH) WYD US, EGZ NOWY",
-    "price": "287",
-    "img": "https://a.allegroimg.com/s360x360/1ecac6/b11926a94410bc61cef3dfb27a82",
-    "url": "https://allegrolokalnie.pl//oferta/undertale-switch-wyd-us-egz-nowy-ezb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
     "title": "nowa Minecraft Switch, folia, UKV",
     "price": "125",
@@ -4198,6 +4198,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wieliczka"
+  },
+  {
+    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
+    "title": "Dead cells prisoner edition switch",
+    "price": "849",
+    "img": "https://a.allegroimg.com/s360x360/1e4871/dd24ac144654b67477ab8f9b5e98",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
   },
   {
     "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
-    "title": "LEGO Star Wars Skywalker Saga Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
   }
 ]
