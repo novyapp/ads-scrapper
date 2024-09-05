@@ -1120,6 +1120,16 @@
     "city": "Olsztyn"
   },
   {
+    "id": "28e72b12-1665-45db-8954-d07c09326914",
+    "title": "Overcooked 2 Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1ef88e/c5953f154f5b8b2688f2466552bb",
+    "url": "https://allegrolokalnie.pl//oferta/overcooked-2-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
     "id": "7bb39aaf-72c8-4379-abe9-92e869f58596",
     "title": "Animal Crossing New Horizons",
     "price": "150",
@@ -1188,16 +1198,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
-    "title": "Need for Speed Hot Pursuit Remastered NINTENDO SWITCH",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ebc3c/0673e7ec4819a45799eafd9a34aa",
-    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-remastered-nintendo-switch-ek5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
@@ -4800,6 +4800,86 @@
     "city": "koszalin"
   },
   {
+    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
+    "title": "Family Trainer SWITCH",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e5265/9569954d4eb0b25090cd597455af",
+    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
+    "title": "Bayonetta Cereza",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1e85e1/3d8826c44c969d6088e4e119364e",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-cereza-fft?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
+    "id": "5e8f05f3-b229-4819-8402-8ef088c952d2",
+    "title": "Bayonetta 2 nowa",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e2f0f/9ca92f594a7ea8eb7016b76e3347",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nowa-tyb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
+    "id": "a74360ab-aa33-4ab4-bc30-7b0f0e8df56e",
+    "title": "Rain Code collector's edition(mysteriful edition)",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e0c76/30af8ad5411581f09e1342526457",
+    "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
+    "title": "Bayonetta 2 collector's edition",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
+    "title": "The Legend of Zelda Tears of the Kingdom (Gra NS) TotK",
+    "price": "173",
+    "img": "https://a.allegroimg.com/s360x360/1e5e18/48eedf6b45058460821699ffaa1c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gra-ns-totk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Podgórze Duchackie"
+  },
+  {
+    "id": "d610b7fe-10b4-4223-a7de-77d740f9e866",
+    "title": "Tengoku Struggle Strayside Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1e4f01/5c9cb46341f8b410b93bbc9cc65a",
+    "url": "https://allegrolokalnie.pl//oferta/tengoku-struggle-strayside-nintendo-switch-s6n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kobylany"
+  },
+  {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
     "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
     "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
     "price": "159",
@@ -5918,85 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
-  },
-  {
-    "id": "ea99bfbf-2b5e-4a0a-91f7-c33369d91537",
-    "title": "LUIGIS MANSION 3 duchy w nawiedzonym domu przygoda",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/116760/129b86c34f24bc87282b3f12fd57",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-duchy-w-nawiedzonym-domu-przygoda?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "d2c132ca-41a4-4684-804c-d900d9f0327b",
-    "title": "SUPER MARIO ODYSSEY platformowa przygoda kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s360x360/118e7b/2c2c94b94feda325c57b7aa1553d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-platformowa-przygoda-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "68b43927-4389-46f6-b3a7-3348350a7f27",
-    "title": "Mario Kart Live Home Circuit MARIO komplet wyścigi wersja pudełkowa! NOWA!",
-    "price": "549",
-    "img": "https://a.allegroimg.com/s360x360/119dae/db91e3e449089d8ad19f9dd2a9f0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "8397538f-2158-4ec9-96ac-41271e325076",
-    "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
-    "price": "549",
-    "img": "https://a.allegroimg.com/s360x360/11a7f3/d4306da3477984b878303c966d53",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
-  },
-  {
-    "id": "fb769f19-85d8-498d-b271-df993c82000e",
-    "title": "Minecraft Nintendo Switch - polskie napisy.",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea726/def004ec43beb087dfce4ea43a29",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-cpb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
-    "title": "Langrisser I & II dla Nintendo Switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
-    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
-    "title": "Harvestella dla Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e18b7/a139deab4f9fa98392004fcf4f33",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
-  },
-  {
-    "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
-    "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1e0bd5/dc5f3e68464aad62b71bd793179f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-bros-wonder-nintendo-switch-gadzety-z-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   }
 ]
