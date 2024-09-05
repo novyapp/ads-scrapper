@@ -1200,16 +1200,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
-    "title": "Need for Speed Hot Pursuit Remastered NINTENDO SWITCH",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ebc3c/0673e7ec4819a45799eafd9a34aa",
-    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-remastered-nintendo-switch-ek5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "4241002d-8d9b-484b-94f1-a2c393e54746",
     "title": "ULTRA STREET FIGHTER 2 THE FINAL CHALLANGE NINTENDO SWITCH",
     "price": "99",
@@ -1800,6 +1790,16 @@
     "city": "Lublin"
   },
   {
+    "id": "a0d24d66-97d6-451f-9b36-068a86a4afce",
+    "title": "SONIC FORCES Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1eae4d/23aea52746e3b8b804dc34acfd10",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-nintendo-switch-gxn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
     "id": "e7194adb-7dfe-4f5c-a90a-b29ae494a680",
     "title": "HYRULE WARRIORS: DEFINITIVE EDITION Nintendo Switch",
     "price": "175",
@@ -2268,6 +2268,76 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "28282a1a-21f8-4e94-b98c-c6a95dc48ecc",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e0e4f/8877f2c449cfa01ec9c93305a647",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-iif?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "dddb783d-443a-4466-9301-d008a38dd9ca",
+    "title": "Pokemon Sword Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1eb792/a27edf9a41bba677dab666212f86",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-wyz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "269706fc-10a7-4f4a-bc7c-f18f5038cf94",
+    "title": "SpongeBob Battle for Bikini Bottom Nintendo Switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e0c90/9720402c4d70914b36826ee89f0f",
+    "url": "https://allegrolokalnie.pl//oferta/spongebob-battle-for-bikini-bottom-nintendo-switch-5wk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "df1bb02a-88fa-4dfc-97bf-2778182e0551",
+    "title": "Captain Toad Treasure Tracker",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ee432/74d4a74e48c69622c3ffa3f166b5",
+    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-asq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "59dcfff4-c312-4c3a-b2f5-d60585e7fb24",
+    "title": "Super Mario Maker 2",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1ef057/b62533744ace935fcf3bac4962b7",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-tyl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "c83050b7-06a2-45c8-b174-93a7c4fd9370",
+    "title": "Gra Ring Fit Adventure +Ring Fit + Opaska na nogę (CAŁY ZESTAW)",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e86cc/0a8b45b24ee59886d30a6d2e8c14",
+    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw-hul?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "13a2926f-29ba-47b1-b36e-4f59882c9cbd",
+    "title": "Fitness Boxing 2 Rhythm & Exercise",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e32df/acdcbe2f40c384e4675b05c8a722",
+    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-5qb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
   },
   {
     "id": "6c5d7dce-d9e4-4618-9027-221cad12c409",
@@ -5928,75 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
-    "title": "Monster Truck Championship Nintendo Switch!",
-    "price": "72",
-    "img": "https://a.allegroimg.com/s360x360/1e96b7/0de25e194aebbe4bfad681b60740",
-    "url": "https://allegrolokalnie.pl//oferta/monster-truck-championship-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Konstancin-Jeziorna"
-  },
-  {
-    "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
-    "title": "Gry Nintendo Switch x2 Digimon Asterix",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ecdf7/1ae7c219465e88b74442c75d311c",
-    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-x2-digimon-asterix?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzelec"
-  },
-  {
-    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
-    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
-    "price": "1 049",
-    "img": "https://a.allegroimg.com/s360x360/1eff66/ee0d883f4ab0b1c34171fd5602c0",
-    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
-  },
-  {
-    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
-    "title": "Let's Sing ABBA Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
-  },
-  {
-    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
-    "title": "Fire emblem engage Nintendo switch nowa",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
-  },
-  {
-    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
   }
 ]
