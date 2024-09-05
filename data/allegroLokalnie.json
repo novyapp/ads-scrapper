@@ -2352,7 +2352,7 @@
   {
     "id": "bd834ede-7976-431f-8911-093638d6cd53",
     "title": "BAYONETTA 3 SWITCH",
-    "price": "100",
+    "price": "95",
     "img": "https://a.allegroimg.com/s360x360/1e6a46/4f6fbec74a66995a59a9ed21e955",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-rgn?navCategoryId=256922",
     "promoted": false,
@@ -3600,16 +3600,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "6e070541-cbcb-489d-98e2-a70be94ec940",
-    "title": "UNDERTALE (SWITCH) WYD US, EGZ NOWY",
-    "price": "287",
-    "img": "https://a.allegroimg.com/s360x360/1ecac6/b11926a94410bc61cef3dfb27a82",
-    "url": "https://allegrolokalnie.pl//oferta/undertale-switch-wyd-us-egz-nowy-ezb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "66d8f138-d7f6-483c-9858-32a76b14a991",
     "title": "nowa Minecraft Switch, folia, UKV",
     "price": "125",
@@ -4200,6 +4190,16 @@
     "city": "Wieliczka"
   },
   {
+    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
+    "title": "Dead cells prisoner edition switch",
+    "price": "849",
+    "img": "https://a.allegroimg.com/s360x360/1e4871/dd24ac144654b67477ab8f9b5e98",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
+  },
+  {
     "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
     "title": "Klonoa Phantasy Reverie Series Nowa Folia",
     "price": "89",
@@ -4788,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Grabówka"
-  },
-  {
-    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
-    "title": "Dreamcutter Switch tylko kartrydż z grą",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ea2e1/01743a424fa29ba1ff21e09aa466",
-    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "ciechanów"
   },
   {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
