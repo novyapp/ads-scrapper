@@ -1870,16 +1870,6 @@
     "city": "Lublin"
   },
   {
-    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
-    "title": "Ghost Trick na Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ed666/d919f9394cec88e6b3b15def60cc",
-    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "aa3fe2f1-39b6-48fc-b5e8-8d1ee09fabb1",
     "title": "UNIKAT DISCO ELYSIUM FINAL CUT, SWITCH, WERSJA PL!",
     "price": "259",
@@ -2290,6 +2280,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
+    "title": "Ghost Trick na Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ed666/d919f9394cec88e6b3b15def60cc",
+    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "c284bfaa-4256-41c6-8d38-e9957e624574",
     "title": "SpongeBob SquarePants The Cosmic Shake",
     "price": "95",
@@ -2395,6 +2395,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/11ff1b/fc48e29a48729718e39e85f894ed",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
+    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/11655f/c6a25f81443f87e3ba4e80d6f1ce",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
@@ -3000,16 +3010,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "7d7e82b3-11c9-4ab6-9038-3b0e5e36755f",
-    "title": "Nintendo Switch Demon Gaze Extra",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ee81f/797c339d417b989c510bc4c2faa3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-demon-gaze-extra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "cda52cae-bd39-4f80-93d9-390a748356ed",
     "title": "Nintendo Switch Trails of Cold Steel IV 4",
     "price": "280",
@@ -3598,6 +3598,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "cda44abd-2fd2-43a7-9e97-a930069d0838",
+    "title": "Rayman Legends Definitive Edition Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ea80b/d6099c084e4f83a0c8e63f7b9bef",
+    "url": "https://allegrolokalnie.pl//oferta/rayman-legends-definitive-edition-nintendo-switch-rsi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
+    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1eadec/d4bc6e344ca5b154b6331ef0d08a",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-izk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "959b8b77-fdbe-47fb-83ab-f4cb5844ec7e",
+    "title": "Nintendo Switch 13 sentinels aegis rim",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e37d8/7d1d10744610a0baaacbe5aab4cc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-13-sentinels-aegis-rim?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "5aaa0024-c761-4a26-8722-a23143c0dd66",
+    "title": "Beholgar Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e2be3/1263ae8c4554b1e86a754d8f37ec",
+    "url": "https://allegrolokalnie.pl//oferta/beholgar-nintendo-switch-qvn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jawor"
   },
   {
     "id": "9048d663-717a-4cd5-9f25-33e6d523bcb2",
@@ -4200,46 +4240,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
-    "title": "Yurukill - Switch (Nowa)",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e5cff/e1b3942e4e29adc6944ee2297e84",
-    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilczyce"
-  },
-  {
-    "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
-    "title": "SWITCH Pokemon: Let's Go, Pikachu! / JRPG",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ec10c/2816a7e54841b09642eb5a0e429f",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-jrpg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Częstochowa"
-  },
-  {
-    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
-    "title": "Lego Ninjago Il Film Video Game",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1ec6c9/1e336f374c9ab332325d16a12139",
-    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Mokotów"
-  },
-  {
-    "id": "f37392f8-6f95-4fa6-8be9-171adf247ec7",
-    "title": "The Legend Of Zelda Breath Of The Wild",
-    "price": "202",
-    "img": "https://a.allegroimg.com/s360x360/1e6468/220b0b55462ba9a3618e5c556fae",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-uzz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
     "price": "180",
@@ -4795,6 +4795,16 @@
     "price": "140",
     "img": "https://a.allegroimg.com/s360x360/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
+    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
@@ -5385,16 +5395,6 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
-    "title": "Nowa Bayonetta 3 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
