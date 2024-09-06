@@ -2290,16 +2290,6 @@
     "city": "Rumia"
   },
   {
-    "id": "1b2899a9-9580-4567-9ba7-75b84432319b",
-    "title": "Disco Elysium Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1ee286/afca5405489bba3f4bc33e3201cc",
-    "url": "https://allegrolokalnie.pl//oferta/disco-elysium-nintendo-switch-7tr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "a26617cf-109d-4309-908a-e782a76196fb",
     "title": "Diablo 3 Eternal Collection Nintendo Switch",
     "price": "110",
@@ -3580,6 +3570,26 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "03125efc-473b-4250-8569-5ec84b2d6c90",
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ef044/5ced7876466da828bf1615d22884",
+    "url": "https://allegrolokalnie.pl//oferta/teenage-mutant-ninja-turtles-the-cowabunga-collection-smk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
+    "title": "Dragon Quest Treasures",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed090/192c26914b1b8c19f33a90456d1a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
     "title": "Shovel Knight Treasure Trove",
     "price": "80",
@@ -4780,26 +4790,6 @@
     "city": "Toruń"
   },
   {
-    "id": "a74360ab-aa33-4ab4-bc30-7b0f0e8df56e",
-    "title": "Rain Code collector's edition(mysteriful edition)",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1e0c76/30af8ad5411581f09e1342526457",
-    "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
-    "title": "Bayonetta 2 collector's edition",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
     "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
     "title": "The Legend of Zelda Tears of the Kingdom (Gra NS) TotK",
     "price": "173",
@@ -5378,6 +5368,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "d7cc61b1-feba-4dc5-90be-db96c200d858",
+    "title": "Super Mario 3D World + Bowser’s Fury",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e8b5a/79589dd4473bbd86981311b68122",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-lda-n2m?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "741869b0-edaf-49d7-b335-f478da7aa521",
+    "title": "SUPER MARIO 3D ALL-STARS (stan idealny)",
+    "price": "419",
+    "img": "https://a.allegroimg.com/s360x360/1eb043/1f53c24348fcac553a515482de4d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
   },
   {
     "id": "6a6d947b-f4f3-48f5-a7ff-003fb7bd6777",
@@ -5978,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
+  },
+  {
+    "id": "fb769f19-85d8-498d-b271-df993c82000e",
+    "title": "Minecraft Nintendo Switch - polskie napisy.",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea726/def004ec43beb087dfce4ea43a29",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-cpb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
