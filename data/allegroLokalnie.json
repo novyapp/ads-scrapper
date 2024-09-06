@@ -266,7 +266,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
     "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "zgorzelec"
   },
   {
@@ -276,7 +276,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ec3d7/66c04ecd44cf9befcbc149aeea82",
     "url": "https://allegrolokalnie.pl//oferta/crash-4-bandicoot-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "zgorzelec"
   },
   {
@@ -286,7 +286,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ecb40/3c7cbc144fc8996a146fa8d8362e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-kqp?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "zgorzelec"
   },
   {
@@ -296,17 +296,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ec019/64af7bf145a2a432d42db1356ef2",
     "url": "https://allegrolokalnie.pl//oferta/fit-ring-adventure-nintendo-switch-vfo?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
-    "city": "zgorzelec"
-  },
-  {
-    "id": "a6177109-8bdc-45d2-bb23-1721a31fc86b",
-    "title": "The Witcher 3: Wild Hunt - Complete Edition nintendo switch",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1ec5e1/f7c0955f40d0a95398595f7feb9d",
-    "url": "https://allegrolokalnie.pl//oferta/the-witcher-3-wild-hunt-complete-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "zgorzelec"
   },
   {
@@ -316,7 +306,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e57c7/580894ed4a55becd46beea54d50b",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-ant?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "zgorzelec"
   },
   {
@@ -5780,16 +5770,6 @@
     "city": "Kraków"
   },
   {
-    "id": "19665c83-4e6a-4edc-ba13-f6b8e3afbb22",
-    "title": "The legend od Zelda breath od the wild",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ede51/1912e7984eb8b7a378ef2500855b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-breath-od-the-wild-dyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "2c849131-86de-4420-8994-e9a75d36900f",
     "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
     "price": "139",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   }
 ]
