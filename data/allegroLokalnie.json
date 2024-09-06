@@ -110,16 +110,6 @@
     "city": "Zielona Góra"
   },
   {
-    "id": "5203b2ce-afc6-404f-b3fd-132eed53e959",
-    "title": "Gra Super Smash Bros. Ultimate Nintendo switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e7cde/0edec20647b6973478d23768733c",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-smash-bros-ultimate-nintendo-switch-xlj?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ciechanów"
-  },
-  {
     "id": "d70801ea-35c8-49c8-80c8-bf302315b6e4",
     "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna PL Dubbing Nintendo Switch",
     "price": "271",
@@ -610,6 +600,16 @@
     "city": "Ostrów Mazowiecka"
   },
   {
+    "id": "ac445448-d8cd-40c3-a422-3f341bc0c5f4",
+    "title": "Minecraft Dungeons Hero Edition Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1eb95a/b5abde8f44bb9608723d8ee60eb4",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-nintendo-switch-pyv?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
+  },
+  {
     "id": "3ade2d08-3928-4ef8-b622-93093cf84354",
     "title": "Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
@@ -935,26 +935,6 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1ee656/fa9834424b33bcfab49d40017bf3",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-tye?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ząbki"
-  },
-  {
-    "id": "3bf2ad1b-cf24-41c1-8e66-802f01d8f4b2",
-    "title": "Yoshi's Crafted World Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1e01e7/b013ccd04e759523b585f52d25a6",
-    "url": "https://allegrolokalnie.pl//oferta/yoshis-crafted-world-nintendo-switch-rhn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ząbki"
-  },
-  {
-    "id": "b29c1a63-6119-4bd4-97c7-40e9bb513d8d",
-    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e713b/fa1c6b654df2aeaa56ff7410b1fb",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-ebv?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Ząbki"
@@ -4200,36 +4180,6 @@
     "city": "Rybnik"
   },
   {
-    "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
-    "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e6c8e/c73567cf4d9db14e668f8ae06c66",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-generations-ultimate-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
-    "title": "Captain Toad: Treasure Tracker Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e3c06/92a08a8b4fa89d62e4e7a09d13a9",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ycw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
-    "id": "2102a4d9-dd6b-4183-b8b5-e8683d11022d",
-    "title": "Hogwarts legacy nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1ed5da/a4a60cf048a7acbaed54b647ebb2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-qpr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
     "id": "6391e8f8-52e1-4791-957e-96bf86755656",
     "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
     "price": "200",
@@ -5398,6 +5348,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "93c020ee-e1e1-4e6b-a844-6ccc22c1b4cf",
+    "title": "The Smurfs 2:The Prisoner of the Green Stone Switch / LES SCHTROUMPFS 2",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/118c99/509a45e540b9928be2d28d0a4b39",
+    "url": "https://allegrolokalnie.pl//oferta/the-smurfs-2the-prisoner-of-the-green-stone-switch-les-schtroumpfs-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
+  },
+  {
+    "id": "710eee37-8f1c-4be1-af24-fe2e49c7026c",
+    "title": "Nintendo Switch Monster Hunter Stories 2",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ea015/b523e6894316b39eb2d7357360fc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-monster-hunter-stories-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia"
+  },
+  {
+    "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
+    "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e9ecb/a893419946349ed954fde672377d",
+    "url": "https://allegrolokalnie.pl//oferta/darius-cozmic-collection-nintendo-switch-jpn-nowa-qss?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
   },
   {
     "id": "93c020ee-e1e1-4e6b-a844-6ccc22c1b4cf",
