@@ -2390,6 +2390,16 @@
     "city": "Bysław"
   },
   {
+    "id": "df1bb02a-88fa-4dfc-97bf-2778182e0551",
+    "title": "Captain Toad Treasure Tracker",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ee432/74d4a74e48c69622c3ffa3f166b5",
+    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-asq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "59dcfff4-c312-4c3a-b2f5-d60585e7fb24",
     "title": "Super Mario Maker 2",
     "price": "185",
@@ -4790,16 +4800,6 @@
     "city": "Toruń"
   },
   {
-    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
-    "title": "Bayonetta 2 collector's edition",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e777f/530ae8fb4a4297f5201e14b73903",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
     "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
     "title": "The Legend of Zelda Tears of the Kingdom (Gra NS) TotK",
     "price": "173",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
+  },
+  {
+    "id": "fb769f19-85d8-498d-b271-df993c82000e",
+    "title": "Minecraft Nintendo Switch - polskie napisy.",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s360x360/1ea726/def004ec43beb087dfce4ea43a29",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-cpb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
