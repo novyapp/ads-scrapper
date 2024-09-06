@@ -1,5 +1,15 @@
 [
   {
+    "id": "195962a3-ebdc-4362-8f95-2b8e54e10981",
+    "title": "Potion Permit - Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ee012/fbc0491b44b08df262fb4d14566b",
+    "url": "https://allegrolokalnie.pl//oferta/potion-permit-switch-rk2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "600ee901-8856-413a-9eaa-4ca696493390",
     "title": "Rabbids Party of Legends Nintendo Switch jak nowa polskie pudełko ENG PL",
     "price": "75",
@@ -585,16 +595,6 @@
     "price": "229",
     "img": "https://a.allegroimg.com/s360x360/1eb78a/d89e4f2549628d7c8f05c1125ba6",
     "url": "https://allegrolokalnie.pl//oferta/no-mans-sky-switch-x7h?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "5f187646-e119-4319-a518-2d0bf395d6d0",
-    "title": "Super Mario Party Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e1a86/6968a403490c9bda1f35baeeadca",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-pgl?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
@@ -1200,6 +1200,16 @@
     "city": "Świdnica"
   },
   {
+    "id": "2c13f5ff-0361-40f8-b3f9-26258fd5a533",
+    "title": "Vengeful Guardian Moonrider Switch NOWA",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e710c/551f8d4e4b629a40866e78f11272",
+    "url": "https://allegrolokalnie.pl//oferta/vengeful-guardian-moonrider-switch-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Świdnica"
+  },
+  {
     "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
     "title": "Ys IX: Monstrum Nox",
     "price": "179",
@@ -1710,16 +1720,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "59e47851-0e12-4641-87f9-d5c54ac6e9e6",
-    "title": "Everybody 1-2-Switch! Nintendo Switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e48c3/81a9b2da459d91074698a0853b80",
-    "url": "https://allegrolokalnie.pl//oferta/everybody-12switch-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "8fd69435-9620-4fcf-a391-7a26391256c2",
     "title": "Fifa 22 Edycja Legacy Nintendo Switch",
     "price": "55",
@@ -1770,16 +1770,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
-    "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec762/ed3c560040b0ad66f0d95b5d079d",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-xenoverse-2-nintendo-switch-xqd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "150",
@@ -1788,6 +1778,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Dzierżoniów"
+  },
+  {
+    "id": "59e47851-0e12-4641-87f9-d5c54ac6e9e6",
+    "title": "Everybody 1-2-Switch! Nintendo Switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e48c3/81a9b2da459d91074698a0853b80",
+    "url": "https://allegrolokalnie.pl//oferta/everybody-12switch-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
+    "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ec762/ed3c560040b0ad66f0d95b5d079d",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-xenoverse-2-nintendo-switch-xqd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
@@ -2990,16 +3000,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "3f8bbe8c-2820-4394-acbe-39e1cbbccf71",
-    "title": "GRA METROID DREAD SWITCH Nintendo Switch unikat",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1ee76f/a47ff84943a6aaad569f96f69be3",
-    "url": "https://allegrolokalnie.pl//oferta/gra-metroid-dread-switch-nintendo-switch-unikat?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pyzówka"
-  },
-  {
     "id": "27ac5427-7347-421b-a95c-bd7645cdf920",
     "title": "Xenoblade 2 edycja kolekcjonerska nowa w folii",
     "price": "1 699",
@@ -3600,6 +3600,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
+    "title": "Collection of Mana",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebcb7/5a70a33a4276841c0848676ed2dc",
+    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "7787ac4a-81e9-4180-adf8-677b5fe726ba",
     "title": "Layton's Mystery Journey",
     "price": "90",
@@ -4092,7 +4102,7 @@
   {
     "id": "45a81b59-2621-4c76-b424-5104f8a7885d",
     "title": "Minecraft.",
-    "price": "70",
+    "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1e106f/96693f5a48eb971f8b1571b5dc02",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-3ht?navCategoryId=256922",
     "promoted": false,
@@ -4188,6 +4198,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
@@ -4428,16 +4448,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
-  },
-  {
-    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
-    "title": "My Hero Ones Justice 2",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
-    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
   },
   {
     "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Groblice"
-  },
-  {
-    "id": "fb769f19-85d8-498d-b271-df993c82000e",
-    "title": "Minecraft Nintendo Switch - polskie napisy.",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea726/def004ec43beb087dfce4ea43a29",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-cpb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   }
 ]
