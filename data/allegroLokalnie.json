@@ -1,5 +1,15 @@
 [
   {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
+  },
+  {
     "id": "ccd710ef-d15c-4b2c-a55e-4124c0890160",
     "title": "Metroid Dread Nintendo Switch",
     "price": "80",
@@ -578,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kraśnik"
-  },
-  {
-    "id": "686ea4f2-bda9-4acc-a75c-cd440714ddbc",
-    "title": "Minecraft Dungeons na Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1eb73d/b63edb864bf4a8a0d085d133fbf2",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-na-nintendo-switch-3ur?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Katowice"
   },
   {
     "id": "49459de4-85f8-4897-9921-9bd1fd811612",
@@ -1185,16 +1185,6 @@
     "price": "279",
     "img": "https://a.allegroimg.com/s360x360/1edc6b/d3e33f9842c59c814976aad34880",
     "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-pl-dubbing-b6y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "e56a5462-90c5-4526-9717-0fa67b56ae33",
-    "title": "Monster Hunter Stories 2: Wings of Ruin PL  Nintendo Switch stan BdB",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e7c92/699e83d844f881c56bed5bf1a460",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-stan-bdb?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
@@ -4200,16 +4190,6 @@
     "city": "Warszawa, Rembertów"
   },
   {
-    "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
-    "title": "NINTENDO SWITCH GRA SHIN MEGAMI TENSEI",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e2ffc/6d10cf004844858676b0007040ba",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-shin-megami-tensei?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Orzesze"
-  },
-  {
     "id": "869df6a1-1044-4330-91a6-57400ec8e720",
     "title": "Kemco rpg omnibus switch",
     "price": "200",
@@ -5398,6 +5378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Elbląg"
+  },
+  {
+    "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
+    "title": "Animal Crossing Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e6c38/533c9998488ab375bd4512f058d0",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-72k?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Poznań, Grunwald"
   },
   {
     "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
