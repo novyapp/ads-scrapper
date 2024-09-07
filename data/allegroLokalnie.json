@@ -1,5 +1,15 @@
 [
   {
+    "id": "2b5a97ed-da58-486d-a47d-d833ae21c459",
+    "title": "Xenoblade Chronicles 2 (Nintendo Switch)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e1407/1b21de664d5891bad4abf21ea9aa",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qun?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Żarki Wielkie"
+  },
+  {
     "id": "ccdcd007-1c71-4cee-84de-59a396bb4b60",
     "title": "Super Mario Bros Wonder - sam catridge (Nintendo Switch)",
     "price": "110",
@@ -590,16 +600,6 @@
     "city": "KOBIERZYCE"
   },
   {
-    "id": "4bde80fb-b91a-441b-bd9c-1da84875dc22",
-    "title": "Dying Light Platinum Edition Nintendo Switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s360x360/1ed7e5/cee839564aebbb4c31f5b4f4cd88",
-    "url": "https://allegrolokalnie.pl//oferta/dying-light-platinum-edition-nintendo-switch-vat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krościenko Wyżne"
-  },
-  {
     "id": "0b786856-096f-4c07-b41e-2e344e8e018b",
     "title": "BloodRayne 2: Revamped - Switch - Limited Run Games",
     "price": "290",
@@ -942,7 +942,7 @@
   {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
-    "price": "90",
+    "price": "85",
     "img": "https://a.allegroimg.com/s360x360/1efe34/261682324370b2745de214a1f2c8",
     "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
     "promoted": true,
@@ -1800,6 +1800,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "dc1770d2-6af4-4fed-ae84-457abbccb862",
+    "title": "Gra Nintendo Switch Birushana Day One",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e5082/f1ab0c614388aaf79efd45fecdff",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-birushana-day-one?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
     "price": "170",
@@ -2388,6 +2398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "15fe8537-15c9-40d9-b0a7-c0aa8d47824c",
+    "title": "Metroid Prime Remastered Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebd00/58ce020449fc8d2d4693a4685948",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-tuu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tychy"
   },
   {
     "id": "98e81603-0f6b-4009-b80e-b2309330f957",
@@ -3580,26 +3600,6 @@
     "city": "Nowa Sól"
   },
   {
-    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
-    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s360x360/1e4b5b/d90095df4e40b0f239ed11ec8887",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
-    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s360x360/1e4b5b/d90095df4e40b0f239ed11ec8887",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "ed70ab1a-8a3d-48e9-afcc-9c0a7ac6128a",
     "title": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL III / 3xA SWITCH NOWA",
     "price": "219",
@@ -4188,6 +4188,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żelechów"
+  },
+  {
+    "id": "13676dde-9fdb-4dca-b8a9-ddbefa7b8d34",
+    "title": "The legend of zelda tears of the kingdom + steelbook i artbook",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1e2dcb/b48cd8b74f52a5a706c8825ed22c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-steelbook-i-artbook?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rębielice Królewskie"
+  },
+  {
+    "id": "13676dde-9fdb-4dca-b8a9-ddbefa7b8d34",
+    "title": "The legend of zelda tears of the kingdom + steelbook i artbook",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1e2dcb/b48cd8b74f52a5a706c8825ed22c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-steelbook-i-artbook?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rębielice Królewskie"
   },
   {
     "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
@@ -5375,16 +5395,6 @@
     "price": "95",
     "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
-    "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
-    "title": "Animal Crossing New Horizons gra Nintendo switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "JAWORZE"
