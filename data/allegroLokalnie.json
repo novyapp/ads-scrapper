@@ -2900,16 +2900,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "48c0e9f9-e062-438e-88b0-05616c667036",
-    "title": "Gra Dying Light: Platinum Edition - Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ee510/0547e17541f29f888d0b1039f86e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dying-light-platinum-edition-nintendo-switch-ece?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "95013582-7a1a-4b51-8f2c-50435f48b928",
     "title": "FINAL FANTASY X | X-2 HD REMASTER / NINTENDO SWITCH",
     "price": "110",
@@ -3610,6 +3600,16 @@
     "city": "Nowa Sól"
   },
   {
+    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s360x360/1e8767/73f8ffde4a98873fa017f75cebe0",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowa Sól"
+  },
+  {
     "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
     "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
     "price": "350",
@@ -4198,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żelechów"
-  },
-  {
-    "id": "13676dde-9fdb-4dca-b8a9-ddbefa7b8d34",
-    "title": "The legend of zelda tears of the kingdom + steelbook i artbook",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s360x360/1e2dcb/b48cd8b74f52a5a706c8825ed22c",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-steelbook-i-artbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rębielice Królewskie"
   },
   {
     "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
+    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
+    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
   }
 ]
