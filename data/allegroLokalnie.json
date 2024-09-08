@@ -1190,6 +1190,16 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "73a0b4a0-fbf8-4294-a89a-5caaff45d57a",
+    "title": "Gothic Classic - Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e16f0/660f7b564c64aff5aaaf558929d5",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-njl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "19024e1b-367d-47fd-8e1a-5593d568f4d8",
     "title": "TT ISLE OF MAN RIDE ON THE EDGE 3 Nintendo Switch NOWA FOLIA !",
     "price": "143",
@@ -1775,16 +1785,6 @@
     "price": "148",
     "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
@@ -2400,6 +2400,16 @@
     "city": "Wieliczka"
   },
   {
+    "id": "e6f4aef5-5258-40b8-8571-137334b3e6ed",
+    "title": "Wario Ware Get it Together! Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1ec392/68d146e146fba3baba5c19e39992",
+    "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nintendo-switch-mq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "86688c2d-f178-4dda-812d-50fa8b9a0cc5",
     "title": "Mario+Rabbids sparks of hope",
     "price": "59",
@@ -2990,16 +3000,6 @@
     "city": "Elbląg"
   },
   {
-    "id": "3efc404c-538c-4083-877b-ccdb8a0cae88",
-    "title": "Gra Sonic Racing Nintendo Switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e5289/368126b847fbbccde1e79cc68178",
-    "url": "https://allegrolokalnie.pl//oferta/gra-sonic-racing-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "f2e14ac6-8c8a-47f5-8dd9-53c219484dac",
     "title": "Gra Snow Runner Nintendo Switch",
     "price": "85",
@@ -3588,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Nowa Sól"
+  },
+  {
+    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
+    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s360x360/1e4b5b/d90095df4e40b0f239ed11ec8887",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
@@ -5390,16 +5400,6 @@
     "city": "JAWORZE"
   },
   {
-    "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
-    "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1e9be2/1f880a4b470d9349cbb28229bf20",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
     "title": "Zelda Tears of the Kingdom",
     "price": "179",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Głogów"
+  },
+  {
+    "id": "ff0a3a33-3b5e-48a5-8abf-dce0fc3a630b",
+    "title": "switch MARIO KART 8 DELUXE wyścigi 1-4 graczy, kardridż",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/119a04/c19840cb44319d20d29cec3accad",
+    "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
   }
 ]
