@@ -862,7 +862,7 @@
   {
     "id": "35f4b2f0-fb49-4d7f-9b3f-bdf2cf4f9339",
     "title": "Gra Super Bomberman R Switch",
-    "price": "120",
+    "price": "10",
     "img": "https://a.allegroimg.com/s360x360/1e68e2/202236ca493886feb1cde3b47830",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-bomberman-r-switch?navCategoryId=256922",
     "promoted": true,
@@ -872,7 +872,7 @@
   {
     "id": "dc14e245-77b1-4df8-9f2d-ea55ee01cd2e",
     "title": "Gra Ori the Collection Switch",
-    "price": "130",
+    "price": "10",
     "img": "https://a.allegroimg.com/s360x360/1e537a/d27237354938be6ac5db6c4fe9f4",
     "url": "https://allegrolokalnie.pl//oferta/gra-ori-the-collection-switch-jfr?navCategoryId=256922",
     "promoted": true,
@@ -892,7 +892,7 @@
   {
     "id": "5273e082-9006-4d7f-859b-7743c654db87",
     "title": "Gra Pikmin 1+2 Switch",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1eadb9/26e293af4b2cb2cb4eef36e80dd5",
     "url": "https://allegrolokalnie.pl//oferta/gra-pikmin-1-2-switch?navCategoryId=256922",
     "promoted": true,
@@ -942,7 +942,7 @@
   {
     "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
     "title": "Gra Quake Switch",
-    "price": "210",
+    "price": "200",
     "img": "https://a.allegroimg.com/s360x360/1e45a9/265303484768a0ac9de2cf279a2b",
     "url": "https://allegrolokalnie.pl//oferta/gra-quake-switch?navCategoryId=256922",
     "promoted": true,
@@ -3000,6 +3000,26 @@
     "city": "Bielsko-Biała"
   },
   {
+    "id": "992433f3-6ffb-4394-8cad-e371a9c75508",
+    "title": "Super Mario Bross Wonder Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e300d/78a0df6f408a8b71cf16846cda21",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bross-wonder-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsko-Biała"
+  },
+  {
+    "id": "a7700c24-8a95-4ff8-89da-0306a458d2ec",
+    "title": "Xenoblade chronicles 2 Eu Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1eef1e/a6bed48a49ce9e7a41166c7be7b4",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-eu-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
     "id": "3efc404c-538c-4083-877b-ccdb8a0cae88",
     "title": "Gra Sonic Racing Nintendo Switch",
     "price": "80",
@@ -3600,26 +3620,6 @@
     "city": "Nowa Sól"
   },
   {
-    "id": "fb4273ab-4331-426c-9eaf-20d3ffabd6e9",
-    "title": "Mario Rabbids Sparks of Hope",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s360x360/1ee91c/814ea0aa42f3a612bf3a40276588",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-6vu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kostrzyn nad Odrą"
-  },
-  {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
     "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
     "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
     "price": "350",
@@ -4198,6 +4198,36 @@
     "promoted": false,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
+    "title": "The Legend of Zelda Skyward Sword HD Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1eff3e/1e1d4db5488d88aec5a343dcbd34",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-nintendo-switch-5v4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "7ce32a4e-a3d1-449c-bb2b-13cb7fb0f1f9",
+    "title": "Bayonetta 3 Nintendo Switch Nowa w folii",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e7f8f/62cef9ae4798922a45abcabc3a55",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-nowa-w-folii-gae?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Rembertów"
+  },
+  {
+    "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
+    "title": "NINTENDO SWITCH GRA SHIN MEGAMI TENSEI",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e2ffc/6d10cf004844858676b0007040ba",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-shin-megami-tensei?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Orzesze"
   },
   {
     "id": "869df6a1-1044-4330-91a6-57400ec8e720",
@@ -5368,36 +5398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Elbląg"
-  },
-  {
-    "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
-    "title": "Animal Crossing Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e6c38/533c9998488ab375bd4512f058d0",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-72k?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Poznań, Grunwald"
-  },
-  {
-    "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
-    "title": "Nintendo Switch gra Splatoon 2",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eaabf/969121a14981a77732193f5c9f73",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
-  },
-  {
-    "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
-    "title": "Nintendo Switch gra taneczną Just Dance 2020",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1ea259/981f594e48f1a091f8e7d77d532d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "JAWORZE"
   },
   {
     "id": "f905a42c-eda9-49e8-a7dd-bf87d5e83a3f",
