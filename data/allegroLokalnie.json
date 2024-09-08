@@ -600,16 +600,6 @@
     "city": "zgorzelec"
   },
   {
-    "id": "a67c8e6d-d673-4310-b42d-26cb5dbba4ee",
-    "title": "Fit ring adventure nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ec019/64af7bf145a2a432d42db1356ef2",
-    "url": "https://allegrolokalnie.pl//oferta/fit-ring-adventure-nintendo-switch-vfo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "zgorzelec"
-  },
-  {
     "id": "d7a7a018-923d-478a-bab3-29199e4b6e60",
     "title": "Mario kart 8 deluxe nintendo switch",
     "price": "180",
@@ -1195,6 +1185,16 @@
     "price": "278",
     "img": "https://a.allegroimg.com/s360x360/1ec165/a37854f24908977bf5ac392fcff6",
     "url": "https://allegrolokalnie.pl//oferta/flashback-25th-anniversary-nowa-folia-qdg?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "1fdd59c4-e7a1-4084-8123-082b3086e173",
+    "title": "Spirit of the North Kartridż jak Nowa",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s360x360/1ee3e5/866ea9034d2fa289ac6ac9f6104c",
+    "url": "https://allegrolokalnie.pl//oferta/spirit-of-the-north-kartridz-jak-nowa-ysb?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
@@ -3022,7 +3022,7 @@
   {
     "id": "3efc404c-538c-4083-877b-ccdb8a0cae88",
     "title": "Gra Sonic Racing Nintendo Switch",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e5289/368126b847fbbccde1e79cc68178",
     "url": "https://allegrolokalnie.pl//oferta/gra-sonic-racing-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -3032,7 +3032,7 @@
   {
     "id": "f2e14ac6-8c8a-47f5-8dd9-53c219484dac",
     "title": "Gra Snow Runner Nintendo Switch",
-    "price": "90",
+    "price": "85",
     "img": "https://a.allegroimg.com/s360x360/1edd50/61aa3147467e8d70d68d6d04b9cc",
     "url": "https://allegrolokalnie.pl//oferta/gra-snow-runner-nintendo-switch-mvz?navCategoryId=256922",
     "promoted": false,
@@ -5978,25 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
-    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e9acc/3680cbf84de4a1639029e27219b7",
-    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
-    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Groblice"
   }
 ]
