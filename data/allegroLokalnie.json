@@ -346,7 +346,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e64ab/9b50deca4ca196541a85825b79bc",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-zze?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Elbląg"
   },
   {
@@ -3590,6 +3590,16 @@
     "city": "Nowa Sól"
   },
   {
+    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
+    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s360x360/1e4b5b/d90095df4e40b0f239ed11ec8887",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "ed70ab1a-8a3d-48e9-afcc-9c0a7ac6128a",
     "title": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL III / 3xA SWITCH NOWA",
     "price": "219",
@@ -4790,16 +4800,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "13258140-3397-41ba-8e8d-b9808c36eccc",
-    "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów Gra NINTENDO SWITCH + DLC",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e1d9f/8218319c4e7e986fb5affaf987a2",
-    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-gra-nintendo-switch-dlc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Piaseczno"
-  },
-  {
     "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
     "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
     "price": "448",
@@ -5385,6 +5385,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1ef78d/04e5c936468ca561a2fdd5ce243d",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "JAWORZE"
+  },
+  {
+    "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
+    "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e9be2/1f880a4b470d9349cbb28229bf20",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "JAWORZE"
