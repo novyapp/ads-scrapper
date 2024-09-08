@@ -290,16 +290,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "600ee901-8856-413a-9eaa-4ca696493390",
-    "title": "Rabbids Party of Legends Nintendo Switch jak nowa polskie pudełko ENG PL",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1ec4bd/61d0f0ce4eaf9aad163866f6bcdf",
-    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-nintendo-switch-jak-nowa-polskie-pudelko-eng-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "d9254071-2220-4705-a897-84aaf1b45fdb",
     "title": "Kirby and forgoten land 2023 - NS Nintendo Switch",
     "price": "160",
@@ -595,6 +585,16 @@
     "price": "155",
     "img": "https://a.allegroimg.com/s360x360/1ee980/77a00bbd4ea4879553fd097ca7ef",
     "url": "https://allegrolokalnie.pl//oferta/gra-pikmin-4-nintendo-switch-pko?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Gdańsk, Letnica"
+  },
+  {
+    "id": "786a50c1-d9cb-4e07-b10a-e0079dbb9014",
+    "title": "Gra Pokemon Violet - Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e8d1d/657076b74d08960268f2a3fe7ef5",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-violet-nintendo-switch-tc7?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Gdańsk, Letnica"
@@ -1198,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "ef23d9a1-d642-498c-929a-099403e01807",
-    "title": "Gra Terraria na konsole Nintendo Switch Nowa",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1e110f/d51bb6064b70a442169ef00e9d08",
-    "url": "https://allegrolokalnie.pl//oferta/gra-terraria-na-konsole-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pasym"
   },
   {
     "id": "5231a5e6-7f9f-4fd9-8f50-d056a5eddba8",
@@ -2410,6 +2400,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "6db1b2a6-07ec-419b-8c7a-f2e90e7c95c3",
+    "title": "Fire Emblem Three Houses",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e44fe/791d77424c4597a9edae61fdcdd9",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-wld?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "791e1811-afd9-45d8-b2d3-6a50c1321d56",
     "title": "LET'S GET FIT SWITCH PL",
     "price": "100",
@@ -3000,16 +3000,6 @@
     "city": "Bielsko-Biała"
   },
   {
-    "id": "59ef3cc8-f0cf-439f-b258-661faf9bd5e4",
-    "title": "Just Dance Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e4f0f/b6660e90412099294b3b18ae4a5e",
-    "url": "https://allegrolokalnie.pl//oferta/just-dance-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
-  },
-  {
     "id": "a7700c24-8a95-4ff8-89da-0306a458d2ec",
     "title": "Xenoblade chronicles 2 Eu Nintendo switch",
     "price": "190",
@@ -3420,16 +3410,6 @@
     "city": "Wrocław, Krzyki"
   },
   {
-    "id": "1bd3ee81-d0a6-4445-935b-f740688e15d5",
-    "title": "Hades Nintendo switch",
-    "price": "184",
-    "img": "https://a.allegroimg.com/s360x360/1e8896/0bbf1aca4877992bcb0374015ca0",
-    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-hn2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Mokotów"
-  },
-  {
     "id": "4a5c2cfd-16a1-49d5-a1e0-be4ab8250f1c",
     "title": "Donkey Kong Country Tropical Freeze",
     "price": "179",
@@ -3598,6 +3578,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
+  },
+  {
+    "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
+    "title": "ZELDA TEARS OF THE KINGDOM ANG",
+    "price": "449",
+    "img": "https://a.allegroimg.com/s360x360/1e5234/f1948d23421a8355d0df7cbe3fef",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ang-ejh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
+  },
+  {
+    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
+    "title": "Okami Switch ANG",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
+    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
@@ -4200,26 +4200,6 @@
     "city": "Warszawa, Rembertów"
   },
   {
-    "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
-    "title": "NINTENDO SWITCH GRA SHIN MEGAMI TENSEI",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e2ffc/6d10cf004844858676b0007040ba",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-shin-megami-tensei?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Orzesze"
-  },
-  {
-    "id": "869df6a1-1044-4330-91a6-57400ec8e720",
-    "title": "Kemco rpg omnibus switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ea9e4/2e472c1645b6b70c9fd99aed57d0",
-    "url": "https://allegrolokalnie.pl//oferta/kemco-rpg-omnibus-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
     "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
     "price": "140",
@@ -4498,16 +4478,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "d6f93723-39ca-4747-82fd-eff2b0bcc9ac",
-    "title": "SWITCH Pokemon: Let's Go, Pikachu! / JRPG",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ec10c/2816a7e54841b09642eb5a0e429f",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-jrpg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Częstochowa"
   },
   {
     "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
@@ -5940,16 +5910,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "01b96155-4589-492e-aa47-9597f3113a57",
-    "title": "Trek to Yomi Switch Nowa Folia",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1e1b90/578f1d854b01b6761b58032452c0",
-    "url": "https://allegrolokalnie.pl//oferta/trek-to-yomi-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "2c849131-86de-4420-8994-e9a75d36900f",
     "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
     "price": "139",
@@ -5998,5 +5958,45 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
+    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
+    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1e5fd1/bf8c730f4be6b74b722c4759750c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
+    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
+    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e9acc/3680cbf84de4a1639029e27219b7",
+    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
+    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/115fb4/0d50466a42aaaeb7d29a3dde2673",
+    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Groblice"
   }
 ]
