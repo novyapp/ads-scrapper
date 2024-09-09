@@ -920,16 +920,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "9fb1e527-7080-4f01-b067-81ca687c7f80",
-    "title": "Gra na Nintendo Switch TrailBlazers",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1eeb8d/8ad9a36944b1b3ce11baab2f8495",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-trailblazers?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "e1d566db-032a-4599-8667-3dd93614dbaa",
     "title": "New Super Mario Bros U deluxe Nintendo Switch",
     "price": "179",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "9fb1e527-7080-4f01-b067-81ca687c7f80",
+    "title": "Gra na Nintendo Switch TrailBlazers",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1eeb8d/8ad9a36944b1b3ce11baab2f8495",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-trailblazers?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
   },
   {
     "id": "28e72b12-1665-45db-8954-d07c09326914",
@@ -3000,6 +3000,26 @@
     "city": "Olsztyn"
   },
   {
+    "id": "a7700c24-8a95-4ff8-89da-0306a458d2ec",
+    "title": "Xenoblade chronicles 2 Eu Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1eef1e/a6bed48a49ce9e7a41166c7be7b4",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-eu-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
+    "id": "3efc404c-538c-4083-877b-ccdb8a0cae88",
+    "title": "Gra Sonic Racing Nintendo Switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s360x360/1e5289/368126b847fbbccde1e79cc68178",
+    "url": "https://allegrolokalnie.pl//oferta/gra-sonic-racing-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "f2e14ac6-8c8a-47f5-8dd9-53c219484dac",
     "title": "Gra Snow Runner Nintendo Switch",
     "price": "85",
@@ -3578,26 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
-  },
-  {
-    "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
-    "title": "ZELDA TEARS OF THE KINGDOM ANG",
-    "price": "449",
-    "img": "https://a.allegroimg.com/s360x360/1e5234/f1948d23421a8355d0df7cbe3fef",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ang-ejh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zabrze"
-  },
-  {
-    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
-    "title": "Okami Switch ANG",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
-    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "fb4273ab-4331-426c-9eaf-20d3ffabd6e9",
@@ -5378,6 +5378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "JAWORZE"
+  },
+  {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
+    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1ee25d/8f3e191c4a54841858fa880c52ce",
+    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
   },
   {
     "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
