@@ -810,16 +810,6 @@
     "city": "Kraków, Zwierzyniec"
   },
   {
-    "id": "ac445448-d8cd-40c3-a422-3f341bc0c5f4",
-    "title": "Minecraft Dungeons Hero Edition Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1eb95a/b5abde8f44bb9608723d8ee60eb4",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-nintendo-switch-pyv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
     "id": "e1d566db-032a-4599-8667-3dd93614dbaa",
     "title": "New Super Mario Bros U deluxe Nintendo Switch",
     "price": "179",
@@ -1190,24 +1180,24 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "b25c4763-3a7f-4bc4-bf9b-55bb3a4c9841",
-    "title": "Xenoblade Chronicles Definitive Editio Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e9858/3a3879c74d42a898b5fcb0ef484e",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-editio-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
+    "id": "ac445448-d8cd-40c3-a422-3f341bc0c5f4",
+    "title": "Minecraft Dungeons Hero Edition Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s360x360/1eb95a/b5abde8f44bb9608723d8ee60eb4",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-nintendo-switch-pyv?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Węgrzce Wielkie"
+    "city": "Ostrów Mazowiecka"
   },
   {
-    "id": "b25c4763-3a7f-4bc4-bf9b-55bb3a4c9841",
-    "title": "Xenoblade Chronicles Definitive Editio Nintendo Switch",
+    "id": "3ade2d08-3928-4ef8-b622-93093cf84354",
+    "title": "Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e9858/3a3879c74d42a898b5fcb0ef484e",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-editio-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
+    "img": "https://a.allegroimg.com/s360x360/1ef77c/0d0c889242918cafb4197ffaac60",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ypq?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Węgrzce Wielkie"
+    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "01df2756-8b90-41df-b4ca-dfab15b6b64c",
@@ -2400,6 +2390,16 @@
     "city": "Tychy"
   },
   {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s360x360/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
     "id": "752be9fd-40b2-4dd3-bb11-1b484bc375c8",
     "title": "Metal Gear Solid Master Collection Volume 1 Nintendo Switch NS",
     "price": "194",
@@ -2987,6 +2987,16 @@
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-maker-2?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "c899b16e-cf6e-49b2-bed2-a0c59fc56f78",
+    "title": "Metroid Prime Remastered Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ef528/fd492c444859a3ed6031049a3510",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-lkb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
     "city": "Kraków"
   },
   {
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jastrzębie Zdrój"
-  },
-  {
-    "id": "74bcaa13-46ea-4834-9245-dc0e46ddabdb",
-    "title": "MARIO+Rabbids Kingdom Battele Nintendo Switch Używana",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e43c9/127c382042cdbda9f0bfe5a6254f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battele-nintendo-switch-uzywana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kędzierzyn-Koźle, Koźle"
   },
   {
     "id": "85274f6e-8016-4548-b4d2-ffc9ce94d0c4",
@@ -5400,6 +5400,16 @@
     "city": "Siemianowice Śląskie"
   },
   {
+    "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
+    "title": "Nintendo Switch LEGO Jurassic World",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s360x360/1e3cc8/65f8820a40ed98c7d5c197ec333f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-jurassic-world-fq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
     "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
     "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
     "price": "180",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
-    "title": "Monster Truck Championship Nintendo Switch!",
-    "price": "72",
-    "img": "https://a.allegroimg.com/s360x360/1e96b7/0de25e194aebbe4bfad681b60740",
-    "url": "https://allegrolokalnie.pl//oferta/monster-truck-championship-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Konstancin-Jeziorna"
   }
 ]
