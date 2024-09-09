@@ -200,16 +200,6 @@
     "city": "Ostrów Mazowiecka"
   },
   {
-    "id": "ccd710ef-d15c-4b2c-a55e-4124c0890160",
-    "title": "Metroid Dread Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e2cf2/8e19ae544e428d2115419f900c9b",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-bye?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Częstochowa, Północ"
-  },
-  {
     "id": "c0bab754-0b74-4f17-b3cd-d1b50f263b23",
     "title": "Super Mario Bros. Wonder Switch Nowa",
     "price": "200",
@@ -1000,19 +990,9 @@
     "city": "Jaworzno"
   },
   {
-    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
-    "title": "Super Mario Odyssey Switch",
-    "price": "184",
-    "img": "https://a.allegroimg.com/s360x360/1e7a37/b71a13d84987b8d4a934cec636e7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
-    "price": "85",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1efe34/261682324370b2745de214a1f2c8",
     "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
     "promoted": true,
@@ -1022,7 +1002,7 @@
   {
     "id": "ca92012e-2c53-45ee-a4e6-b0c09e82ba2b",
     "title": "SUPER MARIO MAKER 2 / NINTENDO SWITCH",
-    "price": "185",
+    "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1eaf3d/2f2702724b3e9477786922272402",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-nintendo-switch-fsq?navCategoryId=256922",
     "promoted": true,
@@ -1198,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "23f69e10-2ba3-4a04-a24a-6fff898cf8ea",
+    "title": "Mario Kart Live Home Circuit Luigi Nintendo Switch",
+    "price": "335",
+    "img": "https://a.allegroimg.com/s360x360/1e6b0b/4c09f69f49e68dc57fe03783a861",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-nintendo-switch-z5r?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
   },
   {
     "id": "23f69e10-2ba3-4a04-a24a-6fff898cf8ea",
@@ -2400,16 +2390,6 @@
     "city": "Rzepin"
   },
   {
-    "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
-    "title": "Bayonetta 3 Trinity Masquerade Edition",
-    "price": "749",
-    "img": "https://a.allegroimg.com/s360x360/1e0511/e201e5914270b0f16c9cfceb2ec6",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "2779ce0b-21cc-42c8-b44d-a315d0075b95",
     "title": "Fire Emblem Three Houses Limited Edition",
     "price": "900",
@@ -2995,6 +2975,16 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e5289/368126b847fbbccde1e79cc68178",
     "url": "https://allegrolokalnie.pl//oferta/gra-sonic-racing-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "f2e14ac6-8c8a-47f5-8dd9-53c219484dac",
+    "title": "Gra Snow Runner Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1edd50/61aa3147467e8d70d68d6d04b9cc",
+    "url": "https://allegrolokalnie.pl//oferta/gra-snow-runner-nintendo-switch-mvz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
