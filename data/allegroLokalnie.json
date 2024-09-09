@@ -820,16 +820,6 @@
     "city": "Ostrów Mazowiecka"
   },
   {
-    "id": "3ade2d08-3928-4ef8-b622-93093cf84354",
-    "title": "Animal Crossing New Horizons Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ef77c/0d0c889242918cafb4197ffaac60",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ypq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
     "id": "e1d566db-032a-4599-8667-3dd93614dbaa",
     "title": "New Super Mario Bros U deluxe Nintendo Switch",
     "price": "179",
@@ -1210,6 +1200,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "b25c4763-3a7f-4bc4-bf9b-55bb3a4c9841",
+    "title": "Xenoblade Chronicles Definitive Editio Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e9858/3a3879c74d42a898b5fcb0ef484e",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-editio-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "01df2756-8b90-41df-b4ca-dfab15b6b64c",
     "title": "Zestaw 5 gier na Nintendo Switch",
     "price": "320",
@@ -1332,7 +1332,7 @@
   {
     "id": "2232dc59-6607-451c-a0be-0719ce639dac",
     "title": "Lego Star Wars the skywalker saga nintendo switch",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e22b5/5928d73c40ecb98aa48d5fc9b0ee",
     "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-nintendo-switch-axp?navCategoryId=256922",
     "promoted": true,
@@ -2400,16 +2400,6 @@
     "city": "Tychy"
   },
   {
-    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
-    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
-    "price": "172",
-    "img": "https://a.allegroimg.com/s360x360/1e62ba/071c40f848f096405801ffbb2ee0",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
     "id": "752be9fd-40b2-4dd3-bb11-1b484bc375c8",
     "title": "Metal Gear Solid Master Collection Volume 1 Nintendo Switch NS",
     "price": "194",
@@ -2858,6 +2848,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "3ade2d08-3928-4ef8-b622-93093cf84354",
+    "title": "Animal Crossing New Horizons Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1ef77c/0d0c889242918cafb4197ffaac60",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ypq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "6fb7ce7c-3842-485c-a154-6d6742ba4e50",
