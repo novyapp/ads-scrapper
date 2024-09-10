@@ -1682,7 +1682,7 @@
   {
     "id": "0da408b5-7f00-49d0-8183-15ce671d43f3",
     "title": "Pokemon Brilliant Diamond Nintendo Switch",
-    "price": "136",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e6bff/81da53e7481d9bd8e37b5e0336cd",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-mzd?navCategoryId=256922",
     "promoted": true,
@@ -1818,16 +1818,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "c7275fa0-0aef-402a-852c-e3c75c97ec9a",
-    "title": "Gra Nintendo Switch Metroid Dread",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e833f/d93858294c21820891e37f941d5f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-metroid-dread-r5y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "4484e6d3-a44c-42ea-a854-fe1875e7e8d2",
@@ -2070,16 +2060,6 @@
     "city": "Mikołów"
   },
   {
-    "id": "cf90dbf2-971c-4435-9d4d-732f423b5ffc",
-    "title": "Bayonetta origins cereza nad the lost demon nowa",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ea524/dfd491e8452981df68de75e466df",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-origins-cereza-nad-the-lost-demon-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "28d65622-7ed4-4663-ad92-f07c30be1d3b",
     "title": "Podstawa pod gry Nintendo Switch z motywem Mario",
     "price": "75",
@@ -2128,6 +2108,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
+    "title": "Crysis Remastered Steebook Limited Run (Switch)",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s360x360/1ea1da/77f6da24478b8275ceffcc3a655d",
+    "url": "https://allegrolokalnie.pl//oferta/crysis-remastered-steebook-limited-run-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "d4a38f8d-fbc1-4bca-9810-9ea9008d34f5",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "f127cb2a-3a13-4030-926f-7817025945ab",
+    "title": "Pokemon Mystery Dungeon Rescue Team",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e1d4d/2b75a36447c39cc77caeaf5cb2e7",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-mystery-dungeon-rescue-team-4w6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tarnowskie Góry"
   },
   {
     "id": "f127cb2a-3a13-4030-926f-7817025945ab",
@@ -4800,16 +4800,6 @@
     "city": "Kraków, Podgórze Duchackie"
   },
   {
-    "id": "d610b7fe-10b4-4223-a7de-77d740f9e866",
-    "title": "Tengoku Struggle Strayside Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e4f01/5c9cb46341f8b410b93bbc9cc65a",
-    "url": "https://allegrolokalnie.pl//oferta/tengoku-struggle-strayside-nintendo-switch-s6n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kobylany"
-  },
-  {
     "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
     "title": "METROID PRIME REMASTERED 3xA",
     "price": "129",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgorzelec"
+  },
+  {
+    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
+    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
+    "price": "1 049",
+    "img": "https://a.allegroimg.com/s360x360/1eff66/ee0d883f4ab0b1c34171fd5602c0",
+    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
   }
 ]
