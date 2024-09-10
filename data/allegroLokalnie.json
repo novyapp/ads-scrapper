@@ -2062,7 +2062,7 @@
   {
     "id": "da464303-94f1-4874-a650-89b4ae897848",
     "title": "Broken Sword 5 / Switch / Po Polsku /Oraz Inne Gry",
-    "price": "149",
+    "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1e4062/be04a8eb45f08f51aec5b724517a",
     "url": "https://allegrolokalnie.pl//oferta/broken-sword-5-switch-po-polsku-oraz-inne-gry?navCategoryId=256922",
     "promoted": true,
@@ -2072,7 +2072,7 @@
   {
     "id": "f2eef510-0248-4b4d-aecb-4eeb8a7dbcf7",
     "title": "Aragami: Shadow Edition / Switch / Po Polsku",
-    "price": "109",
+    "price": "99",
     "img": "https://a.allegroimg.com/s360x360/1ec1bb/67b68cf4488783d6b4f8513ab188",
     "url": "https://allegrolokalnie.pl//oferta/aragami-shadow-edition-switch-po-polsku?navCategoryId=256922",
     "promoted": true,
@@ -4282,7 +4282,7 @@
   {
     "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
-    "price": "249",
+    "price": "229",
     "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
     "promoted": false,
@@ -5400,16 +5400,6 @@
     "city": "Siemianowice Śląskie"
   },
   {
-    "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
-    "title": "Nintendo Switch LEGO Jurassic World",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s360x360/1e3cc8/65f8820a40ed98c7d5c197ec333f",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-jurassic-world-fq3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Siemianowice Śląskie"
-  },
-  {
     "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
     "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
     "price": "180",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
+    "title": "Monster Truck Championship Nintendo Switch!",
+    "price": "72",
+    "img": "https://a.allegroimg.com/s360x360/1e96b7/0de25e194aebbe4bfad681b60740",
+    "url": "https://allegrolokalnie.pl//oferta/monster-truck-championship-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Konstancin-Jeziorna"
   }
 ]
