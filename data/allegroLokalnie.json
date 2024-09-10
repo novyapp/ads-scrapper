@@ -470,16 +470,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "e7e87f5e-4ec6-4fbc-91d8-81532c5cea24",
-    "title": "The Elder Scrolls V Skyrim Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e8c25/9142d7364e9f8cd339b278f694b3",
-    "url": "https://allegrolokalnie.pl//oferta/the-elder-scrolls-v-skyrim-nintendo-switch-cj6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "6abf0cca-7c49-4b86-a6e1-6cd711219819",
     "title": "Wasteland 2 Director's Cut Nintendo Switch",
     "price": "185",
@@ -595,16 +585,6 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1ecb40/3c7cbc144fc8996a146fa8d8362e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-kqp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "zgorzelec"
-  },
-  {
-    "id": "a67c8e6d-d673-4310-b42d-26cb5dbba4ee",
-    "title": "Fit ring adventure nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ec019/64af7bf145a2a432d42db1356ef2",
-    "url": "https://allegrolokalnie.pl//oferta/fit-ring-adventure-nintendo-switch-vfo?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "zgorzelec"
@@ -1810,6 +1790,16 @@
     "city": "Warszawa, Żoliborz"
   },
   {
+    "id": "935baf5d-0498-4610-9762-114ae00f4bce",
+    "title": "Mario Odyssey na Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e4ebf/5f8e61a643fbafd2b0ad9e2d2efd",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-na-nintendo-switch-jqi?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Żoliborz"
+  },
+  {
     "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
     "title": "Shin Megami Tensei III nintendo switch",
     "price": "60",
@@ -2385,16 +2375,6 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e0e4f/8877f2c449cfa01ec9c93305a647",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-iif?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "dddb783d-443a-4466-9301-d008a38dd9ca",
-    "title": "Pokemon Sword Nintendo switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1eb792/a27edf9a41bba677dab666212f86",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-wyz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -3000,14 +2980,14 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
-    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
-    "title": "Super Mario Odyssey gra na Nintendo Switch",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s360x360/1e9f03/4a44f40f40b7866bf522f47e03bb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
+    "id": "0ec92964-933e-4de3-9957-af586766daee",
+    "title": "Pokken Tekken DX Nintendo switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e9f71/b32c2d694e71b965178a7bd77caf",
+    "url": "https://allegrolokalnie.pl//oferta/pokken-tekken-dx-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Wieliczka"
+    "city": "Elbląg"
   },
   {
     "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
@@ -3585,16 +3565,6 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e5b6a/f48e5f7841aeb14e843a73299e2b",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "03125efc-473b-4250-8569-5ec84b2d6c90",
-    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s360x360/1ef044/5ced7876466da828bf1615d22884",
-    "url": "https://allegrolokalnie.pl//oferta/teenage-mutant-ninja-turtles-the-cowabunga-collection-smk?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4198,6 +4168,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
+    "title": "Paper Mario Thousand Year Door NS",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1eaa34/864f78804164bb38a523d1ecc8f6",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-thousand-year-door-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław, Stare Miasto"
+  },
+  {
+    "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
+    "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
+    "price": "279",
+    "img": "https://a.allegroimg.com/s360x360/1ed23b/84153f824142a55cfe1b5dd8d487",
+    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
   },
   {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
@@ -5400,26 +5390,6 @@
     "city": "Gliwice"
   },
   {
-    "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
-    "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s360x360/1e07ba/7b2e81b54b2bae1f0e87f5d4787b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toy-con-1-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
-  },
-  {
-    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
-    "title": "Harvestella Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
     "title": "Sonic Frontiers Nintendo Switch",
     "price": "120",
@@ -5998,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
+  },
+  {
+    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
+    "title": "RingFit Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
+  },
+  {
+    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
+    "title": "Fire Emblem Three Hopes",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   }
 ]
