@@ -500,16 +500,6 @@
     "city": "Zielona Góra"
   },
   {
-    "id": "acdfb38a-a9b2-45fa-9dd3-f10ce572ba94",
-    "title": "Metroid Prime Remastered na switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e0847/27cb773240ec8855a9187440b53c",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-na-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mysłowice"
-  },
-  {
     "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
     "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
     "price": "183",
@@ -595,16 +585,6 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1ecb40/3c7cbc144fc8996a146fa8d8362e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-kqp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "zgorzelec"
-  },
-  {
-    "id": "a67c8e6d-d673-4310-b42d-26cb5dbba4ee",
-    "title": "Fit ring adventure nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ec019/64af7bf145a2a432d42db1356ef2",
-    "url": "https://allegrolokalnie.pl//oferta/fit-ring-adventure-nintendo-switch-vfo?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "zgorzelec"
@@ -758,16 +738,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
-  },
-  {
-    "id": "d0b681e0-3dfc-438f-8740-8c0c1af22fdb",
-    "title": "1-2 Switch - Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e7960/22c714074e1aae0d00b71cd89360",
-    "url": "https://allegrolokalnie.pl//oferta/12-switch-nintendo-switch-6fg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bieruń"
   },
   {
     "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
@@ -1185,6 +1155,16 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s360x360/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
     "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
+    "title": "Diablo 3 Eternal Collection",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e3e1b/a4f05ab1430ba9ea31962430bd32",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-zh2?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Rzeszów"
@@ -2700,6 +2680,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "d0b681e0-3dfc-438f-8740-8c0c1af22fdb",
+    "title": "1-2 Switch - Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e7960/22c714074e1aae0d00b71cd89360",
+    "url": "https://allegrolokalnie.pl//oferta/12-switch-nintendo-switch-6fg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bieruń"
+  },
+  {
     "id": "c2591ae9-2db9-4fee-8bb2-add67553ffee",
     "title": "Minecraft Dungeons: Ultimate Edition Nintendo Switch",
     "price": "119",
@@ -4190,11 +4180,11 @@
     "city": "Toruń"
   },
   {
-    "id": "bc3aba2b-6695-4455-974a-2afb4985dcd7",
-    "title": "The legend of Zelda breath of the wild",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s360x360/1ecf04/78f957be4560ba9f69aa86ee09b5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-5sp?navCategoryId=256922",
+    "id": "3a82fed8-f282-4641-9036-de6089528065",
+    "title": "Yugioh Legacy of the duelist link evolution + karty",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e2cd7/268edc35429e82f2f7873f40102f",
+    "url": "https://allegrolokalnie.pl//oferta/yugioh-legacy-of-the-duelist-link-evolution-karty?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
@@ -4790,11 +4780,11 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
-    "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1ed14a/b7c479714641be5c9e48d2d0d2fa",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-nintendo-switch-cu4?navCategoryId=256922",
+    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
+    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
+  },
+  {
+    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   }
 ]
