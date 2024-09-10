@@ -1,15 +1,5 @@
 [
   {
-    "id": "ec613e59-04eb-4e6a-bbd3-c3525964f0f9",
-    "title": "Gra Bluey Nintendo Switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s360x360/1e5868/8767aad9475bb31f590672fdf11c",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bluey-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
     "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
     "title": "Gta the trilogy Nintendo Switch",
     "price": "215",
@@ -1142,7 +1132,7 @@
   {
     "id": "9b4f3363-207f-415f-a4a5-ea6743b2c387",
     "title": "Fire Emblem Warriors: Three Hopes - Limited Edition Nintendo Switch",
-    "price": "229",
+    "price": "225",
     "img": "https://a.allegroimg.com/s360x360/1e62c3/6e449fd047d0bef4dd3cd64d4a2b",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-limited-edition-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1195,16 +1185,6 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s360x360/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
     "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
-    "title": "Diablo 3 Eternal Collection",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e3e1b/a4f05ab1430ba9ea31962430bd32",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-zh2?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Rzeszów"
@@ -4210,6 +4190,16 @@
     "city": "Toruń"
   },
   {
+    "id": "bc3aba2b-6695-4455-974a-2afb4985dcd7",
+    "title": "The legend of Zelda breath of the wild",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s360x360/1ecf04/78f957be4560ba9f69aa86ee09b5",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-5sp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
     "id": "3a82fed8-f282-4641-9036-de6089528065",
     "title": "Yugioh Legacy of the duelist link evolution + karty",
     "price": "159",
@@ -4502,7 +4492,7 @@
   {
     "id": "887a945a-5aa3-4298-9236-bdbafa7a932b",
     "title": "Railway Empire Nintendo Switch",
-    "price": "79",
+    "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e9751/8775b9954f90bc1c5fdd0431d179",
     "url": "https://allegrolokalnie.pl//oferta/railway-empire-nintendo-switch-x5d?navCategoryId=256922",
     "promoted": false,
@@ -4798,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
-    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
+  },
+  {
+    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
+    "title": "Fire emblem engage Nintendo switch nowa",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
   }
 ]
