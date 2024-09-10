@@ -2010,6 +2010,46 @@
     "city": "Gdańsk"
   },
   {
+    "id": "18decaf5-02a4-4ccf-95c2-d23c82d3f828",
+    "title": "Dusk zmierzch folia",
+    "price": "255",
+    "img": "https://a.allegroimg.com/s360x360/1e0685/6b525f8945529aa8afd7edd9df15",
+    "url": "https://allegrolokalnie.pl//oferta/dusk-zmierzch-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "3ce78f05-e9c2-4c3b-a8cc-cc7417af619d",
+    "title": "Super Blood Hockey",
+    "price": "320",
+    "img": "https://a.allegroimg.com/s360x360/1effe0/e90f704d49e98d08da966df2499f",
+    "url": "https://allegrolokalnie.pl//oferta/super-blood-hockey?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "11b206d4-5dbe-4b1d-9678-f3c316352b3d",
+    "title": "Monster hunter rise",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s360x360/1ee922/7dadd719482990c43bac8e1d45b6",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-xde?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "e7ac3bda-4a6c-4875-bc09-c55cfe9369c9",
+    "title": "Xenoblade Chronicles 2",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eff65/29357c8a40c1bfce03d5ff6a1d90",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-xh6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
     "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
     "price": "150",
@@ -3528,16 +3568,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "8418cf9e-9184-4ec8-83f2-ec5d305347ed",
-    "title": "gra Fashion Dreamer",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ed8f5/2d45d3b14cfeb13e9670ea1cf21e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-fashion-dreamer?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
@@ -5968,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
-  },
-  {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "4320fbca-e83a-49cb-9054-698e81536834",
-    "title": "Warioware Move It!",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
   }
 ]
