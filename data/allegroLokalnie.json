@@ -1,5 +1,25 @@
 [
   {
+    "id": "ec613e59-04eb-4e6a-bbd3-c3525964f0f9",
+    "title": "Gra Bluey Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e5868/8767aad9475bb31f590672fdf11c",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bluey-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kielce"
+  },
+  {
+    "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
+    "title": "Gta the trilogy Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1e153b/751e6b734145a1c025d895423f53",
+    "url": "https://allegrolokalnie.pl//oferta/gta-the-trilogy-nintendo-switch-kzy?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
     "id": "2723d4b9-4ea0-404e-9e25-021a2c327d82",
     "title": "Metroid dread switch",
     "price": "120",
@@ -62,7 +82,7 @@
   {
     "id": "01cbcc84-ae6f-43f5-a0b0-cc8b659eccae",
     "title": "Grand Theft Auto The Trilogy The Definitive Edition",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e4784/8bc601174137aaddf8c1c0bc70fe",
     "url": "https://allegrolokalnie.pl//oferta/gran-theft-auto-the-trilogy?navCategoryId=256922",
     "promoted": true,
@@ -72,7 +92,7 @@
   {
     "id": "93284785-f4b9-42cd-91cd-20239e98c9b2",
     "title": "Minecraft legend deluxe edition Nintendo switch",
-    "price": "149",
+    "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1ea004/bb48f80c4dca9c9eb659cc2b86a0",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-legend-deluxe-edition-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -260,16 +280,6 @@
     "city": "Żarki Wielkie"
   },
   {
-    "id": "ccdcd007-1c71-4cee-84de-59a396bb4b60",
-    "title": "Super Mario Bros Wonder - sam catridge (Nintendo Switch)",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1e38a6/63b79ec740149f6019632c71081d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-sam-catridge-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Żarki Wielkie"
-  },
-  {
     "id": "5c7de98f-66a9-4724-b052-ccf3fb05fd34",
     "title": "Fire Emblem Three Houses - Nintendo Switch!",
     "price": "165",
@@ -446,7 +456,7 @@
     "img": "https://a.allegroimg.com/s360x360/1ed15d/80e448c14edfa0e5fde670b85f1f",
     "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-nintendo-switch-kqq?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Szczecin"
   },
   {
@@ -492,7 +502,7 @@
   {
     "id": "77b2ff5c-046a-4fc8-816e-313d49580e58",
     "title": "Diablo 3 Nintendo switch",
-    "price": "110",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e826f/0ef045ee4b6abcd14c9cdf371414",
     "url": "https://allegrolokalnie.pl//oferta/diablo-3-nintendo-switch-5qd?navCategoryId=256922",
     "promoted": true,
@@ -648,16 +658,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "5fa93f20-e3b9-4ef1-9a4a-8fa1c176f9a5",
-    "title": "Dead Cells Action Game of The Year Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s360x360/1eb69b/9a024e644269af3d1683d047d2cb",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-action-game-of-the-year-nintendo-switch-m52?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Święciechowa"
   },
   {
     "id": "49459de4-85f8-4897-9921-9bd1fd811612",
@@ -2000,16 +2000,6 @@
     "city": "KOZIEGŁOWY"
   },
   {
-    "id": "b987923b-c593-4737-81a6-8364cf429032",
-    "title": "DREAMWORKS ALL-STAR KART RACING Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s360x360/1e66fa/bd3ff10b434ca45aa6603e2c86e5",
-    "url": "https://allegrolokalnie.pl//oferta/dreamworks-allstar-kart-racing-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Olsztyn, Olsztyn"
-  },
-  {
     "id": "5ebe9020-1cda-4dfc-8b78-978827fc70dd",
     "title": "Switch My Universe School Teacher - Kartridź Folia",
     "price": "75",
@@ -2108,6 +2098,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "762c6137-b92d-4743-9d60-881857a3a5b6",
+    "title": "Shantae and the Seven Sirens [Limited Run #072] - Nintendo Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1e9944/4bc646e34fb091e8a5f517449553",
+    "url": "https://allegrolokalnie.pl//oferta/shantae-and-the-seven-sirens-limited-run-072-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
   },
   {
     "id": "d4a38f8d-fbc1-4bca-9810-9ea9008d34f5",
@@ -2692,7 +2692,7 @@
   {
     "id": "2a372558-646e-4559-817d-a651184cdabe",
     "title": "Super Mario Odyssey gra nintendo switch",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1e8710/988c38014df58dd4a7a7e31b4a53",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-wo5?navCategoryId=256922",
     "promoted": false,
@@ -2702,7 +2702,7 @@
   {
     "id": "a899ec67-20d1-4c7a-b11a-1e41a2b68534",
     "title": "Super Smash Bros Ultimate gra nintendo switch",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1e82cc/68c5c86b4e58b729d646232fcdfb",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-gra-nintendo-switch-fez?navCategoryId=256922",
     "promoted": false,
