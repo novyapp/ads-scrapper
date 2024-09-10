@@ -1,5 +1,25 @@
 [
   {
+    "id": "71f8ca1a-3cfe-43ab-957b-519a8adf8ae4",
+    "title": "Animal Crossing New Horizons gra Switch + 4 karty amiibo",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e61f6/1f4140404791b916a5e32e594d9d",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-switch-4-karty-amiibo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Racibórz, Racibórz"
+  },
+  {
+    "id": "0db8c091-fe31-4756-bb96-21d5877557c9",
+    "title": "The Legend of Zelda : Breath of the Wild , Nintendo switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1eab4a/fd654adb4620a77ede3b1835199b",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breathe-of-the-wild-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
     "title": "Gta the trilogy Nintendo Switch",
     "price": "215",
@@ -1200,26 +1220,6 @@
     "city": "Wrocław, Śródmieście"
   },
   {
-    "id": "b9214c2b-19b9-49ba-a2c1-5e4adc24bd84",
-    "title": "Super Smash Bros | Nintendo Switch | Stan idealny | Szybka wysyłka |",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1e6aa8/0ed88aef47dda1a3dfe82b4e749b",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
-    "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
-    "title": "Luigi's Mansion 3 | Nintendo Switch | Stan idealny | Szybka wysyłka |",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1ebe16/5f37a79d4d77a11b6a1eb4c3d93a",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "2232dc59-6607-451c-a0be-0719ce639dac",
     "title": "Lego Star Wars the skywalker saga nintendo switch",
     "price": "75",
@@ -1880,16 +1880,6 @@
     "city": "Mysłowice"
   },
   {
-    "id": "4281978f-0987-4f67-8766-23c24df84ea7",
-    "title": "You Suck at Parking klucz steam",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s360x360/1e970a/c7eaefbc4b7cbf0d4a8db9b2c48f",
-    "url": "https://allegrolokalnie.pl//oferta/you-suck-at-parking-klucz-steam-zic?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "szadek"
-  },
-  {
     "id": "7220b611-7886-4833-b223-0f9d973ef72c",
     "title": "Switch Just Dance 2022 - Kartridż Folia",
     "price": "110",
@@ -2395,6 +2385,16 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1e0e4f/8877f2c449cfa01ec9c93305a647",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-iif?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "dddb783d-443a-4466-9301-d008a38dd9ca",
+    "title": "Pokemon Sword Nintendo switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s360x360/1eb792/a27edf9a41bba677dab666212f86",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-wyz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -2985,6 +2985,16 @@
     "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1ee884/4b419e5544b8b87f382b71d6636a",
     "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
+    "title": "GRA NINTENDO GAME NIGHT",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1e15ac/ca77e8b44d3897e105e7f79c5c4a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-game-night?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
@@ -3590,6 +3600,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "03125efc-473b-4250-8569-5ec84b2d6c90",
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ef044/5ced7876466da828bf1615d22884",
+    "url": "https://allegrolokalnie.pl//oferta/teenage-mutant-ninja-turtles-the-cowabunga-collection-smk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
     "title": "Dragon Quest Treasures",
     "price": "100",
@@ -4178,36 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
-  },
-  {
-    "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
-    "title": "Paper Mario Thousand Year Door NS",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1eaa34/864f78804164bb38a523d1ecc8f6",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-thousand-year-door-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Stare Miasto"
-  },
-  {
-    "id": "3a82fed8-f282-4641-9036-de6089528065",
-    "title": "Yugioh Legacy of the duelist link evolution + karty",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e2cd7/268edc35429e82f2f7873f40102f",
-    "url": "https://allegrolokalnie.pl//oferta/yugioh-legacy-of-the-duelist-link-evolution-karty?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
-  },
-  {
-    "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
-    "title": "Paper Mario Thousand Year Door NS",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1eaa34/864f78804164bb38a523d1ecc8f6",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-thousand-year-door-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Stare Miasto"
   },
   {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
@@ -5388,6 +5378,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wieluń"
+  },
+  {
+    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
+    "title": "GRY NA NINTENDO SWITCH",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e6de0/8100722e46f5b252dfe6df5354bf",
+    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tomaszów Lubelski"
+  },
+  {
+    "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
+    "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s360x360/1e07ba/7b2e81b54b2bae1f0e87f5d4787b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toy-con-1-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
   },
   {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
