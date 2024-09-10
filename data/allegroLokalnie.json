@@ -1200,6 +1200,16 @@
     "city": "Rzeszów"
   },
   {
+    "id": "22de88e1-5343-449c-bb94-8765b300b6c5",
+    "title": "Travis Strikes Again: No More Heroes",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e4bd7/88e3e9e143aa9243c4558e9d1ca0",
+    "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-njq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
     "title": "Octopath Traveler",
     "price": "199",
@@ -1790,16 +1800,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "9947459b-4524-4573-bcf8-2b232930c57c",
-    "title": "Switch Pokemon Violet ... Super Cena",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e8be2/2ada7bef499bab2e818b526a3ecc",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-violet-nowy-folia-cyz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
     "title": "Nintendo Switch Minecraft Dungeons - Kartridź PL",
     "price": "139",
@@ -2140,16 +2140,6 @@
     "city": "Ostróda"
   },
   {
-    "id": "722a8c6c-e810-41d5-bed1-e2d36aab2ed8",
-    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e657b/bb4aea6e40a9af841236be5d4343",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-t23?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bolesławiec"
-  },
-  {
     "id": "0745d070-b0ca-4dcd-bc53-3fd1715e7b8f",
     "title": "Luigi's Mansion 3",
     "price": "179",
@@ -2165,16 +2155,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s360x360/1e96a4/228d33164c05868e0c50e6a033d4",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-z6z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bolesławiec"
-  },
-  {
-    "id": "e80ec5ef-65f7-454f-b03d-6ed63f69fa13",
-    "title": "The Legend of Zelda: Link's Awakening",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e91b3/8997ad51497f95707801944d5457",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-rj4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bolesławiec"
@@ -4792,7 +4772,37 @@
   {
     "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
     "title": "METROID PRIME REMASTERED 3xA",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
+    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
+    "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
     "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1ed14a/b7c479714641be5c9e48d2d0d2fa",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-nintendo-switch-cu4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
+    "title": "METROID PRIME REMASTERED 3xA",
+    "price": "129",
     "img": "https://a.allegroimg.com/s360x360/1e5250/49477e6f40b19c864924515dcf84",
     "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
     "promoted": false,
@@ -5390,36 +5400,6 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
-    "title": "The Walking Dead: Thie Final Season NS Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/119236/11d2948c4a9a8ab435cab7433563",
-    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-thie-final-season-ns-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
-    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wieluń"
-  },
-  {
-    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
-    "title": "GRY NA NINTENDO SWITCH",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e6de0/8100722e46f5b252dfe6df5354bf",
-    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tomaszów Lubelski"
-  },
-  {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
     "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
     "price": "45",
@@ -5988,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
+  },
+  {
+    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
+    "title": "Let's Sing ABBA Nintendo Switch",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
+    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
+  },
+  {
+    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
+    "title": "Fire emblem engage Nintendo switch nowa",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
+    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   }
 ]
