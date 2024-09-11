@@ -1,5 +1,15 @@
 [
   {
+    "id": "6213cc23-d04e-40d0-a9d6-09164bc0691e",
+    "title": "The Legend of Zelda Tears of the Kingdom stan BdB",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1ee9e1/1a6007914513addc79f37221cff2",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-stan-bdb-fqk?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "c49fa0ce-7ae9-4810-aa6b-f3d6ae26c2a0",
     "title": "Nowa gra Mario + Rabbids Sparks of Hope Nintendo Switch",
     "price": "67",
@@ -590,14 +600,14 @@
     "city": "Milicz"
   },
   {
-    "id": "8daf690d-ddb1-4bd7-a1b4-71f46d0d96d7",
-    "title": "Wiedźmin 3 Edycja Kompletna Witcher 3 PL Dubbing Dodatki Nintendo Switch",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s360x360/1e698a/53c7c8df488090790a361f59bfb5",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-kompletna-witcher-3-pl-dubbing-dodatki-nintendo-switch?navCategoryId=256922",
+    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
+    "title": "mario golf super rush nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
-    "city": "Krościenko Wyżne"
+    "smartPost": false,
+    "city": "zgorzelec"
   },
   {
     "id": "73719cf3-b9ba-436a-8308-51f14b01df26",
@@ -1180,16 +1190,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "a88ae70d-60f9-4bb4-a82c-b217326ba512",
-    "title": "Crash Bandicoot N-Sane Trilogy",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ed562/aa74d4664545a00aaa4e91261005",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-nsane-trilogy-enu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "6146e159-c18d-4e12-aa9f-2417bb7cc872",
     "title": "Nintendo switch  nowe gry razem lub osobno",
     "price": "1 600",
@@ -1198,6 +1198,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Opole"
+  },
+  {
+    "id": "a88ae70d-60f9-4bb4-a82c-b217326ba512",
+    "title": "Crash Bandicoot N-Sane Trilogy",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/1ed562/aa74d4664545a00aaa4e91261005",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-nsane-trilogy-enu?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "4abac667-60b5-491f-afd6-d343e86198f2",
@@ -1800,16 +1810,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
-    "title": "WARIO WARE GET IT TOGETHER NOWA FOLIA",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e5aab/45a4d9174d618a16bbbebae3a8cc",
-    "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nowa-folia-gadzety?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "9b39ceae-a5de-4cfd-98b3-b1ae1d7309a9",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "190",
@@ -2400,6 +2400,26 @@
     "city": "Bysław"
   },
   {
+    "id": "c83050b7-06a2-45c8-b174-93a7c4fd9370",
+    "title": "Gra Ring Fit Adventure +Ring Fit + Opaska na nogę (CAŁY ZESTAW)",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e86cc/0a8b45b24ee59886d30a6d2e8c14",
+    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw-hul?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "13a2926f-29ba-47b1-b36e-4f59882c9cbd",
+    "title": "Fitness Boxing 2 Rhythm & Exercise",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e32df/acdcbe2f40c384e4675b05c8a722",
+    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-5qb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "6c5d7dce-d9e4-4618-9027-221cad12c409",
     "title": "Pokemon Violet Nintendo Switch",
     "price": "175",
@@ -2985,16 +3005,6 @@
     "price": "1 699",
     "img": "https://a.allegroimg.com/s360x360/11d733/0f41ee584496b9e272f4e99d77c2",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-2-edycja-kolekcjonerska-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "fe3f9ce3-e6b0-4598-80bc-a341df46eaf8",
-    "title": "Dust An Elysian Tail Limited Edition LRG nowa",
-    "price": "1 199",
-    "img": "https://a.allegroimg.com/s360x360/11259f/5e8ccde24cbb9c9803eb52496d88",
-    "url": "https://allegrolokalnie.pl//oferta/dust-an-elysian-tail-limited-edition-lrg-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
@@ -4200,6 +4210,16 @@
     "city": "Halinów"
   },
   {
+    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
+    "title": "Yurukill - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e5cff/e1b3942e4e29adc6944ee2297e84",
+    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
     "title": "Lego Ninjago Il Film Video Game",
     "price": "85",
@@ -4800,16 +4820,6 @@
     "city": "olecko"
   },
   {
-    "id": "941d51c5-b05f-4133-bca2-8e16250114d6",
-    "title": "Instant Chef Party (Nintendo Switch)",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s360x360/1e1544/a28361f447469fdd57f7a274ac1d",
-    "url": "https://allegrolokalnie.pl//oferta/instant-chef-party-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "olecko"
-  },
-  {
     "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
     "title": "Super Mario 3d World Switch Steelbook",
     "price": "100",
@@ -5390,14 +5400,14 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "21c64f89-4608-444f-9c6d-51fe7530d623",
-    "title": "Nowa Bayonetta Origins, Cereza and The Lost Demon - Nintendo Switch",
-    "price": "108",
-    "img": "https://a.allegroimg.com/s360x360/1e204b/df8e3d7d4c7683f6015edf4ac675",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-origins-cereza-and-the-lost-demon-nintendo-switch?navCategoryId=256922",
+    "id": "bd5370a0-411f-4a98-92e2-a5554fd5d007",
+    "title": "Lego Przygoda 2 Movie Nintendo Switch kod na email",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s360x360/1ea633/66951db547ef8696eb7746d2da55",
+    "url": "https://allegrolokalnie.pl//oferta/lego-przygoda-2-movie-nintendo-switch-kod-na-email?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
-    "city": "Bydgoszcz"
+    "city": "Sławno"
   },
   {
     "id": "4c5d2358-9418-437b-9433-906d78f1f1fb",
@@ -5985,16 +5995,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
     "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "34591acf-5d78-45f6-8881-a4ca7a253a1b",
-    "title": "Gra Autonauts na konsole Nintendo Switch Nowa",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1e0b61/b19a52344de0abe8ab5aade0ffcb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-autonauts-na-konsole-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
