@@ -2030,6 +2030,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "8eab4521-08e8-49e1-9209-961d04078914",
+    "title": "Cult of the lamb",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ee691/f0b30eb84e7c9a577db492013a2d",
+    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "18decaf5-02a4-4ccf-95c2-d23c82d3f828",
     "title": "Dusk zmierzch folia",
     "price": "255",
@@ -3600,16 +3610,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
-    "title": "Shovel Knight Treasure Trove",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e4970/490d05b64f5599c9364ad73eccf3",
-    "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
     "title": "Collection of Mana",
     "price": "120",
@@ -4198,16 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lębork"
-  },
-  {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
@@ -5995,6 +5985,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
+  },
+  {
+    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
+    "title": "RingFit Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
