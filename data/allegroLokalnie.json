@@ -2152,7 +2152,7 @@
   {
     "id": "0745d070-b0ca-4dcd-bc53-3fd1715e7b8f",
     "title": "Luigi's Mansion 3",
-    "price": "179",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1ebf3e/7120cb2046d4b6cebb7e0659ff8e",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-wlv?navCategoryId=256922",
     "promoted": false,
@@ -2162,7 +2162,7 @@
   {
     "id": "24315ca3-d4e7-4a1b-b6ac-77a8c38a926c",
     "title": "SUPER MARIO ODYSSEY",
-    "price": "179",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e96a4/228d33164c05868e0c50e6a033d4",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-z6z?navCategoryId=256922",
     "promoted": false,
@@ -3600,6 +3600,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "f2f4cd6a-6dd2-4492-b23d-6c465be51658",
+    "title": "Wargroove 1+2 + Soundtrack Switch ANG",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/1edd71/3a6c12464163867a3145af88ec63",
+    "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-soundtrack-switch-ang-y66?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
     "title": "Grandia HD Collection Switch ANG",
     "price": "299",
@@ -4790,16 +4800,6 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
-    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
     "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
     "price": "149",
@@ -5400,6 +5400,16 @@
     "city": "Wrocław, Psie Pole"
   },
   {
+    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
+    "title": "No More Heroes 3 Switch - Wrocław",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/11972a/5ace71e94b3e9aa84cf50ef8da61",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
     "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
     "title": "The Walking Dead: Thie Final Season NS Switch",
     "price": "99",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgorzelec"
-  },
-  {
-    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
-    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
-    "price": "1 049",
-    "img": "https://a.allegroimg.com/s360x360/1eff66/ee0d883f4ab0b1c34171fd5602c0",
-    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
   }
 ]
