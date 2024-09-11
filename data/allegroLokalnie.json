@@ -1,5 +1,15 @@
 [
   {
+    "id": "1cc44f5e-aafe-4f16-b4ad-f38c24904dd6",
+    "title": "Luigis Mansion 3 stan BdB",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e9bc4/98c0dafd48599989b1e0b715b0f1",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-stan-bdb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "6213cc23-d04e-40d0-a9d6-09164bc0691e",
     "title": "The Legend of Zelda Tears of the Kingdom stan BdB",
     "price": "169",
@@ -1200,16 +1210,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
-    "title": "Diablo 3 Eternal Collection",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e3e1b/a4f05ab1430ba9ea31962430bd32",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-zh2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "a88ae70d-60f9-4bb4-a82c-b217326ba512",
     "title": "Crash Bandicoot N-Sane Trilogy",
     "price": "99",
@@ -1798,6 +1798,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Twardogóra"
+  },
+  {
+    "id": "5a36e5b1-bcf7-4530-adad-b72cdffc749c",
+    "title": "Distraint Collection - Switch (Nowa)",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1eb96d/59eb96c54097ad8557d5a8bc72db",
+    "url": "https://allegrolokalnie.pl//oferta/distraint-collection?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "d3e72d28-a418-44e7-86cb-ee5cdf5a38e7",
@@ -3590,16 +3600,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
-    "title": "DC Super Hero Girls Teen Power",
-    "price": "40",
-    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
-    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
     "title": "Miitopia Nintendo Switch",
     "price": "120",
@@ -4785,6 +4785,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e8b52/4f75d28042caad916ba7bfa0d871",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
+    "title": "[Nintendo Switch] Triangle Strategy",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
@@ -5978,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
-    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
-    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
   }
 ]
