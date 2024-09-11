@@ -910,16 +910,6 @@
     "city": "Lublin"
   },
   {
-    "id": "c2a4dddf-fb9a-463c-af82-dc27b6909158",
-    "title": "Overcooked! + Overcooked! 2 Gra Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e8d80/2515c5cb4fcebb615037a8cbb173",
-    "url": "https://allegrolokalnie.pl//oferta/overcooked-overcooked-2-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
     "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
     "title": "Super Mario Odyssey Switch",
     "price": "183",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "c2a4dddf-fb9a-463c-af82-dc27b6909158",
+    "title": "Overcooked! + Overcooked! 2 Gra Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e8d80/2515c5cb4fcebb615037a8cbb173",
+    "url": "https://allegrolokalnie.pl//oferta/overcooked-overcooked-2-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "b25c4763-3a7f-4bc4-bf9b-55bb3a4c9841",
@@ -2018,16 +2018,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bratucice"
-  },
-  {
-    "id": "7cdf9e1d-ec78-4851-b09b-ce446b6fdd2b",
-    "title": "Switch gry cyfrowe 16 gier okazja",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e9f5a/de4ec9b04a4baef23b7174c82ce3",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gry-cyfrowe-16-gier-okazja-46k?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz"
   },
   {
     "id": "20328670-5a8e-4664-bd2d-13b910302a16",
