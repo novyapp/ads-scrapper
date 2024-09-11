@@ -812,7 +812,7 @@
   {
     "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
     "title": "Hyrule Warriors: Age of Calamity Switch",
-    "price": "120",
+    "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1ee2dc/29cef63e4b1b924983d7fcec1cf8",
     "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-jf7?navCategoryId=256922",
     "promoted": true,
@@ -822,7 +822,7 @@
   {
     "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
     "title": "SONIC COLOURS ULTIMATE / SWITCH",
-    "price": "70",
+    "price": "60",
     "img": "https://a.allegroimg.com/s360x360/1ea903/08635f01498fadb8a63b9fadd5ff",
     "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-switch-zzz?navCategoryId=256922",
     "promoted": true,
@@ -1190,6 +1190,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "b9214c2b-19b9-49ba-a2c1-5e4adc24bd84",
+    "title": "Super Smash Bros | Nintendo Switch | Stan idealny | Szybka wysyłka |",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1e6aa8/0ed88aef47dda1a3dfe82b4e749b",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
     "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
     "title": "Luigi's Mansion 3 | Nintendo Switch | Stan idealny | Szybka wysyłka |",
     "price": "210",
@@ -1332,7 +1342,7 @@
   {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
-    "price": "176",
+    "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1e3446/9f8993f345b4b93269c4cd9f8bbf",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
     "promoted": true,
@@ -1748,16 +1758,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kraków, Zwierzyniec"
-  },
-  {
-    "id": "935baf5d-0498-4610-9762-114ae00f4bce",
-    "title": "Mario Odyssey na Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1e4ebf/5f8e61a643fbafd2b0ad9e2d2efd",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-na-nintendo-switch-jqi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Żoliborz"
   },
   {
     "id": "4f12432f-585f-4f12-9b78-e5572d05a302",
@@ -2400,6 +2400,16 @@
     "city": "Bysław"
   },
   {
+    "id": "df1bb02a-88fa-4dfc-97bf-2778182e0551",
+    "title": "Captain Toad Treasure Tracker",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s360x360/1ee432/74d4a74e48c69622c3ffa3f166b5",
+    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-asq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "59dcfff4-c312-4c3a-b2f5-d60585e7fb24",
     "title": "Super Mario Maker 2",
     "price": "185",
@@ -2962,7 +2972,7 @@
   {
     "id": "5f13f753-c105-4b49-8ebf-047672c69af6",
     "title": "Psi Patrol / On a Roll",
-    "price": "60",
+    "price": "50",
     "img": "https://a.allegroimg.com/s360x360/1ee884/4b419e5544b8b87f382b71d6636a",
     "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
     "promoted": false,
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Elbląg"
-  },
-  {
-    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
-    "title": "Super Mario Odyssey gra na Nintendo Switch",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s360x360/1e9f03/4a44f40f40b7866bf522f47e03bb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   },
   {
     "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
@@ -3590,11 +3590,11 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
-    "title": "Shovel Knight Treasure Trove",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e4970/490d05b64f5599c9364ad73eccf3",
-    "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
+    "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
+    "title": "Collection of Mana",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ebcb7/5a70a33a4276841c0848676ed2dc",
+    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4190,14 +4190,14 @@
     "city": "Lębork"
   },
   {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
+    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
+    "price": "229",
+    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
+  },
+  {
+    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
+    "title": "Fire Emblem Three Hopes",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   }
 ]
