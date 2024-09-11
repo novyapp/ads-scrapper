@@ -850,16 +850,6 @@
     "city": "Zakopane"
   },
   {
-    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
-    "title": "Pokemon Shining Pearl Dodatki",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s360x360/1e59bf/a1995f8a48f0be25636be9dd73b4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "KOBIERZYCE"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -1012,7 +1002,7 @@
   {
     "id": "f883ab63-6a32-4359-a339-9a267a4515d9",
     "title": "Metroid Dread Nintendo Switch",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1ee656/fa9834424b33bcfab49d40017bf3",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-tye?navCategoryId=256922",
     "promoted": true,
@@ -1022,7 +1012,7 @@
   {
     "id": "8466a579-fb69-4295-a04d-f8d50b5365fa",
     "title": "Paper Mario The Origami King Nintendo Switch",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s360x360/1eab3d/52a6d33f4af9b71cb7b161567b99",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-a2y?navCategoryId=256922",
     "promoted": true,
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
+    "title": "Pokemon Shining Pearl Dodatki",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1e59bf/a1995f8a48f0be25636be9dd73b4",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
   },
   {
     "id": "4241002d-8d9b-484b-94f1-a2c393e54746",
@@ -2030,6 +2030,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "1a590cf8-415f-4e78-84de-9396f50132fa",
+    "title": "Yu-Gi-Oh! Rush Duel Dawn of the Battle Royale [NSW] Japońska",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ef036/5a7fc2f7493bad1f858d85c6a067",
+    "url": "https://allegrolokalnie.pl//oferta/yugioh-rush-duel-dawn-of-the-battle-royale-nsw-japonska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bratucice"
+  },
+  {
     "id": "7cdf9e1d-ec78-4851-b09b-ce446b6fdd2b",
     "title": "Switch gry cyfrowe 16 gier okazja",
     "price": "100",
@@ -2385,16 +2395,6 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s360x360/1ebf2a/39c2d1d641b6a72ebde2e6d5b5a3",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-7uj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "ab46fb65-20c2-4cc7-b2b9-1f34472075d8",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1ee0f8/0c16c7f247948ee67c48aeee49dc",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-s6f?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -4200,6 +4200,16 @@
     "city": "Wrocław, Stare Miasto"
   },
   {
+    "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
+    "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
+    "price": "279",
+    "img": "https://a.allegroimg.com/s360x360/1ed23b/84153f824142a55cfe1b5dd8d487",
+    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
     "title": "Mario Strikers Battle League Switch",
     "price": "120",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
-    "title": "Fire emblem engage Nintendo switch nowa",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
   }
 ]
