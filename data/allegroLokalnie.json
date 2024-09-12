@@ -780,16 +780,6 @@
     "city": "Kraków, Czyżyny"
   },
   {
-    "id": "49459de4-85f8-4897-9921-9bd1fd811612",
-    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1e731b/c32112fa44a4b3ff3cdb55022dad",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-jrx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -928,26 +918,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "f883ab63-6a32-4359-a339-9a267a4515d9",
-    "title": "Metroid Dread Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1ee656/fa9834424b33bcfab49d40017bf3",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-tye?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ząbki"
-  },
-  {
-    "id": "8466a579-fb69-4295-a04d-f8d50b5365fa",
-    "title": "Paper Mario The Origami King Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1eab3d/52a6d33f4af9b71cb7b161567b99",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-a2y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ząbki"
   },
   {
     "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
@@ -1200,34 +1170,14 @@
     "city": "Rzeszów"
   },
   {
-    "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
-    "title": "Octopath Traveler",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s360x360/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
-    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
-    "promoted": true,
+    "id": "49459de4-85f8-4897-9921-9bd1fd811612",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e731b/c32112fa44a4b3ff3cdb55022dad",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-jrx?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
-    "title": "Diablo 3 Eternal Collection",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e3e1b/a4f05ab1430ba9ea31962430bd32",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-zh2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "a88ae70d-60f9-4bb4-a82c-b217326ba512",
-    "title": "Crash Bandicoot N-Sane Trilogy",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ed562/aa74d4664545a00aaa4e91261005",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-nsane-trilogy-enu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
+    "city": "Dzierżoniów"
   },
   {
     "id": "4abac667-60b5-491f-afd6-d343e86198f2",
@@ -1618,16 +1568,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dzierżoniów"
   },
   {
     "id": "b6028dad-c307-427c-b6a4-dd2a84126328",
@@ -2538,6 +2478,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Dulowa"
+  },
+  {
+    "id": "49459de4-85f8-4897-9921-9bd1fd811612",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/1e731b/c32112fa44a4b3ff3cdb55022dad",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-jrx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
   },
   {
     "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
@@ -3595,6 +3545,36 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s360x360/1ebcb7/5a70a33a4276841c0848676ed2dc",
     "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "763c0fe1-6acb-4f08-8b46-3b2ffcb6e19d",
+    "title": "Dragon Quest Builders",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "ef673fd5-cda8-4f73-bedd-a8da42bacb9e",
+    "title": "The Banner Saga Trilogy PL",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e62cd/70d1c2b7438bb842742cc9e1add1",
+    "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
+    "title": "DC Super Hero Girls Teen Power",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
+    "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4800,36 +4780,6 @@
     "city": "Krotoszyn"
   },
   {
-    "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
-    "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec762/ed3c560040b0ad66f0d95b5d079d",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-xenoverse-2-nintendo-switch-xqd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "1e1b3b5b-b2b4-4a6d-93c3-00b892b3cb7a",
-    "title": "[Nintendo Switch] Crisis Core Final Fantasy VII Reunion",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e8b52/4f75d28042caad916ba7bfa0d871",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
-    "title": "[Nintendo Switch] Triangle Strategy",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
     "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
     "price": "189",
@@ -4898,6 +4848,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
   },
   {
     "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
@@ -5400,14 +5360,24 @@
     "city": "Wrocław"
   },
   {
-    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
-    "title": "Harvestella Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
+    "title": "Super Mario Bros Wonder",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1eaaa1/3aa0fc6d48939e10e591854601ca",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-yg6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Tuczempy "
   },
   {
     "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
+  },
+  {
+    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
+    "title": "Fire Emblem Three Hopes",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   }
 ]
