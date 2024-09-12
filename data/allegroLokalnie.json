@@ -3000,6 +3000,26 @@
     "city": "Gdansk"
   },
   {
+    "id": "b63fda7d-9470-4b06-a212-61155022b43c",
+    "title": "It Takes Two Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e6181/203bede540cc8f3fb21ab922da8c",
+    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-switch-n25?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nadolice Wielkie"
+  },
+  {
+    "id": "5f13f753-c105-4b49-8ebf-047672c69af6",
+    "title": "Psi Patrol / On a Roll",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1ee884/4b419e5544b8b87f382b71d6636a",
+    "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
     "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
     "title": "GRA NINTENDO GAME NIGHT",
     "price": "50",
@@ -4200,16 +4220,6 @@
     "city": "Lębork"
   },
   {
-    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
-    "title": "Mario Strikers Battle League Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e3b5e/59f0f8134d10a9aae01914e55847",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lębork"
-  },
-  {
     "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
     "price": "229",
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
-    "title": "Gra Nintendo Switch Bendy and the ink Machine - kardridż RARYTAS",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s360x360/1eff91/3e940a7f4d2ba3f918f942966160",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-bendy-and-the-ink-machine-kardridz-rarytas?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Wroclaw"
   },
   {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
@@ -5400,6 +5400,16 @@
     "city": "Wrocław, Psie Pole"
   },
   {
+    "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
+    "title": "The Walking Dead: Thie Final Season NS Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/119236/11d2948c4a9a8ab435cab7433563",
+    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-thie-final-season-ns-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
     "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
     "title": "Gothic II PL (Nintendo switch) polskie wydanie",
     "price": "149",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
-    "title": "Let's Sing ABBA Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
   }
 ]
