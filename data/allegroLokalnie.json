@@ -180,16 +180,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "45f97fa5-d149-404c-9eee-f24ec5393964",
-    "title": "Crash Bandicoot 4 It's About Time Switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s360x360/1ed9f3/f2c2687d49b8be301f96505886d0",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-7fi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Podgórze"
-  },
-  {
     "id": "4430e658-cb87-49ad-8459-0ad8d3fa5bb2",
     "title": "Ori The Collection NINTENDO SWITCH",
     "price": "120",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Siedlce"
+  },
+  {
+    "id": "a26617cf-109d-4309-908a-e782a76196fb",
+    "title": "Diablo 3 Eternal Collection Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ed15d/80e448c14edfa0e5fde670b85f1f",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-nintendo-switch-kqq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Szczecin"
   },
   {
     "id": "a26617cf-109d-4309-908a-e782a76196fb",
@@ -1200,16 +1200,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
-    "title": "Luigi's Mansion 3 | Nintendo Switch | Stan idealny | Szybka wysyłka |",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s360x360/1ebe16/5f37a79d4d77a11b6a1eb4c3d93a",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "6b967924-0246-47c3-aa8a-064ef1739f19",
     "title": "Star Wars Heritage Pack",
     "price": "250",
@@ -1800,6 +1790,26 @@
     "city": "Łódź, Górna"
   },
   {
+    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
+    "title": "Nintendo Switch/3DS/DS - panel modułowy",
+    "price": "14",
+    "img": "https://a.allegroimg.com/s360x360/1eba64/042d8d4f4a6794a97fd1a66b660c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "KOZIEGŁOWY"
+  },
+  {
+    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
+    "title": "Nintendo Switch/3DS/DS - panel modułowy",
+    "price": "14",
+    "img": "https://a.allegroimg.com/s360x360/1eba64/042d8d4f4a6794a97fd1a66b660c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "KOZIEGŁOWY"
+  },
+  {
     "id": "5ebe9020-1cda-4dfc-8b78-978827fc70dd",
     "title": "Switch My Universe School Teacher - Kartridź Folia",
     "price": "75",
@@ -2388,26 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
-  },
-  {
-    "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
-    "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/11d4ef/998113f24d628ccc8fb25fbe1115",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-pokken-tournament-dx-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
-    "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/11d4ef/998113f24d628ccc8fb25fbe1115",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-pokken-tournament-dx-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
@@ -4810,6 +4800,16 @@
     "city": "olecko"
   },
   {
+    "id": "941d51c5-b05f-4133-bca2-8e16250114d6",
+    "title": "Instant Chef Party (Nintendo Switch)",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s360x360/1e1544/a28361f447469fdd57f7a274ac1d",
+    "url": "https://allegrolokalnie.pl//oferta/instant-chef-party-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "olecko"
+  },
+  {
     "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
     "title": "Super Mario 3d World Switch Steelbook",
     "price": "100",
@@ -5395,16 +5395,6 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s360x360/1e6236/23ccfcdc474aa0d86f9bba14105e",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
-    "title": "Nowa Bayonetta 3 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e819e/45f84d41470591a74423d7ada6fc",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-bayonetta-3-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
+    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
   }
 ]
