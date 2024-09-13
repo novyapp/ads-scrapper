@@ -1910,6 +1910,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
+    "title": "Hogwarts Legacy Nintendo switch",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s360x360/1e4665/8b7bcb144008a8567b5a38230ff2",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-bkk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
+  },
+  {
     "id": "2d8f313c-5b64-4107-b4c8-60e87915ea29",
     "title": "Gra Crash Bandicoot N. Sane Trilogy - Nintendo Switch",
     "price": "100",
@@ -3590,11 +3600,21 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
-    "title": "Shovel Knight Treasure Trove",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/1e4970/490d05b64f5599c9364ad73eccf3",
-    "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
+    "id": "03125efc-473b-4250-8569-5ec84b2d6c90",
+    "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s360x360/1ef044/5ced7876466da828bf1615d22884",
+    "url": "https://allegrolokalnie.pl//oferta/teenage-mutant-ninja-turtles-the-cowabunga-collection-smk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
+    "title": "Dragon Quest Treasures",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed090/192c26914b1b8c19f33a90456d1a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4180,26 +4200,6 @@
     "city": "Lębork"
   },
   {
-    "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s360x360/1e539a/7d25d9c44c79a20a518cc9c23540",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-kxa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "3133dd0a-6b93-45a3-b072-d64c3da583b8",
-    "title": "Super Smash Bros Ultimate",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ecf53/0a86a2d84fe58220f8bd304be243",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-r5f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rokietnica"
-  },
-  {
     "id": "d3fc974f-c9fa-4d5f-a991-8a2aec5301cd",
     "title": "No More Heroes Desperate Struggle (LRG) Folia",
     "price": "290",
@@ -4778,6 +4778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
+    "title": "Warioware Get it together",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e2906/29bc28a2421c8e3a014714643729",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
+    "title": "Animal Crossing: New Horizons Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s360x360/11c5c6/7fd919c343568c14db4a72914017",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-qta?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krotoszyn"
   },
   {
     "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
@@ -5400,6 +5420,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
     "title": "Super Mario Bros Wonder",
     "price": "200",
@@ -5968,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
-  },
-  {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "4320fbca-e83a-49cb-9054-698e81536834",
-    "title": "Warioware Move It!",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
   }
 ]
