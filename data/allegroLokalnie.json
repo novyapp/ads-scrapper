@@ -1940,16 +1940,6 @@
     "city": "Chojnice"
   },
   {
-    "id": "7b03ee58-a046-43ec-be48-3f3d2c09afdf",
-    "title": "Switch gry cyfrowe 16 gier okazja",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e39cc/9cdf6be74cc09f9d11a49ee0e71c",
-    "url": "https://allegrolokalnie.pl//oferta/switch-gry-cyfrowe-16-gier-okazja-ijl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz"
-  },
-  {
     "id": "e81b4733-9146-4c14-a496-e8dc29835692",
     "title": "Super Mario Odyssey, Yoshis, Minecraft Nintendo Switch",
     "price": "370",
@@ -3262,7 +3252,7 @@
   {
     "id": "4a5c2cfd-16a1-49d5-a1e0-be4ab8250f1c",
     "title": "Donkey Kong Country Tropical Freeze",
-    "price": "169",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e5925/da50eb4f4dd79cdd40fb2f9771b8",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-tropical-freeze-yau?navCategoryId=256922",
     "promoted": false,
@@ -5602,7 +5592,7 @@
   {
     "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
     "title": "Xenoblade Chronicles Definitive Edition",
-    "price": "169",
+    "price": "159",
     "img": "https://a.allegroimg.com/s360x360/1e3a8a/32139ca74fba8970c3fa47ea47a5",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-kwq?navCategoryId=256922",
     "promoted": false,
@@ -5995,6 +5985,16 @@
     "price": "95",
     "img": "https://a.allegroimg.com/s360x360/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "4320fbca-e83a-49cb-9054-698e81536834",
+    "title": "Warioware Move It!",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e8fab/c0c7f28d411ba8455f29bd1f052e",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-move-it?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
