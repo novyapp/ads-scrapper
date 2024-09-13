@@ -590,6 +590,16 @@
     "city": "Szczecin"
   },
   {
+    "id": "c39f0051-976b-49f0-be42-c01cd56fd884",
+    "title": "Super Mario Wonder gra Nintendo Switch",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1ec435/da7c2cb4467c8b10e3a6fd32ad2d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "6abf0cca-7c49-4b86-a6e1-6cd711219819",
     "title": "Wasteland 2 Director's Cut Nintendo Switch",
     "price": "185",
@@ -2116,7 +2126,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e9944/4bc646e34fb091e8a5f517449553",
     "url": "https://allegrolokalnie.pl//oferta/shantae-and-the-seven-sirens-limited-run-072-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Sosnowiec"
   },
   {
@@ -2176,7 +2186,7 @@
     "img": "https://a.allegroimg.com/s360x360/1efe73/00778c2f4ba5a885b160465e9099",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ddy?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Sosnowiec"
   },
   {
@@ -2186,17 +2196,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e6f69/bb76cf74450382e0ad39040f1dd4",
     "url": "https://allegrolokalnie.pl//oferta/wiedzmin-iii-dziki-gon-polskie-napisy-w-grze-nowa-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "87bb516d-5a71-4c80-a2d6-67b714498f98",
-    "title": "Diablo III Eternal Collection [Polska Dystrybucja] - Nintendo Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s360x360/1ec937/a01233c74aa8b02c3449b9d6c222",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-polska-dystrybucja-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Sosnowiec"
   },
   {
@@ -2216,7 +2216,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e3746/07b421764740b86a9c5a7b2e2d13",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-wydanie-angielskie?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Sosnowiec"
   },
   {
@@ -3578,16 +3578,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
-    "title": "Fire Emblem Warriors",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e5b6a/f48e5f7841aeb14e843a73299e2b",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
   },
   {
     "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
+  },
+  {
+    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   }
 ]
