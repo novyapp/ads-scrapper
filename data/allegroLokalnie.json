@@ -1800,6 +1800,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "cd6fbbe0-846a-4117-8b8e-d807bb8fadc6",
+    "title": "Gra Super Mario 3D All-Stars - Nintendo Switch",
+    "price": "375",
+    "img": "https://a.allegroimg.com/s360x360/1eff01/063a509a4e5691f21590423663fd",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-allstars-nintendo-switch-dtn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "dd35e95a-3159-4414-b483-b648e65a6128",
     "title": "4 rożne gry nintendo swich",
     "price": "360",
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
-    "title": "Luigi's Mansion 3",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ea4da/c2842bb24ccf9acf221a2348b9b8",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "36f35b5c-c2cc-487b-b425-f44c3e7f1356",
@@ -4800,16 +4800,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
-    "title": "Bayonetta 3 Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ed4a9/67acc7514666b6afc31fbb098266",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
     "title": "Loop Hero Special Reserve #67 Switch",
     "price": "300",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
+  },
+  {
+    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
+    "title": "WarioWare Get it Together! Wydanie pre-order.",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chełmiec"
   }
 ]
