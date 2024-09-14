@@ -680,16 +680,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
-    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s360x360/1ed33e/f38086794917816a29f2e6e7ca2d",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Milicz"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
+    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s360x360/1ed33e/f38086794917816a29f2e6e7ca2d",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Milicz"
   },
   {
     "id": "fb51c9d9-408c-4910-9397-aa99414dc07a",
