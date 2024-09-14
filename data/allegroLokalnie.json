@@ -750,16 +750,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "24e75941-cd05-4d6c-8f56-4c19b3669887",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1e3a9b/59eba70b4f9c869330087d8a30e4",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-plus-praktyczny-przewodnik?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
     "id": "0a4b6fa7-7e9a-4b6d-b4ae-af5bd53aadc8",
     "title": "Amiibo Super Smash Bros Sephiroth no 90",
     "price": "189",
@@ -1200,24 +1190,14 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "af5c1a26-47b8-4bb7-8671-c7ba8c4e06df",
-    "title": "Super Mario Odyssey stan BdB",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s360x360/1e3d35/fd81330442859830c2d9ad894040",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-stan-bdb-tcz?navCategoryId=256922",
-    "promoted": true,
+    "id": "24e75941-cd05-4d6c-8f56-4c19b3669887",
+    "title": "The Legend of Zelda Tears of the Kingdom",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/1e3a9b/59eba70b4f9c869330087d8a30e4",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-plus-praktyczny-przewodnik?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
-    "title": "Pokemon Shield Switch + Expansion Pass",
-    "price": "599",
-    "img": "https://a.allegroimg.com/s360x360/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Nowiny"
+    "city": "Kraków, Czyżyny"
   },
   {
     "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
@@ -2405,6 +2385,16 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s360x360/1ef057/b62533744ace935fcf3bac4962b7",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-tyl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "c83050b7-06a2-45c8-b174-93a7c4fd9370",
+    "title": "Gra Ring Fit Adventure +Ring Fit + Opaska na nogę (CAŁY ZESTAW)",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1e86cc/0a8b45b24ee59886d30a6d2e8c14",
+    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-ring-fit-opaska-na-noge-caly-zestaw-hul?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -5995,6 +5985,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
+  },
+  {
+    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
+    "title": "RingFit Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
