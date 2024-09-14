@@ -1660,16 +1660,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "5ebe9020-1cda-4dfc-8b78-978827fc70dd",
-    "title": "Switch My Universe School Teacher - Kartridź Folia",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1eadf9/3b2d8d85468da3c4dfc2d6598c31",
-    "url": "https://allegrolokalnie.pl//oferta/switch-my-universe-school-teacher-kartridz-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "7b5f6bc8-90e6-425f-9632-097a87227a44",
     "title": "The Legend Of Zelda Tears of the Kingdom",
     "price": "160",
@@ -2400,6 +2390,16 @@
     "city": "Kraków, Czyżyny"
   },
   {
+    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
+    "title": "Luigi's Mansion 3",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1ea4da/c2842bb24ccf9acf221a2348b9b8",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
     "id": "36f35b5c-c2cc-487b-b425-f44c3e7f1356",
     "title": "Super Mario Party Nintendo Switch",
     "price": "175",
@@ -2702,7 +2702,7 @@
   {
     "id": "3efc404c-538c-4083-877b-ccdb8a0cae88",
     "title": "Gra Sonic Racing Nintendo Switch",
-    "price": "75",
+    "price": "70",
     "img": "https://a.allegroimg.com/s360x360/1e5289/368126b847fbbccde1e79cc68178",
     "url": "https://allegrolokalnie.pl//oferta/gra-sonic-racing-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -2712,7 +2712,7 @@
   {
     "id": "f2e14ac6-8c8a-47f5-8dd9-53c219484dac",
     "title": "Gra Snow Runner Nintendo Switch",
-    "price": "85",
+    "price": "80",
     "img": "https://a.allegroimg.com/s360x360/1edd50/61aa3147467e8d70d68d6d04b9cc",
     "url": "https://allegrolokalnie.pl//oferta/gra-snow-runner-nintendo-switch-mvz?navCategoryId=256922",
     "promoted": false,
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
-    "title": "Sparklite Kartridż jak Nowa",
-    "price": "49",
-    "img": "https://a.allegroimg.com/s360x360/1ef473/266228164af5a23d3acab14c8740",
-    "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
   },
   {
     "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
@@ -4200,6 +4190,16 @@
     "city": "Świnoujście"
   },
   {
+    "id": "ea102dd3-8968-4b7d-bf5c-e17bef23bf21",
+    "title": "Switch Bakugan Champions of Vestroia",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1eafc0/27ffc126471d954200c70b5399f2",
+    "url": "https://allegrolokalnie.pl//oferta/switch-bakugan-champions-of-vestroia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Drezdenko"
+  },
+  {
     "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
     "title": "Splatoon 2 na Nintendo Switch",
     "price": "120",
@@ -4785,6 +4785,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e6668/415244aa4f8596585309602a043c",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
+    "title": "Bayonetta 3 Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1ed4a9/67acc7514666b6afc31fbb098266",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
-  },
-  {
-    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
-    "title": "WarioWare Get it Together! Wydanie pre-order.",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chełmiec"
   }
 ]
