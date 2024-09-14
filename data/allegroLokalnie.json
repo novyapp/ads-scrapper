@@ -1,15 +1,5 @@
 [
   {
-    "id": "f0c87e02-cba8-4c99-a75a-a8905816a6d8",
-    "title": "Nintendo Switch Ring Fit Adventure",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e37e8/82a17b0048c193b812c4c83e1ff4",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ring-fit-adventure-zii?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chojnice"
-  },
-  {
     "id": "5c402eff-b2f6-47bc-8634-970aaf1ba7d2",
     "title": "Animal Crossing New Horizons",
     "price": "135",
@@ -570,16 +560,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "c70b3317-8031-4ef4-8d1d-6f40331fb376",
-    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e64ab/9b50deca4ca196541a85825b79bc",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-zze?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Elbląg"
-  },
-  {
     "id": "c33cccd7-9748-4c36-8d29-f8aa5deb0821",
     "title": "Process of Elimination - Switch (Nowa)",
     "price": "169",
@@ -598,6 +578,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "d9254071-2220-4705-a897-84aaf1b45fdb",
+    "title": "Kirby and forgoten land 2023 - NS Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s360x360/1e44b8/9f92bb584fb499375a01ff69ce0e",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-forgoten-land-2023-ns-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Poznań"
   },
   {
     "id": "d9254071-2220-4705-a897-84aaf1b45fdb",
@@ -790,26 +780,6 @@
     "city": "Kraków, Czyżyny"
   },
   {
-    "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
-    "title": "Splatoon 3 stan BdB",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s360x360/1ea439/b0e2a6d54628a7f1c4e6b16b9541",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-stan-bdb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "5191c4d0-091e-423c-9c3d-0f6ba86c90f3",
-    "title": "Fire Emblem: Three Houses Switch stan BDB",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e36ae/f610430d4f579dd660abc9260285",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-switch-stan-bdb-iq6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
     "id": "0a4b6fa7-7e9a-4b6d-b4ae-af5bd53aadc8",
     "title": "Amiibo Super Smash Bros Sephiroth no 90",
     "price": "189",
@@ -928,16 +898,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
-    "title": "Sparklite Kartridż jak Nowa",
-    "price": "49",
-    "img": "https://a.allegroimg.com/s360x360/1ef473/266228164af5a23d3acab14c8740",
-    "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
   },
   {
     "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
@@ -1200,14 +1160,34 @@
     "city": "Rzeszów"
   },
   {
-    "id": "4abac667-60b5-491f-afd6-d343e86198f2",
-    "title": "Xenoblade Chronicles Definitive Edition (ENG) (SWITCH) NAJTANIEJ",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/1ea236/5a29ceb849e991a7aa217b14f0bd",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-eng-switch?navCategoryId=256922",
-    "promoted": true,
+    "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
+    "title": "Splatoon 3 stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1ea439/b0e2a6d54628a7f1c4e6b16b9541",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-stan-bdb?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "Warszawa"
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "5191c4d0-091e-423c-9c3d-0f6ba86c90f3",
+    "title": "Fire Emblem: Three Houses Switch stan BDB",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1e36ae/f610430d4f579dd660abc9260285",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-switch-stan-bdb-iq6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
+    "title": "Sparklite Kartridż jak Nowa",
+    "price": "49",
+    "img": "https://a.allegroimg.com/s360x360/1ef473/266228164af5a23d3acab14c8740",
+    "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
   },
   {
     "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
@@ -1798,6 +1778,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
+    "title": "Nintendo Switch Pokemon Legends Arceus nowa folia",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/1e8d89/e8f21d04435dba6e2e615e481bd8",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-legends-arceus-nowa-folia?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
@@ -3000,6 +2990,26 @@
     "city": "Kraków"
   },
   {
+    "id": "a9abae2c-b9ad-4106-9aa9-4799cd0f2ed5",
+    "title": "Gra Nintendo Super Mario Maker 2",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e2b12/f44a9ad34995a448fd7d3670417c",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-maker-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "c899b16e-cf6e-49b2-bed2-a0c59fc56f78",
+    "title": "Metroid Prime Remastered Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1ef528/fd492c444859a3ed6031049a3510",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-lkb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "c537d589-ba76-4ee9-a396-3e5c2dd35971",
     "title": "Zelda Breath of the Wild Nintendo Switch",
     "price": "150",
@@ -3118,6 +3128,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
+  },
+  {
+    "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
+    "title": "Sparklite Kartridż jak Nowa",
+    "price": "49",
+    "img": "https://a.allegroimg.com/s360x360/1ef473/266228164af5a23d3acab14c8740",
+    "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
   },
   {
     "id": "ddf135d7-0d75-4022-a307-ebd1d83b5bf7",
@@ -4168,36 +4188,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
-  },
-  {
-    "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
-    "title": "Paper Mario Thousand Year Door NS",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s360x360/1eaa34/864f78804164bb38a523d1ecc8f6",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-thousand-year-door-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Stare Miasto"
-  },
-  {
-    "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
-    "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
-    "price": "279",
-    "img": "https://a.allegroimg.com/s360x360/1ed23b/84153f824142a55cfe1b5dd8d487",
-    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
-    "title": "Mario Strikers Battle League Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e3b5e/59f0f8134d10a9aae01914e55847",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lębork"
   },
   {
     "id": "d15e0705-3edc-4a86-ba9c-7e7f6d44ba9d",
@@ -5400,36 +5390,6 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
-    "title": "The Walking Dead: Thie Final Season NS Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/119236/11d2948c4a9a8ab435cab7433563",
-    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-thie-final-season-ns-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
-    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wieluń"
-  },
-  {
-    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
-    "title": "GRY NA NINTENDO SWITCH",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e6de0/8100722e46f5b252dfe6df5354bf",
-    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tomaszów Lubelski"
-  },
-  {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
     "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
     "price": "45",
@@ -5998,5 +5958,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
+  },
+  {
+    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
+    "title": "Let's Sing ABBA Nintendo Switch",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
+    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
+  },
+  {
+    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
+    "title": "Fire emblem engage Nintendo switch nowa",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zamość"
+  },
+  {
+    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   }
 ]
