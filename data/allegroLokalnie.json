@@ -600,16 +600,6 @@
     "city": "Siedlce"
   },
   {
-    "id": "d2371422-8b3a-45f0-b538-85eb9fa07b96",
-    "title": "Wiedźmin 3 Dziki Gon Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s360x360/1e6523/d348eb4747749d4a979adda83e59",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-nintendo-switch-id4?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Siedlce"
-  },
-  {
     "id": "a26617cf-109d-4309-908a-e782a76196fb",
     "title": "Diablo 3 Eternal Collection Nintendo Switch",
     "price": "110",
@@ -748,16 +738,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "zgorzelec"
-  },
-  {
-    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
-    "title": "Switch Splatoon 2 ... OKAZJA",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s360x360/1e18b5/8af26a3847f588978a95e6af8c35",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   },
   {
     "id": "0a4b6fa7-7e9a-4b6d-b4ae-af5bd53aadc8",
@@ -1198,6 +1178,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
+    "title": "Pokemon Shield Switch + Expansion Pass",
+    "price": "599",
+    "img": "https://a.allegroimg.com/s360x360/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Nowiny"
+  },
+  {
+    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
+    "title": "Switch Splatoon 2 ... OKAZJA",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s360x360/1e18b5/8af26a3847f588978a95e6af8c35",
+    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
@@ -1800,16 +1800,6 @@
     "city": "Wrocław, Krzyki"
   },
   {
-    "id": "7b5f6bc8-90e6-425f-9632-097a87227a44",
-    "title": "The Legend Of Zelda Tears of the Kingdom",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1e7cdb/51beaee942a4abc1ab60ec81bf46",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-sjw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "599786cb-5894-4c28-8824-bc844676af85",
     "title": "The Legend Of Zelda Breath of the Wild",
     "price": "160",
@@ -2395,6 +2385,16 @@
     "price": "145",
     "img": "https://a.allegroimg.com/s360x360/1ee432/74d4a74e48c69622c3ffa3f166b5",
     "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-asq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "59dcfff4-c312-4c3a-b2f5-d60585e7fb24",
+    "title": "Super Mario Maker 2",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s360x360/1ef057/b62533744ace935fcf3bac4962b7",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-tyl?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -3588,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
-    "title": "Fire Emblem Warriors",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1e5b6a/f48e5f7841aeb14e843a73299e2b",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
   },
   {
     "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
@@ -5995,6 +5985,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
+  },
+  {
+    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
+    "title": "RingFit Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s360x360/1ecb82/1755033f47afae9688151088918c",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
