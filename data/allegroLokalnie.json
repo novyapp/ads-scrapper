@@ -292,7 +292,7 @@
   {
     "id": "cf430329-82c0-4413-8c3e-14dc8808d121",
     "title": "Wreckfest NSW Nintendo Switch",
-    "price": "75",
+    "price": "70",
     "img": "https://a.allegroimg.com/s360x360/1ed46e/f3f4613b49f695be335ee6384c45",
     "url": "https://allegrolokalnie.pl//oferta/wreckfest-nsw-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -2132,7 +2132,7 @@
   {
     "id": "0745d070-b0ca-4dcd-bc53-3fd1715e7b8f",
     "title": "Luigi's Mansion 3",
-    "price": "159",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1ebf3e/7120cb2046d4b6cebb7e0659ff8e",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-wlv?navCategoryId=256922",
     "promoted": false,
@@ -2142,7 +2142,7 @@
   {
     "id": "24315ca3-d4e7-4a1b-b6ac-77a8c38a926c",
     "title": "SUPER MARIO ODYSSEY",
-    "price": "159",
+    "price": "140",
     "img": "https://a.allegroimg.com/s360x360/1e96a4/228d33164c05868e0c50e6a033d4",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-z6z?navCategoryId=256922",
     "promoted": false,
@@ -2232,7 +2232,7 @@
   {
     "id": "e6f4aef5-5258-40b8-8571-137334b3e6ed",
     "title": "Wario Ware Get it Together! Nintendo Switch",
-    "price": "90",
+    "price": "88",
     "img": "https://a.allegroimg.com/s360x360/1ec392/68d146e146fba3baba5c19e39992",
     "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nintendo-switch-mq3?navCategoryId=256922",
     "promoted": false,
@@ -5400,6 +5400,26 @@
     "city": "Wieluń"
   },
   {
+    "id": "1ac13f40-6c97-4faa-8f6e-a8c711c8cbd9",
+    "title": "The Walking Dead: Thie Final Season NS Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s360x360/119236/11d2948c4a9a8ab435cab7433563",
+    "url": "https://allegrolokalnie.pl//oferta/the-walking-dead-thie-final-season-ns-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
+    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieluń"
+  },
+  {
     "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
     "title": "GRY NA NINTENDO SWITCH",
     "price": "100",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
-    "title": "Let's Sing ABBA Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s360x360/1e704a/4bdc14c04fcba0d203d3d29973b6",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
-  },
-  {
-    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
-    "title": "Fire emblem engage Nintendo switch nowa",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e8278/164a71764433a1a29aa874823044",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
   }
 ]
