@@ -1,15 +1,5 @@
 [
   {
-    "id": "f0c87e02-cba8-4c99-a75a-a8905816a6d8",
-    "title": "Nintendo Switch Ring Fit Adventure",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s360x360/1e37e8/82a17b0048c193b812c4c83e1ff4",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ring-fit-adventure-zii?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chojnice"
-  },
-  {
     "id": "5c402eff-b2f6-47bc-8634-970aaf1ba7d2",
     "title": "Animal Crossing New Horizons",
     "price": "135",
@@ -1190,6 +1180,26 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "deb5ac18-3ab9-4ba7-9e14-5121a2a56ece",
+    "title": "Bayonetta 2 stan BdB",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s360x360/1e3759/30da4ec94350aafa2022a1c1777a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-stan-bdb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "af5c1a26-47b8-4bb7-8671-c7ba8c4e06df",
+    "title": "Super Mario Odyssey stan BdB",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1e3d35/fd81330442859830c2d9ad894040",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-stan-bdb-tcz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "af5c1a26-47b8-4bb7-8671-c7ba8c4e06df",
     "title": "Super Mario Odyssey stan BdB",
     "price": "168",
@@ -2112,7 +2122,7 @@
   {
     "id": "0745d070-b0ca-4dcd-bc53-3fd1715e7b8f",
     "title": "Luigi's Mansion 3",
-    "price": "150",
+    "price": "149",
     "img": "https://a.allegroimg.com/s360x360/1ebf3e/7120cb2046d4b6cebb7e0659ff8e",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-wlv?navCategoryId=256922",
     "promoted": false,
@@ -2375,16 +2385,6 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s360x360/1e0c90/9720402c4d70914b36826ee89f0f",
     "url": "https://allegrolokalnie.pl//oferta/spongebob-battle-for-bikini-bottom-nintendo-switch-5wk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "df1bb02a-88fa-4dfc-97bf-2778182e0551",
-    "title": "Captain Toad Treasure Tracker",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1ee432/74d4a74e48c69622c3ffa3f166b5",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-asq?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zamość"
+  },
+  {
+    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   }
 ]
