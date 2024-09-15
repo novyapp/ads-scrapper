@@ -52,7 +52,7 @@
   {
     "id": "3e4ead18-01bb-46ae-933c-e1d59d906972",
     "title": "Zelda ToTK / Tears of The Kingdom",
-    "price": "150",
+    "price": "145",
     "img": "https://a.allegroimg.com/s360x360/1ead28/dfd21f9d49a4bbfd6694b349ccc9",
     "url": "https://allegrolokalnie.pl//oferta/zelda-totk-tears-of-the-kingdom?navCategoryId=256922",
     "promoted": true,
@@ -1600,16 +1600,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
-    "title": "Gra Harvest Moon The Winds of Anthos + maskotka na Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e8bc0/55ba35d0427f90d211a91137a6b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harvest-moon-the-winds-of-anthos-maskotka-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "f8e44f43-4f25-4639-a245-f5bf086a1c4a",
     "title": "Mario & Donkey Kong Nintendo NOWA !!!",
     "price": "169",
@@ -1795,6 +1785,16 @@
     "price": "149",
     "img": "https://a.allegroimg.com/s360x360/1e4edf/80d2d39441188defe4fa04a63e00",
     "url": "https://allegrolokalnie.pl//oferta/have-a-nice-death-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
+  },
+  {
+    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
+    "title": "Luigi’s Mansion 2 HD Nintendo switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e7f14/6a1b2e88493489f1d82a7fdb699c",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
@@ -3590,16 +3590,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
-    "title": "Super Smash Bros. Ultimate Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -4188,6 +4178,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "48266e1a-0c60-46c4-be68-1c2af842da3b",
+    "title": "Paw Patrol World Świat Psiego Patrolu NS",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s360x360/1ef049/aae9853e4a77a5aa0a46bd1c5374",
+    "url": "https://allegrolokalnie.pl//oferta/paw-patrol-world-swiat-psiego-patrolu-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świnoujście"
   },
   {
     "id": "48266e1a-0c60-46c4-be68-1c2af842da3b",
