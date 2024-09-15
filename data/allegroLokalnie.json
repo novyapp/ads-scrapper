@@ -336,7 +336,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e153b/751e6b734145a1c025d895423f53",
     "url": "https://allegrolokalnie.pl//oferta/gta-the-trilogy-nintendo-switch-kzy?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Lublin"
   },
   {
@@ -686,7 +686,7 @@
     "img": "https://a.allegroimg.com/s360x360/1e6f5f/d9c7103e492dbe13444497e77406",
     "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-3eb?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Lublin"
   },
   {
@@ -1338,16 +1338,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "8fd69435-9620-4fcf-a391-7a26391256c2",
-    "title": "Fifa 22 Edycja Legacy Nintendo Switch",
-    "price": "49",
-    "img": "https://a.allegroimg.com/s360x360/1e4bf9/f4ef12c7453795d69ae9045892f3",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-edycja-legacy-qtz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
   },
   {
     "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
@@ -5995,6 +5985,16 @@
     "price": "174",
     "img": "https://a.allegroimg.com/s360x360/1e5f3c/6d9118c8429fa61857a06b5b453e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-scarlet-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "9947459b-4524-4573-bcf8-2b232930c57c",
+    "title": "Switch Pokemon Violet ... Super Cena",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e8be2/2ada7bef499bab2e818b526a3ecc",
+    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-violet-nowy-folia-cyz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
