@@ -630,16 +630,6 @@
     "city": "Szczecin"
   },
   {
-    "id": "c39f0051-976b-49f0-be42-c01cd56fd884",
-    "title": "Super Mario Wonder gra Nintendo Switch",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s360x360/1ec435/da7c2cb4467c8b10e3a6fd32ad2d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -662,7 +652,7 @@
   {
     "id": "21ea2598-33c0-4613-89ef-5c0ca5bd2ca4",
     "title": "No Man's Sky Switch",
-    "price": "229",
+    "price": "219",
     "img": "https://a.allegroimg.com/s360x360/1eb78a/d89e4f2549628d7c8f05c1125ba6",
     "url": "https://allegrolokalnie.pl//oferta/no-mans-sky-switch-x7h?navCategoryId=256922",
     "promoted": true,
@@ -2288,6 +2278,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "c39f0051-976b-49f0-be42-c01cd56fd884",
+    "title": "Super Mario Wonder gra Nintendo Switch",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s360x360/1ec435/da7c2cb4467c8b10e3a6fd32ad2d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "3c9971fb-7509-4dd9-8def-ec989c10add7",
