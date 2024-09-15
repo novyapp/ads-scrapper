@@ -1,5 +1,15 @@
 [
   {
+    "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
+    "title": "Super Mario 3D All Stars",
+    "price": "679",
+    "img": "https://a.allegroimg.com/s360x360/1e01ea/809524c741ea9c4876ace9dd1906",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "a8c04772-dc60-43bc-a094-ace50ad7518d",
     "title": "WIEDŹMIN EDYCJA KOMPLETNA DODATKI MAPA SWITCH PL UNIKAT",
     "price": "250",
@@ -585,16 +595,6 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s360x360/1e114d/e90e80e742238b6a94e905117a1a",
     "url": "https://allegrolokalnie.pl//oferta/process-of-elimination-switch-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
-    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
-    "title": "Road 96 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wilczyce"
@@ -1200,6 +1200,16 @@
     "city": "Białystok"
   },
   {
+    "id": "b76c5a62-23f8-47f0-8da6-db7c8368ee2e",
+    "title": "Lego Marvel Super Heroes 2 Switch PL",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1ea7ab/f71b732f4443822d8af758788bf2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-switch-pl-dd2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
     "id": "63e0011c-4270-4a80-86c4-43e60499da73",
     "title": "Star Wars The Skywalker Saga Switch PL",
     "price": "90",
@@ -1600,9 +1610,19 @@
     "city": "Gdańsk"
   },
   {
+    "id": "f8e44f43-4f25-4639-a245-f5bf086a1c4a",
+    "title": "Mario & Donkey Kong Nintendo NOWA !!!",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s360x360/1ec5a0/303f396246aebcc411dcf373645f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-donkey-kong-nintendo-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wałbrzych"
+  },
+  {
     "id": "ac6657b7-6bd2-4b73-a1d5-61b986975e07",
     "title": "Mario Kart 8 de luxe Nintendo Switch NOWA !!!",
-    "price": "239",
+    "price": "189",
     "img": "https://a.allegroimg.com/s360x360/1e2c59/a7bdaf27471fa30501b7d70e2f05",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-de-luxe-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -1775,26 +1795,6 @@
     "price": "149",
     "img": "https://a.allegroimg.com/s360x360/1e4edf/80d2d39441188defe4fa04a63e00",
     "url": "https://allegrolokalnie.pl//oferta/have-a-nice-death-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
-    "title": "Luigi’s Mansion 2 HD Nintendo switch",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s360x360/1e7f14/6a1b2e88493489f1d82a7fdb699c",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
-    "title": "Hogwarts Legacy Nintendo switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e4665/8b7bcb144008a8567b5a38230ff2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-bkk?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
@@ -3000,6 +3000,16 @@
     "city": "Wrocław, Krzyki"
   },
   {
+    "id": "fe3f9ce3-e6b0-4598-80bc-a341df46eaf8",
+    "title": "Dust An Elysian Tail Limited Edition LRG nowa",
+    "price": "1 199",
+    "img": "https://a.allegroimg.com/s360x360/11259f/5e8ccde24cbb9c9803eb52496d88",
+    "url": "https://allegrolokalnie.pl//oferta/dust-an-elysian-tail-limited-edition-lrg-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
     "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
     "title": "Sparklite Kartridż jak Nowa",
     "price": "49",
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
-  },
-  {
-    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
-    "title": "Super Smash Bros. Ultimate Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1e15c3/66e6f8184de5b466920e3e0e9e14",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
@@ -4800,6 +4800,16 @@
     "city": "Radom, Michałów"
   },
   {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s360x360/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
     "id": "c77e8991-3238-4c25-8586-53d03d9dc2a4",
     "title": "Sprzedam w bardzo dobrym stanie używane gry na Nintendo switch",
     "price": "130",
@@ -5385,26 +5395,6 @@
     "price": "510",
     "img": "https://a.allegroimg.com/s360x360/1e55dc/7af260a145bba5bd4b8f9e642479",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-poke-ball-plus-nintendo-switch-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrołęka"
-  },
-  {
-    "id": "e27a384b-6af9-42b5-a879-5451691f9f8b",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e2a02/fa5983fc4e6891f08bdd01fe05c7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-yhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrołęka"
-  },
-  {
-    "id": "e27a384b-6af9-42b5-a879-5451691f9f8b",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s360x360/1e2a02/fa5983fc4e6891f08bdd01fe05c7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-yhs?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ostrołęka"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chełmiec"
+  },
+  {
+    "id": "7b4fc228-d5ec-4f7c-b180-944009e0564d",
+    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e87bb/1d0a957943bb9da979b8f2d74f6a",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Władysławowo"
   }
 ]
