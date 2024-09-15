@@ -32,7 +32,7 @@
   {
     "id": "aa57f73d-c30a-4c93-9674-fad2b677ccf6",
     "title": "Super Mario Bros. Wonder Switch",
-    "price": "171",
+    "price": "172",
     "img": "https://a.allegroimg.com/s360x360/1e0487/5c035ec14249b942a0bd1a0f1410",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-xzf?navCategoryId=256922",
     "promoted": true,
@@ -450,16 +450,6 @@
     "city": "Bielawa"
   },
   {
-    "id": "4bf6038a-c638-4937-960d-4b27b58487df",
-    "title": "Lets sing abba Nintendo Switch gratis fifa22",
-    "price": "84",
-    "img": "https://a.allegroimg.com/s360x360/1e56ae/357a2d21478a9976a6c2449c5480",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-gratis-fifa22?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "c3ee2d96-eed2-47a4-b17f-578c1c127bf7",
     "title": "Super Mario Maker 2 ( Nintendo Switch)",
     "price": "150",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "c33cccd7-9748-4c36-8d29-f8aa5deb0821",
-    "title": "Process of Elimination - Switch (Nowa)",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s360x360/1e114d/e90e80e742238b6a94e905117a1a",
-    "url": "https://allegrolokalnie.pl//oferta/process-of-elimination-switch-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
   },
   {
     "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
@@ -1190,21 +1170,21 @@
     "city": "Białystok"
   },
   {
-    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
-    "title": "Ultra Street Fighter II: The Final Challengers",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
     "id": "63e0011c-4270-4a80-86c4-43e60499da73",
     "title": "Star Wars The Skywalker Saga Switch PL",
     "price": "90",
     "img": "https://a.allegroimg.com/s360x360/1eb00b/5cfff2b643ad839cff782cfff100",
     "url": "https://allegrolokalnie.pl//oferta/star-wars-the-skywalker-saga-switch-pl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Białystok"
+  },
+  {
+    "id": "671ef329-787a-4a48-aa8c-657a4a3a7f28",
+    "title": "Mario + Rabbids: Kingdom Battle Switch",
+    "price": "106",
+    "img": "https://a.allegroimg.com/s360x360/1e2bce/7cc273814336a398650528998804",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-th6?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
@@ -1800,6 +1780,16 @@
     "city": "Kluczbork"
   },
   {
+    "id": "aa674ab8-8232-4fd0-88af-a7e90fd01e58",
+    "title": "Disgaea 5 nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1edf9d/036eacb540d1bbfabc379e419e3a",
+    "url": "https://allegrolokalnie.pl//oferta/disgaea-5-nintendo-switch-cza?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bronowice Małe Wschód"
+  },
+  {
     "id": "c080df6d-f13d-4337-add2-1b754ebf4970",
     "title": "Have a nice death Nintendo switch",
     "price": "149",
@@ -2388,16 +2378,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
-    "title": "mario golf super rush nintendo switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
   },
   {
     "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
@@ -3708,6 +3688,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
+    "title": "Ultra Street Fighter II: The Final Challengers",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "5aaa0024-c761-4a26-8722-a23143c0dd66",
