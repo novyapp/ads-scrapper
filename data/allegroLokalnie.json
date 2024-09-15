@@ -980,16 +980,6 @@
     "city": "Suchy Dwór"
   },
   {
-    "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
-    "title": "Super Mario RPG [UKV]",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s360x360/1e95bd/0a601f594ca59179aed4106dffef",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-ukv-yab?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bytom"
-  },
-  {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
     "price": "173",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wadowice Górne"
+  },
+  {
+    "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
+    "title": "Super Mario RPG [UKV]",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1e95bd/0a601f594ca59179aed4106dffef",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-ukv-yab?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bytom"
   },
   {
     "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
@@ -1448,26 +1448,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "d7a9abb4-6eb1-43da-9d03-b43d7cf79538",
-    "title": "Super Smash Bros Nintendo Switch Okazja!",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s360x360/1ee0a8/0178b5074209adc9ab7b2ae28e9b",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
-  },
-  {
-    "id": "a06bdbe3-2a56-4016-9d50-61bb3373bb71",
-    "title": "Assassin's Creed III Nintendo Switch Okazja!",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s360x360/1eb02a/db15bcce4a80b008b45ac3e695ea",
-    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-iii-nintendo-switch-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
   },
   {
     "id": "f8e44f43-4f25-4639-a245-f5bf086a1c4a",
@@ -2400,16 +2380,6 @@
     "city": "Pionki"
   },
   {
-    "id": "0b786856-096f-4c07-b41e-2e344e8e018b",
-    "title": "BloodRayne 2: Revamped - Switch - Limited Run Games",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s360x360/1158e8/30af44e249fc9b20a609e50ba55f",
-    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-2-revamped-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pionki"
-  },
-  {
     "id": "82b0ad26-c210-4913-9456-713bb97094f8",
     "title": "Axiom Verge 2 - Switch - Limited Run Games",
     "price": "270",
@@ -2995,6 +2965,16 @@
     "price": "480",
     "img": "https://a.allegroimg.com/s360x360/1e65ba/4175b3814156a57edc310d20bcea",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-nightmare-reaper-super-rare-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "86b6d0ce-046f-468f-b2be-2daeb47a7641",
+    "title": "Nintendo Switch Crowns and Pawns - Super Rare Games",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s360x360/1eebbe/e871dd694f03931cf9a45eb14786",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crowns-and-pawns-super-rare-games?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
