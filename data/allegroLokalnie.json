@@ -600,6 +600,16 @@
     "city": "Wilczyce"
   },
   {
+    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
+    "title": "Road 96 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "d2371422-8b3a-45f0-b538-85eb9fa07b96",
     "title": "Wiedźmin 3 Dziki Gon Nintendo Switch",
     "price": "149",
@@ -1188,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "b76c5a62-23f8-47f0-8da6-db7c8368ee2e",
-    "title": "Lego Marvel Super Heroes 2 Switch PL",
-    "price": "91",
-    "img": "https://a.allegroimg.com/s360x360/1ea7ab/f71b732f4443822d8af758788bf2",
-    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-switch-pl-dd2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
   },
   {
     "id": "63e0011c-4270-4a80-86c4-43e60499da73",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
-    "title": "Luigi's Mansion 3",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s360x360/1ea4da/c2842bb24ccf9acf221a2348b9b8",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
