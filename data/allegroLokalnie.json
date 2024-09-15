@@ -80,16 +80,6 @@
     "city": "Poznań"
   },
   {
-    "id": "5c402eff-b2f6-47bc-8634-970aaf1ba7d2",
-    "title": "Animal Crossing New Horizons",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1ef4b0/aed9dddd4302a87e5a03f1a47afd",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-awk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Zelów"
-  },
-  {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
     "title": "WarioWare: Get It Together! NINTENDO Switch",
     "price": "120",
@@ -1800,16 +1790,6 @@
     "city": "Jaworzno"
   },
   {
-    "id": "2d8f313c-5b64-4107-b4c8-60e87915ea29",
-    "title": "Gra Crash Bandicoot N. Sane Trilogy - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec655/2a83641c4c60b66cd6a1b44c916c",
-    "url": "https://allegrolokalnie.pl//oferta/gra-crash-bandicoot-n-sane-trilogy-nintendo-switch-cxu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "cd6fbbe0-846a-4117-8b8e-d807bb8fadc6",
     "title": "Gra Super Mario 3D All-Stars - Nintendo Switch",
     "price": "375",
@@ -2995,6 +2975,16 @@
     "price": "1 699",
     "img": "https://a.allegroimg.com/s360x360/11d733/0f41ee584496b9e272f4e99d77c2",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-2-edycja-kolekcjonerska-nowa-w-folii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
+    "id": "fe3f9ce3-e6b0-4598-80bc-a341df46eaf8",
+    "title": "Dust An Elysian Tail Limited Edition LRG nowa",
+    "price": "1 199",
+    "img": "https://a.allegroimg.com/s360x360/11259f/5e8ccde24cbb9c9803eb52496d88",
+    "url": "https://allegrolokalnie.pl//oferta/dust-an-elysian-tail-limited-edition-lrg-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
