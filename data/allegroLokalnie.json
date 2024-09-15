@@ -640,16 +640,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "15395b66-0196-4c6f-9779-7bcf9c761e48",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "142",
-    "img": "https://a.allegroimg.com/s360x360/1eb9f4/61bef4f04769920bf077a3006ebf",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-dx4?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "15395b66-0196-4c6f-9779-7bcf9c761e48",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "142",
+    "img": "https://a.allegroimg.com/s360x360/1eb9f4/61bef4f04769920bf077a3006ebf",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-dx4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "b76c5a62-23f8-47f0-8da6-db7c8368ee2e",
