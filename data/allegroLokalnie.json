@@ -342,7 +342,7 @@
   {
     "id": "01cbcc84-ae6f-43f5-a0b0-cc8b659eccae",
     "title": "Grand Theft Auto The Trilogy The Definitive Edition",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1e4784/8bc601174137aaddf8c1c0bc70fe",
     "url": "https://allegrolokalnie.pl//oferta/gran-theft-auto-the-trilogy?navCategoryId=256922",
     "promoted": true,
@@ -1302,7 +1302,7 @@
   {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
     "title": "Super Mario RPG Switch",
-    "price": "148",
+    "price": "147",
     "img": "https://a.allegroimg.com/s360x360/1e1b54/3021f9344950ba68a9570b216e9a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
     "promoted": true,
@@ -1312,7 +1312,7 @@
   {
     "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
     "title": "Kangurek Kao Switch PL",
-    "price": "104",
+    "price": "103",
     "img": "https://a.allegroimg.com/s360x360/1ea811/dd6dffbe41e19f128531eb721fde",
     "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
     "promoted": true,
@@ -1598,6 +1598,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "92216785-e2f8-456a-ac10-96e97244640c",
+    "title": "Splatoon 2 Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s360x360/1e53a9/640138d8410891379c14f8ef68df",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-um2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
   },
   {
     "id": "2014eb79-c770-4588-aa60-4b69e5cf4dff",
@@ -1948,16 +1958,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ostróda"
-  },
-  {
-    "id": "24315ca3-d4e7-4a1b-b6ac-77a8c38a926c",
-    "title": "SUPER MARIO ODYSSEY",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s360x360/1e96a4/228d33164c05868e0c50e6a033d4",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-z6z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bolesławiec"
   },
   {
     "id": "3258c00f-d1e6-4395-880b-49e0ee0d7a92",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
-  },
-  {
-    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   }
 ]
