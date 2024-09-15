@@ -1110,16 +1110,6 @@
     "city": "Nowiny"
   },
   {
-    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
-    "title": "Ultra Street Fighter II: The Final Challengers",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
     "price": "173",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
+    "title": "Ultra Street Fighter II: The Final Challengers",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s360x360/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "63e0011c-4270-4a80-86c4-43e60499da73",
@@ -1800,16 +1800,6 @@
     "city": "Kluczbork"
   },
   {
-    "id": "aa674ab8-8232-4fd0-88af-a7e90fd01e58",
-    "title": "Disgaea 5 nintendo switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1edf9d/036eacb540d1bbfabc379e419e3a",
-    "url": "https://allegrolokalnie.pl//oferta/disgaea-5-nintendo-switch-cza?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Bronowice Małe Wschód"
-  },
-  {
     "id": "c080df6d-f13d-4337-add2-1b754ebf4970",
     "title": "Have a nice death Nintendo switch",
     "price": "149",
@@ -2042,7 +2032,7 @@
   {
     "id": "d95a7f5b-f1cb-4700-9ea2-1cf7d09c17a2",
     "title": "Gra Nintendo Switch Fifa 22 Edycja Legacy",
-    "price": "79",
+    "price": "69",
     "img": "https://a.allegroimg.com/s360x360/1ea45f/51e93d9a4d1ea60a32b1337b7c31",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-fifa-22-edycja-legacy-jjk?navCategoryId=256922",
     "promoted": false,
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
+    "title": "mario golf super rush nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "zgorzelec"
   },
   {
     "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
