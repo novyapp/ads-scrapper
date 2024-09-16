@@ -560,16 +560,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
-    "title": "Road 96 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "a26617cf-109d-4309-908a-e782a76196fb",
     "title": "Diablo 3 Eternal Collection Nintendo Switch",
     "price": "110",
@@ -1200,11 +1190,11 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
-    "title": "My Hero Ones Justice 2",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
-    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
+    "title": "Goodbye World - Switch (Nowa)",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s360x360/1eb844/aee49e3c474ba50887ff60cfe588",
+    "url": "https://allegrolokalnie.pl//oferta/goodbye-world-switch-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wilczyce"
@@ -1448,6 +1438,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "4f07a048-9c52-4845-832b-03aaf3c7de5f",
@@ -1800,26 +1800,6 @@
     "city": "Jaworzno"
   },
   {
-    "id": "2d8f313c-5b64-4107-b4c8-60e87915ea29",
-    "title": "Gra Crash Bandicoot N. Sane Trilogy - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1ec655/2a83641c4c60b66cd6a1b44c916c",
-    "url": "https://allegrolokalnie.pl//oferta/gra-crash-bandicoot-n-sane-trilogy-nintendo-switch-cxu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "cd6fbbe0-846a-4117-8b8e-d807bb8fadc6",
-    "title": "Gra Super Mario 3D All-Stars - Nintendo Switch",
-    "price": "375",
-    "img": "https://a.allegroimg.com/s360x360/1eff01/063a509a4e5691f21590423663fd",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-allstars-nintendo-switch-dtn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "dd35e95a-3159-4414-b483-b648e65a6128",
     "title": "4 rożne gry nintendo swich",
     "price": "360",
@@ -2048,6 +2028,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
+    "title": "Road 96 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s360x360/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "b8e03803-2855-4640-a8cc-46b9f87a4d54",
@@ -2395,6 +2385,16 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s360x360/11a322/b0e356604394ab9e0a4ae2a7c2bb",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-fcd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "1034f3b0-ef51-4060-a346-6444a2a6aee9",
+    "title": "Super Mario Odyssey Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s360x360/117792/ef09ee7f4905aa005c77e93bb983",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-oaw?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -3000,16 +3000,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "ddf135d7-0d75-4022-a307-ebd1d83b5bf7",
-    "title": "Nintendo Switch Madison",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s360x360/1e0fbb/2b7afc984581907ea224f2f4336a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-madison?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "a55acc84-9a88-4ad8-95ae-3032e4a533f5",
     "title": "Nintendo Switch Hogwarts Legacy",
     "price": "139",
@@ -3595,6 +3585,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s360x360/1ec363/4a3e12854ea590e17e88e9c4b10e",
     "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-a3i?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "cda44abd-2fd2-43a7-9e97-a930069d0838",
+    "title": "Rayman Legends Definitive Edition Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1ea80b/d6099c084e4f83a0c8e63f7b9bef",
+    "url": "https://allegrolokalnie.pl//oferta/rayman-legends-definitive-edition-nintendo-switch-rsi?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
