@@ -600,26 +600,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "205a201e-ccd1-4156-b80f-a2c20b79e1ce",
-    "title": "MINECRAFT DUNGEONS HERO EDITION",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1eed24/97d59c32496289cfeeaf38a4d1eb",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-4o6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Końskie"
-  },
-  {
-    "id": "8f441e54-7551-4fe9-86c3-21fbc96255fd",
-    "title": "Bayonetta 2 Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e64b5/8739f7cc44efb873c5e50c417a60",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-nmw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
     "title": "Flashback 25th Anniversary Nowa Folia",
     "price": "278",
@@ -1998,6 +1978,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Śrem"
+  },
+  {
+    "id": "1619bb80-36f4-4e9b-ab67-8403bf8eb8d2",
+    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s360x360/1e7cb2/478129e048e4bf854d9096dd33ab",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch-kmn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "09d16acd-3124-43ae-a5ca-153bd03d9918",
+    "title": "Mario Wonder - GADŻETY - SWITCH",
+    "price": "14",
+    "img": "https://a.allegroimg.com/s360x360/1e638e/a4f260ef46e2858e8b450ad9a457",
+    "url": "https://allegrolokalnie.pl//oferta/mario-wonder-gadzety-switch-ikr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "78ddc3ac-615a-4cf1-9206-467ac14b59e2",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
+  },
+  {
+    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
+    "title": "WarioWare Get it Together! Wydanie pre-order.",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chełmiec"
   }
 ]
