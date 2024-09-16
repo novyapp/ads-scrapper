@@ -600,16 +600,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
-    "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s360x360/1efe34/261682324370b2745de214a1f2c8",
-    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "ca92012e-2c53-45ee-a4e6-b0c09e82ba2b",
     "title": "SUPER MARIO MAKER 2 / NINTENDO SWITCH",
     "price": "170",
@@ -1195,6 +1185,16 @@
     "price": "399",
     "img": "https://a.allegroimg.com/s360x360/1e7c7b/92628bd643a5a203887ae8eb076c",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-attack-on-titan-2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "5fe37c3a-0bc2-4884-98f0-85cd902e2d62",
+    "title": "Nintendo Switch Shining Resonance Refrain Kartridż",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1edbfc/6657345040939f6cbf341256c8bd",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-shining-resonance-refrain-kartridz?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -2400,6 +2400,16 @@
     "city": "Lędziny"
   },
   {
+    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
+    "title": "mario golf super rush nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "zgorzelec"
+  },
+  {
     "id": "73719cf3-b9ba-436a-8308-51f14b01df26",
     "title": "crash 4 bandicoot nintendo switch",
     "price": "90",
@@ -3000,16 +3010,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
-    "title": "Luigi Mansion 3 gra na Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1efd2c/9692665d4b049abff54b7610a796",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-gra-na-nintendo-switch-tdd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
     "title": "Fifa 22 Nintendo switch",
     "price": "55",
@@ -3595,6 +3595,16 @@
     "price": "40",
     "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
     "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
+    "title": "Miitopia Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e29b6/47dea86b413dbd7c580eaa9a0a79",
+    "url": "https://allegrolokalnie.pl//oferta/miitopia-nintendo-switch-q3d?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -4800,16 +4810,6 @@
     "city": "Krotoszyn"
   },
   {
-    "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
-    "title": "Animal Crossing: New Horizons Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s360x360/11c5c6/7fd919c343568c14db4a72914017",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-qta?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Krotoszyn"
-  },
-  {
     "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
     "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
     "price": "100",
@@ -5400,6 +5400,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
+    "title": "Harvestella Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
     "title": "Sonic Frontiers Nintendo Switch",
     "price": "120",
@@ -5985,16 +5995,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
     "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "44b35e11-7d16-477d-96bb-4e027790e39b",
-    "title": "Gra Dead Cells Edycja gry roku Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
