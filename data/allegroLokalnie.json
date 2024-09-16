@@ -110,16 +110,6 @@
     "city": "Poznań"
   },
   {
-    "id": "3e4ead18-01bb-46ae-933c-e1d59d906972",
-    "title": "The legend of Zelda ToTK / Tears of The Kingdom",
-    "price": "140 000",
-    "img": "https://a.allegroimg.com/s360x360/1ead28/dfd21f9d49a4bbfd6694b349ccc9",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-totk-tears-of-the-kingdom?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Rzeszów"
-  },
-  {
     "id": "4de6a901-9c77-4d17-a4f1-b4e727baa96b",
     "title": "KIRBY and the forgoten land 2023 na Nintendo Switch",
     "price": "155",
@@ -540,16 +530,6 @@
     "city": "Zgierz"
   },
   {
-    "id": "2112c3b7-5ec7-4709-93a9-28e3d455eb73",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s360x360/1e70d9/082455bf4d3d928ade94c82916aa",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-f3w?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zgierz"
-  },
-  {
     "id": "a26617cf-109d-4309-908a-e782a76196fb",
     "title": "Diablo 3 Eternal Collection Nintendo Switch",
     "price": "110",
@@ -598,6 +578,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "2112c3b7-5ec7-4709-93a9-28e3d455eb73",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s360x360/1e70d9/082455bf4d3d928ade94c82916aa",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-f3w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zgierz"
   },
   {
     "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
@@ -3000,16 +2990,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
-    "title": "Luigi Mansion 3 gra na Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s360x360/1efd2c/9692665d4b049abff54b7610a796",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-gra-na-nintendo-switch-tdd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
     "title": "Fifa 22 Nintendo switch",
     "price": "55",
@@ -3595,6 +3575,16 @@
     "price": "40",
     "img": "https://a.allegroimg.com/s360x360/1ef213/753d972545a7811807aef32ec9aa",
     "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
+    "title": "Miitopia Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e29b6/47dea86b413dbd7c580eaa9a0a79",
+    "url": "https://allegrolokalnie.pl//oferta/miitopia-nintendo-switch-q3d?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
