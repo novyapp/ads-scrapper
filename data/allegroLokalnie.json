@@ -1,15 +1,5 @@
 [
   {
-    "id": "3e1fa9a4-8c98-4f94-8e17-ab2eb3bb2228",
-    "title": "Hogwarts Legacy/Dziedzictwo Hogwartu - gra na Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e04d8/08cf6f9d41549f6d05a8b3bd5388",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacydziedzictwo-hogwartu-gra-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "c9ea5b07-0136-48b2-9519-fb0a9ec97fa8",
     "title": "Pokemon Legends: Arceus Nintendo Switch",
     "price": "180",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "741869b0-edaf-49d7-b335-f478da7aa521",
+    "title": "SUPER MARIO 3D ALL-STARS (stan idealny)",
+    "price": "419",
+    "img": "https://a.allegroimg.com/s360x360/1eb043/1f53c24348fcac553a515482de4d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraśnik"
   },
   {
     "id": "2c849131-86de-4420-8994-e9a75d36900f",
@@ -3258,16 +3258,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Głogów"
-  },
-  {
-    "id": "a5cc492e-f9f5-4a31-9f1a-4fedf503ccd3",
-    "title": "Spongebob SquarePants: Battle for Bikini Bottom Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s360x360/11c46e/7708c23a4adc9a5ee2b13ac9b18e",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-battle-for-bikini-bottom-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "b1a169d2-f33b-42c7-b060-ca7ffa6237c7",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chełmiec"
+  },
+  {
+    "id": "7b4fc228-d5ec-4f7c-b180-944009e0564d",
+    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s360x360/1e87bb/1d0a957943bb9da979b8f2d74f6a",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Władysławowo"
+  },
+  {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s360x360/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   }
 ]
