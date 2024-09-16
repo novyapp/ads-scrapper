@@ -1370,16 +1370,6 @@
     "city": "Łódź"
   },
   {
-    "id": "176ebe84-96ab-4e21-9796-416dee0d9c94",
-    "title": "Harvest Moon: Light of Hope Special Edition",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s360x360/1ede7b/d06563034a3ab911725ca5460929",
-    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-light-of-hope-special-edition-yse?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzepin"
-  },
-  {
     "id": "79bc1450-4cfb-43f5-8c04-08fdb7bc64df",
     "title": "Crysis Remastered Steebook Limited Run (Switch)",
     "price": "199",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s360x360/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
