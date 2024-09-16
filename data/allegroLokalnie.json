@@ -540,16 +540,6 @@
     "city": "Zgierz"
   },
   {
-    "id": "149cfb7c-09b1-4253-8ee9-4bb2afe5d761",
-    "title": "The Binding of Isaac: Afterbirth+ Nintendo Switch JAK NOWA!",
-    "price": "269",
-    "img": "https://a.allegroimg.com/s360x360/1efe80/5df68abf44ab864950ff6a031b31",
-    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-afterbirth-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "a26617cf-109d-4309-908a-e782a76196fb",
     "title": "Diablo 3 Eternal Collection Nintendo Switch",
     "price": "110",
@@ -588,6 +578,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "149cfb7c-09b1-4253-8ee9-4bb2afe5d761",
+    "title": "The Binding of Isaac: Afterbirth+ Nintendo Switch JAK NOWA!",
+    "price": "269",
+    "img": "https://a.allegroimg.com/s360x360/1efe80/5df68abf44ab864950ff6a031b31",
+    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-afterbirth-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "5f187646-e119-4319-a518-2d0bf395d6d0",
