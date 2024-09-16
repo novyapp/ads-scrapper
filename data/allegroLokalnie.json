@@ -60,16 +60,6 @@
     "city": "Białystok"
   },
   {
-    "id": "aa57f73d-c30a-4c93-9674-fad2b677ccf6",
-    "title": "Super Mario Bros. Wonder Switch",
-    "price": "172",
-    "img": "https://a.allegroimg.com/s360x360/1e0487/5c035ec14249b942a0bd1a0f1410",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-xzf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
-  },
-  {
     "id": "78cee29a-89d4-41ab-9d62-02f200319293",
     "title": "Mario + Rabbids Sparks of Hope",
     "price": "55",
@@ -1198,16 +1188,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "741869b0-edaf-49d7-b335-f478da7aa521",
-    "title": "SUPER MARIO 3D ALL-STARS (stan idealny)",
-    "price": "419",
-    "img": "https://a.allegroimg.com/s360x360/1eb043/1f53c24348fcac553a515482de4d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraśnik"
   },
   {
     "id": "2c849131-86de-4420-8994-e9a75d36900f",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
+  },
+  {
+    "id": "90198270-d1e0-41ce-9355-2b89749f781c",
+    "title": "WarioWare Get it Together! Wydanie pre-order.",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s360x360/1eb395/71515012437e840eb12ec16c62e1",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-wydanie-preorder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chełmiec"
   }
 ]
