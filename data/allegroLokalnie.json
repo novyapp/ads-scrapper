@@ -72,7 +72,7 @@
   {
     "id": "ec56f190-10db-413d-b902-8e1fe4acb5ee",
     "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "170",
+    "price": "150",
     "img": "https://a.allegroimg.com/s360x360/1ee2de/61c71d5a4ea6bf7b1ee6b54b037d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-xkz?navCategoryId=256922",
     "promoted": true,
@@ -212,7 +212,7 @@
   {
     "id": "e3921ded-77c1-44ad-8b61-4e5591bde349",
     "title": "The legend od Zelda tears of the kingdom",
-    "price": "170",
+    "price": "160",
     "img": "https://a.allegroimg.com/s360x360/1ead4e/a41ad6e74307ae4300731253eb18",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-tears-od-the-kingdom-jgp?navCategoryId=256922",
     "promoted": true,
@@ -1790,6 +1790,16 @@
     "city": "Jaworzno"
   },
   {
+    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
+    "title": "Luigi’s Mansion 2 HD Nintendo switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s360x360/1e7f14/6a1b2e88493489f1d82a7fdb699c",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
+  },
+  {
     "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
     "title": "Hogwarts Legacy Nintendo switch",
     "price": "135",
@@ -2378,16 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
-    "title": "mario golf super rush nintendo switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
   },
   {
     "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
@@ -3600,6 +3600,16 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
+    "title": "Miitopia Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s360x360/1e29b6/47dea86b413dbd7c580eaa9a0a79",
+    "url": "https://allegrolokalnie.pl//oferta/miitopia-nintendo-switch-q3d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
     "title": "Castlevania advance collection switch",
     "price": "270",
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
-  },
-  {
-    "id": "2603eb69-e827-4bfe-b413-c8cb3f556d54",
-    "title": "Gra Fire Emblem Engage Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s360x360/1e2ee7/aefa668049078f5394d3ede2fe0f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-fire-emblem-engage-nintendo-switch-zzs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Karwiany"
   },
   {
     "id": "73d7c622-0b98-4f2e-ad5b-ab977da88c0a",
@@ -5390,6 +5390,26 @@
     "city": "Gliwice"
   },
   {
+    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
+    "title": "Harvestella Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
+    "title": "Harvestella Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s360x360/1e103e/28d97ca945f386f21e2e0b13c5dc",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
     "title": "Sonic Frontiers Nintendo Switch",
     "price": "120",
@@ -5975,16 +5995,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1eb904/c59f72df4cd08eeae0f4adcec525",
     "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pasym"
-  },
-  {
-    "id": "44b35e11-7d16-477d-96bb-4e027790e39b",
-    "title": "Gra Dead Cells Edycja gry roku Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
