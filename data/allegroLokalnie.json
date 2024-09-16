@@ -510,16 +510,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "78ddc3ac-615a-4cf1-9206-467ac14b59e2",
-    "title": "Pokémon Shining Pearl używana",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s360x360/1e6a59/f3db627549c9b7e294c2d9414012",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-uzywana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Rzeszów"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -590,16 +580,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "a26617cf-109d-4309-908a-e782a76196fb",
-    "title": "Diablo 3 Eternal Collection Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s360x360/1ed15d/80e448c14edfa0e5fde670b85f1f",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-nintendo-switch-kqq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Szczecin"
-  },
-  {
     "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
     "title": "Hyrule Warriors: Age of Calamity Switch",
     "price": "100",
@@ -628,16 +608,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Końskie"
-  },
-  {
-    "id": "770cc120-51c0-4d69-815e-fa635c13ce42",
-    "title": "Mario Donkey Kong - Gadżet - układanka",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s360x360/1e6f5d/21d8136f43a28ae0172bc0f86262",
-    "url": "https://allegrolokalnie.pl//oferta/mario-donkey-kong-gadzet-ukladanka-sdv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
   },
   {
     "id": "8f441e54-7551-4fe9-86c3-21fbc96255fd",
@@ -1230,6 +1200,26 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
+    "id": "0249ef4f-5aa6-4b75-8dc8-2820fa80ecd2",
+    "title": "Nintendo Switch Ninja Gaiden Master Collection",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s360x360/1ee9cb/98c534ac46b2a3470af006871e59",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ninja-gaiden-master-collection-iuh?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
+    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
+    "price": "239",
+    "img": "https://a.allegroimg.com/s360x360/1ee722/85e4224c422ba41dc338dd4c24f3",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
     "id": "2c849131-86de-4420-8994-e9a75d36900f",
     "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
     "price": "139",
@@ -1268,16 +1258,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "2f216cb9-3d3c-4e1d-b6ed-db91c199543a",
-    "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
-    "price": "6",
-    "img": "https://a.allegroimg.com/s360x360/1ea20d/af838ff9464aa5ed0de004f20625",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
   },
   {
     "id": "4484e6d3-a44c-42ea-a854-fe1875e7e8d2",
@@ -1448,6 +1428,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "2f216cb9-3d3c-4e1d-b6ed-db91c199543a",
+    "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
+    "price": "6",
+    "img": "https://a.allegroimg.com/s360x360/1ea20d/af838ff9464aa5ed0de004f20625",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "4f07a048-9c52-4845-832b-03aaf3c7de5f",
@@ -2190,6 +2180,16 @@
     "city": "Rumia"
   },
   {
+    "id": "a26617cf-109d-4309-908a-e782a76196fb",
+    "title": "Diablo 3 Eternal Collection Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s360x360/1ed15d/80e448c14edfa0e5fde670b85f1f",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-nintendo-switch-kqq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Szczecin"
+  },
+  {
     "id": "10ed6e05-0f33-436d-abf9-5a889e58588e",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "175",
@@ -2395,26 +2395,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s360x360/1e028e/86c6428b42648070d5ea0cfad2ca",
     "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
-  },
-  {
-    "id": "73719cf3-b9ba-436a-8308-51f14b01df26",
-    "title": "crash 4 bandicoot nintendo switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s360x360/1ec3d7/66c04ecd44cf9befcbc149aeea82",
-    "url": "https://allegrolokalnie.pl//oferta/crash-4-bandicoot-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
-  },
-  {
-    "id": "999f6626-b92b-47d7-8709-6251c621d32b",
-    "title": "Nintendo switch sports",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s360x360/1ecb40/3c7cbc144fc8996a146fa8d8362e",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-kqp?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
@@ -2998,6 +2978,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "770cc120-51c0-4d69-815e-fa635c13ce42",
+    "title": "Mario Donkey Kong - Gadżet - układanka",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s360x360/1e6f5d/21d8136f43a28ae0172bc0f86262",
+    "url": "https://allegrolokalnie.pl//oferta/mario-donkey-kong-gadzet-ukladanka-sdv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
@@ -5995,6 +5985,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s360x360/1e765e/e72f21b948b2beb5dc252bd31e2e",
     "url": "https://allegrolokalnie.pl//oferta/gra-dead-cells-edycja-gry-roku-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
+  },
+  {
+    "id": "34591acf-5d78-45f6-8881-a4ca7a253a1b",
+    "title": "Gra Autonauts na konsole Nintendo Switch Nowa",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s360x360/1e0b61/b19a52344de0abe8ab5aade0ffcb",
+    "url": "https://allegrolokalnie.pl//oferta/gra-autonauts-na-konsole-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pasym"
