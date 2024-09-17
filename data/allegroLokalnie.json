@@ -580,26 +580,6 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "a9d6084f-3178-4466-8872-362febe07b09",
-    "title": "Nintendo switch sport",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
     "title": "SONIC COLOURS ULTIMATE / SWITCH",
     "price": "60",
@@ -608,6 +588,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "225",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "205a201e-ccd1-4156-b80f-a2c20b79e1ce",
@@ -2028,6 +2018,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Radomsko"
+  },
+  {
+    "id": "a9d6084f-3178-4466-8872-362febe07b09",
+    "title": "Nintendo switch sport",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
