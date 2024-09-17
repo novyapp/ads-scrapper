@@ -220,16 +220,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "78cee29a-89d4-41ab-9d62-02f200319293",
-    "title": "Mario + Rabbids Sparks of Hope",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1ed134/2a7a94f348ed895465369928de2f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-35j?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sanok"
-  },
-  {
     "id": "0d1548a4-666d-4372-a7ba-06416a39f23f",
     "title": "Nintendo Switch Splatoon 3",
     "price": "140",
@@ -2988,26 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
-    "title": "Sparklite Kartridż jak Nowa",
-    "price": "49",
-    "img": "https://a.allegroimg.com/s180x180/1ef473/266228164af5a23d3acab14c8740",
-    "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "5129ffcf-a6c0-4675-8b64-70d314f07673",
-    "title": "Sparklite Kartridż jak Nowa",
-    "price": "49",
-    "img": "https://a.allegroimg.com/s180x180/1ef473/266228164af5a23d3acab14c8740",
-    "url": "https://allegrolokalnie.pl//oferta/sparklite-kartridz-jak-nowa-vct?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
   },
   {
     "id": "1fdd59c4-e7a1-4084-8123-082b3086e173",
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
+  },
+  {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   }
 ]
