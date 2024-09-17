@@ -590,16 +590,6 @@
     "city": "Białystok"
   },
   {
-    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
-    "title": "Super Mario Odyssey",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
     "price": "70",
@@ -2058,6 +2048,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Radomsko"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "2b5a97ed-da58-486d-a47d-d833ae21c459",
@@ -3600,6 +3600,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e15c3/66e6f8184de5b466920e3e0e9e14",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -4790,16 +4800,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
-    "title": "[Nintendo Switch] Triangle Strategy",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
     "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
     "price": "189",
@@ -5400,16 +5400,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
-    "title": "Bayonetta 3 - Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e6236/23ccfcdc474aa0d86f9bba14105e",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "e081079d-fe24-4516-b508-cc48c8699cb3",
     "title": "Nowa Bayonetta 3 - Nintendo Switch",
     "price": "129",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
+  },
+  {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   }
 ]
