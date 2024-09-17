@@ -280,16 +280,6 @@
     "city": "Rąbień"
   },
   {
-    "id": "5330bab1-ecdc-451c-a3e4-1778a4ba72a8",
-    "title": "Pokemon Legends Arceus Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1efffb/957fe369431aab4aa483bdbbe70b",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-switch-4it?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków, Podgórze"
-  },
-  {
     "id": "e3921ded-77c1-44ad-8b61-4e5591bde349",
     "title": "The legend od Zelda tears of the kingdom",
     "price": "160",
@@ -402,7 +392,7 @@
   {
     "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
     "title": "Gta the trilogy Nintendo Switch",
-    "price": "195",
+    "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1e153b/751e6b734145a1c025d895423f53",
     "url": "https://allegrolokalnie.pl//oferta/gta-the-trilogy-nintendo-switch-kzy?navCategoryId=256922",
     "promoted": true,
@@ -595,6 +585,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1ee2dc/29cef63e4b1b924983d7fcec1cf8",
     "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-jf7?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
+    "title": "SONIC COLOURS ULTIMATE / SWITCH",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1ea903/08635f01498fadb8a63b9fadd5ff",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-switch-zzz?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
@@ -1785,16 +1785,6 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
-    "title": "Hogwarts Legacy Nintendo switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1e4665/8b7bcb144008a8567b5a38230ff2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-bkk?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
@@ -4200,6 +4190,26 @@
     "city": "Warszawa, Mokotów"
   },
   {
+    "id": "f37392f8-6f95-4fa6-8be9-171adf247ec7",
+    "title": "The Legend Of Zelda Breath Of The Wild",
+    "price": "202",
+    "img": "https://a.allegroimg.com/s180x180/1e6468/220b0b55462ba9a3618e5c556fae",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-uzz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "76a71474-6763-40e2-9f12-2931073baf47",
+    "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
+    "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
+  },
+  {
     "id": "48266e1a-0c60-46c4-be68-1c2af842da3b",
     "title": "Paw Patrol World Świat Psiego Patrolu NS",
     "price": "50",
@@ -4778,26 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "olecko"
-  },
-  {
-    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
-    "title": "Super Mario 3d World Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eb394/18c354254e8e8521965fc745798d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
-    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
-    "title": "Pokemon Sword Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
   },
   {
     "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
