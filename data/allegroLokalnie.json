@@ -540,16 +540,6 @@
     "city": "Poznań"
   },
   {
-    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
-    "title": "Super Mario Odyssey",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
@@ -2990,6 +2990,16 @@
     "city": "Jelenia Góra"
   },
   {
+    "id": "27ac5427-7347-421b-a95c-bd7645cdf920",
+    "title": "Xenoblade 2 edycja kolekcjonerska nowa w folii",
+    "price": "1 699",
+    "img": "https://a.allegroimg.com/s180x180/11d733/0f41ee584496b9e272f4e99d77c2",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-2-edycja-kolekcjonerska-nowa-w-folii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
     "id": "fe3f9ce3-e6b0-4598-80bc-a341df46eaf8",
     "title": "Dust An Elysian Tail Limited Edition LRG nowa",
     "price": "1 199",
@@ -3578,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
-  },
-  {
-    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
-    "title": "Super Smash Bros. Ultimate Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e15c3/66e6f8184de5b466920e3e0e9e14",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
@@ -5388,6 +5388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Tuczempy "
+  },
+  {
+    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
+    "title": "Bayonetta 3 - Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e6236/23ccfcdc474aa0d86f9bba14105e",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
