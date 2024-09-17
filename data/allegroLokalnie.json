@@ -110,16 +110,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "c9ea5b07-0136-48b2-9519-fb0a9ec97fa8",
-    "title": "Pokemon Legends: Arceus Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1eb45f/aed70d1f413d827cc1aaa5120c30",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-nintendo-switch-btr?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "59284d9c-fedc-4c18-aca4-6dffaad90644",
     "title": "It Takes Two Nintendo",
     "price": "99",
@@ -1390,6 +1380,16 @@
     "city": "Gdańsk"
   },
   {
+    "id": "e431c133-e0f9-4662-aee4-c2a82f38f789",
+    "title": "Farming Simulator 20",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e6d0e/96dd5a164d3ba91ee736912c1a90",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-20-nr3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sobowo"
+  },
+  {
     "id": "757a4ae9-0e3b-4ef0-aa3e-f195f9cc6a45",
     "title": "Immortal Fenyx Rising",
     "price": "60",
@@ -2400,16 +2400,6 @@
     "city": "Reda"
   },
   {
-    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
-    "title": "Bravely Default II (Switch)",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
-    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "0ffc3146-f7c8-412e-bec0-708dc9e6645d",
     "title": "Nintendo switch dla pana z olx",
     "price": "800",
@@ -2995,6 +2985,26 @@
     "price": "85",
     "img": "https://a.allegroimg.com/s180x180/1edd30/0ed30275436e8a161a03718a6eb5",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-remastered?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
+    "title": "Nintendo Switch Mario Kart 8",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7800/3aca0c384bc882cb5a3d4c73c945",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-kzx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "7d0a6c5d-523c-4cb5-bb40-08e57f127115",
+    "title": "Nintendo Switch DC Super Hero Girls",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1eb0a1/d16273f44aa18b6a916d9d4c757f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -4178,26 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Drezdenko"
-  },
-  {
-    "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
-    "title": "Splatoon 2 na Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e8b63/842b685a4d629b2c08d588cf7e84",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-zoo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Krowodrza"
-  },
-  {
-    "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
-    "title": "Super Mario Bros U Deluxe Switch (nowa, folia)",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e6686/53d424c04f61a116615e33d1ba66",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wieliczka"
   },
   {
     "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
