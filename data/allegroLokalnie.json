@@ -510,16 +510,6 @@
     "city": "Poznań"
   },
   {
-    "id": "a9d6084f-3178-4466-8872-362febe07b09",
-    "title": "Nintendo switch sport",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "a9d6084f-3178-4466-8872-362febe07b09",
+    "title": "Nintendo switch sport",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
