@@ -590,16 +590,6 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "205a201e-ccd1-4156-b80f-a2c20b79e1ce",
     "title": "MINECRAFT DUNGEONS HERO EDITION",
     "price": "100",
@@ -2018,6 +2008,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Radomsko"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "225",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "a9d6084f-3178-4466-8872-362febe07b09",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   }
 ]
