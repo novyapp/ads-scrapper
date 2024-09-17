@@ -500,16 +500,6 @@
     "city": "Bielawa"
   },
   {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -588,6 +578,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "225",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "a9d6084f-3178-4466-8872-362febe07b09",
@@ -858,16 +858,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Śródmieście"
-  },
-  {
-    "id": "959b8b77-fdbe-47fb-83ab-f4cb5844ec7e",
-    "title": "Nintendo Switch 13 sentinels aegis rim",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e37d8/7d1d10744610a0baaacbe5aab4cc",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-13-sentinels-aegis-rim?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
     "id": "39b0c6a6-4988-48c2-ba6a-a6219480fa43",
