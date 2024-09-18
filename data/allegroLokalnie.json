@@ -1190,24 +1190,14 @@
     "city": "Gdańsk"
   },
   {
-    "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
-    "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
-    "price": "266",
-    "img": "https://a.allegroimg.com/s180x180/1e51a3/01839ab84f27b836677d03eb3a36",
-    "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-lui?navCategoryId=256922",
+    "id": "2c849131-86de-4420-8994-e9a75d36900f",
+    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
-    "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
-    "price": "266",
-    "img": "https://a.allegroimg.com/s180x180/1e51a3/01839ab84f27b836677d03eb3a36",
-    "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-lui?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
+    "city": "Jarosław"
   },
   {
     "id": "672f31d1-df64-44c4-9133-70ca3cff8421",
@@ -1800,6 +1790,16 @@
     "city": "Warszawa, Wola"
   },
   {
+    "id": "3ce78f05-e9c2-4c3b-a8cc-cc7417af619d",
+    "title": "Super Blood Hockey",
+    "price": "320",
+    "img": "https://a.allegroimg.com/s180x180/1effe0/e90f704d49e98d08da966df2499f",
+    "url": "https://allegrolokalnie.pl//oferta/super-blood-hockey?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
     "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
     "price": "140",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dzierżoniów"
-  },
-  {
-    "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
-    "title": "Dziedzictwo Hogwartu / Hogwart Legacy - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef6c3/6acb25dc493d973d10af50c65f6d",
-    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-hogwart-legacy-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Reda"
   },
   {
     "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
@@ -4190,6 +4180,46 @@
     "city": "Wieliczka"
   },
   {
+    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
+    "title": "Dead cells prisoner edition switch",
+    "price": "849",
+    "img": "https://a.allegroimg.com/s180x180/1e4871/dd24ac144654b67477ab8f9b5e98",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
+    "title": "Klonoa Phantasy Reverie Series Nowa Folia",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1ec643/3e58dfd44eeeb746ba90f0e98ce7",
+    "url": "https://allegrolokalnie.pl//oferta/klonoa-phantasy-reverie-series-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
+    "title": "Dead cells prisoner edition switch",
+    "price": "849",
+    "img": "https://a.allegroimg.com/s180x180/1e4871/dd24ac144654b67477ab8f9b5e98",
+    "url": "https://allegrolokalnie.pl//oferta/dead-cells-prisoner-edition-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
+    "title": "Klonoa Phantasy Reverie Series Nowa Folia",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1ec643/3e58dfd44eeeb746ba90f0e98ce7",
+    "url": "https://allegrolokalnie.pl//oferta/klonoa-phantasy-reverie-series-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
     "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
     "title": "My Hero Ones Justice 2",
     "price": "129",
@@ -4768,46 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dzierżoniów"
-  },
-  {
-    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
-    "title": "GRIP: Combat Racing Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
-    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona góra, Nowe Miasto"
-  },
-  {
-    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
-    "title": "Nintendo Switch, Super Mario Bros. WONDER",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Grabówka"
-  },
-  {
-    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
-    "title": "GRIP: Combat Racing Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
-    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona góra, Nowe Miasto"
-  },
-  {
-    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
-    "title": "Nintendo Switch, Super Mario Bros. WONDER",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Grabówka"
   },
   {
     "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
@@ -5490,6 +5480,16 @@
     "city": "Olsztyn"
   },
   {
+    "id": "2c849131-86de-4420-8994-e9a75d36900f",
+    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
+  },
+  {
     "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
     "title": "Neptunia sisters vs sisters (Nintendo switch)",
     "price": "140",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "0911d6db-f32e-4b7e-a04d-fed863df6176",
+    "title": "Arms (Nintendo Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1edbfb/ded1687f4a96b5cbefd840ddfe10",
+    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-d6m?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
