@@ -470,16 +470,6 @@
     "city": "Wadowice Górne"
   },
   {
-    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
-    "title": "Ultra Age - Switch (Nowa)",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "73a0b4a0-fbf8-4294-a89a-5caaff45d57a",
+    "title": "Gothic Classic - Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e16f0/660f7b564c64aff5aaaf558929d5",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-njl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "73a0b4a0-fbf8-4294-a89a-5caaff45d57a",
@@ -1800,16 +1800,6 @@
     "city": "szczecno"
   },
   {
-    "id": "7226a084-1d3a-486a-9da5-e45fe7c15b7c",
-    "title": "Elder Scrolls V Skyrim na Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e29ff/4ce740bf475f82a7cb9b90629032",
-    "url": "https://allegrolokalnie.pl//oferta/elder-scrolls-v-skyrim-na-nintendo-switch-tnj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "e81b4733-9146-4c14-a496-e8dc29835692",
     "title": "Super Mario Odyssey, Yoshis, Minecraft Nintendo Switch",
     "price": "350",
@@ -1903,7 +1893,7 @@
     "id": "ee7ed26f-6861-4b2d-ac5a-72cd83f782fa",
     "title": "WARHAMMER 40000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
     "price": "265",
-    "img": "https://a.allegroimg.com/s180x180/1eff37/bbea469f41d1840dea877b2a2e5d",
+    "img": "https://a.allegroimg.com/s180x180/1ed662/01fa50084c0685bc755e3bd0b1ab",
     "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-n77?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -1948,6 +1938,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
+    "title": "Ultra Age - Switch (Nowa)",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "c6186c09-53fe-43bf-ae68-81cbb5c90dc6",
@@ -3383,7 +3383,7 @@
     "id": "85274f6e-8016-4548-b4d2-ffc9ce94d0c4",
     "title": "UNDERTALE + ARTBOOK (SWITCH) WYD US, EGZ NOWY, W FOLII",
     "price": "437",
-    "img": "https://a.allegroimg.com/s180x180/1e05cb/33c8696d4a62b02925bd93a6e352",
+    "img": "https://a.allegroimg.com/s180x180/1e302f/aaea20434a9cb123ff73d9e90d8d",
     "url": "https://allegrolokalnie.pl//oferta/undertale-artbook-switch-wyd-us-egz-nowy-w-folii-7qa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -4372,8 +4372,8 @@
   {
     "id": "3fd76805-3d8a-4425-8218-06e5841bcbab",
     "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
-    "price": "289",
-    "img": "https://a.allegroimg.com/s180x180/1e53ef/d545c27a4d6ea291129037d3e277",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s180x180/1e2e16/f5b7204148b1a045d752ca93f9c9",
     "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-zux?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chełmiec"
+  },
+  {
+    "id": "7b4fc228-d5ec-4f7c-b180-944009e0564d",
+    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e87bb/1d0a957943bb9da979b8f2d74f6a",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Władysławowo"
   }
 ]
