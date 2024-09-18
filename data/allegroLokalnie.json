@@ -232,7 +232,7 @@
   {
     "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
     "title": "Super Mario 3D All Stars",
-    "price": "679",
+    "price": "639",
     "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
     "promoted": true,
@@ -462,7 +462,7 @@
   {
     "id": "0a4b6fa7-7e9a-4b6d-b4ae-af5bd53aadc8",
     "title": "Amiibo Super Smash Bros Sephiroth no 90",
-    "price": "189",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e982b/3b556bda4eeaabd6a7bfd5561ed6",
     "url": "https://allegrolokalnie.pl//oferta/amiibo-super-smash-bros-sephiroth-no-90?navCategoryId=256922",
     "promoted": true,
@@ -1600,16 +1600,6 @@
     "city": "Bytom"
   },
   {
-    "id": "277ff69c-c03a-4b90-9b02-7757a831d1c6",
-    "title": "2 gry WarioWare: Get It Together + Chocobo GP nowe",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e5780/ea1640fe49aaae1a9dd7f069e034",
-    "url": "https://allegrolokalnie.pl//oferta/2-gry-warioware-get-it-together-chocobo-gp-nowe-lgs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Siemianowice Śląskie"
-  },
-  {
     "id": "7a38ce56-5f42-4c8f-a103-8d03aa1ba559",
     "title": "Prince of Persia the Lost Crown Nintendo Switch",
     "price": "150",
@@ -1848,16 +1838,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Umiastów"
-  },
-  {
-    "id": "3ff5f24e-53ff-415d-ba9c-06f6c8323158",
-    "title": "Xenoblade Chronicles 3 Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1efd48/f580114843da82f2422504575f04",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-qkh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielawa"
   },
   {
     "id": "a53097ae-a7a0-44bb-87bf-70e8e204c86c",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wroclaw"
+  },
+  {
+    "id": "9eaeda69-7407-43a7-9f7d-94aa34ef11b7",
+    "title": "Sakuna Of Rice And Ruin (Switch)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1edfaf/72f9a67b47a6924f0a424c564718",
+    "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-switch-nff?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
