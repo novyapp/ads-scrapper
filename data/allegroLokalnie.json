@@ -470,16 +470,6 @@
     "city": "Umiastów"
   },
   {
-    "id": "3ff5f24e-53ff-415d-ba9c-06f6c8323158",
-    "title": "Xenoblade Chronicles 3 Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1efd48/f580114843da82f2422504575f04",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-qkh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bielawa"
-  },
-  {
     "id": "93e17444-5c0d-415b-aa2c-4162fce7aeeb",
     "title": "Splatoon 3 stan BdB",
     "price": "168",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "3ff5f24e-53ff-415d-ba9c-06f6c8323158",
+    "title": "Xenoblade Chronicles 3 Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1efd48/f580114843da82f2422504575f04",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-qkh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielawa"
   },
   {
     "id": "73a0b4a0-fbf8-4294-a89a-5caaff45d57a",
@@ -1200,16 +1200,6 @@
     "city": "Chełm"
   },
   {
-    "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
-    "title": "BAYONETTA 3 TRINITY MASQUERADE EDITION SWITCH NOWA",
-    "price": "651",
-    "img": "https://a.allegroimg.com/s180x180/1efa32/203adc894122ae15bf33ec7b6754",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-switch-nowa-7rz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź"
-  },
-  {
     "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
     "title": "Bayonetta 3 Trinity Masquerade Edition",
     "price": "749",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
+  },
+  {
+    "id": "20328670-5a8e-4664-bd2d-13b910302a16",
+    "title": "Sea of Stars Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1eea74/584ad5f74b06b2f508e6d0df9a3f",
+    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-nintendo-switch-oir?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
   },
   {
     "id": "20328670-5a8e-4664-bd2d-13b910302a16",
