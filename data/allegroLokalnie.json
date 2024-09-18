@@ -1140,16 +1140,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
-    "title": "Nintendo Switch/3DS/DS - panel modułowy",
-    "price": "14",
-    "img": "https://a.allegroimg.com/s180x180/1eba64/042d8d4f4a6794a97fd1a66b660c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "KOZIEGŁOWY"
-  },
-  {
     "id": "7b3de2d5-19d6-4f24-acd0-b6683acf56f6",
     "title": "Nintendo Switch Disney Magical World 2",
     "price": "95",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
+    "title": "Nintendo Switch/3DS/DS - panel modułowy",
+    "price": "14",
+    "img": "https://a.allegroimg.com/s180x180/1eba64/042d8d4f4a6794a97fd1a66b660c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "KOZIEGŁOWY"
   },
   {
     "id": "9fa6270a-383e-4286-81e1-dcd10f6dab1b",
@@ -1800,16 +1800,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "3ce78f05-e9c2-4c3b-a8cc-cc7417af619d",
-    "title": "Super Blood Hockey",
-    "price": "320",
-    "img": "https://a.allegroimg.com/s180x180/1effe0/e90f704d49e98d08da966df2499f",
-    "url": "https://allegrolokalnie.pl//oferta/super-blood-hockey?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
     "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
     "price": "140",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dzierżoniów"
+  },
+  {
+    "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
+    "title": "Dziedzictwo Hogwartu / Hogwart Legacy - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef6c3/6acb25dc493d973d10af50c65f6d",
+    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-hogwart-legacy-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Reda"
   },
   {
     "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
@@ -4200,16 +4200,6 @@
     "city": "Toruń"
   },
   {
-    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
-    "title": "My Hero Ones Justice 2",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e8224/8e4e6e9548e6bc7ea6c0513268df",
-    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
     "title": "Minecraft Story Mode Nintendo Switch",
     "price": "435",
@@ -4795,6 +4785,16 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
+  },
+  {
+    "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
+    "title": "Nintendo Switch, Super Mario RPG",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e197a/cb00df32425c968110d3a8d4a163",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-rpg-ebj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Grabówka"
@@ -5400,16 +5400,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
-    "title": "Xenoblade Chronicles Definitive Edition",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e3a8a/32139ca74fba8970c3fa47ea47a5",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-kwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
     "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
     "price": "179",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
+    "title": "Bayonetta 3    switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ed925/e2e094044761be589dd738e71a64",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wroclaw"
   }
 ]
