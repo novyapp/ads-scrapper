@@ -1190,14 +1190,14 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "14dd17c1-36c6-4ea8-90bf-736c32649afd",
-    "title": "Rune Factory 5 Edycja Kolekcjonerska Switch nowa.",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1e3a4c/a9d45e5b4328a4cca117ceaec9e5",
-    "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-edycja-kolekcjonerska-switch-nowa?navCategoryId=256922",
-    "promoted": false,
+    "id": "28d65622-7ed4-4663-ad92-f07c30be1d3b",
+    "title": "Podstawa pod gry Nintendo Switch z motywem Mario",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1eeb84/7e91e4a247828b93b3bd1405ee7d",
+    "url": "https://allegrolokalnie.pl//oferta/podstawka-pod-gry-nintendo-switch-super-mario?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Kraków, Zwierzyniec"
+    "city": "Chełm"
   },
   {
     "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
@@ -2112,7 +2112,7 @@
   {
     "id": "b8e03803-2855-4640-a8cc-46b9f87a4d54",
     "title": "Contra Anniversary Collection Switch",
-    "price": "250",
+    "price": "239",
     "img": "https://a.allegroimg.com/s180x180/1eaec6/8bfe0c9843049461cd2c343b8cb4",
     "url": "https://allegrolokalnie.pl//oferta/contra-anniversary-collection-switch-lpc?navCategoryId=256922",
     "promoted": false,
@@ -2388,6 +2388,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "0ffc3146-f7c8-412e-bec0-708dc9e6645d",
+    "title": "Nintendo switch dla pana z olx",
+    "price": "800",
+    "img": "https://a.allegroimg.com/s180x180/1e4b4f/ee03c3d8444495d1cb4e9bb15855",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dla-pana-z-olx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Dulowa"
+  },
+  {
+    "id": "0ffc3146-f7c8-412e-bec0-708dc9e6645d",
+    "title": "Nintendo switch dla pana z olx",
+    "price": "800",
+    "img": "https://a.allegroimg.com/s180x180/1e4b4f/ee03c3d8444495d1cb4e9bb15855",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dla-pana-z-olx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Dulowa"
   },
   {
     "id": "49459de4-85f8-4897-9921-9bd1fd811612",
@@ -2975,26 +2995,6 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e3e11/074bd1934adda6b8a864cf27e2a3",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-3d-world-bowsers-fury?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "521c3c6a-c23f-46d6-8dd9-9c847d8a1188",
-    "title": "Nintendo Switch PJ Masks Heroes of the Night",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1ebc42/f64618fa4740adbfdc5b929fcf3b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pj-masks-heroes-of-the-night?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "521c3c6a-c23f-46d6-8dd9-9c847d8a1188",
-    "title": "Nintendo Switch PJ Masks Heroes of the Night",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1ebc42/f64618fa4740adbfdc5b929fcf3b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pj-masks-heroes-of-the-night?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gdynia"
+  },
+  {
+    "id": "769b78d5-ae6f-45d0-b60a-8e9390f4ac6d",
+    "title": "DRAGON QUEST XI S ECHOES OF AN ELUSIVE AGE SWITCH",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1e0fb2/eb463435466e98c59d854c09fb5b",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-s-echoes-of-an-elusive-age-switch-ov3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
   }
 ]
