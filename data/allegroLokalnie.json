@@ -600,16 +600,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "73a0b4a0-fbf8-4294-a89a-5caaff45d57a",
-    "title": "Gothic Classic - Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e16f0/660f7b564c64aff5aaaf558929d5",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-njl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "19024e1b-367d-47fd-8e1a-5593d568f4d8",
     "title": "TT ISLE OF MAN RIDE ON THE EDGE 3 Nintendo Switch NOWA FOLIA !",
     "price": "130",
@@ -1090,16 +1080,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "23902d86-e7d1-4287-9070-abf092375e0e",
-    "title": "Gra Animal Crossing New Horizons Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ebe84/85e50fb24fa697f44653caf910d9",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-nintendo-switch-4it?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "4484e6d3-a44c-42ea-a854-fe1875e7e8d2",
     "title": "Pikmin 4 Nintendo Switch",
     "price": "175",
@@ -1168,16 +1148,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "szadek"
-  },
-  {
-    "id": "3dfbc530-6f8c-40dc-9e2e-e3d4657c0688",
-    "title": "Zestaw 4 gier na Nintendo Switch",
-    "price": "390",
-    "img": "https://a.allegroimg.com/s180x180/1e1326/f63c6065401bb4bd2b2afc95810f",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-4-gry-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "1f4dac81-306a-453b-9dca-a8ef13149cc1",
@@ -1798,6 +1768,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "szczecno"
+  },
+  {
+    "id": "7226a084-1d3a-486a-9da5-e45fe7c15b7c",
+    "title": "Elder Scrolls V Skyrim na Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e29ff/4ce740bf475f82a7cb9b90629032",
+    "url": "https://allegrolokalnie.pl//oferta/elder-scrolls-v-skyrim-na-nintendo-switch-tnj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "e81b4733-9146-4c14-a496-e8dc29835692",
@@ -3020,6 +3000,26 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
+    "title": "Nintendo Switch Mario Kart 8",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7800/3aca0c384bc882cb5a3d4c73c945",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-kzx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "7d0a6c5d-523c-4cb5-bb40-08e57f127115",
+    "title": "Nintendo Switch DC Super Hero Girls",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1eb0a1/d16273f44aa18b6a916d9d4c757f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "8020fe87-0157-44ae-8711-72d2ff9b4b5c",
     "title": "Nintendo Switch Smerfy 2",
     "price": "105",
@@ -3356,7 +3356,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea64b/cdc2d9134e319470dc41ff0531be",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-heroes-trails-of-cold-steel-iii-3xa-switch-nowa?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Olsztyn"
   },
   {
@@ -4122,7 +4122,7 @@
   {
     "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
     "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
-    "price": "269",
+    "price": "279",
     "img": "https://a.allegroimg.com/s180x180/1e8d74/e931bcee4793a9683f84e8928e33",
     "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
     "promoted": false,
@@ -4198,26 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Halinów"
-  },
-  {
-    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
-    "title": "Yurukill - Switch (Nowa)",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e5cff/e1b3942e4e29adc6944ee2297e84",
-    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
-    "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
-    "title": "Gra Harvest Moon The Winds of Anthos + maskotka na Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e8bc0/55ba35d0427f90d211a91137a6b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harvest-moon-the-winds-of-anthos-maskotka-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
@@ -4343,7 +4323,7 @@
     "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
     "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
     "price": "289",
-    "img": "https://a.allegroimg.com/s180x180/1e294f/17ae0fb04633a43d428d99af3ae1",
+    "img": "https://a.allegroimg.com/s180x180/1ec79f/49dab71d4bad87e4bdc6b1700116",
     "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -4795,6 +4775,26 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e8b52/4f75d28042caad916ba7bfa0d871",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
+    "title": "[Nintendo Switch] Triangle Strategy",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
+    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
