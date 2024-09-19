@@ -150,23 +150,13 @@
     "city": "Kamionki, Osiedle Azaliowe"
   },
   {
-    "id": "5f690a6a-0b73-4fc0-90b2-a9081c35a663",
-    "title": "POKEMON: LET'S GO, PIKACHU! - NINTENDO SWITCH, JAK NOWA",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e514d/d2badff0486db13723225a2c8833",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-switch-jak-nowa-7bl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
     "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
     "price": "199",
     "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa"
   },
   {
@@ -176,7 +166,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e407f/b81d811843d68602e2e47da772d8",
     "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa"
   },
   {
@@ -186,7 +176,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
     "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Warszawa"
   },
   {
@@ -960,16 +950,6 @@
     "city": "Lublin"
   },
   {
-    "id": "741869b0-edaf-49d7-b335-f478da7aa521",
-    "title": "SUPER MARIO 3D ALL-STARS (stan idealny)",
-    "price": "419",
-    "img": "https://a.allegroimg.com/s180x180/1eb043/1f53c24348fcac553a515482de4d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraśnik"
-  },
-  {
     "id": "053b46fc-3448-418d-9e0d-9181c03a9ce9",
     "title": "Nintendo Switch Attack on Titan 2",
     "price": "399",
@@ -1158,6 +1138,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "741869b0-edaf-49d7-b335-f478da7aa521",
+    "title": "SUPER MARIO 3D ALL-STARS (stan idealny)",
+    "price": "419",
+    "img": "https://a.allegroimg.com/s180x180/1eb043/1f53c24348fcac553a515482de4d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
   },
   {
     "id": "8066a57c-51b9-416b-8fa5-d1225901c67c",
@@ -1800,26 +1790,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "3ce78f05-e9c2-4c3b-a8cc-cc7417af619d",
-    "title": "Super Blood Hockey",
-    "price": "320",
-    "img": "https://a.allegroimg.com/s180x180/1effe0/e90f704d49e98d08da966df2499f",
-    "url": "https://allegrolokalnie.pl//oferta/super-blood-hockey?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
-    "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e06a1/0292e2d54bd18edf3665bfc243e9",
-    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-the-winds-of-anthos-nintendo-switch-nowa-w-folii-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Sącz"
-  },
-  {
     "id": "78ce10f9-8b4e-4bb9-b509-c3c0db9c9462",
     "title": "Gra Nintendo Switch „ Lego Gwiezdne Wojny”",
     "price": "79",
@@ -2398,6 +2368,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "340",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
+    "id": "3ace27c9-e944-47a6-8ac6-58063c3f5f6f",
+    "title": "Detective Pikachu Returns",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s180x180/1e533d/e89f19c44cd7bf11cd227fe78680",
+    "url": "https://allegrolokalnie.pl//oferta/detective-pikachu-returns-wcu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
   },
   {
     "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
@@ -5400,16 +5390,6 @@
     "city": "Radom"
   },
   {
-    "id": "13625138-bdad-4dac-a75e-e29cb679edc0",
-    "title": "FIRE EMBLEM ENGAGE: DIVINE EDITION SWITCH NOWA",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s180x180/1e8661/bf0a6f6c49a5b72278ae9c56d265",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-divine-edition-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom"
-  },
-  {
     "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
     "title": "Gra NSW Instant Sport Tenis",
     "price": "85",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Gocławek"
+  },
+  {
+    "id": "2f216cb9-3d3c-4e1d-b6ed-db91c199543a",
+    "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
+    "price": "6",
+    "img": "https://a.allegroimg.com/s180x180/1ea20d/af838ff9464aa5ed0de004f20625",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   }
 ]
