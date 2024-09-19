@@ -50,16 +50,6 @@
     "city": "Białystok"
   },
   {
-    "id": "e8a46118-994c-41c4-95ce-4911d6e414e9",
-    "title": "The Legend Of Zelda: Tears Of The Kingdom",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e3d49/6d7d0220450eb2c976dcc91cbe44",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-ygx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "29977631-ee4c-4c21-b52b-ebde3983c998",
     "title": "MINECRAFT - NINTENDO SWITCH - NOWY - CARTRIDGE - KARTRIDŻ",
     "price": "79",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "73a0b4a0-fbf8-4294-a89a-5caaff45d57a",
-    "title": "Gothic Classic - Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e16f0/660f7b564c64aff5aaaf558929d5",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-njl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "19024e1b-367d-47fd-8e1a-5593d568f4d8",
@@ -1198,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "22b3dfde-0892-4add-8525-861528344f12",
+    "title": "Daemon x Machina Soundtrack Selection Nintendo Switch OST",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1ed437/dd4d323940199f03d65825eb5a1b",
+    "url": "https://allegrolokalnie.pl//oferta/daemon-x-machina-soundtrack-selection-nintendo-switch-ost?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sokółka"
   },
   {
     "id": "22b3dfde-0892-4add-8525-861528344f12",
@@ -5400,16 +5390,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
-    "title": "Xenoblade Chronicles Definitive Edition",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e3a8a/32139ca74fba8970c3fa47ea47a5",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-kwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
     "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
     "price": "179",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
+    "title": "Bayonetta 3    switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ed925/e2e094044761be589dd738e71a64",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wroclaw"
   }
 ]
