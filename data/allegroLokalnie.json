@@ -10,29 +10,19 @@
     "city": "Warszawa"
   },
   {
-    "id": "a916c1e1-5d7c-4e5c-a41d-34875d2468cb",
-    "title": "Splatoon 3 + Metroid Prime - Nintendo Switch",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s180x180/1ea9a9/c65225d0409287b261e7b480d07b",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-metroid-prime-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
     "id": "66e6a88e-6295-4173-8511-d2cb0328a746",
     "title": "Pikmin 4 Nintendo Switch - stan idealny",
     "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e59b0/5f16d65e4fe08e1a2a92e3fc9ddd",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-4-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Wrocław, Krzyki"
   },
   {
     "id": "422797d2-1979-4340-9b79-1aa4bb7686d1",
     "title": "Gra Gang Beast Nintendo Switch",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e126c/ab5052964cf981f2f082d30053d1",
     "url": "https://allegrolokalnie.pl//oferta/gra-gang-beast-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
-    "title": "Flashback 25th Anniversary Nowa Folia",
-    "price": "278",
-    "img": "https://a.allegroimg.com/s180x180/1ec165/a37854f24908977bf5ac392fcff6",
-    "url": "https://allegrolokalnie.pl//oferta/flashback-25th-anniversary-nowa-folia-qdg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
   },
   {
     "id": "19024e1b-367d-47fd-8e1a-5593d568f4d8",
@@ -1198,6 +1178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
+  },
+  {
+    "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
+    "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
+    "price": "266",
+    "img": "https://a.allegroimg.com/s180x180/1e51a3/01839ab84f27b836677d03eb3a36",
+    "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-lui?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
   },
   {
     "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
@@ -2395,16 +2385,6 @@
     "price": "59",
     "img": "https://a.allegroimg.com/s180x180/1e533d/e89f19c44cd7bf11cd227fe78680",
     "url": "https://allegrolokalnie.pl//oferta/detective-pikachu-returns-wcu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "KOBIERZYCE"
-  },
-  {
-    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
-    "title": "Pokemon Shining Pearl Dodatki",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e59bf/a1995f8a48f0be25636be9dd73b4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "KOBIERZYCE"
@@ -4233,7 +4213,7 @@
     "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
     "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
     "price": "289",
-    "img": "https://a.allegroimg.com/s180x180/1ec79f/49dab71d4bad87e4bdc6b1700116",
+    "img": "https://a.allegroimg.com/s180x180/1e294f/17ae0fb04633a43d428d99af3ae1",
     "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -5398,6 +5378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom"
+  },
+  {
+    "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
+    "title": "Gra NSW Instant Sport Tenis",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1e063e/bf69d78444c6881bf5a139a81c05",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   },
   {
     "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
