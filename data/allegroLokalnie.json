@@ -1100,16 +1100,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
-    "title": "Nintendo Switch Pokemon Legends Arceus nowa folia",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1e8d89/e8f21d04435dba6e2e615e481bd8",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-legends-arceus-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "17ae4f89-fc23-4fee-b07f-92fd2c417e24",
     "title": "Hyrule Warriors: Age of Calamity Switch",
     "price": "145",
@@ -1178,6 +1168,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
+    "title": "Nintendo Switch Pokemon Legends Arceus nowa folia",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1e8d89/e8f21d04435dba6e2e615e481bd8",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-legends-arceus-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "8066a57c-51b9-416b-8fa5-d1225901c67c",
@@ -4200,16 +4200,6 @@
     "city": "Toruń"
   },
   {
-    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
-    "title": "My Hero Ones Justice 2",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e8224/8e4e6e9548e6bc7ea6c0513268df",
-    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
     "title": "Minecraft Story Mode Nintendo Switch",
     "price": "435",
@@ -4795,6 +4785,16 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
+  },
+  {
+    "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
+    "title": "Nintendo Switch, Super Mario RPG",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e197a/cb00df32425c968110d3a8d4a163",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-rpg-ebj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Grabówka"
