@@ -1160,6 +1160,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "d3b76099-3bfc-43f2-882c-76eab0a9149d",
+    "title": "Metroid Dread - Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e5b53/7d018ed14105b6df0f0e0a4fd581",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-ndb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "bdfb166d-dc9e-4b87-b76c-59c8f19f5bad",
     "title": "Animal Crossing New Horizons - Nintendo Switch",
     "price": "175",
@@ -1185,16 +1195,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1ea107/e88bb2ec438d82135ffcc52c77a5",
     "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-ezo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "142abcee-6d09-496b-b2ca-ec178f2cd5a8",
-    "title": "Pokemon Shining Pearl - Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e00c9/b4d6d3da43df988da4b2f8e88c20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-5lr?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
@@ -4800,16 +4800,6 @@
     "city": "Zielona góra, Nowe Miasto"
   },
   {
-    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
-    "title": "Nintendo Switch, Super Mario Bros. WONDER",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Grabówka"
-  },
-  {
     "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
     "title": "Nintendo Switch, Super Mario RPG",
     "price": "169",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Gocławek"
+  },
+  {
+    "id": "2f216cb9-3d3c-4e1d-b6ed-db91c199543a",
+    "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
+    "price": "6",
+    "img": "https://a.allegroimg.com/s180x180/1ea20d/af838ff9464aa5ed0de004f20625",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-wgt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   }
 ]
