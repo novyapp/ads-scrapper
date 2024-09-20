@@ -6,7 +6,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ec81e/4df7abbc40679c8840baa4ebde32",
     "url": "https://allegrolokalnie.pl//oferta/dodatki-super-mario-bros-wonder-super-mario-rpg-nintendo?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Lublin"
   },
   {
@@ -98,16 +98,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "422797d2-1979-4340-9b79-1aa4bb7686d1",
-    "title": "Gra Gang Beast Nintendo Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1e126c/ab5052964cf981f2f082d30053d1",
-    "url": "https://allegrolokalnie.pl//oferta/gra-gang-beast-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
@@ -328,16 +318,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
-  },
-  {
-    "id": "4de6a901-9c77-4d17-a4f1-b4e727baa96b",
-    "title": "KIRBY and the forgoten land 2023 na Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e6f55/74bf181d4f1c8a146c28a2f794c5",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgoten-land-2023-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Poznań"
   },
   {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
@@ -1800,26 +1780,6 @@
     "city": "Przemyśl"
   },
   {
-    "id": "20328670-5a8e-4664-bd2d-13b910302a16",
-    "title": "Sea of Stars Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eea74/584ad5f74b06b2f508e6d0df9a3f",
-    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-nintendo-switch-oir?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Siemianowice Śląskie"
-  },
-  {
-    "id": "96ec843f-56b7-4388-ba6a-5f0298636df6",
-    "title": "NS WARIOWARE GET IT TOGETHER ! NOWA Switch + dodatki",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1ea7ff/2afa7ee14a6598ce7dfb27580d4e",
-    "url": "https://allegrolokalnie.pl//oferta/ns-warioware-get-it-together-nowa-switch-dodatki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
     "id": "8eab4521-08e8-49e1-9209-961d04078914",
     "title": "Cult of the lamb",
     "price": "120",
@@ -2130,16 +2090,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "c33cccd7-9748-4c36-8d29-f8aa5deb0821",
-    "title": "Process of Elimination - Switch (Nowa)",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e114d/e90e80e742238b6a94e905117a1a",
-    "url": "https://allegrolokalnie.pl//oferta/process-of-elimination-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
     "title": "Road 96 - Nintendo Switch",
     "price": "129",
@@ -2398,6 +2348,36 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "0ffc3146-f7c8-412e-bec0-708dc9e6645d",
+    "title": "Nintendo switch dla pana z olx",
+    "price": "800",
+    "img": "https://a.allegroimg.com/s180x180/1e4b4f/ee03c3d8444495d1cb4e9bb15855",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dla-pana-z-olx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Dulowa"
+  },
+  {
+    "id": "49459de4-85f8-4897-9921-9bd1fd811612",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e731b/c32112fa44a4b3ff3cdb55022dad",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-jrx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
   },
   {
     "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
@@ -4200,36 +4180,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "b5c633d9-040b-4218-8aa5-b899f51a5331",
-    "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
-    "price": "242",
-    "img": "https://a.allegroimg.com/s180x180/1ed0b9/52a0c93b4ba9a33d5ec863fe21c1",
-    "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-qcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s180x180/1e294f/17ae0fb04633a43d428d99af3ae1",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "9ee2cecd-a87c-4dc1-b4da-bca5904266c2",
-    "title": "Animal Crossing Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e07e6/af87ab8d4a3ca104b413c9c68c91",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-6xu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Przemyśl, Przemyśl"
-  },
-  {
     "id": "7231539e-3382-48df-bc10-15dfb229cd63",
     "title": "Let’s Sing 2 mikrofony dedykowane do Nintendo switch",
     "price": "45",
@@ -4398,16 +4348,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
-  },
-  {
-    "id": "ca123e91-5632-4939-a59b-beb27c08e2eb",
-    "title": "Goodbye World - Switch (Nowa)",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1eb844/aee49e3c474ba50887ff60cfe588",
-    "url": "https://allegrolokalnie.pl//oferta/goodbye-world-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
   },
   {
     "id": "a0d24d66-97d6-451f-9b36-068a86a4afce",
@@ -4798,6 +4738,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
+    "title": "Dreamcutter Switch tylko kartrydż z grą",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ea2e1/01743a424fa29ba1ff21e09aa466",
+    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "ciechanów"
+  },
+  {
+    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
+    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e1ba4/2fa71d2641fb95228a4234ecc26e",
+    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Brzoza"
+  },
+  {
+    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
+    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e2a2a/8c2d1c02408ba7d1a52824333e41",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
+    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
+    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
   },
   {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
