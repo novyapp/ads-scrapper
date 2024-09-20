@@ -530,6 +530,16 @@
     "city": "Lublin"
   },
   {
+    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
+    "title": "Super Mario Odyssey Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e7a37/b71a13d84987b8d4a934cec636e7",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
     "price": "70",
@@ -666,7 +676,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e42f9/8833f9b146bba87b3b8bd6cc21be",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-tlc?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -750,23 +760,63 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
+    "title": "Super Mario 3D World +Bowser's Fury Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e3446/9f8993f345b4b93269c4cd9f8bbf",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "279d9b10-02f6-4279-81cb-32615ea7eec4",
+    "title": "The Legend of Zelda Skyward Sword HD Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e6cbe/71a3298c47479300b08c01540447",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-switch-b4r?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "341d97c4-14c7-4149-a95c-e6c2163345c7",
+    "title": "Sonic Forces Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1e9b66/d8541d4b4ecdb0f5b2f6b998c4cd",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-switch-zdf?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
+    "title": "Ori and the Will of the Wisps Switch",
+    "price": "133",
+    "img": "https://a.allegroimg.com/s180x180/1eef87/3b23853d4a92bf3cda8c9b920aa9",
+    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-3yh?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "52f5acd1-0287-45d8-9490-3cac4b055b55",
     "title": "Luigi's Mansion 3 Switch",
     "price": "197",
     "img": "https://a.allegroimg.com/s180x180/1ee13c/e36d92a54eafa529b5a18f9f2f0e",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-switch-szk?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
     "id": "7a39afcf-2f57-4ea7-9f99-4863a66674dd",
     "title": "Crisis Core Final Fantasy VII Reunion Switch",
-    "price": "137",
+    "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1eb141/3074756f4d528e439739ddf42001",
     "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-switch-kxo?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -786,17 +836,17 @@
     "img": "https://a.allegroimg.com/s180x180/1ea7ab/f71b732f4443822d8af758788bf2",
     "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-switch-pl-dd2?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
     "id": "63e0011c-4270-4a80-86c4-43e60499da73",
     "title": "Star Wars The Skywalker Saga Switch PL",
-    "price": "90",
+    "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1eb00b/5cfff2b643ad839cff782cfff100",
     "url": "https://allegrolokalnie.pl//oferta/star-wars-the-skywalker-saga-switch-pl?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -806,7 +856,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e2bce/7cc273814336a398650528998804",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-th6?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -816,7 +866,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e98e5/8dd02287490e9e3bef109cf68aef",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-ka4?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -826,7 +876,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eb0a7/06fe3feb412b9ee118be6c3084e2",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-22f?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -836,7 +886,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ef925/398f30304f30844ac7fcd584a812",
     "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-pl-switch-cyg?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -846,7 +896,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea6d5/d3cd8941488da075abff72e9e96d",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-switch-yvn?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -856,7 +906,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e222c/648b51304a34a113cc300de96380",
     "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -866,7 +916,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e2a51/26f569c247e69b18505bb6b499ec",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-ore?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -876,7 +926,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed578/d9549b6347ec98926a7678ad0ca9",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-vbn?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -896,7 +946,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -906,17 +956,17 @@
     "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
     "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
     "title": "Kangurek Kao Switch PL",
-    "price": "103",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
     "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białystok"
   },
   {
@@ -1138,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ponikiew"
+  },
+  {
+    "id": "7d42cf70-a88a-4ffb-91c8-f086038ce721",
+    "title": "Gothic Classic Khorinis Saga",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e664e/0474ed6a4984a20d87a5e6e7dc4b",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-khorinis-saga?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ochota"
   },
   {
     "id": "7d42cf70-a88a-4ffb-91c8-f086038ce721",
@@ -2400,16 +2460,6 @@
     "city": "Reda"
   },
   {
-    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
-    "title": "Super Mario Odyssey Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e7a37/b71a13d84987b8d4a934cec636e7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
     "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
     "title": "RealMyst switch nowa Limited run",
     "price": "340",
@@ -2945,16 +2995,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1ebc42/f64618fa4740adbfdc5b929fcf3b",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pj-masks-heroes-of-the-night?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "ed7425b8-a3ba-4487-a908-b6a28b7b77fc",
-    "title": "Nintendo Switch Happy Birthdays",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e25de/c3055cea41ad85d3f4ccbe081d28",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-happy-birthdays?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -3560,6 +3600,16 @@
     "city": "Nowiny"
   },
   {
+    "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
+    "title": "The Legend of Zelda: Breath of the Wild Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e909f/b230cfd74a6c893335c318c79397",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-esf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowiny"
+  },
+  {
     "id": "29ae44da-f90b-4e2a-9db1-9d73abb4d2c0",
     "title": "HOLLOW KNIGHT / NINTENDO SWITCH / GRA NA KARTRIDŻU",
     "price": "129",
@@ -3588,46 +3638,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jawor"
-  },
-  {
-    "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
-    "title": "Super Mario 3D World +Bowser's Fury Switch",
-    "price": "171",
-    "img": "https://a.allegroimg.com/s180x180/1e3446/9f8993f345b4b93269c4cd9f8bbf",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
-    "id": "279d9b10-02f6-4279-81cb-32615ea7eec4",
-    "title": "The Legend of Zelda Skyward Sword HD Switch",
-    "price": "163",
-    "img": "https://a.allegroimg.com/s180x180/1e6cbe/71a3298c47479300b08c01540447",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-switch-b4r?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
-    "id": "341d97c4-14c7-4149-a95c-e6c2163345c7",
-    "title": "Sonic Forces Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e9b66/d8541d4b4ecdb0f5b2f6b998c4cd",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-switch-zdf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
-    "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
-    "title": "Ori and the Will of the Wisps Switch",
-    "price": "133",
-    "img": "https://a.allegroimg.com/s180x180/1eef87/3b23853d4a92bf3cda8c9b920aa9",
-    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-3yh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
   },
   {
     "id": "9048d663-717a-4cd5-9f25-33e6d523bcb2",
@@ -4790,6 +4800,16 @@
     "city": "Grabówka"
   },
   {
+    "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
+    "title": "Nintendo Switch, Super Mario RPG",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e197a/cb00df32425c968110d3a8d4a163",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-rpg-ebj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
+  },
+  {
     "id": "270083c9-dadb-497d-a872-230efc69a9a6",
     "title": "Ghost Trick na Nintendo Switch",
     "price": "200",
@@ -5380,26 +5400,6 @@
     "city": "Radom"
   },
   {
-    "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
-    "title": "Gra NSW Instant Sport Tenis",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1e063e/bf69d78444c6881bf5a139a81c05",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
-    "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
-    "title": "Gra NSW Instant Sport Tenis",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1e063e/bf69d78444c6881bf5a139a81c05",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
     "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
     "title": "Xenoblade Chronicles Definitive Edition",
     "price": "159",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "0911d6db-f32e-4b7e-a04d-fed863df6176",
+    "title": "Arms (Nintendo Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1edbfb/ded1687f4a96b5cbefd840ddfe10",
+    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-d6m?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
