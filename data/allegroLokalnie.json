@@ -1,5 +1,15 @@
 [
   {
+    "id": "9505fd0b-bb84-476d-9a9b-922760ff2474",
+    "title": "The Legend of Zelda Tears of the Kingdom",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e6a46/05ce6221426198152e5679bb059d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-sdi?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "469275a3-931c-46d2-84be-0707bbb8c49e",
     "title": "Dodatki super Mario bros wonder super Mario rpg Nintendo",
     "price": "199",
@@ -1148,6 +1158,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "56364920-f31c-4145-8506-d2a44f2e9df4",
+    "title": "Super Mario Odyssey Nintendo Switch",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1ee167/9317afe34dc593e4720d94a385ab",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-7e2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
   },
   {
     "id": "7d42cf70-a88a-4ffb-91c8-f086038ce721",
@@ -4800,26 +4820,6 @@
     "city": "Łomża"
   },
   {
-    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
-    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e2a2a/8c2d1c02408ba7d1a52824333e41",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
-    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
     "title": "Nintendo Switch Sports - gra Nintendo Switch",
     "price": "159",
@@ -5400,6 +5400,26 @@
     "city": "Wrocław"
   },
   {
+    "id": "fa3ed1d1-2a72-469d-bca7-c4eeae976b00",
+    "title": "Ring Fit Adventure na Nintendo Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1efa58/009187af43caa855e764905e491c",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-jtp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "8fd6ac9b-df06-46f1-b352-5224fc522d9d",
+    "title": "Nowe Labo Robot Kit Nintendo Switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1ea106/69bdf86c43e3afd2db5546fcebe8",
+    "url": "https://allegrolokalnie.pl//oferta/nowe-labo-robot-kit-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
     "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
     "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
     "price": "170",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "KACZORY"
-  },
-  {
-    "id": "ef2f9254-a583-446f-bda3-e442dc0a215c",
-    "title": "SHIN MEGAMI TENSEI V NINTENDO SWITCH",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e3b32/cbfab8474d03a598ea3ef298292b",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-mno?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Osielsko"
-  },
-  {
-    "id": "70288f9e-ecf6-42b6-ab53-d47556e6eb6c",
-    "title": "NINTENDO GRA NA KONSOLĘ LES SISTERS 2",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e2b3c/f0241caf4e989e4b819ec96da2b7",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-gra-na-konsole-les-sisters-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Karwia"
   }
 ]
