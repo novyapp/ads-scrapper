@@ -1,15 +1,5 @@
 [
   {
-    "id": "9505fd0b-bb84-476d-9a9b-922760ff2474",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e6a46/05ce6221426198152e5679bb059d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-sdi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "469275a3-931c-46d2-84be-0707bbb8c49e",
     "title": "Dodatki super Mario bros wonder super Mario rpg Nintendo",
     "price": "199",
@@ -1160,16 +1150,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "56364920-f31c-4145-8506-d2a44f2e9df4",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1ee167/9317afe34dc593e4720d94a385ab",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-7e2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "7d42cf70-a88a-4ffb-91c8-f086038ce721",
     "title": "Gothic Classic Khorinis Saga",
     "price": "90",
@@ -1198,6 +1178,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ochota"
+  },
+  {
+    "id": "8066a57c-51b9-416b-8fa5-d1225901c67c",
+    "title": "Mario Party Superstars",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1ed1f9/f0a3f7374ba0b37e747ee7cdfc06",
+    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-ckm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "OLKUSZ"
+  },
+  {
+    "id": "557f96c9-611b-4baf-9cb0-704454864061",
+    "title": "Paper Mario: The Thousand-Year Door",
+    "price": "178",
+    "img": "https://a.allegroimg.com/s180x180/1e9cb7/929ceb1643199a28e795aa982f0f",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-m2l?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "OLKUSZ"
   },
   {
     "id": "22b3dfde-0892-4add-8525-861528344f12",
@@ -2378,26 +2378,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
-  },
-  {
-    "id": "0ffc3146-f7c8-412e-bec0-708dc9e6645d",
-    "title": "Nintendo switch dla pana z olx",
-    "price": "800",
-    "img": "https://a.allegroimg.com/s180x180/1e4b4f/ee03c3d8444495d1cb4e9bb15855",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dla-pana-z-olx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Dulowa"
-  },
-  {
-    "id": "49459de4-85f8-4897-9921-9bd1fd811612",
-    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e731b/c32112fa44a4b3ff3cdb55022dad",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-jrx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
   },
   {
     "id": "0ffc3146-f7c8-412e-bec0-708dc9e6645d",
@@ -4198,6 +4178,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
+  },
+  {
+    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
+    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1e294f/17ae0fb04633a43d428d99af3ae1",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "9ee2cecd-a87c-4dc1-b4da-bca5904266c2",
+    "title": "Animal Crossing Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e07e6/af87ab8d4a3ca104b413c9c68c91",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-6xu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Przemyśl, Przemyśl"
   },
   {
     "id": "7231539e-3382-48df-bc10-15dfb229cd63",
