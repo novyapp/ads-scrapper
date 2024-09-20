@@ -50,6 +50,16 @@
     "city": "Ponikiew"
   },
   {
+    "id": "b48bf776-3da1-4b96-9b33-de3f9d1bb3e0",
+    "title": "Pokemon VIOLET | Nintendo Switch",
+    "price": "164",
+    "img": "https://a.allegroimg.com/s180x180/1e972c/4f32dcbb4926b1902fff3cb58b7f",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-or-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ponikiew"
+  },
+  {
     "id": "09a298f0-1cc9-4e40-a023-132aea2caf67",
     "title": "PAPER MARIO ORIGAMI KING | Nintendo Switch | Stan Idealny",
     "price": "198",
@@ -320,16 +330,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "0d1548a4-666d-4372-a7ba-06416a39f23f",
-    "title": "Nintendo Switch Splatoon 3",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e1310/5e8f30e84bc99048f73a10106718",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-splatoon-3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "4de6a901-9c77-4d17-a4f1-b4e727baa96b",
     "title": "KIRBY and the forgoten land 2023 na Nintendo Switch",
     "price": "155",
@@ -588,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
-    "title": "Flashback 25th Anniversary Nowa Folia",
-    "price": "278",
-    "img": "https://a.allegroimg.com/s180x180/1ec165/a37854f24908977bf5ac392fcff6",
-    "url": "https://allegrolokalnie.pl//oferta/flashback-25th-anniversary-nowa-folia-qdg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
   },
   {
     "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
@@ -1972,7 +1962,7 @@
   {
     "id": "c6186c09-53fe-43bf-ae68-81cbb5c90dc6",
     "title": "Super Mario maker 2 Switch",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e8573/001c49204596bbf18e56d1d1983e",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-switch-ech?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "ff416c80-6346-4051-bb64-a5ac118cc4ea",
+    "title": "Bayonetta 3    switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ed925/e2e094044761be589dd738e71a64",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-hqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wroclaw"
   }
 ]
