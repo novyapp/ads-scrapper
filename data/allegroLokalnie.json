@@ -1,15 +1,5 @@
 [
   {
-    "id": "7644300c-d97a-419a-9c18-284336fbdd53",
-    "title": "Luigi Mansion 2 HD - Nintendo Switch",
-    "price": "184",
-    "img": "https://a.allegroimg.com/s180x180/1eb0c0/0fc898dc4fb7ad280593fa4fe33f",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-2-hd-nintendo-switch-lga?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tarnów"
-  },
-  {
     "id": "ae160517-7966-4b5d-90e8-ea2d6655747c",
     "title": "The legend of Zelda tears of Kingdom switch",
     "price": "155",
@@ -595,6 +585,16 @@
     "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1efe34/261682324370b2745de214a1f2c8",
     "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "ca92012e-2c53-45ee-a4e6-b0c09e82ba2b",
+    "title": "SUPER MARIO MAKER 2 / NINTENDO SWITCH",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1eaf3d/2f2702724b3e9477786922272402",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-nintendo-switch-fsq?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Grodzisk Mazowiecki"
@@ -3330,16 +3330,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "28ad8a85-b48c-4284-ae37-5c54d9bd0bb0",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s180x180/119d57/59bcc3fa4637b6195088bf17585a",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-gra-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław"
-  },
-  {
     "id": "dbde7197-3954-4ae4-b0cf-e3db555530a5",
     "title": "BUS SIMULATOR CITY RIDE NOWA PL",
     "price": "89",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
+    "title": "Castlevania advance collection switch",
+    "price": "270",
+    "img": "https://a.allegroimg.com/s180x180/1e5fe6/41e2b2714f2f806f4bb68eb5e8b3",
+    "url": "https://allegrolokalnie.pl//oferta/castlevania-advance-collection-switch-gb3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   },
   {
     "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
@@ -4198,6 +4198,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Halinów"
+  },
+  {
+    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
+    "title": "Yurukill - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e5cff/e1b3942e4e29adc6944ee2297e84",
+    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
-  },
-  {
-    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e1697/24b67d8a4129b445de7319d2df5d",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   }
 ]
