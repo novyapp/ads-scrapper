@@ -600,16 +600,6 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
-    "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
-    "title": "SONIC COLOURS ULTIMATE / SWITCH",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1ea903/08635f01498fadb8a63b9fadd5ff",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-switch-zzz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
     "id": "8f441e54-7551-4fe9-86c3-21fbc96255fd",
     "title": "Bayonetta 2 Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "a7884939-bc11-4e5d-8c2e-70d4582baecd",
+    "title": "Gra Super Mario 3D All Stars",
+    "price": "399",
+    "img": "https://a.allegroimg.com/s180x180/1e1893/d5b97b1d4384a13aeb23d18e9017",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-all-stars-ihj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "7b14ca4e-6a94-405d-a4e8-cb7c5fe566ae",
@@ -1800,16 +1800,6 @@
     "city": "Jaworzno"
   },
   {
-    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
-    "title": "Luigi’s Mansion 2 HD Nintendo switch",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
     "id": "d99fb353-760e-466d-857e-703e5341561b",
     "title": "Assassins Creed 3 remastered Nintendo switch",
     "price": "45",
@@ -2395,6 +2385,16 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1ec019/64af7bf145a2a432d42db1356ef2",
     "url": "https://allegrolokalnie.pl//oferta/fit-ring-adventure-nintendo-switch-vfo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "zgorzelec"
+  },
+  {
+    "id": "d7a7a018-923d-478a-bab3-29199e4b6e60",
+    "title": "Mario kart 8 deluxe nintendo switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e57c7/580894ed4a55becd46beea54d50b",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-ant?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
@@ -2988,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "ddf135d7-0d75-4022-a307-ebd1d83b5bf7",
-    "title": "Nintendo Switch Madison",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e0fbb/2b7afc984581907ea224f2f4336a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-madison?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
   },
   {
     "id": "ddf135d7-0d75-4022-a307-ebd1d83b5bf7",
@@ -4200,6 +4190,16 @@
     "city": "Poznań"
   },
   {
+    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
+    "title": "Lego Ninjago Il Film Video Game",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1ec6c9/1e336f374c9ab332325d16a12139",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Mokotów"
+  },
+  {
     "id": "f37392f8-6f95-4fa6-8be9-171adf247ec7",
     "title": "The Legend Of Zelda Breath Of The Wild",
     "price": "202",
@@ -4785,16 +4785,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1eb394/18c354254e8e8521965fc745798d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
-    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
-    "title": "Pokemon Sword Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
+    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e7858/a6ab191b4e7db4838c95781b6b39",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włostów"
   }
 ]
