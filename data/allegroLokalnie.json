@@ -600,16 +600,6 @@
     "city": "Białystok"
   },
   {
-    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
-    "title": "Super Mario Odyssey Switch",
-    "price": "178",
-    "img": "https://a.allegroimg.com/s180x180/1e7a37/b71a13d84987b8d4a934cec636e7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Białystok"
-  },
-  {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
     "price": "70",
@@ -1200,6 +1190,16 @@
     "city": "Chełm"
   },
   {
+    "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
+    "title": "BAYONETTA 3 TRINITY MASQUERADE EDITION SWITCH NOWA",
+    "price": "651",
+    "img": "https://a.allegroimg.com/s180x180/1efa32/203adc894122ae15bf33ec7b6754",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-switch-nowa-7rz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
     "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
     "title": "Bayonetta 3 Trinity Masquerade Edition",
     "price": "749",
@@ -1712,7 +1712,7 @@
   {
     "id": "92216785-e2f8-456a-ac10-96e97244640c",
     "title": "Splatoon 2 Nintendo Switch",
-    "price": "175",
+    "price": "171",
     "img": "https://a.allegroimg.com/s180x180/1e53a9/640138d8410891379c14f8ef68df",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-um2?navCategoryId=256922",
     "promoted": false,
@@ -1722,7 +1722,7 @@
   {
     "id": "2014eb79-c770-4588-aa60-4b69e5cf4dff",
     "title": "Super Mario Bros Wonder Nintendo Switch.",
-    "price": "135",
+    "price": "132",
     "img": "https://a.allegroimg.com/s180x180/1e68e6/01d1e40a400db1ea920b4d3321d5",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-yn3?navCategoryId=256922",
     "promoted": false,
@@ -1778,26 +1778,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "7a38ce56-5f42-4c8f-a103-8d03aa1ba559",
-    "title": "Prince of Persia the Lost Crown Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e39e8/fa2262154f73bedcbdb0b72fb6ef",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-kuw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chojnice"
-  },
-  {
-    "id": "9ac34201-31e9-4b1c-a303-d5dabb4daf53",
-    "title": "CAPTAIN TOAD Treasure Tracker gra Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/11403e/6656faf1436dbf47124c44d219ba",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-gra-nintendo-switch-glr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kluczbork"
   },
   {
     "id": "7a38ce56-5f42-4c8f-a103-8d03aa1ba559",
@@ -1918,6 +1898,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
+  },
+  {
+    "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
+    "title": "LAYTON’S MYSTERY JOURNEY – Deluxe Edition Nintendo Switch super PROMOCJA",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1e20c2/dc5e155644fba500adef5e427f60",
+    "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-deluxe-edition-nintendo-switch-super-promocja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
   },
   {
     "id": "dbcb5961-7766-438c-ba1a-e32f3740a793",
@@ -2112,7 +2102,7 @@
   {
     "id": "e6f4aef5-5258-40b8-8571-137334b3e6ed",
     "title": "Wario Ware Get it Together! Nintendo Switch",
-    "price": "88",
+    "price": "86",
     "img": "https://a.allegroimg.com/s180x180/1ec392/68d146e146fba3baba5c19e39992",
     "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nintendo-switch-mq3?navCategoryId=256922",
     "promoted": false,
@@ -2395,6 +2385,16 @@
     "price": "104",
     "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
     "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "391f850b-658f-41b9-ae10-ffb46fd8e204",
+    "title": "Switch Pokemon Let's go Pikachu .. OKAZJA",
+    "price": "197",
+    "img": "https://a.allegroimg.com/s180x180/1e7833/a8ce31d946e6a18798ea4f3c2505",
+    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-okazja?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
@@ -3000,16 +3000,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
-    "title": "Luigi Mansion 3 gra na Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1efd2c/9692665d4b049abff54b7610a796",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-gra-na-nintendo-switch-tdd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "770cc120-51c0-4d69-815e-fa635c13ce42",
     "title": "Mario Donkey Kong - Gadżet - układanka",
     "price": "19",
@@ -3595,6 +3585,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1e7c7a/ceee1e65450880ce47e66307027c",
     "url": "https://allegrolokalnie.pl//oferta/star-wars-heritage-pack?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
+    "title": "Shovel Knight Treasure Trove",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1e4970/490d05b64f5599c9364ad73eccf3",
+    "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5400,16 +5400,6 @@
     "city": "Tomaszów Lubelski"
   },
   {
-    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
-    "title": "GRY NA NINTENDO SWITCH",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6de0/8100722e46f5b252dfe6df5354bf",
-    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tomaszów Lubelski"
-  },
-  {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
     "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
     "price": "45",
@@ -5995,6 +5985,16 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1e8be2/2ada7bef499bab2e818b526a3ecc",
     "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-violet-nowy-folia-cyz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
+    "title": "Nintendo Switch Minecraft Dungeons - Kartridź PL",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e4d2e/64de71e84834bd19c2e3909d393c",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-dungeons-kartridz-folia-pl-7tl?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
