@@ -595,7 +595,7 @@
     "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1e01dc/956780c4456b9bf56deea147600e",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-gra-nintendo-switch-prezent-super-prezent?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Tczew"
   },
@@ -1190,6 +1190,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "655b44b7-5d24-45cc-8ef3-081c13725883",
+    "title": "Hollow Knight Gra Nintendo Switch prezent super prezent ROGUE + DODATKI",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e4290/2148ecb74c24bbd4300ecf3d3d14",
+    "url": "https://allegrolokalnie.pl//oferta/hollow-knight-gra-nintendo-switch-prezent-super-prezent-rogue-dodatki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
     "id": "17ae4f89-fc23-4fee-b07f-92fd2c417e24",
     "title": "Hyrule Warriors: Age of Calamity Switch",
     "price": "145",
@@ -1775,6 +1785,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e17e1/ca3792664d32a2669482c64661e4",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-lp4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "cd9f6976-83bc-4fbe-a433-9cafb8b11b32",
+    "title": "POKEMON VIOLET / POKEMONY / GRA NINTENDO SWITCH NA KARTRIDŻU",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e9a34/d6d98e8d4c5ba15e058d2bf2fc04",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-pokemony-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -2380,26 +2400,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
-    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1ed33e/f38086794917816a29f2e6e7ca2d",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Milicz"
-  },
-  {
-    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
-    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1ed33e/f38086794917816a29f2e6e7ca2d",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Milicz"
-  },
-  {
     "id": "fb51c9d9-408c-4910-9397-aa99414dc07a",
     "title": "Xenoblade Chronicles: Definitive Edition | Nintendo Switch",
     "price": "169",
@@ -2988,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
+  },
+  {
+    "id": "770cc120-51c0-4d69-815e-fa635c13ce42",
+    "title": "Mario Donkey Kong - Gadżet - układanka",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1e6f5d/21d8136f43a28ae0172bc0f86262",
+    "url": "https://allegrolokalnie.pl//oferta/mario-donkey-kong-gadzet-ukladanka-sdv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
@@ -5390,16 +5400,6 @@
     "city": "Gliwice"
   },
   {
-    "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
-    "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1e07ba/7b2e81b54b2bae1f0e87f5d4787b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toy-con-1-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
-  },
-  {
     "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
     "title": "Harvestella Nintendo Switch",
     "price": "130",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "3895ce62-9dd4-4bdf-b068-0651b3a61df6",
+    "title": "Gra Bravely Deafault II Nintendo Switch jak nowa",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1eb904/c59f72df4cd08eeae0f4adcec525",
+    "url": "https://allegrolokalnie.pl//oferta/gra-bravely-deafault-ii-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pasym"
   }
 ]
