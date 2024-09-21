@@ -1,5 +1,15 @@
 [
   {
+    "id": "edaf9c6b-5caa-416e-bb34-0d46634dadcd",
+    "title": "The Legend of Zelda Tears of the Kingdom",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e57ef/67f1bcf94c2a8cd270c8f67e4cc7",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-6mk?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Oleśnica"
+  },
+  {
     "id": "8ab077dd-2068-45b8-9667-7087078c913e",
     "title": "Red Dead Redemption / Nintendo Switch PL",
     "price": "180",
@@ -1200,16 +1210,6 @@
     "city": "KOZIEGŁOWY"
   },
   {
-    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
-    "title": "Nintendo Switch/3DS/DS - panel modułowy",
-    "price": "14",
-    "img": "https://a.allegroimg.com/s180x180/1eba64/042d8d4f4a6794a97fd1a66b660c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "KOZIEGŁOWY"
-  },
-  {
     "id": "7b3de2d5-19d6-4f24-acd0-b6683acf56f6",
     "title": "Nintendo Switch Disney Magical World 2",
     "price": "95",
@@ -2398,6 +2398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "c39f0051-976b-49f0-be42-c01cd56fd884",
+    "title": "Super Mario Wonder gra Nintendo Switch",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s180x180/1ec435/da7c2cb4467c8b10e3a6fd32ad2d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "15395b66-0196-4c6f-9779-7bcf9c761e48",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
-    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   }
 ]
