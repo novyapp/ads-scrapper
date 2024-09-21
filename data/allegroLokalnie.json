@@ -206,7 +206,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e80de/de36fbec4fc69803574b0c4b596e",
     "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-kpq?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Sosnowiec"
   },
   {
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "603d01a2-41fa-494c-bd86-e609c8ac12a6",
+    "title": "Nintendo Switch Lego Marvel Super Heroes 2 ... jak nowy",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s180x180/1e9d71/51fd1fed4c9c89d316fe2962cd0d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-marvel-super-heroes-2-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
