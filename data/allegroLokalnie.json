@@ -580,16 +580,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
-    "title": "NBA 2k18 Nintendo Switch",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s180x180/1e6f5f/d9c7103e492dbe13444497e77406",
-    "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-3eb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
-  },
-  {
     "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
     "title": "Super Mario Odyssey Switch",
     "price": "179",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Białystok"
+  },
+  {
+    "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
+    "title": "NBA 2k18 Nintendo Switch",
+    "price": "29",
+    "img": "https://a.allegroimg.com/s180x180/1e6f5f/d9c7103e492dbe13444497e77406",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-3eb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lublin"
   },
   {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
