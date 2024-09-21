@@ -1,5 +1,35 @@
 [
   {
+    "id": "a54db41c-2abd-4749-8d50-f2045f77f1f3",
+    "title": "POKEMON SWORD | NOWE!",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e01e9/d9a6a80743ef9e279c8a86529ed8",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-or-nowe?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wolbórz"
+  },
+  {
+    "id": "cc7965a0-8ed6-45d4-9605-a12111dba67b",
+    "title": "POKEMON LET'S GO PIKACHU | NOWE!",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e5579/1363e9154f3e9cfff375641a7a9a",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-or-nowe?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wolbórz"
+  },
+  {
+    "id": "e7c7a55c-2225-49ac-9979-6b17c675c189",
+    "title": "POKEMON LEGENDS ARCEUS | NOWE!",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ebafd/f0c8ac004e39a0a627e6aa066b17",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-or-nowe?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wolbórz"
+  },
+  {
     "id": "ae160517-7966-4b5d-90e8-ea2d6655747c",
     "title": "The legend of Zelda tears of Kingdom switch",
     "price": "155",
@@ -1168,36 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Chełm"
-  },
-  {
-    "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
-    "title": "BAYONETTA 3 TRINITY MASQUERADE EDITION SWITCH NOWA",
-    "price": "651",
-    "img": "https://a.allegroimg.com/s180x180/1efa32/203adc894122ae15bf33ec7b6754",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-switch-nowa-7rz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź"
-  },
-  {
-    "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
-    "title": "Bayonetta 3 Trinity Masquerade Edition",
-    "price": "749",
-    "img": "https://a.allegroimg.com/s180x180/1e0511/e201e5914270b0f16c9cfceb2ec6",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "a7884939-bc11-4e5d-8c2e-70d4582baecd",
-    "title": "Gra Super Mario 3D All Stars",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1e1893/d5b97b1d4384a13aeb23d18e9017",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-all-stars-ihj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
@@ -3600,6 +3600,36 @@
     "city": "Kraków, Nowa Huta"
   },
   {
+    "id": "aaa15610-fb93-4ee3-bc64-2e82b8e5e4d5",
+    "title": "Castlevania advance collection switch",
+    "price": "270",
+    "img": "https://a.allegroimg.com/s180x180/1e5fe6/41e2b2714f2f806f4bb68eb5e8b3",
+    "url": "https://allegrolokalnie.pl//oferta/castlevania-advance-collection-switch-gb3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
+  },
+  {
+    "id": "02185a90-6566-4e85-9835-5fcc5cc95d00",
+    "title": "Atari 50 dla Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e2bef/b478f91d4d3dae10fac420f94fbc",
+    "url": "https://allegrolokalnie.pl//oferta/atari-50-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e15c3/66e6f8184de5b466920e3e0e9e14",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -4200,36 +4230,6 @@
     "city": "Warszawa, Mokotów"
   },
   {
-    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
-    "title": "Yurukill - Switch (Nowa)",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e5cff/e1b3942e4e29adc6944ee2297e84",
-    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
-    "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
-    "title": "Gra Harvest Moon The Winds of Anthos + maskotka na Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e8bc0/55ba35d0427f90d211a91137a6b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harvest-moon-the-winds-of-anthos-maskotka-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
-    "title": "Lego Ninjago Il Film Video Game",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1ec6c9/1e336f374c9ab332325d16a12139",
-    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Mokotów"
-  },
-  {
     "id": "f37392f8-6f95-4fa6-8be9-171adf247ec7",
     "title": "The Legend Of Zelda Breath Of The Wild",
     "price": "202",
@@ -4798,36 +4798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "941d51c5-b05f-4133-bca2-8e16250114d6",
-    "title": "Instant Chef Party (Nintendo Switch)",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1e1544/a28361f447469fdd57f7a274ac1d",
-    "url": "https://allegrolokalnie.pl//oferta/instant-chef-party-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "olecko"
-  },
-  {
-    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
-    "title": "Super Mario 3d World Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eb394/18c354254e8e8521965fc745798d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
-    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
-    "title": "Pokemon Sword Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
   },
   {
     "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Władysławowo"
+  },
+  {
+    "id": "a665d2b7-2761-4664-a208-9e681a1d047e",
+    "title": "Civilization VI Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e1697/24b67d8a4129b445de7319d2df5d",
+    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-fex?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "1069b67a-ac0c-4f14-b052-678ad9123e7f",
+    "title": "LEGO Star Wars Skywalker Saga Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e476a/c61cd07149be830d7737a5bf31ff",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-skywalker-saga-switch-w7o?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
+  },
+  {
+    "id": "6fea0466-9cac-4ca4-b73b-a47684161568",
+    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e7858/a6ab191b4e7db4838c95781b6b39",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-oxl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włostów"
   }
 ]
