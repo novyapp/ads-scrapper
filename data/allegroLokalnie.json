@@ -600,6 +600,16 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
+    "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
+    "title": "Super Mario 3D All Stars",
+    "price": "639",
+    "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
     "title": "WarioWare: Get It Together! NINTENDO Switch",
     "price": "120",
@@ -1200,22 +1210,12 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
-    "title": "Bayonetta 3 Trinity Masquerade Edition",
-    "price": "749",
-    "img": "https://a.allegroimg.com/s180x180/1e0511/e201e5914270b0f16c9cfceb2ec6",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "8921c956-6a35-4aa7-ad17-bae2ab234cec",
-    "title": "Fifa 23 Nintendo switch",
+    "title": "Fifa 23 PL Nintendo switch",
     "price": "50",
     "img": "https://a.allegroimg.com/s180x180/1e0454/b3815f5e4c719da6716f5ab4f359",
     "url": "https://allegrolokalnie.pl//oferta/fifa-23-nintendo-switch-nz5?navCategoryId=256922",
-    "promoted": false,
+    "promoted": true,
     "smartPost": true,
     "city": "Wejherowo"
   },
@@ -2400,6 +2400,16 @@
     "city": "Rumia"
   },
   {
+    "id": "c39f0051-976b-49f0-be42-c01cd56fd884",
+    "title": "Super Mario Wonder gra Nintendo Switch",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s180x180/1ec435/da7c2cb4467c8b10e3a6fd32ad2d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
     "id": "15395b66-0196-4c6f-9779-7bcf9c761e48",
     "title": "Super Mario RPG Nintendo Switch",
     "price": "142",
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
-    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
-    "title": "Super Mario Odyssey gra na Nintendo Switch",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s180x180/1e9f03/4a44f40f40b7866bf522f47e03bb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   },
   {
     "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
@@ -4088,16 +4088,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "7ce32a4e-a3d1-449c-bb2b-13cb7fb0f1f9",
-    "title": "Bayonetta 3 Nintendo Switch Nowa w folii",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e7f8f/62cef9ae4798922a45abcabc3a55",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-nowa-w-folii-gae?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Rembertów"
   },
   {
     "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
@@ -5400,6 +5390,16 @@
     "city": "Wschowa"
   },
   {
+    "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
+    "title": "Nintendo Switch LEGO Jurassic World",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3cc8/65f8820a40ed98c7d5c197ec333f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-jurassic-world-fq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
     "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
     "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
     "price": "180",
@@ -5985,16 +5985,6 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s180x180/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
