@@ -1,5 +1,25 @@
 [
   {
+    "id": "18601d29-cbf8-4424-aa77-81c8a27cc96b",
+    "title": "Super Mario Bros. Wonder Switch",
+    "price": "167",
+    "img": "https://a.allegroimg.com/s180x180/1e6a82/de61b6694324ac5584cc55d3cc7f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-k35?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "b00a365b-05cf-4822-ae45-1c3cea237fa2",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "168",
+    "img": "https://a.allegroimg.com/s180x180/1eb94b/0b8efc5143888ebd1cf8a6bf8e54",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-tg4?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wieliczka"
+  },
+  {
     "id": "aab0a26d-c576-4f25-abb7-88ed18fec6d5",
     "title": "Spyro REIGNITED TRILOGY / GRA SWITCH / NAPISY / DUBBING PL",
     "price": "110",
@@ -578,26 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "89f74a80-3702-4d76-9003-7a91d6ef3648",
-    "title": "Monster Hunter Rise",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1ee1a9/dcd1061643c2a4cf89afde3c95cc",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-bmo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zalas"
-  },
-  {
-    "id": "b9baa114-87f0-4aa4-9c03-281d66fca179",
-    "title": "Gra Just Dance 2022 Nintendo switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1ee757/59281af040ddaa58467e01a446f0",
-    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2022-nintendo-switch-cu5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ruda Śląska"
   },
   {
     "id": "cd4c11d6-230c-4acb-b773-c665acde93b3",
@@ -1200,6 +1200,26 @@
     "city": "Iłża"
   },
   {
+    "id": "47bea1d3-d565-45e7-954d-a267c1349731",
+    "title": "Nintendo Switch River City Saga Three Kingdoms",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e8efe/dfd2cf4c4431adcac06c3c6158ce",
+    "url": "https://allegrolokalnie.pl//oferta/river-city-saga-three-kingdoms?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
+    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
+    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Iłża"
+  },
+  {
     "id": "1f4dac81-306a-453b-9dca-a8ef13149cc1",
     "title": "Nintendo Switch Indivisible",
     "price": "109",
@@ -1780,26 +1800,6 @@
     "city": "Rybnik"
   },
   {
-    "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
-    "title": "Paper Mario the origami king Nintendo switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed62a/6e645da54c7ca7fbcc5b368595b4",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-fut?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "7d575e8f-d966-4ad8-8c01-cb218b5eb3b5",
-    "title": "NBA 2k18 Nintendo switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1efdf2/819a46bc4f3c81963c433102c91b",
-    "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-olz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "f01293d8-83c8-4df1-88f1-f3a9d89af62f",
     "title": "Gra SEGA MEGA DRIVE CLASSICS Nintendo Switch",
     "price": "70",
@@ -2378,6 +2378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "fbc8801d-e7aa-4e20-9624-606d487aa3f9",
+    "title": "Sea of Stars wersja limitowana Nintendo Switch ANG",
+    "price": "399",
+    "img": "https://a.allegroimg.com/s180x180/1eee61/ce27d7ff4a6b8fd75d46c906ab9b",
+    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-wersja-limitowana-nintendo-switch-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "eb8fab89-a819-45b3-bc32-b92b234c745d",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s180x180/1e9fed/41a455174c5bb37b798f5fa8efb9",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-ldm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zgierz"
   },
   {
     "id": "fbc8801d-e7aa-4e20-9624-606d487aa3f9",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
-  },
-  {
-    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
-    "title": "Gothic II Complete Classic PL Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
-    "title": "Gry Nintendo Switch x2 Digimon Asterix",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ecdf7/1ae7c219465e88b74442c75d311c",
-    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-x2-digimon-asterix?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzelec"
   }
 ]
