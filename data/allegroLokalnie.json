@@ -1,5 +1,25 @@
 [
   {
+    "id": "4f1c0a97-e2f8-4242-b54f-fbedc0d824a3",
+    "title": "Star ocean switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e2b8b/b814072249b2b89b57fd65bb021d",
+    "url": "https://allegrolokalnie.pl//oferta/star-ocean-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
+    "id": "bba520ce-d73b-4c86-bdc4-7794e8fbacb2",
+    "title": "Smash bros ultimate switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e2a50/19ece60e4dbb81b9e106503337bf",
+    "url": "https://allegrolokalnie.pl//oferta/smash-bros-ultimate-switch-goc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
     "id": "edaf9c6b-5caa-416e-bb34-0d46634dadcd",
     "title": "The Legend of Zelda Tears of the Kingdom",
     "price": "180",
@@ -578,16 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Rąbień"
-  },
-  {
-    "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
-    "title": "Gta the trilogy Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e153b/751e6b734145a1c025d895423f53",
-    "url": "https://allegrolokalnie.pl//oferta/gta-the-trilogy-nintendo-switch-kzy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
   },
   {
     "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
@@ -1190,16 +1200,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "7b3de2d5-19d6-4f24-acd0-b6683acf56f6",
-    "title": "Nintendo Switch Disney Magical World 2",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1e66a0/568dc6a24c788b4254c87159e751",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-disney-magic-castle-2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "28d65622-7ed4-4663-ad92-f07c30be1d3b",
     "title": "Podstawa pod gry Nintendo Switch z motywem Mario",
     "price": "75",
@@ -1788,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "55e7d15d-14a9-48be-a392-7177a4a23b03",
+    "title": "Radiant Silvergun",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e1e57/02a3770143a58e63133b0d393e01",
+    "url": "https://allegrolokalnie.pl//oferta/radiant-silvergun?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   },
   {
     "id": "7a38ce56-5f42-4c8f-a103-8d03aa1ba559",
@@ -2388,6 +2398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "15395b66-0196-4c6f-9779-7bcf9c761e48",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "142",
+    "img": "https://a.allegroimg.com/s180x180/1eb9f4/61bef4f04769920bf077a3006ebf",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-dx4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
@@ -4190,16 +4210,6 @@
     "city": "Lębork"
   },
   {
-    "id": "10ef4788-9f5a-4ffd-9a81-62f4939efae3",
-    "title": "Mario Strikers Battle League Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e3b5e/59f0f8134d10a9aae01914e55847",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-switch-56u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lębork"
-  },
-  {
     "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
     "price": "229",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław, Wroclaw"
-  },
-  {
-    "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
-    "title": "Asterix i Obelix Slap Them All! Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6509/7afb94a4495898cf033a465d8801",
-    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
@@ -5390,6 +5390,36 @@
     "city": "Wrocław, Psie Pole"
   },
   {
+    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
+    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieluń"
+  },
+  {
+    "id": "6d39ad45-6761-48df-9d7f-0a517274f6a5",
+    "title": "Gothic II PL (Nintendo switch) polskie wydanie",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wieluń"
+  },
+  {
+    "id": "16419fb2-ef28-420c-b39d-fd8fb1ccb9d3",
+    "title": "GRY NA NINTENDO SWITCH",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e6de0/8100722e46f5b252dfe6df5354bf",
+    "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-aiu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tomaszów Lubelski"
+  },
+  {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
     "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
     "price": "45",
@@ -5965,26 +5995,6 @@
     "price": "174",
     "img": "https://a.allegroimg.com/s180x180/1e5f3c/6d9118c8429fa61857a06b5b453e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-scarlet-jak-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "9947459b-4524-4573-bcf8-2b232930c57c",
-    "title": "Switch Pokemon Violet ... Super Cena",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e8be2/2ada7bef499bab2e818b526a3ecc",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-violet-nowy-folia-cyz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "9f9a38cb-07e1-4585-a4ff-ec29f37e7055",
-    "title": "Nintendo Switch Minecraft Dungeons - Kartridź PL",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e4d2e/64de71e84834bd19c2e3909d393c",
-    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-dungeons-kartridz-folia-pl-7tl?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
