@@ -600,16 +600,6 @@
     "city": "Ruda Śląska"
   },
   {
-    "id": "b9baa114-87f0-4aa4-9c03-281d66fca179",
-    "title": "Gra Just Dance 2022 Nintendo switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1ee757/59281af040ddaa58467e01a446f0",
-    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2022-nintendo-switch-cu5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ruda Śląska"
-  },
-  {
     "id": "cd4c11d6-230c-4acb-b773-c665acde93b3",
     "title": "Doom Nintendo switch",
     "price": "115",
@@ -1800,6 +1790,16 @@
     "city": "konin"
   },
   {
+    "id": "664add5c-5e3a-469a-bf42-223a7f33bd0f",
+    "title": "Triangle Strategy",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e0526/f9cc35cc493aa46bc072d3202a1e",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-kfp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rybnik"
+  },
+  {
     "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
     "title": "Paper Mario the origami king Nintendo switch",
     "price": "200",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Rzeszów"
-  },
-  {
-    "id": "2b80cbe1-43c6-4edc-ae7d-a63048d0b00c",
-    "title": "Super Mario Bros U Deluxe Nintendo Switch",
-    "price": "209",
-    "img": "https://a.allegroimg.com/s180x180/1e703d/6436dca74e10a7bc9cc6e8ee8084",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-nintendo-switch-fle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
   },
   {
     "id": "2b80cbe1-43c6-4edc-ae7d-a63048d0b00c",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s180x180/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   }
 ]
