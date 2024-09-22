@@ -3600,16 +3600,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
-    "title": "Ys IX: Monstrum Nox",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
-    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
     "title": "Triangle Strategy",
     "price": "149",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
+  },
+  {
+    "id": "3ec6e0d3-4012-4d81-9ce1-2223e68277f2",
+    "title": "Marvel Super Heroes 2",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e3b99/d42c01064b7e920c53147e702bc5",
+    "url": "https://allegrolokalnie.pl//oferta/marcel-super-heroes-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
   },
   {
     "id": "0cdb4295-ba7b-42f6-86c3-cf5a2dc330db",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgorzelec"
-  },
-  {
-    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
-    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
-    "price": "1 049",
-    "img": "https://a.allegroimg.com/s180x180/1eff66/ee0d883f4ab0b1c34171fd5602c0",
-    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Goleniów"
   }
 ]
