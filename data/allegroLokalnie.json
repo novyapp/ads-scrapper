@@ -600,6 +600,16 @@
     "city": "Ruda Śląska"
   },
   {
+    "id": "cd4c11d6-230c-4acb-b773-c665acde93b3",
+    "title": "Doom Nintendo switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1ed413/953d3d064fa79350cf3c0422ad60",
+    "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-hvd?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Seroczyn"
+  },
+  {
     "id": "271c8b51-6b36-4746-9904-3f8665813eb3",
     "title": "Fifa 23 Nintendo switch",
     "price": "60",
@@ -1775,6 +1785,16 @@
     "price": "200",
     "img": "https://a.allegroimg.com/s180x180/1ed62a/6e645da54c7ca7fbcc5b368595b4",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-fut?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "7d575e8f-d966-4ad8-8c01-cb218b5eb3b5",
+    "title": "NBA 2k18 Nintendo switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1efdf2/819a46bc4f3c81963c433102c91b",
+    "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-olz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
@@ -4180,16 +4200,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "06ebc5f7-c67d-4eed-8cbf-a430a54e6090",
-    "title": "Super Mario RPG Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ea8a6/df4885f7402a940da7366c78969a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-y3l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
     "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
     "price": "140",
@@ -5968,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
+    "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e0bd5/dc5f3e68464aad62b71bd793179f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-bros-wonder-nintendo-switch-gadzety-z-gry?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "bfb49faf-4b6d-4e56-a455-b033c40276d3",
+    "title": "Monster Truck Championship Nintendo Switch!",
+    "price": "72",
+    "img": "https://a.allegroimg.com/s180x180/1e96b7/0de25e194aebbe4bfad681b60740",
+    "url": "https://allegrolokalnie.pl//oferta/monster-truck-championship-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Konstancin-Jeziorna"
   }
 ]
