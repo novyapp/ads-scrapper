@@ -462,7 +462,7 @@
   {
     "id": "8b8b7794-52fc-4358-92ef-6d358155f74b",
     "title": "Wiedźmin 3 edycja kompletna audio PL",
-    "price": "140",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e5df2/fef746f740a2be6e53e7556ae924",
     "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-kompletna-audio-pl?navCategoryId=256922",
     "promoted": true,
@@ -1010,16 +1010,6 @@
     "city": "Białystok"
   },
   {
-    "id": "068965da-629f-40f2-b709-815db2f01e79",
-    "title": "Metroid prime remastered Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1eb810/2f15683b4378852ccf5556a80b9e",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-v7m?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
     "price": "104",
@@ -1208,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "8921c956-6a35-4aa7-ad17-bae2ab234cec",
-    "title": "Fifa 23 PL Nintendo switch",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e0454/b3815f5e4c719da6716f5ab4f359",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-23-nintendo-switch-nz5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wejherowo"
   },
   {
     "id": "1e6f2143-53b1-435a-a3cc-330405ac4d77",
@@ -1798,6 +1778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chojnice"
+  },
+  {
+    "id": "d0420b96-3195-4ac2-85a8-a7c5b10f03d1",
+    "title": "Nintendo Switch Sports + opaska na nogę",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e706f/ac8861674838a303a6d8a5a70c46",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-opaska-na-noge-bbs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "d0420b96-3195-4ac2-85a8-a7c5b10f03d1",
@@ -4790,26 +4780,6 @@
     "city": "Kobylany"
   },
   {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "707a6d24-9a12-4123-9cb9-3caae52459db",
-    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e8829/ac78e0f64b0d8a7e6a012ecc8e40",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qj4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "8a89cb76-1696-4ce1-b729-152dd55699d3",
     "title": "XENOBLADE CHRONICLES / NINTENDO SWITCH",
     "price": "149",
@@ -5988,5 +5958,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
+  },
+  {
+    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
+    "title": "RingFit Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1ecb82/1755033f47afae9688151088918c",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
+  },
+  {
+    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
+    "title": "Fire Emblem Three Hopes",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   }
 ]
