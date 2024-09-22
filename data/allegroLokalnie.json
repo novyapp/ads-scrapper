@@ -1,5 +1,25 @@
 [
   {
+    "id": "9f499f1a-badd-4366-8f49-c9bd5c1311e7",
+    "title": "Super Mario Bros. Wonder - Nintendo Switch - gra jak nowa!",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1ebab8/58466e0c428bbd53a98a67695189",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-gra-jak-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "f87ad12f-5ab6-486d-87b7-851c9f7a164b",
+    "title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch - Jak nowa!",
+    "price": "178",
+    "img": "https://a.allegroimg.com/s180x180/1ec32f/11216a8a41b39945d74d9a0de4cc",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "707f8827-18ad-4359-8863-ba6074af1258",
     "title": "Sonic Frontiers (Nintendo Switch)",
     "price": "95",
@@ -8,6 +28,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Lubań"
+  },
+  {
+    "id": "8921c956-6a35-4aa7-ad17-bae2ab234cec",
+    "title": "Fifa 23 PL Nintendo switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e0454/b3815f5e4c719da6716f5ab4f359",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-23-nintendo-switch-nz5?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wejherowo"
   },
   {
     "id": "e5337328-e80c-4203-8e9d-4f817656fec4",
@@ -568,26 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ruda Śląska"
-  },
-  {
-    "id": "cd4c11d6-230c-4acb-b773-c665acde93b3",
-    "title": "Doom Nintendo switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1ed413/953d3d064fa79350cf3c0422ad60",
-    "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-hvd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Seroczyn"
-  },
-  {
-    "id": "271c8b51-6b36-4746-9904-3f8665813eb3",
-    "title": "Fifa 23 Nintendo switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1e3af7/8343c8da4ce5a75a24201c925af6",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-23-nintendo-switch-2to?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Żędowice"
   },
   {
     "id": "59284d9c-fedc-4c18-aca4-6dffaad90644",
@@ -1790,16 +1800,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "d0420b96-3195-4ac2-85a8-a7c5b10f03d1",
-    "title": "Nintendo Switch Sports + opaska na nogę",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e706f/ac8861674838a303a6d8a5a70c46",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-opaska-na-noge-bbs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
     "id": "689ed2bb-c3a4-406d-8788-464cb61d0c71",
     "title": "Mario tennis aces nintendo switch",
     "price": "165",
@@ -2978,6 +2978,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
+    "title": "GRA NINTENDO GAME NIGHT",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e15ac/ca77e8b44d3897e105e7f79c5c4a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-game-night?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
+    "title": "Super Mario Odyssey gra na Nintendo Switch",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s180x180/1e9f03/4a44f40f40b7866bf522f47e03bb",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
   },
   {
     "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
@@ -5380,6 +5400,26 @@
     "city": "Warszawa, Wola"
   },
   {
+    "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
+    "title": "Nintendo Switch LEGO Jurassic World",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3cc8/65f8820a40ed98c7d5c197ec333f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-jurassic-world-fq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
+    "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
+    "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e923b/64e4ff1c4c078e5a7594c39c0d90",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-switch-yugioh-rush-duel-lets-go-go-rush-zafoliowana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
     "title": "No More Heroes 3 Switch - Wrocław",
     "price": "169",
@@ -5958,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
-  },
-  {
-    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
-    "title": "RingFit Nintendo Switch",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s180x180/1ecb82/1755033f47afae9688151088918c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
-    "id": "13f11d13-a284-4f5e-8209-2ca755696d4d",
-    "title": "Fire Emblem Three Hopes",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1eafdc/dc471cb74aa4bd3353459b0aa2f9",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-hopes-7ge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
   }
 ]
