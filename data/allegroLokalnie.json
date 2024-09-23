@@ -12,7 +12,7 @@
   {
     "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
     "title": "Gry na Switcha",
-    "price": "980",
+    "price": "975",
     "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
     "promoted": true,
@@ -22,7 +22,7 @@
   {
     "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
     "title": "Gry na Switcha + steelbooki",
-    "price": "980",
+    "price": "975",
     "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
     "promoted": true,
@@ -1785,6 +1785,16 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1eb68f/6300f3b047bcb5ef8c37e4dbcf45",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-origami-king-pb2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Białołęka"
+  },
+  {
+    "id": "f7ca7a9a-3e6d-48b1-88a9-fb350dbadb30",
+    "title": "PAPER MARIO THE THOUSAND YEAR-DOOR",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1ef6aa/1db8b1754d3a9c6072234e52e1c5",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-yeardoor?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
@@ -5390,16 +5400,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
-    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ee25d/8f3e191c4a54841858fa880c52ce",
-    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "02700a86-732a-410a-bd80-a7083bd13810",
     "title": "Gry nintendo switch",
     "price": "999",
@@ -5985,6 +5985,16 @@
     "price": "250",
     "img": "https://a.allegroimg.com/s180x180/1e298e/10583d8e4140a41369ef9159d688",
     "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
+    "title": "Harvestella dla Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e18b7/a139deab4f9fa98392004fcf4f33",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-dla-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
