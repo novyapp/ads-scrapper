@@ -12,7 +12,7 @@
   {
     "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
     "title": "Gry na Switcha",
-    "price": "975",
+    "price": "900",
     "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
     "promoted": true,
@@ -22,7 +22,7 @@
   {
     "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
     "title": "Gry na Switcha + steelbooki",
-    "price": "975",
+    "price": "900",
     "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
     "promoted": true,
@@ -5390,16 +5390,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "f044d067-1bf9-4f79-9eb4-666ea09d7d53",
-    "title": "MARIO PATRY SUPERSTARS Switch Nowa",
-    "price": "208",
-    "img": "https://a.allegroimg.com/s180x180/117add/338a4666404896e9431d51f76819",
-    "url": "https://allegrolokalnie.pl//oferta/mario-patry-superstars-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
     "id": "93c020ee-e1e1-4e6b-a844-6ccc22c1b4cf",
     "title": "The Smurfs 2:The Prisoner of the Green Stone Switch / LES SCHTROUMPFS 2",
     "price": "149",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
+  },
+  {
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Gothic II Complete Classic PL Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   }
 ]
