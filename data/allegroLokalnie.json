@@ -1,5 +1,25 @@
 [
   {
+    "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
+    "title": "Gry na Switcha",
+    "price": "999",
+    "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
+    "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Praszka"
+  },
+  {
+    "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
+    "title": "Gry na Switcha + steelbooki",
+    "price": "1 000",
+    "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
+    "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Praszka"
+  },
+  {
     "id": "076b3416-867a-450b-a78f-0719f80c7818",
     "title": "Pokémon violet Nintendo switch",
     "price": "149",
@@ -540,16 +560,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "09a7f474-d41c-44b5-a482-44d87223fe7a",
-    "title": "Gra Nintendo Switch Pokemon Legends Arceus kartridż, W-wa.",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ec5e9/6714bfc844eca84afb78dee9f823",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-legends-arceus-kartridz-wwa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "8b8b7794-52fc-4358-92ef-6d358155f74b",
     "title": "Wiedźmin 3 edycja kompletna audio PL",
     "price": "160",
@@ -575,16 +585,6 @@
     "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e6265/60d9c4b84c2c92a77d3727b04db0",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-nintendo-switch-w5u?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kamionki, Osiedle Azaliowe"
-  },
-  {
-    "id": "38571183-7b26-43bd-a963-89888f21933c",
-    "title": "Super Mario Bros U Deluxe NS Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e5124/0ea1e5f0444bb50d38de7139cd82",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-ns-nintendo-switch?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Kamionki, Osiedle Azaliowe"
@@ -782,7 +782,7 @@
   {
     "id": "205cf96c-ca6c-49b5-829c-cd0d56619548",
     "title": "Metroid DREAD Gra Nintendo Switch prezent super prezent",
-    "price": "139",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e01dc/956780c4456b9bf56deea147600e",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-gra-nintendo-switch-prezent-super-prezent?navCategoryId=256922",
     "promoted": true,
@@ -1788,16 +1788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Białołęka"
-  },
-  {
-    "id": "3fb7588c-4460-4a7c-bb53-76d8c8c7d5ed",
-    "title": "NieR: Automata The End of YoRHa Edition (Switch) ENG NOWY FOLIA KARTRIDŻ",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s180x180/1ec22f/bc04f3184654862be0185df27315",
-    "url": "https://allegrolokalnie.pl//oferta/nier-automata-the-end-of-yorha-edition-switch-eng-nowy-folia-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "konin"
   },
   {
     "id": "664add5c-5e3a-469a-bf42-223a7f33bd0f",
@@ -2985,6 +2975,26 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1ee6ee/204f8ac74299854a2ed361e44a11",
     "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k23-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
+    "title": "Gra Quake Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e45a9/265303484768a0ac9de2cf279a2b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-quake-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
+    "title": "Gra Quake Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e45a9/265303484768a0ac9de2cf279a2b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-quake-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Dębniki"
@@ -4190,16 +4200,6 @@
     "city": "Orzesze"
   },
   {
-    "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
-    "title": "NINTENDO SWITCH GRA SHIN MEGAMI TENSEI",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e2ffc/6d10cf004844858676b0007040ba",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-shin-megami-tensei?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Orzesze"
-  },
-  {
     "id": "06ebc5f7-c67d-4eed-8cbf-a430a54e6090",
     "title": "Super Mario RPG Switch",
     "price": "145",
@@ -4790,6 +4790,16 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "03d9f08e-38fd-49d8-a86b-59b5635f2b84",
+    "title": "Dr Kawashima's Brain Training for Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e5ebc/a954c1324371a66a28daf7d1b702",
+    "url": "https://allegrolokalnie.pl//oferta/dr-kawashimas-brain-training-for-nintendo-switch-y56?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
     "id": "0511ca72-0eda-4241-be41-5d20ed88e59b",
     "title": "STAR OCEAN THE SECOND STORY R  (SWITCH) + SOUNDTRACK",
     "price": "438",
@@ -5170,16 +5180,6 @@
     "city": "Łomża"
   },
   {
-    "id": "f1807d18-6930-46f2-94ed-7a84e0cb24c8",
-    "title": "Nintendo Switch Sports - gra Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e9cea/bda3e95b491382532f02ffd253b2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-nintendo-switch-llz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -5378,16 +5378,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
-    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ee25d/8f3e191c4a54841858fa880c52ce",
-    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
   },
   {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
