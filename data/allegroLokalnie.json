@@ -292,7 +292,7 @@
   {
     "id": "cc7965a0-8ed6-45d4-9605-a12111dba67b",
     "title": "POKEMON LET'S GO PIKACHU | NOWE!",
-    "price": "190",
+    "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e5579/1363e9154f3e9cfff375641a7a9a",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-or-nowe?navCategoryId=256922",
     "promoted": true,
@@ -302,7 +302,7 @@
   {
     "id": "e7c7a55c-2225-49ac-9979-6b17c675c189",
     "title": "POKEMON LEGENDS ARCEUS | NOWE!",
-    "price": "200",
+    "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1ebafd/f0c8ac004e39a0a627e6aa066b17",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-or-nowe?navCategoryId=256922",
     "promoted": true,
@@ -2385,6 +2385,16 @@
     "price": "210",
     "img": "https://a.allegroimg.com/s180x180/1e9fed/41a455174c5bb37b798f5fa8efb9",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-ldm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zgierz"
+  },
+  {
+    "id": "fcc0b07c-9bc7-492d-87f5-0252036bb855",
+    "title": "LEGO DC Super Villains Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1efedc/e8287f2e4c3cbfd1a457510034e8",
+    "url": "https://allegrolokalnie.pl//oferta/lego-dc-super-villains-nintendo-switch-3hn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Zgierz"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
-  },
-  {
-    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
-    "title": "Gothic II Complete Classic PL Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   }
 ]
