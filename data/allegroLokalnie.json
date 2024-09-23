@@ -630,26 +630,6 @@
     "city": "świebodzice"
   },
   {
-    "id": "53d5f722-aa90-4478-a195-b39b5786a1d0",
-    "title": "Nintendo Switch TRUCK&LOGISTICS SIMULATOR ... tylko kartridż",
-    "price": "157",
-    "img": "https://a.allegroimg.com/s180x180/1e9aef/bd86fe664566b51dc853b01b9c2f",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trucklogistics-simulator-tylko-kartridz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "a9cf9705-2873-4d65-9aa3-89c2c3e2d1a3",
-    "title": "Nintendo Switch AUTOBAHN POLICE SIMULATOR 2 ... tylko kartridż",
-    "price": "157",
-    "img": "https://a.allegroimg.com/s180x180/1e0161/73e376ac41088da1267c3b29781d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-autobahn-police-simulator-2-tylko-kartridz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
     "title": "LAYTON’S MYSTERY JOURNEY – Deluxe Edition Nintendo Switch super PROMOCJA",
     "price": "109",
@@ -1170,34 +1150,54 @@
     "city": "Chełm"
   },
   {
-    "id": "6fb674a5-4d82-4106-bd75-92a123c75058",
-    "title": "Nintendo Switch Sniper Elite 4 ... tylko kartridż",
-    "price": "87",
-    "img": "https://a.allegroimg.com/s180x180/1e908e/1c3783684230a373ad50d7e0fa19",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sniper-elite-4-tylko-kartridz?navCategoryId=256922",
-    "promoted": false,
+    "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
+    "title": "BAYONETTA 3 TRINITY MASQUERADE EDITION SWITCH NOWA",
+    "price": "651",
+    "img": "https://a.allegroimg.com/s180x180/1efa32/203adc894122ae15bf33ec7b6754",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-switch-nowa-7rz?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Rąbień"
+    "city": "Łódź"
   },
   {
-    "id": "0e143e4f-2600-4cd1-a9d2-f78b91e9279a",
-    "title": "Nintendo Switch- Super Mario 3D All Stars ... tylko kartridż",
-    "price": "327",
-    "img": "https://a.allegroimg.com/s180x180/1e2d6f/4823531541ba8eb1e7d8fb445095",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-3d-all-stars-tylko-kartridz?navCategoryId=256922",
-    "promoted": false,
+    "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
+    "title": "Bayonetta 3 Trinity Masquerade Edition",
+    "price": "749",
+    "img": "https://a.allegroimg.com/s180x180/1e0511/e201e5914270b0f16c9cfceb2ec6",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Rąbień"
+    "city": "Bydgoszcz"
   },
   {
-    "id": "c8c5d3c5-95cc-4f42-905e-37b195ac689d",
-    "title": "Nintendo Switch  Mario Kart 8 ... tylko kartridż",
-    "price": "177",
-    "img": "https://a.allegroimg.com/s180x180/1e11a4/4d2d3f0143068f06edb550dccbdd",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-tylko-kartridz-rwz?navCategoryId=256922",
+    "id": "53d5f722-aa90-4478-a195-b39b5786a1d0",
+    "title": "Nintendo Switch TRUCK&LOGISTICS SIMULATOR ... tylko kartridż",
+    "price": "157",
+    "img": "https://a.allegroimg.com/s180x180/1e9aef/bd86fe664566b51dc853b01b9c2f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trucklogistics-simulator-tylko-kartridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Rąbień"
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "78445500-089d-46f3-bee6-ffa8977678e1",
+    "title": "The Legend of Zelda Breath of the Wild",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ee36a/5aecc2994485b0dbb5f45a34dd5c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nkw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kwidzyn"
+  },
+  {
+    "id": "c8cbb764-6478-48ed-a24f-a878b20c88ef",
+    "title": "Super Mario Odyssey Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ed8e0/ea8e8fc64958b3c9e7e48f99dbbd",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-dpl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kwidzyn"
   },
   {
     "id": "78445500-089d-46f3-bee6-ffa8977678e1",
@@ -1800,6 +1800,26 @@
     "city": "Olsztyn"
   },
   {
+    "id": "664add5c-5e3a-469a-bf42-223a7f33bd0f",
+    "title": "Triangle Strategy",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e0526/f9cc35cc493aa46bc072d3202a1e",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-kfp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rybnik"
+  },
+  {
+    "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
+    "title": "Paper Mario the origami king Nintendo switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ed62a/6e645da54c7ca7fbcc5b368595b4",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-fut?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "7d575e8f-d966-4ad8-8c01-cb218b5eb3b5",
     "title": "NBA 2k18 Nintendo switch",
     "price": "45",
@@ -1958,26 +1978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chojnice"
-  },
-  {
-    "id": "0e143e4f-2600-4cd1-a9d2-f78b91e9279a",
-    "title": "Nintendo Switch- Super Mario 3D All Stars ... tylko kartridż",
-    "price": "327",
-    "img": "https://a.allegroimg.com/s180x180/1e2d6f/4823531541ba8eb1e7d8fb445095",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-3d-all-stars-tylko-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rąbień"
-  },
-  {
-    "id": "c8c5d3c5-95cc-4f42-905e-37b195ac689d",
-    "title": "Nintendo Switch  Mario Kart 8 ... tylko kartridż",
-    "price": "177",
-    "img": "https://a.allegroimg.com/s180x180/1e11a4/4d2d3f0143068f06edb550dccbdd",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-tylko-kartridz-rwz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rąbień"
   },
   {
     "id": "d0420b96-3195-4ac2-85a8-a7c5b10f03d1",
