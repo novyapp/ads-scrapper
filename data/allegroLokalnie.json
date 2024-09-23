@@ -80,16 +80,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "aab0a26d-c576-4f25-abb7-88ed18fec6d5",
-    "title": "Spyro REIGNITED TRILOGY / GRA SWITCH / NAPISY / DUBBING PL",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e64e7/565396f44b8fab40ce2c03c6505c",
-    "url": "https://allegrolokalnie.pl//oferta/spyro-reignited-trilogy-gra-switch-napisy-dubbing-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin, Prawobrzeże"
-  },
-  {
     "id": "80704f44-6dbd-4b94-9d55-cd3a0ec5e7c4",
     "title": "Have a Nice Death Nintendo Switch",
     "price": "130",
@@ -188,16 +178,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz, Fordon"
-  },
-  {
-    "id": "a85cc1be-f4fc-4a42-8355-ff192029d3ce",
-    "title": "Gra Super Mario Odyssey",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e3979/36392537482298066e653448f10e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-suw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Majdan królewski"
   },
   {
     "id": "4f1c0a97-e2f8-4242-b54f-fbedc0d824a3",
@@ -566,7 +546,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Warszawa"
   },
   {
@@ -576,7 +556,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e407f/b81d811843d68602e2e47da772d8",
     "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Warszawa"
   },
   {
@@ -586,7 +566,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
     "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Warszawa"
   },
   {
@@ -812,7 +792,7 @@
   {
     "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
     "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
-    "price": "70",
+    "price": "65",
     "img": "https://a.allegroimg.com/s180x180/1efe34/261682324370b2745de214a1f2c8",
     "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
     "promoted": true,
@@ -1200,26 +1180,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "1f4dac81-306a-453b-9dca-a8ef13149cc1",
-    "title": "Nintendo Switch Indivisible",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e2d11/b3b8c45643adbbe62c386b7b3018",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-indivisible?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "76111def-373a-47ce-9ba8-52b7e1cbe6ed",
-    "title": "Nintendo Switch Pokemon Legends Arceus nowa folia",
-    "price": "209",
-    "img": "https://a.allegroimg.com/s180x180/1e8d89/e8f21d04435dba6e2e615e481bd8",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-legends-arceus-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "27159df6-3664-43b7-bef7-7d0910186042",
     "title": "Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush!!",
     "price": "140",
@@ -1278,6 +1238,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "936ab8d4-635a-4b18-aca1-f55d8db33d34",
+    "title": "My Riding Stables Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3591/ad1f0883482182cf4c78a249201f",
+    "url": "https://allegrolokalnie.pl//oferta/my-riding-stables-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kończyce Wielkie"
   },
   {
     "id": "f0acd83b-ad43-4768-bccd-d7bc9d0652d3",
@@ -1798,6 +1768,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f01293d8-83c8-4df1-88f1-f3a9d89af62f",
+    "title": "Gra SEGA MEGA DRIVE CLASSICS Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3328/090c85b846429bf127b0aeb6fb2e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-sega-mega-drive-classics-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
+    "id": "afbad5cf-00bb-48ac-b8d1-6a53f72096ae",
+    "title": "Mario Kart 8 Deluxe",
+    "price": "255",
+    "img": "https://a.allegroimg.com/s180x180/1eda55/48b95aef424bb7c5d8357e206de2",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-pys?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarocin"
   },
   {
     "id": "29473d9d-5423-4842-b03c-b2230bdca2fb",
@@ -2378,26 +2368,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgierz"
-  },
-  {
-    "id": "2112c3b7-5ec7-4709-93a9-28e3d455eb73",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e70d9/082455bf4d3d928ade94c82916aa",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-f3w?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgierz"
-  },
-  {
-    "id": "149cfb7c-09b1-4253-8ee9-4bb2afe5d761",
-    "title": "The Binding of Isaac: Afterbirth+ Nintendo Switch JAK NOWA!",
-    "price": "269",
-    "img": "https://a.allegroimg.com/s180x180/1efe80/5df68abf44ab864950ff6a031b31",
-    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-afterbirth-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "2112c3b7-5ec7-4709-93a9-28e3d455eb73",
@@ -3600,6 +3570,26 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "4241002d-8d9b-484b-94f1-a2c393e54746",
+    "title": "ULTRA STREET FIGHTER 2 THE FINAL CHALLANGE NINTENDO SWITCH",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e869f/f8f46d0b4af3ac65f1dedd00534b",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-2-the-final-challange-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "b25c4763-3a7f-4bc4-bf9b-55bb3a4c9841",
+    "title": "Xenoblade Chronicles Definitive Editio Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e9858/3a3879c74d42a898b5fcb0ef484e",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-editio-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "01df2756-8b90-41df-b4ca-dfab15b6b64c",
     "title": "Zestaw 6 gier na Nintendo Switch",
     "price": "500",
@@ -4178,26 +4168,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żelechów"
-  },
-  {
-    "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
-    "title": "Pokemon Sword + Pokemon Sword Expansion Pass Nintendo Switch",
-    "price": "500",
-    "img": "https://a.allegroimg.com/s180x180/1e5e1b/71b1d5524f2dac2e011c492a401a",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-pokemon-sword-expansion-pass-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
-    "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
-    "title": "Charade Maniacs gra visual novel",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e3056/a92b19d64bab8365af35a3baacc0",
-    "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Przemyśl"
   },
   {
     "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
@@ -5400,6 +5370,26 @@
     "city": "Wałbrzych"
   },
   {
+    "id": "93c020ee-e1e1-4e6b-a844-6ccc22c1b4cf",
+    "title": "The Smurfs 2:The Prisoner of the Green Stone Switch / LES SCHTROUMPFS 2",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/118c99/509a45e540b9928be2d28d0a4b39",
+    "url": "https://allegrolokalnie.pl//oferta/the-smurfs-2the-prisoner-of-the-green-stone-switch-les-schtroumpfs-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
+  },
+  {
+    "id": "710eee37-8f1c-4be1-af24-fe2e49c7026c",
+    "title": "Nintendo Switch Monster Hunter Stories 2",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ea015/b523e6894316b39eb2d7357360fc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-monster-hunter-stories-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia"
+  },
+  {
     "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
     "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
     "price": "200",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgorzelec"
+  },
+  {
+    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
+    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
+    "price": "1 049",
+    "img": "https://a.allegroimg.com/s180x180/1eff66/ee0d883f4ab0b1c34171fd5602c0",
+    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
   }
 ]
