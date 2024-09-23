@@ -72,7 +72,7 @@
   {
     "id": "18601d29-cbf8-4424-aa77-81c8a27cc96b",
     "title": "Super Mario Bros. Wonder Switch",
-    "price": "168",
+    "price": "167",
     "img": "https://a.allegroimg.com/s180x180/1e6a82/de61b6694324ac5584cc55d3cc7f",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-k35?navCategoryId=256922",
     "promoted": true,
@@ -82,7 +82,7 @@
   {
     "id": "b00a365b-05cf-4822-ae45-1c3cea237fa2",
     "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "170",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1eb94b/0b8efc5143888ebd1cf8a6bf8e54",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-tg4?navCategoryId=256922",
     "promoted": true,
@@ -690,16 +690,6 @@
     "city": "Białystok"
   },
   {
-    "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
-    "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s180x180/1efe34/261682324370b2745de214a1f2c8",
-    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "ca92012e-2c53-45ee-a4e6-b0c09e82ba2b",
     "title": "SUPER MARIO MAKER 2 / NINTENDO SWITCH",
     "price": "165",
@@ -768,16 +758,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "0865906d-ec00-4a21-8efa-852d4c02c5cf",
-    "title": "SONIC ORIGINS PLUS SWITCH NOWA W FOLII 16 GIER",
-    "price": "124",
-    "img": "https://a.allegroimg.com/s180x180/1e5f31/396171134449a615a501da21da01",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-origins-plus-switch-nowa-w-folii-16-gier?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn"
   },
   {
     "id": "91dfd91b-1b93-4721-8bcd-5a5a8be02db4",
@@ -1138,6 +1118,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "83605add-6d40-4788-b082-b6ea00c4e6ba",
+    "title": "GAME BUILDER GARAGE / NINTENDO SWITCH",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1efe34/261682324370b2745de214a1f2c8",
+    "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-vfo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "id": "0865906d-ec00-4a21-8efa-852d4c02c5cf",
+    "title": "SONIC ORIGINS PLUS SWITCH NOWA W FOLII 16 GIER",
+    "price": "124",
+    "img": "https://a.allegroimg.com/s180x180/1e5f31/396171134449a615a501da21da01",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-origins-plus-switch-nowa-w-folii-16-gier?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   },
   {
     "id": "4c88ad8d-f8bf-403a-a60e-bef4b988747e",
