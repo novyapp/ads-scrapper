@@ -100,16 +100,6 @@
     "city": "Kraków"
   },
   {
-    "id": "7d73ca2c-cc35-4d42-a2bb-df889c85a912",
-    "title": "The Legend of Zelda Link's Awakening",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1edfc0/7bf7ebe04c9887711528ef3ef24a",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-hnc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "f87ad12f-5ab6-486d-87b7-851c9f7a164b",
     "title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch - Jak nowa!",
     "price": "178",
@@ -2080,16 +2070,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "e81b4733-9146-4c14-a496-e8dc29835692",
-    "title": "Super Mario Odyssey, Yoshis, Minecraft Nintendo Switch",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1e6d36/93782a984709991dc362381381ae",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-yoshis-minecraft-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Katowice"
-  },
-  {
     "id": "59fcf6eb-3fd0-4267-880d-1e39fed26f63",
     "title": "COFFE TALK edycja kolekcjonerska Strictly Limited Games",
     "price": "359",
@@ -3598,16 +3578,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "f6152979-b264-4638-8573-2ddd9cd50fa4",
-    "title": "Minecraft Legends Deluxe Edition Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/112872/5a2e6dee49488059e266ffdc2004",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-legends-deluxe-edition-nintendo-switch-pyh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
+    "title": "Gry Nintendo Switch x2 Digimon Asterix",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ecdf7/1ae7c219465e88b74442c75d311c",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-x2-digimon-asterix?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zgorzelec"
   }
 ]
