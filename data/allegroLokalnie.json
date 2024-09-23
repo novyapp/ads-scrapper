@@ -1010,6 +1010,26 @@
     "city": "Białystok"
   },
   {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "147",
+    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
     "title": "Mario Odyssey NINTENDO SWITCH ideał",
     "price": "185",
@@ -1148,16 +1168,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "011c14c9-ca76-411d-a038-6ab5fd85ce69",
-    "title": "BAYONETTA 3 TRINITY MASQUERADE EDITION SWITCH NOWA",
-    "price": "651",
-    "img": "https://a.allegroimg.com/s180x180/1efa32/203adc894122ae15bf33ec7b6754",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-switch-nowa-7rz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "4eef8e93-c834-42d3-9b16-2bf62a7859c9",
@@ -4200,26 +4210,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
-    "title": "Super Mario RPG Switch",
-    "price": "147",
-    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "7b0bb284-c3e5-477f-a1dc-774ad2934aad",
     "title": "SUPER MONKEY BALL BANANA RUMBLE - SWITCH",
     "price": "140",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
+  },
+  {
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Gothic II Complete Classic PL Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   }
 ]
