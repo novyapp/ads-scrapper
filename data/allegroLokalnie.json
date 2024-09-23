@@ -1,5 +1,15 @@
 [
   {
+    "id": "c0603436-56c0-4d27-8899-830974bfb9c1",
+    "title": "Gra na nintendo switch The Elder Scrolls V: Skyrim",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1efd7b/ba42dcd9459d9c4f7fff8a7ff0ec",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-the-elder-scrolls-v-skyrim?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Ursus"
+  },
+  {
     "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
     "title": "Gry na Switcha",
     "price": "980",
@@ -600,16 +610,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
-    "title": "Super Mario 3D All Stars",
-    "price": "639",
-    "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
     "title": "WarioWare: Get It Together! NINTENDO Switch",
     "price": "120",
@@ -1195,6 +1195,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1ed8e0/ea8e8fc64958b3c9e7e48f99dbbd",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-dpl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kwidzyn"
+  },
+  {
+    "id": "1bb1b673-74de-4a30-89cd-bbf03d0dc968",
+    "title": "Minecraft Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e2f00/4fa4cf4f4da8ab58676579def35a",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-fax?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kwidzyn"
@@ -4800,16 +4810,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
-    "title": "Family Trainer SWITCH",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1e5265/9569954d4eb0b25090cd597455af",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "2cf8274d-9a6f-42bb-a919-125cc7280f5d",
     "title": "Bayonetta Cereza",
     "price": "110",
@@ -5400,6 +5400,16 @@
     "city": "Gdynia"
   },
   {
+    "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
+    "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e9ecb/a893419946349ed954fde672377d",
+    "url": "https://allegrolokalnie.pl//oferta/darius-cozmic-collection-nintendo-switch-jpn-nowa-qss?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
+  },
+  {
     "id": "a9d4f344-7bf2-44c8-901a-f69d5b063256",
     "title": "Gry Nintendo switch",
     "price": "450",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
-    "title": "Let's Sing ABBA Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e704a/4bdc14c04fcba0d203d3d29973b6",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
   }
 ]
