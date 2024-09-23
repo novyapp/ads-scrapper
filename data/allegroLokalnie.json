@@ -2,7 +2,7 @@
   {
     "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
     "title": "Gry na Switcha",
-    "price": "999",
+    "price": "980",
     "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
     "promoted": true,
@@ -12,7 +12,7 @@
   {
     "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
     "title": "Gry na Switcha + steelbooki",
-    "price": "1 000",
+    "price": "980",
     "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
     "promoted": true,
@@ -468,16 +468,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "8b8b7794-52fc-4358-92ef-6d358155f74b",
-    "title": "Wiedźmin 3 edycja kompletna audio PL",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e5df2/fef746f740a2be6e53e7556ae924",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-kompletna-audio-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa, Ochota"
   },
   {
     "id": "68cad325-44b2-4b36-8679-12548318b007",
@@ -1382,7 +1372,7 @@
   {
     "id": "a12af1ac-18dc-49bb-91b0-92a12e3387f9",
     "title": "Capitan Toad Treasure Tracker",
-    "price": "120",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e2f2f/12d3a827445ead4faaa58a81f654",
     "url": "https://allegrolokalnie.pl//oferta/capitan-toad-treasure-tracker?navCategoryId=256922",
     "promoted": false,
@@ -2400,6 +2390,16 @@
     "city": "Zgierz"
   },
   {
+    "id": "fcc0b07c-9bc7-492d-87f5-0252036bb855",
+    "title": "LEGO DC Super Villains Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1efedc/e8287f2e4c3cbfd1a457510034e8",
+    "url": "https://allegrolokalnie.pl//oferta/lego-dc-super-villains-nintendo-switch-3hn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zgierz"
+  },
+  {
     "id": "2112c3b7-5ec7-4709-93a9-28e3d455eb73",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "150",
@@ -2990,26 +2990,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "495c6a17-b34e-4c53-8cf5-2948f7aef8fc",
-    "title": "Pokemon Sword Japanese Edition Nintendo Switch",
-    "price": "174",
-    "img": "https://a.allegroimg.com/s180x180/1eef68/4133ff4d4354bac7d43d8d2eb3c9",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-japanese-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "ccce257b-2ae9-48fe-b727-7b13cf358094",
-    "title": "Sakuna: of Rice and Ruin Japanese Edition Nintendo Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e2ffb/e64260954cfa84ef8653916599b4",
-    "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-japanese-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "fcab8a5c-e862-4bf8-aded-90feb1fc8146",
     "title": "NBA 2k18 Nintendo Switch",
     "price": "29",
@@ -3578,6 +3558,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "f6152979-b264-4638-8573-2ddd9cd50fa4",
+    "title": "Minecraft Legends Deluxe Edition Nintendo Switch",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/112872/5a2e6dee49488059e266ffdc2004",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-legends-deluxe-edition-nintendo-switch-pyh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
+    "title": "Need for Speed Hot Pursuit Remastered NINTENDO SWITCH",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1ebc3c/0673e7ec4819a45799eafd9a34aa",
+    "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-remastered-nintendo-switch-ek5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "4241002d-8d9b-484b-94f1-a2c393e54746",
+    "title": "ULTRA STREET FIGHTER 2 THE FINAL CHALLANGE NINTENDO SWITCH",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e869f/f8f46d0b4af3ac65f1dedd00534b",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-2-the-final-challange-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "3e4323e3-4cf1-472c-87dd-4620fd1d96d4",
