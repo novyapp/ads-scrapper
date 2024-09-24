@@ -1200,16 +1200,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "7b3de2d5-19d6-4f24-acd0-b6683acf56f6",
-    "title": "Nintendo Switch Disney Magical World 2",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1e66a0/568dc6a24c788b4254c87159e751",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-disney-magic-castle-2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "774f3e5f-f7b4-49e7-8b26-55cc711305d1",
     "title": "Xenoblade Chronicles 2 (Edycja kolekconerska)",
     "price": "700",
@@ -1795,6 +1785,16 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1e969f/b24c107247939b999c87ef28f76d",
     "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-akg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sobowo"
+  },
+  {
+    "id": "5b86553f-8fc2-4475-8a65-755d8973602d",
+    "title": "Animal Crossing New Horizons",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1efc8f/4e9a76e74d52845a59764484cfc2",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-g7d?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Sobowo"
@@ -3000,16 +3000,6 @@
     "city": "Warszawa, Grochów"
   },
   {
-    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
-    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Grochów"
-  },
-  {
     "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
     "title": "Gra Harry Potter Dziedzictwo Hogwartu Switch",
     "price": "140",
@@ -4200,6 +4190,16 @@
     "city": "Cieplewo"
   },
   {
+    "id": "ad75df46-319b-47bb-b334-b5701632a048",
+    "title": "Dragon Ball Fighterz Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e3d21/73542a9143f585e320847e3e18ab",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kielce"
+  },
+  {
     "id": "94dc2b8e-466b-4342-8d5a-3efff83a0c7f",
     "title": "Karty Amiibo Animal Crossing",
     "price": "210",
@@ -4785,16 +4785,6 @@
     "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1eae4d/23aea52746e3b8b804dc34acfd10",
     "url": "https://allegrolokalnie.pl//oferta/sonic-forces-nintendo-switch-gxn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraśnik"
-  },
-  {
-    "id": "e7194adb-7dfe-4f5c-a90a-b29ae494a680",
-    "title": "HYRULE WARRIORS: DEFINITIVE EDITION Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e834b/2eb040b844d5999e7285b6a64483",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-definitive-edition-nintendo-switch-goc?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraśnik"
@@ -5398,6 +5388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "JAWORZE"
+  },
+  {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
