@@ -22,7 +22,7 @@
   {
     "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
     "title": "Gry na Switcha",
-    "price": "900",
+    "price": "880",
     "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
     "promoted": true,
@@ -32,7 +32,7 @@
   {
     "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
     "title": "Gry na Switcha + steelbooki",
-    "price": "900",
+    "price": "880",
     "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
     "promoted": true,
@@ -1340,16 +1340,6 @@
     "city": "Domaszczyn"
   },
   {
-    "id": "3dfcf820-698d-4385-801e-d40487ab17e2",
-    "title": "Hotel Transylvania: Scary-Tale Adventures Nintendo Switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s180x180/1ed28a/dbab08df4e7bbeb74f5f5894b15b",
-    "url": "https://allegrolokalnie.pl//oferta/hotel-transylvania-scarytale-adventures-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Świętochłowice"
-  },
-  {
     "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
     "title": "Super mario 3d world + bowsers fury",
     "price": "159",
@@ -1798,16 +1788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "f01293d8-83c8-4df1-88f1-f3a9d89af62f",
-    "title": "Gra SEGA MEGA DRIVE CLASSICS Nintendo Switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1e3328/090c85b846429bf127b0aeb6fb2e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-sega-mega-drive-classics-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraśnik"
   },
   {
     "id": "afbad5cf-00bb-48ac-b8d1-6a53f72096ae",
@@ -3610,6 +3590,16 @@
     "city": "Nowa Sól"
   },
   {
+    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowa Sól"
+  },
+  {
     "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
     "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
     "price": "350",
@@ -4800,16 +4790,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "9ed42068-bf1c-4bb8-afcd-4026704ba83b",
-    "title": "Road 96 switch signature Edition Limited",
-    "price": "420",
-    "img": "https://a.allegroimg.com/s180x180/1e11b8/a70f9b274a4a85faff4f5db4878b",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-switch-signature-edition-limited?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "a9afc5a9-4f66-478a-83ef-1d3e3edb3463",
     "title": "STWÓRZ SWOJEGO WŁASNEGO POKEMONA",
     "price": "6",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
+  },
+  {
+    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
+    "title": "Gothic II Complete Classic PL Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   }
 ]
