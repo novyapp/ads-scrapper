@@ -730,16 +730,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "e56a5462-90c5-4526-9717-0fa67b56ae33",
-    "title": "Monster Hunter Stories 2: Wings of Ruin PL  Nintendo Switch stan BdB",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e7c92/699e83d844f881c56bed5bf1a460",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-stan-bdb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
     "id": "91dfd91b-1b93-4721-8bcd-5a5a8be02db4",
     "title": "The Legend of Zelda - Breath of the Wild Switch",
     "price": "185",
@@ -1098,6 +1088,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "e56a5462-90c5-4526-9717-0fa67b56ae33",
+    "title": "Monster Hunter Stories 2: Wings of Ruin PL  Nintendo Switch stan BdB",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e7c92/699e83d844f881c56bed5bf1a460",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-nintendo-switch-stan-bdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
   },
   {
     "id": "fde5f743-919b-45d9-93bb-757ad7b6df72",
@@ -4142,7 +4142,7 @@
   {
     "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
     "title": "The Legend of Zelda Skyward Sword HD Nintendo Switch",
-    "price": "165",
+    "price": "159",
     "img": "https://a.allegroimg.com/s180x180/1eff3e/1e1d4db5488d88aec5a343dcbd34",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-nintendo-switch-5v4?navCategoryId=256922",
     "promoted": false,
@@ -5390,16 +5390,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "741869b0-edaf-49d7-b335-f478da7aa521",
-    "title": "SUPER MARIO 3D ALL-STARS (stan idealny)",
-    "price": "419",
-    "img": "https://a.allegroimg.com/s180x180/1eb043/1f53c24348fcac553a515482de4d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraśnik"
-  },
-  {
     "id": "46cf2b4a-9e32-4907-a76b-266f63227bd1",
     "title": "Gra Nintendo Switch Burnout Paradise remastered",
     "price": "110",
@@ -5482,7 +5472,7 @@
   {
     "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
     "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
-    "price": "45",
+    "price": "40",
     "img": "https://a.allegroimg.com/s180x180/1e07ba/7b2e81b54b2bae1f0e87f5d4787b",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toy-con-1-gra-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -5985,6 +5975,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
     "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
+  },
+  {
+    "id": "5ef05601-38aa-4d2b-882a-da795a5aff3c",
+    "title": "RingFit Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1ecb82/1755033f47afae9688151088918c",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-cts?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kalisz"
