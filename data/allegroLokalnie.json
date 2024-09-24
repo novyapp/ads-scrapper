@@ -40,16 +40,6 @@
     "city": "Kraków, Bieżanów-Prokocim"
   },
   {
-    "id": "01d2978b-de74-4d89-bf36-30cc5b2db689",
-    "title": "Super Mario Bros U Deluxe Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ef869/198e37f24296b2ad768e66493767",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-nintendo-switch-5ub?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Bieżanów-Prokocim"
-  },
-  {
     "id": "3c3e01da-1749-41d4-8d16-5c1b49ca4cdd",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "150",
@@ -1790,6 +1780,16 @@
     "city": "Sobowo"
   },
   {
+    "id": "a15b77e8-8c1e-4d25-81e0-8a4be309d7b6",
+    "title": "Dredge (Nintendo Switch)",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1ecaa7/ed65ccef420fb207cc1ccf7aaeb8",
+    "url": "https://allegrolokalnie.pl//oferta/dredge-nintendo-switch-qxf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Katowice"
+  },
+  {
     "id": "4f07a048-9c52-4845-832b-03aaf3c7de5f",
     "title": "Super Smash Bros Ultimate - tylko raz grane",
     "price": "199",
@@ -2390,14 +2390,14 @@
     "city": "Włocławek"
   },
   {
-    "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
-    "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e98cf/67a02e414fb397fa130bf99c5c4f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-kartridz-octopath-traveler-eng-nintendo-switch-przepiekna-gra?navCategoryId=256922",
+    "id": "1619bb80-36f4-4e9b-ab67-8403bf8eb8d2",
+    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1e7cb2/478129e048e4bf854d9096dd33ab",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch-kmn?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Włocławek"
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "1619bb80-36f4-4e9b-ab67-8403bf8eb8d2",
@@ -2998,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Grochów"
-  },
-  {
-    "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
-    "title": "Gra Harry Potter Dziedzictwo Hogwartu Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ee504/8fda52cc479dbada563b7c0ee1ce",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "6a18f57b-bc65-4923-b970-60f0fae77c10",
@@ -5410,6 +5400,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
+    "title": "Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e057f/9ccc9ee949b489b48157e755eb91",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "190",
@@ -5985,6 +5985,16 @@
     "price": "549",
     "img": "https://a.allegroimg.com/s180x180/119dae/db91e3e449089d8ad19f9dd2a9f0",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-mario-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Groblice"
+  },
+  {
+    "id": "8397538f-2158-4ec9-96ac-41271e325076",
+    "title": "Mario Kart Live Home Circuit LUIGI komplet wyścigi wersja pudełkowa! NOWA!",
+    "price": "549",
+    "img": "https://a.allegroimg.com/s180x180/11a7f3/d4306da3477984b878303c966d53",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-komplet-wyscigi-wersja-pudelkowa-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
