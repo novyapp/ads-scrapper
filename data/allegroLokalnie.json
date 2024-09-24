@@ -1362,7 +1362,7 @@
   {
     "id": "7dcc89c3-9402-40c8-8b9c-08d36a393c58",
     "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e6077/1fcadefa4a7eaf19d4c4484b6aa5",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-y3u?navCategoryId=256922",
     "promoted": false,
@@ -2400,16 +2400,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "1619bb80-36f4-4e9b-ab67-8403bf8eb8d2",
-    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1e7cb2/478129e048e4bf854d9096dd33ab",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch-kmn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "09d16acd-3124-43ae-a5ca-153bd03d9918",
     "title": "Mario Wonder - GADŻETY - SWITCH",
     "price": "14",
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Grochów"
+  },
+  {
+    "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
+    "title": "Gra Harry Potter Dziedzictwo Hogwartu Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ee504/8fda52cc479dbada563b7c0ee1ce",
+    "url": "https://allegrolokalnie.pl//oferta/gra-harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
   },
   {
     "id": "6a18f57b-bc65-4923-b970-60f0fae77c10",
@@ -4650,16 +4650,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "7a5f0af0-1984-46a9-9aa0-ea1a7cccc52c",
-    "title": "Sonic Superstars Nintendo Switch, kartridż",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1ea838/88d21d584e768632d4a634b773e1",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-superstars-nintendo-switch-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Robakowo"
-  },
-  {
     "id": "3cdda98d-0512-4f59-a536-cb18d9a249e1",
     "title": "Gra Nintendo Switch Mario + Rabbids Sparks of Hope jak nowa",
     "price": "79",
@@ -5400,16 +5390,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "df2b8a5e-3019-4128-998a-3b96086c43b4",
-    "title": "Zelda Tears of the Kingdom",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e057f/9ccc9ee949b489b48157e755eb91",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-bzi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "fa435842-cd58-4908-a817-67c8d8797be0",
     "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
     "price": "190",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
+  },
+  {
+    "id": "394a02a6-5fae-4b58-8dcd-bb625e0dd59a",
+    "title": "Langrisser I & II dla Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s180x180/1e298e/10583d8e4140a41369ef9159d688",
+    "url": "https://allegrolokalnie.pl//oferta/langrisser-i-ii-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "e1e77e3c-bbce-442a-a51e-78e789f8ca0c",
+    "title": "Harvestella dla Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e18b7/a139deab4f9fa98392004fcf4f33",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   }
 ]
