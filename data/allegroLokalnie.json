@@ -1,15 +1,5 @@
 [
   {
-    "id": "eae377db-c276-4275-a5dd-c58d6ce7cde0",
-    "title": "THE WITCHER 3: WILD HUNT / WIEDŹMIN 3: DZIKI GON / SWITCH",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e9a25/e35e82b6460e96cb79631565622a",
-    "url": "https://allegrolokalnie.pl//oferta/the-witcher-3-wild-hunt-wiedzmin-3-dziki-gon-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "2f231cc9-a649-4c1b-91c8-8f2b4512cbbc",
     "title": "The Legend of Zelda Tears of the Kingdom",
     "price": "179",
@@ -1200,6 +1190,36 @@
     "city": "Gdynia"
   },
   {
+    "id": "8a1ec5c1-1760-4c2a-b400-e0ef4c57b85c",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ec723/fd255241411ab65ae364c46f344b",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-cgv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdynia"
+  },
+  {
+    "id": "a1a44bea-8e62-49e4-adcd-e61c35a2ac9c",
+    "title": "Splatoon 2 Switch Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e1c76/6a02b04b4eb0b498c696acc8e768",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-switch-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdynia"
+  },
+  {
+    "id": "8a1ec5c1-1760-4c2a-b400-e0ef4c57b85c",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ec723/fd255241411ab65ae364c46f344b",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-cgv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdynia"
+  },
+  {
     "id": "76b5320a-69fc-4100-90d1-a3e085ef752f",
     "title": "Super smash bros ultimate nintendo switch",
     "price": "160",
@@ -1778,26 +1798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraśnik"
-  },
-  {
-    "id": "afbad5cf-00bb-48ac-b8d1-6a53f72096ae",
-    "title": "Mario Kart 8 Deluxe",
-    "price": "255",
-    "img": "https://a.allegroimg.com/s180x180/1eda55/48b95aef424bb7c5d8357e206de2",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-pys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarocin"
-  },
-  {
-    "id": "29473d9d-5423-4842-b03c-b2230bdca2fb",
-    "title": "Zelda Breath of the Wild",
-    "price": "270",
-    "img": "https://a.allegroimg.com/s180x180/1e28b7/5d20e3444870a3953071c6a7e475",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-7tw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarocin"
   },
   {
     "id": "29473d9d-5423-4842-b03c-b2230bdca2fb",
@@ -2398,6 +2398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgierz"
+  },
+  {
+    "id": "149cfb7c-09b1-4253-8ee9-4bb2afe5d761",
+    "title": "The Binding of Isaac: Afterbirth+ Nintendo Switch JAK NOWA!",
+    "price": "269",
+    "img": "https://a.allegroimg.com/s180x180/1efe80/5df68abf44ab864950ff6a031b31",
+    "url": "https://allegrolokalnie.pl//oferta/the-binding-of-isaac-afterbirth-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
@@ -3590,26 +3600,6 @@
     "city": "Kostrzyn nad Odrą"
   },
   {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
     "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
     "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
     "price": "350",
@@ -4198,6 +4188,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
+    "title": "The Legend of Zelda Skyward Sword HD Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eff3e/1e1d4db5488d88aec5a343dcbd34",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-nintendo-switch-5v4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "c614852e-d2db-464e-9e70-415b2ccde4b0",
+    "title": "LEGO GWIEZDNE WOJNY: SAGA SKYWALKERÓW NINTENDO SWITCH PL",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e2bda/dd6c7b4c4c9e9d4cc6e80f6c7b4f",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
+    "title": "The Legend of Zelda Skyward Sword HD Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eff3e/1e1d4db5488d88aec5a343dcbd34",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-nintendo-switch-5v4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
-  },
-  {
-    "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
-    "title": "Gothic II Complete Classic PL Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
-    "title": "Gry Nintendo Switch x2 Digimon Asterix",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ecdf7/1ae7c219465e88b74442c75d311c",
-    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-x2-digimon-asterix?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzelec"
   }
 ]
