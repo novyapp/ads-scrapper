@@ -332,7 +332,7 @@
   {
     "id": "edaf9c6b-5caa-416e-bb34-0d46634dadcd",
     "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1e57ef/67f1bcf94c2a8cd270c8f67e4cc7",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-6mk?navCategoryId=256922",
     "promoted": true,
@@ -342,7 +342,7 @@
   {
     "id": "8ab077dd-2068-45b8-9667-7087078c913e",
     "title": "Red Dead Redemption / Nintendo Switch PL",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1ee679/7ef08d89431a803fe74e7a5e20d4",
     "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-nintendo-switch-pl-utr?navCategoryId=256922",
     "promoted": true,
@@ -352,7 +352,7 @@
   {
     "id": "32853f60-720d-46fa-b5b1-f1e5da2c08c0",
     "title": "Metroid Dread Nintedo Swich",
-    "price": "155",
+    "price": "145",
     "img": "https://a.allegroimg.com/s180x180/1e793e/e71bb4a4478fbcb1fb8c08f8541c",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintedo-swich?navCategoryId=256922",
     "promoted": true,
@@ -362,7 +362,7 @@
   {
     "id": "e9686a37-0da2-4156-926e-6f557c9f02a5",
     "title": "LEGO Star Wars: The Skywalker Saga NINTENDO SWITCH PL",
-    "price": "80",
+    "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1eb795/c940c0644a7aaa11b89efa5e0b53",
     "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-nintendo-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -1800,6 +1800,16 @@
     "city": "Katowice"
   },
   {
+    "id": "a15b77e8-8c1e-4d25-81e0-8a4be309d7b6",
+    "title": "Dredge (Nintendo Switch)",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1ecaa7/ed65ccef420fb207cc1ccf7aaeb8",
+    "url": "https://allegrolokalnie.pl//oferta/dredge-nintendo-switch-qxf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Katowice"
+  },
+  {
     "id": "4f07a048-9c52-4845-832b-03aaf3c7de5f",
     "title": "Super Smash Bros Ultimate - tylko raz grane",
     "price": "199",
@@ -2850,16 +2860,6 @@
     "city": "Pionki"
   },
   {
-    "id": "ae572b18-99ea-4e9c-a162-54a47a32cb72",
-    "title": "Gothic II Complete Classic - Nintendo switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef47a/6002591f4bbdb62c3afc5ee93e84",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-v34?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa jastrząbka"
-  },
-  {
     "id": "6146e159-c18d-4e12-aa9f-2417bb7cc872",
     "title": "Nintendo switch  nowe gry razem lub osobno",
     "price": "1 300",
@@ -3590,26 +3590,6 @@
     "city": "Głogów"
   },
   {
-    "id": "b1a169d2-f33b-42c7-b060-ca7ffa6237c7",
-    "title": "LEGO Jurassic World Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/11419c/054c42e340f0aab5722242b3f8cb",
-    "url": "https://allegrolokalnie.pl//oferta/lego-jurassic-world-nintendo-switch-4s3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "b1a169d2-f33b-42c7-b060-ca7ffa6237c7",
-    "title": "LEGO Jurassic World Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/11419c/054c42e340f0aab5722242b3f8cb",
-    "url": "https://allegrolokalnie.pl//oferta/lego-jurassic-world-nintendo-switch-4s3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
     "id": "6ebf6b80-dbb7-4b5d-b791-65dc0da63b59",
     "title": "Monster Hunter Rise Edycja Kolekcjonerska Switch",
     "price": "699",
@@ -4198,6 +4178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Cieplewo"
+  },
+  {
+    "id": "ad75df46-319b-47bb-b334-b5701632a048",
+    "title": "Dragon Ball Fighterz Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e3d21/73542a9143f585e320847e3e18ab",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kielce"
   },
   {
     "id": "94dc2b8e-466b-4342-8d5a-3efff83a0c7f",
