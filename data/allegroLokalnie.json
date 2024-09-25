@@ -3000,6 +3000,26 @@
     "city": "Zakopane"
   },
   {
+    "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
+    "title": "Dziedzictwo Hogwartu / Hogwart Legacy - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef6c3/6acb25dc493d973d10af50c65f6d",
+    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-hogwart-legacy-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
     "id": "3ace27c9-e944-47a6-8ac6-58063c3f5f6f",
     "title": "Detective Pikachu Returns",
     "price": "59",
@@ -4780,26 +4800,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "b5c633d9-040b-4218-8aa5-b899f51a5331",
-    "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
-    "price": "242",
-    "img": "https://a.allegroimg.com/s180x180/1e7103/1afd8e604624b5212f4bd9617d7b",
-    "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-qcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
-    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
-    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s180x180/1ec79f/49dab71d4bad87e4bdc6b1700116",
-    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "9ee2cecd-a87c-4dc1-b4da-bca5904266c2",
     "title": "Animal Crossing Nintendo Switch",
     "price": "150",
@@ -5380,14 +5380,24 @@
     "city": "Łomża"
   },
   {
-    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
-    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
+    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
+    "title": "Animal Crossing New Horizons",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Łomża"
+    "city": "Warszawa"
+  },
+  {
+    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
+    "title": "Pokémon Sword na konsolę Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ea515/04a574904fd58a5c581058259d92",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Zacisze"
   },
   {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
@@ -5978,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kazimierz Dolny"
+  },
+  {
+    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
+    "title": "Pokemon Violet Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gaszowice"
   }
 ]
