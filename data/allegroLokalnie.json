@@ -1660,16 +1660,6 @@
     "city": "Kraków"
   },
   {
-    "id": "c8cbb764-6478-48ed-a24f-a878b20c88ef",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ed8e0/ea8e8fc64958b3c9e7e48f99dbbd",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-dpl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kwidzyn"
-  },
-  {
     "id": "d0dae727-bd95-4fc3-b10d-10a3da54cdc3",
     "title": "Tetris 99 Nintendo Switch",
     "price": "70",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bronowice Małe Wschód"
+  },
+  {
+    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
+    "title": "Luigi’s Mansion 2 HD Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
   },
   {
     "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
@@ -3600,16 +3600,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "7d7e82b3-11c9-4ab6-9038-3b0e5e36755f",
-    "title": "Nintendo Switch Demon Gaze Extra",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ee81f/797c339d417b989c510bc4c2faa3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-demon-gaze-extra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "cda52cae-bd39-4f80-93d9-390a748356ed",
     "title": "Nintendo Switch Trails of Cold Steel IV 4",
     "price": "275",
@@ -4546,7 +4536,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e3b99/d42c01064b7e920c53147e702bc5",
     "url": "https://allegrolokalnie.pl//oferta/marcel-super-heroes-2?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Wałbrzych"
   },
   {
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
+    "title": "Klonoa Phantasy Reverie Series Nowa Folia",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1ec643/3e58dfd44eeeb746ba90f0e98ce7",
+    "url": "https://allegrolokalnie.pl//oferta/klonoa-phantasy-reverie-series-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
   },
   {
     "id": "fe6517f1-3339-449a-b314-80b77927ddf9",
@@ -5330,16 +5330,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "c77e8991-3238-4c25-8586-53d03d9dc2a4",
-    "title": "Sprzedam w bardzo dobrym stanie używane gry na Nintendo switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1ef26e/4ff2cf584a958c053bbd69f0359c",
-    "url": "https://allegrolokalnie.pl//oferta/sprzedam-w-bardzo-dobrym-stanie-uzywane-gry-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
     "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "150",
@@ -5398,16 +5388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "ciechanów"
-  },
-  {
-    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
-    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e1ba4/2fa71d2641fb95228a4234ecc26e",
-    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Brzoza"
   },
   {
     "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
@@ -5756,7 +5736,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e56bd/ca3e7ecd465f85fc1717d97d5be7",
     "url": "https://allegrolokalnie.pl//oferta/gothic-ii-pl-nintendo-switch-polskie-wydanie?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wieluń"
   },
   {
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jarosław"
+  },
+  {
+    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
+    "title": "Neptunia sisters vs sisters (Nintendo switch)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e0274/84ead5234a97b4ebc8d226a62781",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
