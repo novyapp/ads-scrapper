@@ -262,7 +262,7 @@
   {
     "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
     "title": "Gry na Switcha",
-    "price": "780",
+    "price": "775",
     "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
     "promoted": true,
@@ -272,7 +272,7 @@
   {
     "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
     "title": "Gry na Switcha + steelbooki",
-    "price": "780",
+    "price": "775",
     "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
     "promoted": true,
@@ -3000,26 +3000,6 @@
     "city": "Zakopane"
   },
   {
-    "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
-    "title": "Dziedzictwo Hogwartu / Hogwart Legacy - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef6c3/6acb25dc493d973d10af50c65f6d",
-    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-hogwart-legacy-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Reda"
-  },
-  {
-    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
-    "title": "RealMyst switch nowa Limited run",
-    "price": "280",
-    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
-    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "3ace27c9-e944-47a6-8ac6-58063c3f5f6f",
     "title": "Detective Pikachu Returns",
     "price": "59",
@@ -4800,6 +4780,26 @@
     "city": "Olsztyn"
   },
   {
+    "id": "b5c633d9-040b-4218-8aa5-b899f51a5331",
+    "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
+    "price": "242",
+    "img": "https://a.allegroimg.com/s180x180/1e7103/1afd8e604624b5212f4bd9617d7b",
+    "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-qcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "1833b0ab-eee9-45d4-a8e1-f5bb4612ea26",
+    "title": "TETRIS (R) EFFECT: CONNECTED (SWITCH) EGZ NOWY, W FOLII",
+    "price": "229",
+    "img": "https://a.allegroimg.com/s180x180/1ec79f/49dab71d4bad87e4bdc6b1700116",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-egz-nowy-oan?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "9ee2cecd-a87c-4dc1-b4da-bca5904266c2",
     "title": "Animal Crossing Nintendo Switch",
     "price": "150",
@@ -5400,26 +5400,6 @@
     "city": "Warszawa, Zacisze"
   },
   {
-    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
-    "title": "Animal Crossing New Horizons",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
-    "title": "Pokémon Sword na konsolę Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ea515/04a574904fd58a5c581058259d92",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Zacisze"
-  },
-  {
     "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
     "title": "Crash Bandicoot 4: Najwyższy czas SWITCH PL",
     "price": "105",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
+  },
+  {
+    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
+    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
+    "price": "96",
+    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   }
 ]
