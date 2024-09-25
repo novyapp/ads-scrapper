@@ -130,16 +130,6 @@
     "city": "Kożuchów"
   },
   {
-    "id": "a30c58d5-96a9-4816-bb5b-3d9254a0b386",
-    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e16c9/76d0de734bd69097d0818766aaa6",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-by3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Bieżanów-Prokocim"
-  },
-  {
     "id": "ca340e53-a25a-4571-82e9-6af405713809",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "140",
@@ -588,6 +578,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ponikiew"
+  },
+  {
+    "id": "e08112f1-1b0b-4829-888b-c8740dc98cd7",
+    "title": "Skyrim Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1ead7d/98955d994b9d807c1a3d765325fb",
+    "url": "https://allegrolokalnie.pl//oferta/skyrim-nintendo-switch-buz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
@@ -1398,16 +1398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "c8a4979b-5b8a-497c-bbeb-2a0e5d4ac0c5",
-    "title": "Nintendo Switch Sport",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e278c/584f665c46cc9e55a2d0fe3a6454",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-5f6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "eb01492b-bb73-4894-a6d5-bc60aa519b00",
@@ -5390,6 +5380,16 @@
     "city": "Łomża"
   },
   {
+    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
+    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomża"
+  },
+  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -5978,15 +5978,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kazimierz Dolny"
-  },
-  {
-    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gaszowice"
   }
 ]
