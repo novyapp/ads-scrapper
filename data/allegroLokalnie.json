@@ -940,6 +940,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
+    "title": "Luigi's Mansion 3 | Nintendo Switch | Stan idealny | Szybka wysyłka |",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s180x180/1ebe16/5f37a79d4d77a11b6a1eb4c3d93a",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
     "price": "183",
@@ -1185,7 +1195,7 @@
     "price": "399",
     "img": "https://a.allegroimg.com/s180x180/1e7c7b/92628bd643a5a203887ae8eb076c",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-attack-on-titan-2?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
@@ -1388,6 +1398,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "fb31beec-a168-4860-9602-02186382f727",
+    "title": "The Legend of Zelda - Breath of the Wild [Jak nowy]",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee1d1/cc1c93444382a8bf1a357fb39254",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-jak-nowy-yjo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
+    "id": "8caffdb1-1d3f-4c5f-a561-9fcc95e147e9",
+    "title": "Luigi’s Mansion 2 HD - Nintendo Switch [Jak nowy]",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e4842/14cb156f4ec59a9fecb9d0f97da1",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-jak-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "a5bc656c-88d8-41e7-ab88-6dbd7f548631",
@@ -3598,16 +3628,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
-    "title": "Luigi's Mansion 3 | Nintendo Switch | Stan idealny | Szybka wysyłka |",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s180x180/1ebe16/5f37a79d4d77a11b6a1eb4c3d93a",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
   },
   {
     "id": "95988eb0-d339-4cfb-98bc-8ba17676dafa",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kazimierz Dolny"
-  },
-  {
-    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gaszowice"
   }
 ]
