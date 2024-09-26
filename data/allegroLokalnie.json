@@ -100,16 +100,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "aa166071-daf5-4584-abc9-1bc077df4504",
-    "title": "Streets of Rage 4 Nintendo Switch NSW najtaniej",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1ec45e/84273ec543b698997811985070e0",
-    "url": "https://allegrolokalnie.pl//oferta/streets-of-rage-4-nintendo-switch-nsw-najtaniej?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Żory"
-  },
-  {
     "id": "a79e0082-97eb-4330-b788-878a734f9e75",
     "title": "Midnight Fight Express Limited Run #232",
     "price": "380",
@@ -578,26 +568,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ponikiew"
-  },
-  {
-    "id": "e08112f1-1b0b-4829-888b-c8740dc98cd7",
-    "title": "Skyrim Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1ead7d/98955d994b9d807c1a3d765325fb",
-    "url": "https://allegrolokalnie.pl//oferta/skyrim-nintendo-switch-buz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
-    "title": "Fabraz Collection Limited Run Games Nintendo Switch UNIKAT kolekcjonerska",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e1c28/6415616d44aabd6ce0c4dd67f944",
-    "url": "https://allegrolokalnie.pl//oferta/fabraz-collection-limited-run-games-nintendo-switch-unikat-kolekcjonerska?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
   },
   {
     "id": "e08112f1-1b0b-4829-888b-c8740dc98cd7",
@@ -1430,6 +1400,36 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "24c88f40-d2e4-46f5-a315-4e7d4aed91f1",
+    "title": "Lego Marvel Super Heroes 2 - Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ea5cd/17e99d9c4a84a7fa8738297d4c09",
+    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-nintendo-switch-die?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wyszków"
+  },
+  {
+    "id": "dc17fa39-15a0-4be3-a2db-37521116b567",
+    "title": "Crash Team Racing Nitro Fueled - Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ed534/e4e627ff42ab873de1837240a22d",
+    "url": "https://allegrolokalnie.pl//oferta/crash-team-racing-nitro-fueled-nintendo-switch-xcj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wyszków"
+  },
+  {
+    "id": "9cedc642-774a-4fb1-9b3d-9e1b63607540",
+    "title": "Mario Kart 8 Deluxe na Nintendo Switch [FOLIA]",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e336d/898d409240d7b4a2d0e332392c26",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-na-nintendo-switch-frf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Stare Miasto"
+  },
+  {
     "id": "8c94917e-1b78-4c04-8ef6-e572638f9233",
     "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów na Nintendo Switch",
     "price": "79",
@@ -1932,7 +1932,7 @@
   {
     "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
     "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
-    "price": "239",
+    "price": "259",
     "img": "https://a.allegroimg.com/s180x180/1e5f2c/856645af419b9c94ed4e28c36e88",
     "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-lui?navCategoryId=256922",
     "promoted": false,
@@ -2388,6 +2388,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bronowice Małe Wschód"
+  },
+  {
+    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
+    "title": "Luigi’s Mansion 2 HD Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
+  },
+  {
+    "id": "d99fb353-760e-466d-857e-703e5341561b",
+    "title": "Assassins Creed 3 remastered Nintendo switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1e203f/dc79118747adb42563be95646c4e",
+    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-3-remastered-nintendo-switch-rma?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
   },
   {
     "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
@@ -2968,26 +2988,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
-    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/11655f/c6a25f81443f87e3ba4e80d6f1ce",
-    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
-    "title": "Bravely Default II (Switch)",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
-    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
   },
   {
     "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   }
 ]
