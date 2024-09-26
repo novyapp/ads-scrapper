@@ -300,26 +300,6 @@
     "city": "Warszawa, Ursus"
   },
   {
-    "id": "670848c8-58f0-4dfe-a7f6-94d0e57e9e1a",
-    "title": "Gry na Switcha",
-    "price": "700",
-    "img": "https://a.allegroimg.com/s180x180/1ecdef/1e4880f24e81a85730c1725e1910",
-    "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-c64?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Praszka"
-  },
-  {
-    "id": "76529c12-a252-4d47-b95a-6b6234df3a0d",
-    "title": "Gry na Switcha + steelbooki",
-    "price": "700",
-    "img": "https://a.allegroimg.com/s180x180/1e2606/ba62cdc84c529756195363c48bfa",
-    "url": "https://allegrolokalnie.pl//oferta/gry-na-switcha-steelbooki?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Praszka"
-  },
-  {
     "id": "60432ad6-2bcf-4b84-9f6d-308c654ee824",
     "title": "Gra Nintendo Switch The Legends of Zelda: Breath of the Wild",
     "price": "129",
@@ -598,6 +578,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ponikiew"
+  },
+  {
+    "id": "e08112f1-1b0b-4829-888b-c8740dc98cd7",
+    "title": "Skyrim Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1ead7d/98955d994b9d807c1a3d765325fb",
+    "url": "https://allegrolokalnie.pl//oferta/skyrim-nintendo-switch-buz?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
+    "title": "Fabraz Collection Limited Run Games Nintendo Switch UNIKAT kolekcjonerska",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e1c28/6415616d44aabd6ce0c4dd67f944",
+    "url": "https://allegrolokalnie.pl//oferta/fabraz-collection-limited-run-games-nintendo-switch-unikat-kolekcjonerska?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "e08112f1-1b0b-4829-888b-c8740dc98cd7",
@@ -1900,16 +1900,6 @@
     "city": "OLKUSZ"
   },
   {
-    "id": "557f96c9-611b-4baf-9cb0-704454864061",
-    "title": "Paper Mario: The Thousand-Year Door",
-    "price": "168",
-    "img": "https://a.allegroimg.com/s180x180/1e9cb7/929ceb1643199a28e795aa982f0f",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-m2l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "OLKUSZ"
-  },
-  {
     "id": "22b3dfde-0892-4add-8525-861528344f12",
     "title": "Daemon x Machina Soundtrack Selection Nintendo Switch OST",
     "price": "75",
@@ -1942,7 +1932,7 @@
   {
     "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
     "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
-    "price": "265",
+    "price": "239",
     "img": "https://a.allegroimg.com/s180x180/1e5f2c/856645af419b9c94ed4e28c36e88",
     "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-lui?navCategoryId=256922",
     "promoted": false,
@@ -2398,26 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bronowice Małe Wschód"
-  },
-  {
-    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
-    "title": "Luigi’s Mansion 2 HD Nintendo switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "d99fb353-760e-466d-857e-703e5341561b",
-    "title": "Assassins Creed 3 remastered Nintendo switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1e203f/dc79118747adb42563be95646c4e",
-    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-3-remastered-nintendo-switch-rma?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
   },
   {
     "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
@@ -2998,6 +2968,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
+    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/11655f/c6a25f81443f87e3ba4e80d6f1ce",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   },
   {
     "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
