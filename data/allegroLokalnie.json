@@ -600,6 +600,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
+    "title": "Splatoon 3 - Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7340/370ff85c4ad99effe2f954ab21db",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-txh?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Gliwice"
+  },
+  {
     "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
     "title": "Super Mario RPG - Gadżety - Switch",
     "price": "19",
@@ -1185,16 +1195,6 @@
     "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e18fd/e090958d466f99e2eba6651ccf6f",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "72ab5411-bcaa-4d55-9ab4-584169e09ced",
-    "title": "Nintendo Switch Infinity Strash Dragon Quest The Adventure of Dai",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1edc88/06eed94543abbe0b2776e233c1bb",
-    "url": "https://allegrolokalnie.pl//oferta/infinity-strash-dragon-quest-the-adventure-of-dai-l3n?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -1798,6 +1798,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
+  },
+  {
+    "id": "4c765f42-0d9f-416f-a260-70595eb6e02a",
+    "title": "Dark souls remastered",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1ee222/4470a57143159887d695980b9275",
+    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-wpo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
   },
   {
     "id": "d112fa7b-9496-4ce4-9083-84a10e1e4986",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
-  },
-  {
-    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   }
 ]
