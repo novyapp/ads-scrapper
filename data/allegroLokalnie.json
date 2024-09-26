@@ -720,16 +720,6 @@
     "city": "Zalas"
   },
   {
-    "id": "b9baa114-87f0-4aa4-9c03-281d66fca179",
-    "title": "Gra Just Dance 2022 Nintendo switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1ee757/59281af040ddaa58467e01a446f0",
-    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2022-nintendo-switch-cu5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ruda Śląska"
-  },
-  {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
     "title": "WarioWare: Get It Together! NINTENDO Switch",
     "price": "120",
@@ -1200,14 +1190,14 @@
     "city": "JAWORZE"
   },
   {
-    "id": "f53fc55f-f5d1-4463-9939-435b4971cb22",
-    "title": "Gra SUPER MARIO ODYSSEY Nintendo switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e9be2/1f880a4b470d9349cbb28229bf20",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
-    "promoted": true,
+    "id": "b9baa114-87f0-4aa4-9c03-281d66fca179",
+    "title": "Gra Just Dance 2022 Nintendo switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ee757/59281af040ddaa58467e01a446f0",
+    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2022-nintendo-switch-cu5?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
-    "city": "JAWORZE"
+    "city": "Ruda Śląska"
   },
   {
     "id": "053b46fc-3448-418d-9e0d-9181c03a9ce9",
@@ -1795,6 +1785,16 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1eaa2e/833741be48c5a62d737268009dda",
     "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-to5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grabiny-Zameczek"
+  },
+  {
+    "id": "4e40a5fe-d28c-43bd-b768-6b08b0b3f741",
+    "title": "Ryan Rescue Squad Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e3795/ea62a4fa4ebab28e100097c63835",
+    "url": "https://allegrolokalnie.pl//oferta/ryan-rescue-squad-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Grabiny-Zameczek"
