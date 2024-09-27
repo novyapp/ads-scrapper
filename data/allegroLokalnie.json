@@ -20,16 +20,6 @@
     "city": "Tyniec Mały"
   },
   {
-    "id": "9f068cad-6e24-4973-b110-47714e4cf3e8",
-    "title": "Mario Kart 8 Deluxe",
-    "price": "133",
-    "img": "https://a.allegroimg.com/s180x180/1e4b1d/d34c91394ad186f9247b7d53861c",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-po6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Tyniec Mały"
-  },
-  {
     "id": "58f8247d-1767-4dd5-9feb-573b89cd6034",
     "title": "Super Mario Odyssey",
     "price": "111",
@@ -1800,16 +1790,6 @@
     "city": "Grabiny-Zameczek"
   },
   {
-    "id": "92e89e04-deac-4654-a062-a39bce87bf48",
-    "title": "Rayman Legends Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eff03/d077173c4469a907d8509e63daf4",
-    "url": "https://allegrolokalnie.pl//oferta/rayman-legends-nintendo-switch-nv4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Domaszczyn"
-  },
-  {
     "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
     "title": "Super mario 3d world + bowsers fury",
     "price": "159",
@@ -1962,7 +1942,7 @@
   {
     "id": "8a475ba9-4aea-430a-ab9c-56d304421513",
     "title": "It takes two Nintendo Switch",
-    "price": "110",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e883f/01fd97eb4e8794828608a30d51a5",
     "url": "https://allegrolokalnie.pl//oferta/it-takes-two-nintendo-switch-57h?navCategoryId=256922",
     "promoted": false,
@@ -2395,6 +2375,16 @@
     "price": "327",
     "img": "https://a.allegroimg.com/s180x180/1e2d6f/4823531541ba8eb1e7d8fb445095",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-3d-all-stars-tylko-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rąbień"
+  },
+  {
+    "id": "c8c5d3c5-95cc-4f42-905e-37b195ac689d",
+    "title": "Nintendo Switch  Mario Kart 8 ... tylko kartridż",
+    "price": "177",
+    "img": "https://a.allegroimg.com/s180x180/1e11a4/4d2d3f0143068f06edb550dccbdd",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-tylko-kartridz-rwz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rąbień"
