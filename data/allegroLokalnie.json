@@ -592,12 +592,22 @@
   {
     "id": "a92099a9-c5c7-4383-9d4d-bf48ec29891a",
     "title": "Super Mario 3D All-Stars - Nintendo Switch ANG",
-    "price": "329",
+    "price": "349",
     "img": "https://a.allegroimg.com/s180x180/1e9c89/6fd60aa545cfa54d463f3f43d154",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-trzy-kultowe-gry-na-nintendo-switch-ang?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Krzyki"
+  },
+  {
+    "id": "abb8550f-7f9f-4013-bfa5-e39cac117f95",
+    "title": "Emio – The Smiling Man: Famicom Detective Club Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e0e4e/79e897434122905788c16ff33fef",
+    "url": "https://allegrolokalnie.pl//oferta/emio-the-smiling-man-famicom-detective-club-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Otwock"
   },
   {
     "id": "fc8d769e-13ff-4c3c-91dc-c9b331ba6b1c",
@@ -1200,16 +1210,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
-    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
-    "price": "239",
-    "img": "https://a.allegroimg.com/s180x180/1ee722/85e4224c422ba41dc338dd4c24f3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "c2aaeeec-eb72-43ea-b1ab-3fd226cf4f4c",
     "title": "Gothic II Complete Classic PL Nintendo Switch",
     "price": "150",
@@ -1370,6 +1370,16 @@
     "city": "Kraków"
   },
   {
+    "id": "da1b0abd-e317-4552-8c5b-13a32350b3e0",
+    "title": "Bayonetta 3 Trinity Masquerade Edition switch",
+    "price": "444",
+    "img": "https://a.allegroimg.com/s180x180/1e1f47/aa2888214764ae68cf15eaaadd60",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nintendo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ruszkowice"
+  },
+  {
     "id": "2d98845f-ac51-40cd-b6e5-79e765ce8e05",
     "title": "Naruto Shippuden Ultimate Ninja 4 Nintendo Switch",
     "price": "129",
@@ -1378,16 +1388,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "01c58139-6ea3-4c99-8183-fbc3eaf0fe59",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e0a5b/cc37c5ad44db953eb5c2bf6ca032",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-jhq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "619100ec-9008-464a-80c0-c6d30fb819bd",
@@ -3590,16 +3590,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "cda52cae-bd39-4f80-93d9-390a748356ed",
-    "title": "Nintendo Switch Trails of Cold Steel IV 4",
-    "price": "275",
-    "img": "https://a.allegroimg.com/s180x180/1e790b/43b0196843329a6887ac637d0565",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trails-of-cold-steel-iv-4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "95988eb0-d339-4cfb-98bc-8ba17676dafa",
     "title": "Nintendo Switch Nightmare Reaper - Super Rare Games",
     "price": "480",
@@ -4188,6 +4178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
+    "title": "Pokemon Shield Switch + Expansion Pass",
+    "price": "599",
+    "img": "https://a.allegroimg.com/s180x180/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowiny"
   },
   {
     "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
@@ -5390,16 +5390,6 @@
     "city": "Ruda Śląska, Ruda"
   },
   {
-    "id": "ca82e866-2c23-42eb-b0b5-798e1d666c47",
-    "title": "Ni no Kuni 1 na Nintendo Switch (japońskie)",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e7d67/39848e2d4bc288e92509f4ca7e1c",
-    "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-1-na-nintendo-switch-japonskie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ruda Śląska, Ruda"
-  },
-  {
     "id": "7303f18f-05ec-4dcc-be29-3c4134cc29f6",
     "title": "Persona 5 Royal na Nintendo Switch (japońskie)",
     "price": "100",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
+    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/115fb4/0d50466a42aaaeb7d29a3dde2673",
+    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Groblice"
+  },
+  {
+    "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
+    "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/117c74/caf8d2594f7381d70af4296a86a1",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Groblice"
   }
 ]
