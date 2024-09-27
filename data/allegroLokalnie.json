@@ -890,26 +890,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
-    "title": "Hyrule Warriors: Age of Calamity Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ee2dc/29cef63e4b1b924983d7fcec1cf8",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-jf7?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
-    "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
-    "title": "SONIC COLOURS ULTIMATE / SWITCH",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1ea903/08635f01498fadb8a63b9fadd5ff",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-switch-zzz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
     "id": "91dfd91b-1b93-4721-8bcd-5a5a8be02db4",
     "title": "The Legend of Zelda - Breath of the Wild Switch",
     "price": "185",
@@ -1198,6 +1178,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "JAWORZE"
+  },
+  {
+    "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
+    "title": "Hyrule Warriors: Age of Calamity Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ee2dc/29cef63e4b1b924983d7fcec1cf8",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-jf7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz, Kochanowskiego"
+  },
+  {
+    "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
+    "title": "SONIC COLOURS ULTIMATE / SWITCH",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1ea903/08635f01498fadb8a63b9fadd5ff",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-switch-zzz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz, Kochanowskiego"
   },
   {
     "id": "f5cde7e4-8178-4d1f-99a5-1a7211e3fc82",
@@ -4190,6 +4190,16 @@
     "city": "Piaseczno"
   },
   {
+    "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
+    "title": "Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e15c3/66e6f8184de5b466920e3e0e9e14",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-6om?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "4c8abe9b-f65e-40c8-bcdc-f798c53411ea",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "180",
@@ -4778,16 +4788,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "76a71474-6763-40e2-9f12-2931073baf47",
-    "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
-    "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
   },
   {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
+    "title": "Metroid Prime Remastered (Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e1fe2/7fb339b04406b6886bc2091e9aac",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
