@@ -50,16 +50,6 @@
     "city": "Bielsko-Biała"
   },
   {
-    "id": "5947f8e2-985e-4657-a9b1-92654a4c0233",
-    "title": "Star Ocean The Second Story R Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e8ca0/c32ef6cb496991552723716d2bd7",
-    "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-switch-vsv?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tuszów Narodowy"
-  },
-  {
     "id": "24c5963d-5aa2-4b63-83f0-2bcae2a1fa3e",
     "title": "Monster Hunter Rise Nintendo Switch",
     "price": "98",
@@ -510,16 +500,6 @@
     "city": "Domaszczyn"
   },
   {
-    "id": "e7c7a55c-2225-49ac-9979-6b17c675c189",
-    "title": "POKEMON LEGENDS ARCEUS | BARDZO DOBRY",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ebafd/f0c8ac004e39a0a627e6aa066b17",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-or-nowe?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wolbórz"
-  },
-  {
     "id": "d8486b49-47d2-45a7-a439-c4af8c1b10a8",
     "title": "Starlink: Battle For Atlas [gra Switch]",
     "price": "100",
@@ -598,6 +578,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
+    "title": "Fabraz Collection Limited Run Games Nintendo Switch UNIKAT kolekcjonerska",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e1c28/6415616d44aabd6ce0c4dd67f944",
+    "url": "https://allegrolokalnie.pl//oferta/fabraz-collection-limited-run-games-nintendo-switch-unikat-kolekcjonerska?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
+    "title": "Animal Crossing: New Horizons - Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Gliwice"
   },
   {
     "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
@@ -1195,26 +1195,6 @@
     "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e18fd/e090958d466f99e2eba6651ccf6f",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "72ab5411-bcaa-4d55-9ab4-584169e09ced",
-    "title": "Nintendo Switch Infinity Strash Dragon Quest The Adventure of Dai",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1edc88/06eed94543abbe0b2776e233c1bb",
-    "url": "https://allegrolokalnie.pl//oferta/infinity-strash-dragon-quest-the-adventure-of-dai-l3n?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "d6c08776-ace0-45ea-8200-e6f7e2de11a4",
-    "title": "Nintendo Switch SaGa Scarlet Grace Ambitions",
-    "price": "239",
-    "img": "https://a.allegroimg.com/s180x180/1ee722/85e4224c422ba41dc338dd4c24f3",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-ll2?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -3620,6 +3600,26 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "521c3c6a-c23f-46d6-8dd9-9c847d8a1188",
+    "title": "Nintendo Switch PJ Masks Heroes of the Night",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1ebc42/f64618fa4740adbfdc5b929fcf3b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pj-masks-heroes-of-the-night?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "ed7425b8-a3ba-4487-a908-b6a28b7b77fc",
+    "title": "Nintendo Switch Happy Birthdays",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e25de/c3055cea41ad85d3f4ccbe081d28",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-happy-birthdays?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "9032fa75-73d4-4fbb-ad0e-df7912a9456f",
     "title": "Nintendo Switch Croixleur Sigma",
     "price": "125",
@@ -5400,26 +5400,6 @@
     "city": "Brzoza"
   },
   {
-    "id": "17c6f368-d59b-4607-9d83-38bae57c01c0",
-    "title": "LEGO Star Wars The Skywalker Saga | Nintendo Switch | PL",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e2a2a/8c2d1c02408ba7d1a52824333e41",
-    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-the-skywalker-saga-or-nintendo-switch-or-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
-    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
-    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
+    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e351a/585e0e1e4525a7e4690c7f940f62",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kazimierz Dolny"
+  },
+  {
+    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
+    "title": "Pokemon Violet Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gaszowice"
   }
 ]
