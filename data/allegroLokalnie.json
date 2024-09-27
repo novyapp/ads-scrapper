@@ -460,16 +460,6 @@
     "city": "Gorzów Wielkopolski"
   },
   {
-    "id": "edaf9c6b-5caa-416e-bb34-0d46634dadcd",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e57ef/67f1bcf94c2a8cd270c8f67e4cc7",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-6mk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Oleśnica"
-  },
-  {
     "id": "8ab077dd-2068-45b8-9667-7087078c913e",
     "title": "Red Dead Redemption / Nintendo Switch PL",
     "price": "170",
@@ -668,46 +658,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Kamionki, Osiedle Azaliowe"
-  },
-  {
-    "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
-    "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
-    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "0fe85655-37c0-4935-9219-d0b8cdac135a",
-    "title": "ADVANCE WARS 1+2: RE-BOOT CAMP - NINTENDO SWITCH, JAK NOWA",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e407f/b81d811843d68602e2e47da772d8",
-    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "cd5c34db-69e9-4184-8190-9c6756f79f33",
-    "title": "PRINCE OF PERSIA: THE LOST CROWN - NINTENDO SWITCH, JAK NOWA",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "11a7d225-e462-4e94-8d33-b9931618b659",
-    "title": "Xenoblade Chronicles 3 Nintendo Switch bez pudełka",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1eadaf/4d98b4c44badbdfd1208c60ea662",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-bez-pudelka?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "cd4c11d6-230c-4acb-b773-c665acde93b3",
@@ -1238,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
+    "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
+    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
@@ -1790,16 +1750,6 @@
     "city": "Kraków"
   },
   {
-    "id": "d112fa7b-9496-4ce4-9083-84a10e1e4986",
-    "title": "nintendo switch the legend of zelda",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ee1ce/a79ce5e14537928e7639419a45bd",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-xpo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "823447e8-ddcc-4620-8e58-0214de06a2e0",
     "title": "nintendo switch splatoon 2",
     "price": "129",
@@ -2038,6 +1988,36 @@
     "promoted": false,
     "smartPost": false,
     "city": "lublin"
+  },
+  {
+    "id": "0fe85655-37c0-4935-9219-d0b8cdac135a",
+    "title": "ADVANCE WARS 1+2: RE-BOOT CAMP - NINTENDO SWITCH, JAK NOWA",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e407f/b81d811843d68602e2e47da772d8",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "cd5c34db-69e9-4184-8190-9c6756f79f33",
+    "title": "PRINCE OF PERSIA: THE LOST CROWN - NINTENDO SWITCH, JAK NOWA",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "11a7d225-e462-4e94-8d33-b9931618b659",
+    "title": "Xenoblade Chronicles 3 Nintendo Switch bez pudełka",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1eadaf/4d98b4c44badbdfd1208c60ea662",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-bez-pudelka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "e431c133-e0f9-4662-aee4-c2a82f38f789",
@@ -2388,6 +2368,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bronowice Małe Wschód"
+  },
+  {
+    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
+    "title": "Luigi’s Mansion 2 HD Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
+  },
+  {
+    "id": "d99fb353-760e-466d-857e-703e5341561b",
+    "title": "Assassins Creed 3 remastered Nintendo switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1e203f/dc79118747adb42563be95646c4e",
+    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-3-remastered-nintendo-switch-rma?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
   },
   {
     "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
@@ -3578,16 +3578,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "3c3b1448-5a59-47ba-b213-83d335da839c",
-    "title": "Farming simulator 20 Nintendo Switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1e6375/9b91f07d473d97b9a4310bacb56f",
-    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-20-nintendo-switch-ch3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Dzikowo Chrapy, Chrapy"
   },
   {
     "id": "3c3b1448-5a59-47ba-b213-83d335da839c",
@@ -4792,7 +4782,7 @@
   {
     "id": "3fd76805-3d8a-4425-8218-06e5841bcbab",
     "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
-    "price": "327",
+    "price": "367",
     "img": "https://a.allegroimg.com/s180x180/1eee3e/714b42e04c98890f26be54052efb",
     "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-zux?navCategoryId=256922",
     "promoted": false,
@@ -5985,6 +5975,26 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s180x180/115fb4/0d50466a42aaaeb7d29a3dde2673",
     "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Groblice"
+  },
+  {
+    "id": "13acca35-c58f-4c5f-8470-15d7dcbbb821",
+    "title": "switch GEAR CLUB UNLIMITED 2 wyścigi kardridż unikat",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/117c74/caf8d2594f7381d70af4296a86a1",
+    "url": "https://allegrolokalnie.pl//oferta/switch-gear-club-unlimited-2-wyscigi-kardridz-unikat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Groblice"
+  },
+  {
+    "id": "1abb67a9-eca3-42e6-b18b-e5a794b0d8c2",
+    "title": "switch HELLO NEIGHBOR 2 EDYCJA KOLEKCJONERSKA po polsku kardridż BIG BOX",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/11356b/3049b82f49b0940f6fdd064faedc",
+    "url": "https://allegrolokalnie.pl//oferta/switch-hello-neighbor-2-edycja-kolekcjonerska-po-polsku-kardridz-big-box?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
