@@ -300,16 +300,6 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "2f231cc9-a649-4c1b-91c8-8f2b4512cbbc",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1edf12/9412b96d4437a98e7e4c43358f5f",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-65i?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "1038ca24-2f18-4d20-9673-ba486914398f",
     "title": "Super Mario 3D World + Bowsers Fury",
     "price": "175",
@@ -1200,16 +1190,6 @@
     "city": "JAWORZE"
   },
   {
-    "id": "053b46fc-3448-418d-9e0d-9181c03a9ce9",
-    "title": "Nintendo Switch Attack on Titan 2",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1e7c7b/92628bd643a5a203887ae8eb076c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-attack-on-titan-2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "9eab889c-fd6a-4de1-b421-089d315b3672",
     "title": "Nintendo Switch Dragon Marked for Death",
     "price": "155",
@@ -1660,16 +1640,6 @@
     "city": "Wrocław, Fabryczna"
   },
   {
-    "id": "eb01492b-bb73-4894-a6d5-bc60aa519b00",
-    "title": "Void Bastards Nintendo Switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1eb0cb/fc5740f341e29b11c7724ed270e9",
-    "url": "https://allegrolokalnie.pl//oferta/void-bastards-nintendo-switch-zrf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "600f604f-4e36-49b4-b07e-f0406dfd85e8",
     "title": "Wiedźmin 3 dziki gon po polsku Nintendo Switch",
     "price": "240",
@@ -1695,16 +1665,6 @@
     "price": "209",
     "img": "https://a.allegroimg.com/s180x180/1e77c6/dba155c446358ab2bb0df9960f86",
     "url": "https://allegrolokalnie.pl//oferta/hades-na-nintendo-switch-stan-bdb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "4895f955-579d-4423-b047-f774d7e5f880",
-    "title": "Celeste na Nintendo Switch- stan idealny!",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e2d8d/6dbe901d4611b9d567fdf2122a4a",
-    "url": "https://allegrolokalnie.pl//oferta/celeste-na-nintendo-switch-stan-idealny?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
@@ -3018,16 +2978,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
-  },
-  {
-    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
-    "title": "Switch Splatoon 2 ... OKAZJA",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e18b5/8af26a3847f588978a95e6af8c35",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   },
   {
     "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
@@ -5998,5 +5948,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
+    "title": "Super Mario 3d All Stars Nintendo Switch",
+    "price": "370",
+    "img": "https://a.allegroimg.com/s180x180/1e7e4a/fc9466904853975ebfc40b7d319d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "2c849131-86de-4420-8994-e9a75d36900f",
+    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
+  },
+  {
+    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
+    "title": "Neptunia sisters vs sisters (Nintendo switch)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e0274/84ead5234a97b4ebc8d226a62781",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
