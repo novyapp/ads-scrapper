@@ -412,7 +412,7 @@
   {
     "id": "1804d2b8-512b-49b4-be8d-7b0fc0936eca",
     "title": "The Legend of Zelda - Breath of the Wild Nintendo Switch",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1e35f9/96c0c9fd48828e4a477aaa4b55dd",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-prk?navCategoryId=256922",
     "promoted": true,
@@ -948,6 +948,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
+    "title": "Grandia HD Collection Switch ANG",
+    "price": "339",
+    "img": "https://a.allegroimg.com/s180x180/1e4efd/95afc69647a8b5a221ac34a97132",
+    "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "dda7b984-0189-4a38-a73b-ed52672729db",
@@ -2390,16 +2400,6 @@
     "city": "Rąbień"
   },
   {
-    "id": "d0420b96-3195-4ac2-85a8-a7c5b10f03d1",
-    "title": "Nintendo Switch Sports + opaska na nogę",
-    "price": "157",
-    "img": "https://a.allegroimg.com/s180x180/1e706f/ac8861674838a303a6d8a5a70c46",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-opaska-na-noge-bbs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
     "id": "9ac34201-31e9-4b1c-a303-d5dabb4daf53",
     "title": "CAPTAIN TOAD Treasure Tracker gra Nintendo Switch",
     "price": "150",
@@ -3600,6 +3600,16 @@
     "city": "Dzikowo Chrapy, Chrapy"
   },
   {
+    "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
+    "title": "Grandia HD Collection Switch ANG",
+    "price": "339",
+    "img": "https://a.allegroimg.com/s180x180/1e4efd/95afc69647a8b5a221ac34a97132",
+    "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "7b812ff9-2d89-408b-866d-04f31e778ccc",
     "title": "Crash Team Racing CTR",
     "price": "50",
@@ -3948,16 +3958,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
-    "title": "Grandia HD Collection Switch ANG",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s180x180/1e4efd/95afc69647a8b5a221ac34a97132",
-    "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
@@ -5400,16 +5400,6 @@
     "city": "Czarnów"
   },
   {
-    "id": "0d1d0751-4a41-4334-8f95-077bf84aa50c",
-    "title": "Monster Hunter Rise + Steelbook",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e5a63/a5b93d6f4b888daddabbc13b3c5c",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-steelbook-isr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czarnów"
-  },
-  {
     "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
     "title": "Gra Nintendo super Mario deluxe",
     "price": "160",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
+  },
+  {
+    "id": "86483009-87bd-49d8-a194-39afde739c60",
+    "title": "Metal Max Xeno Reborn - Swith",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e16eb/241381cf419a8d887deffb786f6a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-max-xeno-reborn-swith?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Głogów"
   }
 ]
