@@ -230,16 +230,6 @@
     "city": "IZABELA"
   },
   {
-    "id": "4a10ddef-a642-4343-8aa4-6706e93716f3",
-    "title": "Hogwarts Legacy Nintendo Switch Dziedzictwo Hogwartu",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ea4c9/0f4c3e454f2b9942a345148a3e3d",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-dziedzictwo-hogwartu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Oświęcim"
-  },
-  {
     "id": "8a75e831-d3bd-4af4-a412-2189816d4784",
     "title": "The Legend of Zelda Tears of the Kingdom",
     "price": "178",
@@ -708,6 +698,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Seroczyn"
+  },
+  {
+    "id": "a48061b8-533c-4509-ab93-2b2a0e09e54b",
+    "title": "Pokemon Violet Gra Nintendo Switch Nowa",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e2b78/ce6ba12d4ffe989ee55ecd59c91f",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-gra-nintendo-switch-nowa-rx2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wałbrzych"
   },
   {
     "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
@@ -1410,6 +1410,26 @@
     "city": "Białystok"
   },
   {
+    "id": "9825844d-aacf-4abf-956a-32fd08eb7cea",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e5c25/57a16282434b940efeb636df3374",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-ipk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
+    "id": "2ffd6418-8825-48b3-a35e-4bda7ff3a047",
+    "title": "Super Mario Oddysey - Nintendo Switch",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1e2afe/9d35a6744e508d05849bc91db0c3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-oddysey-nintendo-switch-ahg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
     "id": "12ca9721-ce4e-46b2-abf3-7fefce0d8a89",
     "title": "Terraria - Nintendo Switch",
     "price": "185",
@@ -1750,16 +1770,6 @@
     "city": "Kwidzyn"
   },
   {
-    "id": "7dcc89c3-9402-40c8-8b9c-08d36a393c58",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e6077/1fcadefa4a7eaf19d4c4484b6aa5",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-y3u?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kwidzyn"
-  },
-  {
     "id": "936ab8d4-635a-4b18-aca1-f55d8db33d34",
     "title": "My Riding Stables Nintendo Switch",
     "price": "70",
@@ -1962,7 +1972,7 @@
   {
     "id": "672f31d1-df64-44c4-9133-70ca3cff8421",
     "title": "UNDERTALE (SWITCH) + ARTBOOK // WYD US, EGZ NOWY, W FOLII",
-    "price": "469",
+    "price": "498",
     "img": "https://a.allegroimg.com/s180x180/1ec046/5e31a30c4aa8a7889f20f0627302",
     "url": "https://allegrolokalnie.pl//oferta/undertale-artbook-switch-wyd-us-egz-nowy-w-folii-v3d?navCategoryId=256922",
     "promoted": false,
@@ -2218,16 +2228,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jarocin"
-  },
-  {
-    "id": "a48061b8-533c-4509-ab93-2b2a0e09e54b",
-    "title": "Pokemon Violet Gra Nintendo Switch Nowa",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e2b78/ce6ba12d4ffe989ee55ecd59c91f",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-gra-nintendo-switch-nowa-rx2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wałbrzych"
   },
   {
     "id": "44b3fccf-55ad-4132-a3e9-c57527ea4ca7",
@@ -4162,7 +4162,7 @@
   {
     "id": "e3da87b8-1582-4ee9-b446-10ef5db87596",
     "title": "Ultra Street Fighter II: The Final Challengers",
-    "price": "79",
+    "price": "69",
     "img": "https://a.allegroimg.com/s180x180/1eb5f1/7ae5d9b2455ca6e610caf3d96302",
     "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-ii-the-final-challengers-zr2?navCategoryId=256922",
     "promoted": false,
