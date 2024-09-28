@@ -76,7 +76,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e6aff/3375c571493d966bdcb72b7a486a",
     "url": "https://allegrolokalnie.pl//oferta/expeditions-a-mudrunner-game-nintendo-switch-wxn?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Koszalin"
   },
   {
@@ -710,6 +710,16 @@
     "city": "Seroczyn"
   },
   {
+    "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
+    "title": "Super Mario 3D All Stars",
+    "price": "599",
+    "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
     "title": "WarioWare: Get It Together! NINTENDO Switch",
     "price": "120",
@@ -896,7 +906,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ebc3c/0673e7ec4819a45799eafd9a34aa",
     "url": "https://allegrolokalnie.pl//oferta/need-for-speed-hot-pursuit-remastered-nintendo-switch-ek5?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -906,7 +916,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e869f/f8f46d0b4af3ac65f1dedd00534b",
     "url": "https://allegrolokalnie.pl//oferta/ultra-street-fighter-2-the-final-challange-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -916,7 +926,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e9858/3a3879c74d42a898b5fcb0ef484e",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-editio-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -926,7 +936,7 @@
     "img": "https://a.allegroimg.com/s180x180/1efc83/0ce3e5f94246903f542013ff83cf",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-5-gier-na-nintendo-switch-6iu?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -1016,7 +1026,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea8a6/df4885f7402a940da7366c78969a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-y3l?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -1236,7 +1246,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eadc1/cf75ae8649a3b91c3c6b6c91a475",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-pic?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -1266,7 +1276,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e5aab/45a4d9174d618a16bbbebae3a8cc",
     "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nowa-folia-gadzety?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -1286,7 +1296,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ec70b/899e7568413fb08cc7ba5f438661",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-3-gier-na-nintendo-switch-s4l?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -1336,7 +1346,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e269f/7982dfc948e2ad7e1ab9d5b4da18",
     "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-rr7?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Węgrzce Wielkie"
   },
   {
@@ -1586,7 +1596,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e97c1/0ab85cd441afb8b86f4359234b63",
     "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-na-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Gdańsk"
   },
   {
@@ -1596,7 +1606,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e8e9f/85362a39424bb1848f11bc82afb9",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-na-nintendo-switch-uzywana-stan-idealny?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Gdańsk"
   },
   {
@@ -1606,7 +1616,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eba23/ead36026492cb139e5402e444f41",
     "url": "https://allegrolokalnie.pl//oferta/dead-cells-na-nintendo-switch-uzywana-stan-idealny?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Gdańsk"
   },
   {
@@ -1788,16 +1798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Grabiny-Zameczek"
-  },
-  {
-    "id": "92e89e04-deac-4654-a062-a39bce87bf48",
-    "title": "Rayman Legends Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eff03/d077173c4469a907d8509e63daf4",
-    "url": "https://allegrolokalnie.pl//oferta/rayman-legends-nintendo-switch-nv4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Domaszczyn"
   },
   {
     "id": "92e89e04-deac-4654-a062-a39bce87bf48",
@@ -3716,7 +3716,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ebd94/9a0d2ded41deb1ecd2a9355ff305",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-shining-pearl-stelbook-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Kielce, Kielce"
   },
   {
