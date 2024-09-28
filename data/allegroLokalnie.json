@@ -680,16 +680,6 @@
     "city": "Gliwice"
   },
   {
-    "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
-    "title": "Super Mario RPG - Gadżety - Switch",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1ee457/f9fb72e64272922750f227faf724",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-q2c?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
     "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
     "price": "185",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
+    "title": "Super Mario RPG - Gadżety - Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1ee457/f9fb72e64272922750f227faf724",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-q2c?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
