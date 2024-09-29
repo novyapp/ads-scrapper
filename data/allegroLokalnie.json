@@ -1550,6 +1550,16 @@
     "city": "Białystok"
   },
   {
+    "id": "a3e2202c-f290-4b3c-87bc-699c3c09e9f5",
+    "title": "Fire Emblem Three Houses Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e41b7/1afc90c341999dd8b828ba450f43",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-nintendo-switch-q45?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kalisz"
+  },
+  {
     "id": "d88b4883-abc3-485b-b065-33f8e358a3ae",
     "title": "Pokemon Sword Nintendo Switch",
     "price": "199",
@@ -1790,14 +1800,24 @@
     "city": "Tarnowskie Góry"
   },
   {
-    "id": "cd4e8dd2-a1d6-4685-a90c-eed773ae88d5",
-    "title": "Super Mario Bros Wonder Nintendo",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e649a/efdc88514dc680a6de4f20d4001d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo?navCategoryId=256922",
+    "id": "619100ec-9008-464a-80c0-c6d30fb819bd",
+    "title": "Pokémon Scarlet Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1ecd78/dabacc604995992c2389b3790b44",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-kra?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
+    "smartPost": false,
+    "city": "Bolesławiec"
+  },
+  {
+    "id": "6c3df4ef-7126-496d-b4f6-d425807255fb",
+    "title": "The Legend of Zelda Tears of The Kingdom Edycja Kolekcjonerska Switch",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s180x180/1eb71f/bf35dc594caebc628446855f768d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zabrze"
   },
   {
     "id": "6eb99395-46f7-41c7-87f0-ee8c3bbb84e4",
@@ -2378,26 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "lublin"
-  },
-  {
-    "id": "a3d8e088-8b10-46c9-9f85-fb976d492712",
-    "title": "Pokémon brillant diamond",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e0fc9/985e31ec42a69dbf77eb79b737eb",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brillant-diamond-cua?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "lublin"
-  },
-  {
-    "id": "68cad325-44b2-4b36-8679-12548318b007",
-    "title": "DC Justice League Cosmic Chaos PL Nintendo Switch",
-    "price": "74",
-    "img": "https://a.allegroimg.com/s180x180/1e697d/337e2a454f2a978a646821e0f354",
-    "url": "https://allegrolokalnie.pl//oferta/dc-justice-league-cosmic-chaos-pl-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kamionki, Osiedle Azaliowe"
   },
   {
     "id": "6daa4692-760d-44f8-a9db-1d6898861684",
@@ -3000,6 +3000,36 @@
     "city": "Poznań"
   },
   {
+    "id": "a9d6084f-3178-4466-8872-362febe07b09",
+    "title": "Nintendo switch sport",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
+  },
+  {
+    "id": "2b5a97ed-da58-486d-a47d-d833ae21c459",
+    "title": "Xenoblade Chronicles 2 (Nintendo Switch)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e1407/1b21de664d5891bad4abf21ea9aa",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-qun?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żarki Wielkie"
+  },
+  {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
     "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
     "price": "199",
@@ -3565,46 +3595,6 @@
     "price": "50",
     "img": "https://a.allegroimg.com/s180x180/1ee884/4b419e5544b8b87f382b71d6636a",
     "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
-    "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
-    "title": "GRA NINTENDO GAME NIGHT",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e15ac/ca77e8b44d3897e105e7f79c5c4a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-game-night?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
-    "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
-    "title": "Hyrule Warriors: Age of Calamity Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ee2dc/29cef63e4b1b924983d7fcec1cf8",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-jf7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
-    "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
-    "title": "SONIC COLOURS ULTIMATE / SWITCH",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1ea903/08635f01498fadb8a63b9fadd5ff",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-switch-zzz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
-    "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
-    "title": "GRA NINTENDO GAME NIGHT",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e15ac/ca77e8b44d3897e105e7f79c5c4a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-game-night?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Nowy Sącz, Kochanowskiego"
@@ -4195,6 +4185,16 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s180x180/1e5b6a/f48e5f7841aeb14e843a73299e2b",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
+    "title": "Dragon Quest Treasures",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed090/192c26914b1b8c19f33a90456d1a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5400,6 +5400,16 @@
     "city": "Radom, Michałów"
   },
   {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
     "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "150",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
-    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
   }
 ]
