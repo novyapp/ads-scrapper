@@ -700,16 +700,6 @@
     "city": "Otwock"
   },
   {
-    "id": "fc8d769e-13ff-4c3c-91dc-c9b331ba6b1c",
-    "title": "Xenoblade Chronicles 3 | Nintendo Switch",
-    "price": "144",
-    "img": "https://a.allegroimg.com/s180x180/1e85ad/ff952f714fcba34a744d2911d082",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-or-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Ponikiew"
-  },
-  {
     "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
     "title": "Super Mario RPG - Gadżety - Switch",
     "price": "19",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "fc8d769e-13ff-4c3c-91dc-c9b331ba6b1c",
+    "title": "Xenoblade Chronicles 3 | Nintendo Switch",
+    "price": "144",
+    "img": "https://a.allegroimg.com/s180x180/1e85ad/ff952f714fcba34a744d2911d082",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-or-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ponikiew"
   },
   {
     "id": "3deb5eaf-4697-4c59-ae32-5bbc92250bba",
@@ -2076,7 +2076,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e01ec/f5d152804033b5ebc3e46913a00f",
     "url": "https://allegrolokalnie.pl//oferta/prinny-exploaded-and-reloaded?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Przemyśl"
   },
   {
@@ -2746,7 +2746,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e2bac/c19ae4864da5bf399e44a051007d",
     "url": "https://allegrolokalnie.pl//oferta/coffe-talk-edycja-kolekcjonerska-strictly-limited-games?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Przemyśl"
   },
   {
@@ -2756,7 +2756,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eecac/7b397cfd418b955f9d5f6356c375",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-edycja-kolekcjonerska-czu?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Przemyśl"
   },
   {
@@ -3600,6 +3600,16 @@
     "city": "Wrocław, Krzyki"
   },
   {
+    "id": "27ac5427-7347-421b-a95c-bd7645cdf920",
+    "title": "Xenoblade 2 edycja kolekcjonerska nowa w folii",
+    "price": "1 699",
+    "img": "https://a.allegroimg.com/s180x180/11d733/0f41ee584496b9e272f4e99d77c2",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-2-edycja-kolekcjonerska-nowa-w-folii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
     "id": "fe3f9ce3-e6b0-4598-80bc-a341df46eaf8",
     "title": "Dust An Elysian Tail Limited Edition LRG nowa",
     "price": "1 199",
@@ -4190,16 +4200,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "763c0fe1-6acb-4f08-8b46-3b2ffcb6e19d",
-    "title": "Dragon Quest Builders",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "ef673fd5-cda8-4f73-bedd-a8da42bacb9e",
     "title": "The Banner Saga Trilogy PL",
     "price": "200",
@@ -4616,7 +4616,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e3056/a92b19d64bab8365af35a3baacc0",
     "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Przemyśl"
   },
   {
