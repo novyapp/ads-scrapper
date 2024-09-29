@@ -1190,16 +1190,6 @@
     "city": "Białystok"
   },
   {
-    "id": "3deb5eaf-4697-4c59-ae32-5bbc92250bba",
-    "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "116",
-    "img": "https://a.allegroimg.com/s180x180/1ed578/d9549b6347ec98926a7678ad0ca9",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-vbn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
     "price": "103",
@@ -1520,6 +1510,16 @@
     "city": "Białystok"
   },
   {
+    "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
+    "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/118af7/8aa2238d4ab09d35eb6ad3c66d54",
+    "url": "https://allegrolokalnie.pl//oferta/captain-tsubasa-rise-of-new-champions-gra-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Maniowy"
+  },
+  {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
     "title": "Super Mario Odyssey",
     "price": "179",
@@ -1778,16 +1778,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "852811ee-3c96-437f-8f77-9bcb4f31f535",
-    "title": "Mariokart deluxe",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e177a/ff21309c4bd2a6843c221e362759",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-t4z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radzymin, Radzymin"
   },
   {
     "id": "852811ee-3c96-437f-8f77-9bcb4f31f535",
@@ -2390,6 +2380,16 @@
     "city": "Sobowo"
   },
   {
+    "id": "65d1160d-db1f-417b-a237-5d4b685d2290",
+    "title": "Smerfy misja Złoliść",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1e969f/b24c107247939b999c87ef28f76d",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-akg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sobowo"
+  },
+  {
     "id": "89f74a80-3702-4d76-9003-7a91d6ef3648",
     "title": "Monster Hunter Rise",
     "price": "99",
@@ -2978,16 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
-  },
-  {
-    "id": "fbc8801d-e7aa-4e20-9624-606d487aa3f9",
-    "title": "Sea of Stars wersja limitowana Nintendo Switch ANG",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1eee61/ce27d7ff4a6b8fd75d46c906ab9b",
-    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-wersja-limitowana-nintendo-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "fbc8801d-e7aa-4e20-9624-606d487aa3f9",
@@ -4185,6 +4175,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s180x180/1ebcb7/5a70a33a4276841c0848676ed2dc",
     "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "763c0fe1-6acb-4f08-8b46-3b2ffcb6e19d",
+    "title": "Dragon Quest Builders",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5390,6 +5390,16 @@
     "city": "Dzierżoniów"
   },
   {
+    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
+    "title": "GRIP: Combat Racing Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
+    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona góra, Nowe Miasto"
+  },
+  {
     "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
     "title": "Mario Odyssey NINTENDO SWITCH ideał",
     "price": "185",
@@ -5978,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
-    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
   }
 ]
