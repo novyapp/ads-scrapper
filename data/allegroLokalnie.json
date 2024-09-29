@@ -1,5 +1,15 @@
 [
   {
+    "id": "0d766490-9568-482d-a240-31640590353c",
+    "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e11fa/41e1480e4174b375f7eb8d788db2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-saga-skywalkerow-skywalker-saga-ns-pl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "11838e39-2b02-4ee9-b0b8-2ead6789b607",
     "title": "Princess Peach Showtime Nintendo Switch",
     "price": "179",
@@ -588,16 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Koszalin"
-  },
-  {
-    "id": "3b374c6c-1f5f-4dbf-8898-90629c15aaae",
-    "title": "Pokemon Shield Nintendo switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1eca5d/960c6b854f51b5829fb80c8a8306",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-mzw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Legnica"
   },
   {
     "id": "3b374c6c-1f5f-4dbf-8898-90629c15aaae",
@@ -1200,6 +1200,16 @@
     "city": "Białystok"
   },
   {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "08ffeb08-39fa-44d9-9255-2e1761d1cf1e",
     "title": "Skul the hero slayer Nintendo switch",
     "price": "95",
@@ -1470,6 +1480,46 @@
     "city": "Białystok"
   },
   {
+    "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
+    "title": "Super Mario Wonder",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7024/38159b22474087a49450b8e4b97f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-vwp?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wejherowo"
+  },
+  {
+    "id": "2a911ffc-f8a7-447e-8386-42152795ecd8",
+    "title": "Pokemon Violet Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e35ad/337c5d31456d982739887bc7ef07",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-switch-ord?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wejherowo"
+  },
+  {
+    "id": "8412ea06-0bf7-4ab6-b9d0-81f142313b4b",
+    "title": "Just dance 2022 nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e891b/00b15c524500b86b7fdf8b1751a3",
+    "url": "https://allegrolokalnie.pl//oferta/just-dance-2022-nintendo-switch-4sj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zgierz, Bałuty"
+  },
+  {
+    "id": "0f8080c7-c802-443b-98ad-46c382d4d0b1",
+    "title": "Splatoon 3 nintendo switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e236c/6dfec5534eb89c5171a7c60bb1e0",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ygj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zgierz, Bałuty"
+  },
+  {
     "id": "15110303-b1f8-4fd0-9bf5-593e86c9f190",
     "title": "Super Mario Maker 2 Nintendo Switch",
     "price": "190",
@@ -1588,26 +1638,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
-    "title": "Super Mario Wonder",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e7024/38159b22474087a49450b8e4b97f",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-vwp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wejherowo"
-  },
-  {
-    "id": "2a911ffc-f8a7-447e-8386-42152795ecd8",
-    "title": "Pokemon Violet Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e35ad/337c5d31456d982739887bc7ef07",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-switch-ord?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wejherowo"
   },
   {
     "id": "2ffd6418-8825-48b3-a35e-4bda7ff3a047",
@@ -2400,16 +2430,6 @@
     "city": "Jarocin"
   },
   {
-    "id": "afbad5cf-00bb-48ac-b8d1-6a53f72096ae",
-    "title": "Mario Kart 8 Deluxe",
-    "price": "255",
-    "img": "https://a.allegroimg.com/s180x180/1eda55/48b95aef424bb7c5d8357e206de2",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-pys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarocin"
-  },
-  {
     "id": "29473d9d-5423-4842-b03c-b2230bdca2fb",
     "title": "Zelda Breath of the Wild",
     "price": "270",
@@ -2998,6 +3018,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
+    "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
+    "price": "183",
+    "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
+    "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "7aada744-88e8-4a17-82c4-fb5f58c704aa",
@@ -3600,16 +3630,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "5158cb37-692a-4f47-a396-4fd2f0313c5f",
-    "title": "Nintendo Switch Crysis Remastered",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1edd30/0ed30275436e8a161a03718a6eb5",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-remastered?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
     "title": "Nintendo Switch Mario Kart 8",
     "price": "180",
@@ -4195,6 +4215,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1eb6eb/87f9d65b4b67934d99e730b397f4",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-b35?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "0cfa781c-b3ad-4464-8505-ec117e8b8a21",
+    "title": "Animal Crossing Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e73dd/3d1c0e544915b5af7ae28fccb14b",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-xcg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5968,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jarosław"
-  },
-  {
-    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
-    "title": "Neptunia sisters vs sisters (Nintendo switch)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e0274/84ead5234a97b4ebc8d226a62781",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
-  },
-  {
-    "id": "c05808e8-a955-4ff7-a2d7-293a1d0403d7",
-    "title": "The Legend of Zelda:Skyward Sword Switch Nowa Zafoliowana",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e351a/585e0e1e4525a7e4690c7f940f62",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zeldaskyward-sword-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kazimierz Dolny"
-  },
-  {
-    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gaszowice"
   }
 ]
