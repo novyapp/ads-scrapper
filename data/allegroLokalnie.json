@@ -262,7 +262,7 @@
   {
     "id": "64bf2f19-2115-4378-aec0-ed86091bc3b5",
     "title": "Super Mario Party gra na Nintendo Switch",
-    "price": "149",
+    "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1e4d03/423849aa480ea8f7f97c1731cc99",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-gra-na-nintendo-switch-qm7?navCategoryId=256922",
     "promoted": true,
@@ -1458,6 +1458,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "ef8ea1fa-2aa7-4b6b-9b6c-e924d0f8106f",
+    "title": "Gra Pokémon Shining Pearl",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1ecc11/1bfbdd3f4703b786c2a773bb6d8b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-shining-pearl-idi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław, Borek"
   },
   {
     "id": "1ba22d2d-e3b4-4c8a-81a2-b31b46cbbed9",
@@ -4790,6 +4800,16 @@
     "city": "Wilczyce"
   },
   {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
     "title": "Minecraft Story Mode Nintendo Switch",
     "price": "435",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
-  },
-  {
-    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   }
 ]
