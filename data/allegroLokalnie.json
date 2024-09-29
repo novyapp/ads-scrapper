@@ -92,7 +92,7 @@
   {
     "id": "be87b06e-eb62-4099-98b9-9a45406960f8",
     "title": "Tactics Ogre Reborn - Nintendo Switch",
-    "price": "155",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1ee705/c1733d224d86af28cf006dcd5eee",
     "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-nintendo-switch-blw?navCategoryId=256922",
     "promoted": true,
@@ -588,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Majdan królewski"
+  },
+  {
+    "id": "bba520ce-d73b-4c86-bdc4-7794e8fbacb2",
+    "title": "Smash bros ultimate switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e2a50/19ece60e4dbb81b9e106503337bf",
+    "url": "https://allegrolokalnie.pl//oferta/smash-bros-ultimate-switch-goc?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
   },
   {
     "id": "bba520ce-d73b-4c86-bdc4-7794e8fbacb2",
@@ -1190,16 +1200,6 @@
     "city": "Białystok"
   },
   {
-    "id": "83320671-4922-47e1-8800-da470c51e673",
-    "title": "Minecraft PL Switch",
-    "price": "103",
-    "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
     "title": "Super Mario RPG Switch",
     "price": "145",
@@ -1460,16 +1460,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
-    "title": "Nintendo Switch/3DS/DS - panel modułowy",
-    "price": "14",
-    "img": "https://a.allegroimg.com/s180x180/1eba64/042d8d4f4a6794a97fd1a66b660c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "KOZIEGŁOWY"
-  },
-  {
     "id": "7b3de2d5-19d6-4f24-acd0-b6683acf56f6",
     "title": "Nintendo Switch Disney Magical World 2",
     "price": "95",
@@ -1508,6 +1498,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "3f20ae88-fa6f-45c2-a6b1-aa2df3708bf0",
+    "title": "Nintendo Switch/3DS/DS - panel modułowy",
+    "price": "14",
+    "img": "https://a.allegroimg.com/s180x180/1eba64/042d8d4f4a6794a97fd1a66b660c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch3dsds?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "KOZIEGŁOWY"
   },
   {
     "id": "999a8a52-7a06-4b74-a733-c5ea05695e40",
