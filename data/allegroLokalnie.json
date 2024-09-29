@@ -1536,7 +1536,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e891b/00b15c524500b86b7fdf8b1751a3",
     "url": "https://allegrolokalnie.pl//oferta/just-dance-2022-nintendo-switch-4sj?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Zgierz, Bałuty"
   },
   {
@@ -1546,7 +1546,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e236c/6dfec5534eb89c5171a7c60bb1e0",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ygj?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Zgierz, Bałuty"
   },
   {
@@ -1798,6 +1798,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gorzów Wielkopolski"
+  },
+  {
+    "id": "fb31beec-a168-4860-9602-02186382f727",
+    "title": "The Legend of Zelda - Breath of the Wild [Jak nowy]",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee1d1/cc1c93444382a8bf1a357fb39254",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-jak-nowy-yjo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
   },
   {
     "id": "08d5a8bf-6e1a-4b76-b068-d0d51cb78d65",
@@ -2400,16 +2410,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
-    "title": "Paper Mario the origami king Nintendo switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed62a/6e645da54c7ca7fbcc5b368595b4",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-fut?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "7d575e8f-d966-4ad8-8c01-cb218b5eb3b5",
     "title": "NBA 2k18 Nintendo switch",
     "price": "45",
@@ -2858,16 +2858,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "86688c2d-f178-4dda-812d-50fa8b9a0cc5",
-    "title": "Mario+Rabbids sparks of hope",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1ec4e8/84fa32734ff3a1f28956f9e2a877",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-hfd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radomsko"
   },
   {
     "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
@@ -3610,6 +3600,16 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "485fc898-6882-45f4-91fb-6b365916bac2",
+    "title": "Tanuki Justice Kartridż Limitowana Edycja stan BdB",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1ea783/5f8eda9c425cadf86d54e97ee903",
+    "url": "https://allegrolokalnie.pl//oferta/tanuki-justice-kartridz-limitowana-edycja-stan-bdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "ddf135d7-0d75-4022-a307-ebd1d83b5bf7",
     "title": "Nintendo Switch Madison",
     "price": "120",
@@ -4198,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "02185a90-6566-4e85-9835-5fcc5cc95d00",
-    "title": "Atari 50 dla Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e2bef/b478f91d4d3dae10fac420f94fbc",
-    "url": "https://allegrolokalnie.pl//oferta/atari-50-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
   },
   {
     "id": "a1a51f99-b0cc-4fcb-aa0e-063939ee29e7",
@@ -4810,6 +4800,16 @@
     "city": "Kraków, Krowodrza"
   },
   {
+    "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
+    "title": "Splatoon 2 na Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e8b63/842b685a4d629b2c08d588cf7e84",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-zoo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
+  },
+  {
     "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
     "title": "Super Mario Bros U Deluxe Switch (nowa, folia)",
     "price": "179",
@@ -5400,16 +5400,6 @@
     "city": "Grabówka"
   },
   {
-    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
-    "title": "Ghost Trick na Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed666/d919f9394cec88e6b3b15def60cc",
-    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
     "title": "Dreamcutter Switch tylko kartrydż z grą",
     "price": "99",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "2c849131-86de-4420-8994-e9a75d36900f",
+    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
   }
 ]
