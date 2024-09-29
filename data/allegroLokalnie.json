@@ -590,26 +590,6 @@
     "city": "Legnica"
   },
   {
-    "id": "2f1c6381-1ebd-438f-bf97-1102bc24709c",
-    "title": "Smash Bros Ultimate Nintendo Switch",
-    "price": "148",
-    "img": "https://a.allegroimg.com/s180x180/1e2b74/fed114c545038707e6aefe7f70fb",
-    "url": "https://allegrolokalnie.pl//oferta/smash-bros-ultimate-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Domaszczyn"
-  },
-  {
-    "id": "2f1c6381-1ebd-438f-bf97-1102bc24709c",
-    "title": "Smash Bros Ultimate Nintendo Switch",
-    "price": "148",
-    "img": "https://a.allegroimg.com/s180x180/1e2b74/fed114c545038707e6aefe7f70fb",
-    "url": "https://allegrolokalnie.pl//oferta/smash-bros-ultimate-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Domaszczyn"
-  },
-  {
     "id": "d8486b49-47d2-45a7-a439-c4af8c1b10a8",
     "title": "Starlink: Battle For Atlas [gra Switch]",
     "price": "100",
@@ -3600,6 +3580,26 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
+    "title": "Nintendo Switch Mario Kart 8",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7800/3aca0c384bc882cb5a3d4c73c945",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-kzx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
+    "title": "Nintendo Switch Mario Kart 8",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7800/3aca0c384bc882cb5a3d4c73c945",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-kzx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "7d0a6c5d-523c-4cb5-bb40-08e57f127115",
     "title": "Nintendo Switch DC Super Hero Girls",
     "price": "50",
@@ -4185,26 +4185,6 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1e73dd/3d1c0e544915b5af7ae28fccb14b",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-xcg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "d8de5ab1-a4aa-4c0a-972c-749b6af91a3c",
-    "title": "ARMS Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ec363/4a3e12854ea590e17e88e9c4b10e",
-    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-a3i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "d8de5ab1-a4aa-4c0a-972c-749b6af91a3c",
-    "title": "ARMS Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ec363/4a3e12854ea590e17e88e9c4b10e",
-    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-a3i?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
+  },
+  {
+    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
+    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
+    "price": "96",
+    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
