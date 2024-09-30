@@ -630,16 +630,6 @@
     "city": "Gorzów Wielkopolski"
   },
   {
-    "id": "32853f60-720d-46fa-b5b1-f1e5da2c08c0",
-    "title": "Metroid Dread Nintedo Swich",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e793e/e71bb4a4478fbcb1fb8c08f8541c",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintedo-swich?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Oleśnica"
-  },
-  {
     "id": "d2092a26-3faf-4bab-a03b-79ffd8632a5a",
     "title": "Star Wars Heritage Pack Nintendo Switch",
     "price": "170",
@@ -5410,6 +5400,16 @@
     "city": "Dzierżoniów"
   },
   {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
     "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
     "title": "GRIP: Combat Racing Nintendo Switch",
     "price": "99",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
