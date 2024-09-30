@@ -582,7 +582,7 @@
   {
     "id": "8a8704f5-aa63-47c9-aba7-76f9e5791035",
     "title": "Gra Hollow Knight",
-    "price": "110",
+    "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e568f/41a3a2754186850e7ad2f0877475",
     "url": "https://allegrolokalnie.pl//oferta/gra-hollow-knight?navCategoryId=256922",
     "promoted": true,
@@ -2990,6 +2990,26 @@
     "city": "Włocławek"
   },
   {
+    "id": "78ddc3ac-615a-4cf1-9206-467ac14b59e2",
+    "title": "Pokémon Shining Pearl używana",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/1e6a59/f3db627549c9b7e294c2d9414012",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-uzywana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "78ddc3ac-615a-4cf1-9206-467ac14b59e2",
+    "title": "Pokémon Shining Pearl używana",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/1e6a59/f3db627549c9b7e294c2d9414012",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-uzywana?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rzeszów"
+  },
+  {
     "id": "2b80cbe1-43c6-4edc-ae7d-a63048d0b00c",
     "title": "Super Mario Bros U Deluxe Nintendo Switch",
     "price": "209",
@@ -4175,26 +4195,6 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s180x180/1e4970/490d05b64f5599c9364ad73eccf3",
     "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
-    "title": "Collection of Mana",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ebcb7/5a70a33a4276841c0848676ed2dc",
-    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
-    "title": "Collection of Mana",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ebcb7/5a70a33a4276841c0848676ed2dc",
-    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5390,6 +5390,26 @@
     "city": "Zielona góra, Nowe Miasto"
   },
   {
+    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
+    "title": "Mario Odyssey NINTENDO SWITCH ideał",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
+    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
+    "title": "Mario Odyssey NINTENDO SWITCH ideał",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
     "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
     "title": "Nintendo Switch, Super Mario Bros. WONDER",
     "price": "200",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "2c849131-86de-4420-8994-e9a75d36900f",
-    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarosław"
   }
 ]
