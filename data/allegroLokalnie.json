@@ -730,16 +730,6 @@
     "city": "Tczew"
   },
   {
-    "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
-    "title": "Gta the trilogy Nintendo Switch",
-    "price": "174",
-    "img": "https://a.allegroimg.com/s180x180/1e153b/751e6b734145a1c025d895423f53",
-    "url": "https://allegrolokalnie.pl//oferta/gta-the-trilogy-nintendo-switch-kzy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
-  },
-  {
     "id": "1619bb80-36f4-4e9b-ab67-8403bf8eb8d2",
     "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
     "price": "19",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "4f806dc0-ac8d-4918-a713-a303a7254028",
+    "title": "Gta the trilogy Nintendo Switch",
+    "price": "174",
+    "img": "https://a.allegroimg.com/s180x180/1e153b/751e6b734145a1c025d895423f53",
+    "url": "https://allegrolokalnie.pl//oferta/gta-the-trilogy-nintendo-switch-kzy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lublin"
   },
   {
     "id": "72ab5411-bcaa-4d55-9ab4-584169e09ced",
@@ -1667,7 +1667,7 @@
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ygj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Zgierz, Bałuty"
+    "city": "Łódź, Bałuty"
   },
   {
     "id": "15110303-b1f8-4fd0-9bf5-593e86c9f190",
