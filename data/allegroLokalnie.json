@@ -2510,16 +2510,6 @@
     "city": "Warszawa, Białołęka"
   },
   {
-    "id": "f7ca7a9a-3e6d-48b1-88a9-fb350dbadb30",
-    "title": "PAPER MARIO THE THOUSAND YEAR-DOOR",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1ef6aa/1db8b1754d3a9c6072234e52e1c5",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-yeardoor?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Białołęka"
-  },
-  {
     "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
     "title": "Paper Mario the origami king Nintendo switch",
     "price": "200",
@@ -2998,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Włocławek"
-  },
-  {
-    "id": "78ddc3ac-615a-4cf1-9206-467ac14b59e2",
-    "title": "Pokémon Shining Pearl używana",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1e6a59/f3db627549c9b7e294c2d9414012",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-uzywana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Rzeszów"
   },
   {
     "id": "2b80cbe1-43c6-4edc-ae7d-a63048d0b00c",
@@ -4195,6 +4175,16 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s180x180/1e4970/490d05b64f5599c9364ad73eccf3",
     "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "68b2c05c-a0b4-4658-a1da-36dcc7946919",
+    "title": "Collection of Mana",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ebcb7/5a70a33a4276841c0848676ed2dc",
+    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5400,16 +5390,6 @@
     "city": "Zielona góra, Nowe Miasto"
   },
   {
-    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
-    "title": "Mario Odyssey NINTENDO SWITCH ideał",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
     "title": "Nintendo Switch, Super Mario Bros. WONDER",
     "price": "200",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "2c849131-86de-4420-8994-e9a75d36900f",
+    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
   }
 ]
