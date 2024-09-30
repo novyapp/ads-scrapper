@@ -930,16 +930,6 @@
     "city": "Lublin"
   },
   {
-    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
-    "title": "Super Mario Odyssey Switch",
-    "price": "176",
-    "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "770cc120-51c0-4d69-815e-fa635c13ce42",
     "title": "Mario Donkey Kong - Gadżet - układanka",
     "price": "19",
@@ -1090,46 +1080,6 @@
     "city": "Sanniki"
   },
   {
-    "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
-    "title": "Super Mario 3D World +Bowser's Fury Switch",
-    "price": "182",
-    "img": "https://a.allegroimg.com/s180x180/1ec954/a74d51d94aca97ab45661511c62a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "279d9b10-02f6-4279-81cb-32615ea7eec4",
-    "title": "The Legend of Zelda Skyward Sword HD Switch",
-    "price": "172",
-    "img": "https://a.allegroimg.com/s180x180/1e3a0c/5192a2a743b8b5a308fa715f2a07",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-switch-b4r?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "341d97c4-14c7-4149-a95c-e6c2163345c7",
-    "title": "Sonic Forces Switch",
-    "price": "92",
-    "img": "https://a.allegroimg.com/s180x180/1ec94f/830046d9432d9fd9d097b786230f",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-switch-zdf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
-    "title": "Ori and the Will of the Wisps Switch",
-    "price": "137",
-    "img": "https://a.allegroimg.com/s180x180/1e2a26/3eb862004d7ea0cff34166318f4c",
-    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-3yh?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "52f5acd1-0287-45d8-9490-3cac4b055b55",
     "title": "Luigi's Mansion 3 Switch",
     "price": "202",
@@ -1180,16 +1130,6 @@
     "city": "Białystok"
   },
   {
-    "id": "a92099a9-c5c7-4383-9d4d-bf48ec29891a",
-    "title": "Super Mario 3D All-Stars - Nintendo Switch ANG",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s180x180/1e9c89/6fd60aa545cfa54d463f3f43d154",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-trzy-kultowe-gry-na-nintendo-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Krzyki"
-  },
-  {
     "id": "671ef329-787a-4a48-aa8c-657a4a3a7f28",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "108",
@@ -1206,6 +1146,56 @@
     "img": "https://a.allegroimg.com/s180x180/1e98e5/8dd02287490e9e3bef109cf68aef",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-ka4?navCategoryId=256922",
     "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
+    "title": "Super Mario Odyssey Switch",
+    "price": "176",
+    "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
+    "title": "Super Mario 3D World +Bowser's Fury Switch",
+    "price": "182",
+    "img": "https://a.allegroimg.com/s180x180/1ec954/a74d51d94aca97ab45661511c62a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "279d9b10-02f6-4279-81cb-32615ea7eec4",
+    "title": "The Legend of Zelda Skyward Sword HD Switch",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e3a0c/5192a2a743b8b5a308fa715f2a07",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-switch-b4r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "341d97c4-14c7-4149-a95c-e6c2163345c7",
+    "title": "Sonic Forces Switch",
+    "price": "92",
+    "img": "https://a.allegroimg.com/s180x180/1ec94f/830046d9432d9fd9d097b786230f",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-forces-switch-zdf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
+    "title": "Ori and the Will of the Wisps Switch",
+    "price": "137",
+    "img": "https://a.allegroimg.com/s180x180/1e2a26/3eb862004d7ea0cff34166318f4c",
+    "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-3yh?navCategoryId=256922",
+    "promoted": false,
     "smartPost": true,
     "city": "Białystok"
   },
@@ -1590,6 +1580,16 @@
     "city": "Białystok"
   },
   {
+    "id": "f4021ce2-a809-4b13-9893-2c6eadaf7d69",
+    "title": "Gra Batman Trilogy Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e6935/a6e117744aba95d90a1dd676cc7a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-batman-trilogy-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mińsk Mazowiecki"
+  },
+  {
     "id": "a3e2202c-f290-4b3c-87bc-699c3c09e9f5",
     "title": "Fire Emblem Three Houses Nintendo Switch",
     "price": "199",
@@ -1778,6 +1778,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk Wrzeszcz"
+  },
+  {
+    "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
+    "title": "Super smash Bros Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e55ec/f08636314747ba6285b20f79b8f6",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-t6v?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gdańsk Wrzeszcz"
+  },
+  {
+    "id": "0acaecac-ee2c-4a14-8b1e-c4f94e13a335",
+    "title": "Dziedzictwo Hogwartu Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e2895/8ddaa44e4db38707a06e11c30a90",
+    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-nintendo-switch-6hg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
@@ -2380,16 +2400,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "a17c7e48-bca5-43f1-ab6d-7641e16f28fb",
-    "title": "Super Mario Maker 2 Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e0006/b0d64f4a4e529c25d53488d133c9",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-switch-isv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "7b7845ad-7715-4a18-827a-ee6bf365aa17",
     "title": "Dark Souls Remastered Switch",
     "price": "134",
@@ -2978,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "79ddc9a6-ebfe-4902-9d87-53378e4fafad",
-    "title": "Super Mario 3D All Stars Nintendo Switch",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1e25c1/c13ee34648dc8f23d1c4a5632dde",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-ti5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Konin"
   },
   {
     "id": "79ddc9a6-ebfe-4902-9d87-53378e4fafad",
@@ -3600,6 +3600,16 @@
     "city": "Kraków, Dębniki"
   },
   {
+    "id": "9fb1e527-7080-4f01-b067-81ca687c7f80",
+    "title": "Gra na Nintendo Switch TrailBlazers",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1eeb8d/8ad9a36944b1b3ce11baab2f8495",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-trailblazers?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "ccce257b-2ae9-48fe-b727-7b13cf358094",
     "title": "Sakuna: of Rice and Ruin Japanese Edition Nintendo Switch",
     "price": "139",
@@ -4188,6 +4198,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kędzierzyn-Koźle, Koźle"
+  },
+  {
+    "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
+    "title": "Ys IX: Monstrum Nox",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
+    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
@@ -5375,16 +5395,6 @@
     "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
-    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
