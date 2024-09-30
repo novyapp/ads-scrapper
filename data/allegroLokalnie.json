@@ -250,16 +250,6 @@
     "city": "Kraków"
   },
   {
-    "id": "38895731-2474-4681-9bd6-7df5deb52e1b",
-    "title": "Ring fit RingFit Adventure Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e9fad/0e78edb8493da6d8cd5619e15239",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-adventure-nintendo-switch-b6e?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "9a8ee7d0-4913-4f72-8a92-d93334fea41a",
     "title": "Super Mario 3D World Nintendo Switch",
     "price": "169",
@@ -388,16 +378,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "IZABELA"
-  },
-  {
-    "id": "8a75e831-d3bd-4af4-a412-2189816d4784",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "178",
-    "img": "https://a.allegroimg.com/s180x180/1e8f6a/6e1900744e3d9141d8eb40c3067d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-ibb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bartniczka"
   },
   {
     "id": "9caf7afc-6797-4f46-a278-3f803efc6d57",
@@ -598,6 +578,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "ac3a1e51-f194-483a-83e3-42285354f7c5",
+    "title": "Gra Urban Trial PlayGround",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e5a37/9ba5cc81451b8220a2d661119489",
+    "url": "https://allegrolokalnie.pl//oferta/gra-urban-trial-playground?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Majdan królewski"
+  },
+  {
+    "id": "8a8704f5-aa63-47c9-aba7-76f9e5791035",
+    "title": "Gra Hollow Knight",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e568f/41a3a2754186850e7ad2f0877475",
+    "url": "https://allegrolokalnie.pl//oferta/gra-hollow-knight?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Majdan królewski"
   },
   {
     "id": "ac3a1e51-f194-483a-83e3-42285354f7c5",
@@ -5400,36 +5400,6 @@
     "city": "Dzierżoniów"
   },
   {
-    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
-    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
-    "title": "GRIP: Combat Racing Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
-    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona góra, Nowe Miasto"
-  },
-  {
-    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
-    "title": "Mario Odyssey NINTENDO SWITCH ideał",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
-    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
     "title": "Nintendo Switch, Super Mario Bros. WONDER",
     "price": "200",
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
+    "title": "Metroid Prime Remastered (Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e1fe2/7fb339b04406b6886bc2091e9aac",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "d7a65b64-e301-42da-b635-b9d907a07723",
+    "title": "Super Mario 3d All Stars Nintendo Switch",
+    "price": "370",
+    "img": "https://a.allegroimg.com/s180x180/1e7e4a/fc9466904853975ebfc40b7d319d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-5re?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "2c849131-86de-4420-8994-e9a75d36900f",
+    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
   }
 ]
