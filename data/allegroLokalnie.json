@@ -150,16 +150,6 @@
     "city": "Wysokie Mazowieckie"
   },
   {
-    "id": "3fb64148-214d-47c8-84e5-4032e1a4f254",
-    "title": "Super mario wonder",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ed44f/3781ba6c417e93d3d721db3ea05a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-mjp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Nowy Sącz"
-  },
-  {
     "id": "be87b06e-eb62-4099-98b9-9a45406960f8",
     "title": "Tactics Ogre Reborn - Nintendo Switch",
     "price": "150",
@@ -3600,16 +3590,6 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
-    "id": "5f13f753-c105-4b49-8ebf-047672c69af6",
-    "title": "Psi Patrol / On a Roll",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1ee884/4b419e5544b8b87f382b71d6636a",
-    "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
     "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
     "title": "GRA NINTENDO GAME NIGHT",
     "price": "50",
@@ -4198,6 +4178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
+    "title": "Fire Emblem Warriors",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1e5b6a/f48e5f7841aeb14e843a73299e2b",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   },
   {
     "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
