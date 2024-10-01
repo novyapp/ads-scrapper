@@ -792,7 +792,7 @@
   {
     "id": "23f69e10-2ba3-4a04-a24a-6fff898cf8ea",
     "title": "Mario Kart Live Home Circuit Luigi Nintendo Switch",
-    "price": "335",
+    "price": "300",
     "img": "https://a.allegroimg.com/s180x180/1e6b0b/4c09f69f49e68dc57fe03783a861",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-nintendo-switch-z5r?navCategoryId=256922",
     "promoted": true,
@@ -2400,16 +2400,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "7d575e8f-d966-4ad8-8c01-cb218b5eb3b5",
-    "title": "NBA 2k18 Nintendo switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1efdf2/819a46bc4f3c81963c433102c91b",
-    "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-olz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "f01293d8-83c8-4df1-88f1-f3a9d89af62f",
     "title": "Gra SEGA MEGA DRIVE CLASSICS Nintendo Switch",
     "price": "70",
@@ -2995,6 +2985,16 @@
     "price": "183",
     "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
     "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "7aada744-88e8-4a17-82c4-fb5f58c704aa",
+    "title": "Switch Minecraft - Kartridź Folia PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
@@ -4800,16 +4800,6 @@
     "city": "Poznań, Stare Miasto"
   },
   {
-    "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
-    "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
-    "price": "475",
-    "img": "https://a.allegroimg.com/s180x180/1e54d1/9961bc2243c198dffb04d95d4f60",
-    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-rain-code-mysteriful-limited-edition-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
     "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
     "price": "550",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Konstancin-Jeziorna"
+  },
+  {
+    "id": "671f3ddf-b090-4271-adbf-993a97164c1f",
+    "title": "Gry Nintendo Switch x2 Digimon Asterix",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ecdf7/1ae7c219465e88b74442c75d311c",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-x2-digimon-asterix?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zgorzelec"
+  },
+  {
+    "id": "03667890-9c22-4f52-abbc-b10ae44db0ed",
+    "title": "Amiibo NINTENDO ZESTAW 15 figurek ZELDA, METROID",
+    "price": "1 049",
+    "img": "https://a.allegroimg.com/s180x180/1eff66/ee0d883f4ab0b1c34171fd5602c0",
+    "url": "https://allegrolokalnie.pl//oferta/amiibo-nintendo-zestaw-15-figurek-zelda-metroid?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Goleniów"
   }
 ]
