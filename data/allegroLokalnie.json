@@ -642,7 +642,7 @@
   {
     "id": "5792d29b-0686-4280-9d5d-40b9e0ca480e",
     "title": "WarioWare: Get It Together! NINTENDO Switch",
-    "price": "120",
+    "price": "110",
     "img": "https://a.allegroimg.com/s180x180/113768/14450ea74ec2b7881cfb42509ffb",
     "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nintendo-switch-rak?navCategoryId=256922",
     "promoted": true,
@@ -1046,7 +1046,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eaabf/969121a14981a77732193f5c9f73",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "JAWORZE"
   },
   {
@@ -1056,7 +1056,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea259/981f594e48f1a091f8e7d77d532d",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-taneczna-just-dance-2020?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "JAWORZE"
   },
   {
@@ -1066,7 +1066,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e9be2/1f880a4b470d9349cbb28229bf20",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-rq4?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "JAWORZE"
   },
   {
@@ -1778,6 +1778,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bolesławiec"
+  },
+  {
+    "id": "7979f8c3-004b-4d4d-881b-8b96f06bbbee",
+    "title": "Pokémon Scarlet",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e2009/f8a283124962ae0818689bd97f96",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-ju6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bolesławiec"
+  },
+  {
+    "id": "24c88f40-d2e4-46f5-a315-4e7d4aed91f1",
+    "title": "Lego Marvel Super Heroes 2 - Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ea5cd/17e99d9c4a84a7fa8738297d4c09",
+    "url": "https://allegrolokalnie.pl//oferta/lego-marvel-super-heroes-2-nintendo-switch-die?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wyszków"
   },
   {
     "id": "7979f8c3-004b-4d4d-881b-8b96f06bbbee",
@@ -5252,7 +5272,7 @@
   {
     "id": "6569009b-ce53-4c07-bd8b-cfb21e56d304",
     "title": "Crash Bandicoot 4: Najwyższy czas SWITCH PL",
-    "price": "105",
+    "price": "98",
     "img": "https://a.allegroimg.com/s180x180/1ea3a9/c1f1d0a94a038df93cc3d0d9c418",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-cg7?navCategoryId=256922",
     "promoted": false,
@@ -5336,7 +5356,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ef78d/04e5c936468ca561a2fdd5ce243d",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "JAWORZE"
   },
   {
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
-  },
-  {
-    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
-    "title": "Let's Sing ABBA Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e704a/4bdc14c04fcba0d203d3d29973b6",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bytom"
-  },
-  {
-    "id": "700c0bcd-6a69-4547-aaa9-3dea6ab0b37c",
-    "title": "Fire emblem engage Nintendo switch nowa",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e8278/164a71764433a1a29aa874823044",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-nintendo-switch-nowa-zyj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zamość"
   }
 ]
