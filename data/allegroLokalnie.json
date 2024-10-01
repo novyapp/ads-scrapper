@@ -2400,6 +2400,16 @@
     "city": "Jarocin"
   },
   {
+    "id": "afbad5cf-00bb-48ac-b8d1-6a53f72096ae",
+    "title": "Mario Kart 8 Deluxe",
+    "price": "255",
+    "img": "https://a.allegroimg.com/s180x180/1eda55/48b95aef424bb7c5d8357e206de2",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-pys?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarocin"
+  },
+  {
     "id": "29473d9d-5423-4842-b03c-b2230bdca2fb",
     "title": "Zelda Breath of the Wild",
     "price": "270",
@@ -3256,7 +3266,7 @@
     "img": "https://a.allegroimg.com/s180x180/1158c7/7395731c43beb703e6613b801891",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-ultimate-edition-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Żory"
   },
   {
