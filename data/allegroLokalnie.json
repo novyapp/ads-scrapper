@@ -600,6 +600,26 @@
     "city": "Sosnowiec"
   },
   {
+    "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
+    "title": "Super Mario RPG - Gadżety - Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1ee457/f9fb72e64272922750f227faf724",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-q2c?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
+    "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
+    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "0fe85655-37c0-4935-9219-d0b8cdac135a",
     "title": "ADVANCE WARS 1+2: RE-BOOT CAMP - NINTENDO SWITCH, JAK NOWA",
     "price": "179",
@@ -1178,26 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
-    "title": "Gothic Classic i Gothic II Complete Classic Switch",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s180x180/1e3171/5edab58845899685de37579e2f15",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-i-gothic-ii-complete-classic-switch-yd7?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "8a63ae16-fe66-40d1-89f0-c3a381d1c869",
-    "title": "Hogwarts Legacy deluxe edition Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1ee98f/5b0bfd3f4096bc4ec19cfa78dae7",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-deluxe-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Iłża"
   },
   {
     "id": "1fda5eaa-b4b3-4763-8bd8-8ad8944a667b",
@@ -2395,6 +2395,16 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1e0006/b0d64f4a4e529c25d53488d133c9",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-switch-isv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "7b7845ad-7715-4a18-827a-ee6bf365aa17",
+    "title": "Dark Souls Remastered Switch",
+    "price": "134",
+    "img": "https://a.allegroimg.com/s180x180/1e7d31/4c1c8fbc4b8ea33f8a9f7bac4376",
+    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-switch-5ea?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
@@ -4190,14 +4200,24 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
-    "title": "Shovel Knight Treasure Trove",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1e4970/490d05b64f5599c9364ad73eccf3",
-    "url": "https://allegrolokalnie.pl//oferta/shovel-knight-treasure-trove-v6j?navCategoryId=256922",
-    "promoted": false,
+    "id": "6391e8f8-52e1-4791-957e-96bf86755656",
+    "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ecb2c/1c1d902a4128a5b595dbcb8f6ed5",
+    "url": "https://allegrolokalnie.pl//oferta/dodonpachi-ressurrection-edycja-limitowana-nintendo-switch-jpn-nowa-el7?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Kraków, Nowa Huta"
+    "city": "Krakow, Swoszowice"
+  },
+  {
+    "id": "76a71474-6763-40e2-9f12-2931073baf47",
+    "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
+    "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
   },
   {
     "id": "547d3238-5fc6-4960-b344-b75eda46ea3b",
@@ -4610,16 +4630,6 @@
     "city": "warszawa"
   },
   {
-    "id": "6391e8f8-52e1-4791-957e-96bf86755656",
-    "title": "Dodonpachi Ressurrection Edycja limitowana - Nintendo Switch JPN NOWA",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ecb2c/1c1d902a4128a5b595dbcb8f6ed5",
-    "url": "https://allegrolokalnie.pl//oferta/dodonpachi-ressurrection-edycja-limitowana-nintendo-switch-jpn-nowa-el7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
-  },
-  {
     "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
     "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
     "price": "69",
@@ -4738,16 +4748,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Mokotów"
-  },
-  {
-    "id": "76a71474-6763-40e2-9f12-2931073baf47",
-    "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e2f4d/c51b4850453aaa3fd887df0ad1d0",
-    "url": "https://allegrolokalnie.pl//oferta/raiden-iii-x-mikado-maniax-nintendo-switch-jpn-nowa-5m3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
   },
   {
     "id": "ea102dd3-8968-4b7d-bf5c-e17bef23bf21",
@@ -5400,6 +5400,16 @@
     "city": "Opole Lubelskie"
   },
   {
+    "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
+    "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e9ecb/a893419946349ed954fde672377d",
+    "url": "https://allegrolokalnie.pl//oferta/darius-cozmic-collection-nintendo-switch-jpn-nowa-qss?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
+  },
+  {
     "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
     "title": "Family Trainer - gra Nintendo Switch",
     "price": "149",
@@ -5518,16 +5528,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdynia"
-  },
-  {
-    "id": "0b48546b-8d6e-4dec-8375-7ca210f25dcd",
-    "title": "Darius Cozmic Collection - Nintendo Switch JPN NOWA",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e9ecb/a893419946349ed954fde672377d",
-    "url": "https://allegrolokalnie.pl//oferta/darius-cozmic-collection-nintendo-switch-jpn-nowa-qss?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
   },
   {
     "id": "a9d4f344-7bf2-44c8-901a-f69d5b063256",
