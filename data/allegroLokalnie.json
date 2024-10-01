@@ -1790,16 +1790,6 @@
     "city": "Bolesławiec"
   },
   {
-    "id": "7979f8c3-004b-4d4d-881b-8b96f06bbbee",
-    "title": "Pokémon Scarlet",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e2009/f8a283124962ae0818689bd97f96",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-ju6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bolesławiec"
-  },
-  {
     "id": "24c88f40-d2e4-46f5-a315-4e7d4aed91f1",
     "title": "Lego Marvel Super Heroes 2 - Nintendo Switch",
     "price": "70",
@@ -2388,6 +2378,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "fc1d243b-e4c0-480f-b5b2-75b8839e3a2b",
+    "title": "PAPER MARIO ORIGAMI KING",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1eb68f/6300f3b047bcb5ef8c37e4dbcf45",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-origami-king-pb2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Białołęka"
   },
   {
     "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
@@ -2990,16 +2990,6 @@
     "city": "Rumia"
   },
   {
-    "id": "63acd8f1-8d57-47ca-8c32-5f143380b6f3",
-    "title": "Mario Kart 8 Deluxe + Booster Course Pass Nintendo Switch NS",
-    "price": "440",
-    "img": "https://a.allegroimg.com/s180x180/1efe3f/aaa5bfe04dbca50d509c10fd05df",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-booster-course-pass-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
     "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
     "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
     "price": "183",
@@ -3585,6 +3575,16 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s180x180/1e0fbb/2b7afc984581907ea224f2f4336a",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-madison?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "a55acc84-9a88-4ad8-95ae-3032e4a533f5",
+    "title": "Nintendo Switch Hogwarts Legacy",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e17fd/5ce412cf4fac8e7066655099a8f4",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-hogwarts-legacy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -5390,16 +5390,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
-    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ee25d/8f3e191c4a54841858fa880c52ce",
-    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "02700a86-732a-410a-bd80-a7083bd13810",
     "title": "Gry nintendo switch",
     "price": "999",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "2295a85f-aeb0-45f2-a8dd-4aeb81d916dd",
+    "title": "Mario Bros Wonder Nintendo Switch GADZETY z gry",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e0bd5/dc5f3e68464aad62b71bd793179f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-bros-wonder-nintendo-switch-gadzety-z-gry?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
