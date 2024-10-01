@@ -1,5 +1,15 @@
 [
   {
+    "id": "e85ae2cc-b96b-44a2-9125-9f3181665c4b",
+    "title": "Super Smash Bros",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e9edd/0ca07944495aa6dcc4236f678200",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-uwt?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Strzałkowo"
+  },
+  {
     "id": "3c14d9d8-39e2-4bfe-90e4-799e08977808",
     "title": "Dark Souls Remastered Nintendo Switch",
     "price": "130",
@@ -900,16 +910,6 @@
     "city": "Białystok"
   },
   {
-    "id": "279d9b10-02f6-4279-81cb-32615ea7eec4",
-    "title": "The Legend of Zelda Skyward Sword HD Switch",
-    "price": "172",
-    "img": "https://a.allegroimg.com/s180x180/1e3a0c/5192a2a743b8b5a308fa715f2a07",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-switch-b4r?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
     "title": "Ori and the Will of the Wisps Switch",
     "price": "136",
@@ -1350,6 +1350,26 @@
     "city": "Białystok"
   },
   {
+    "id": "309c3402-5a96-47cf-abca-265a810debee",
+    "title": "Nintendo Switch Victor Vran Overkill",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/1ec505/e42be9af41c6b50d69d04fd2c685",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-victor-vran-overkill?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "975edd0f-7cf3-4213-bcbc-81dfbf73740f",
+    "title": "Sprzedam Zelda Tears of the kingdom. Nowa w folii",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1ec09e/07a4e4594038bda649d16eb70deb",
+    "url": "https://allegrolokalnie.pl//oferta/sprzedam-zelda-tears-of-the-kingdom-nowa-w-folii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "28a4ab7e-0d14-4533-a80b-834ed582234a",
     "title": "Pac Man World Nintendo Switch",
     "price": "110",
@@ -1788,6 +1808,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "db11a053-2a7c-42c9-a21c-9e2c40414fa8",
+    "title": "Pokemon Shield Nintendo Switch + Steelbox",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e790f/4defd2bd4fdd9a6c68d0501a9c69",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-steelbox-fwt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Zwierzyniec"
   },
   {
     "id": "326bd4c6-1983-47e3-84db-bc9331c7c372",
@@ -2358,36 +2388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ponikiew"
-  },
-  {
-    "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
-    "title": "Fabraz Collection Limited Run Games Nintendo Switch UNIKAT kolekcjonerska",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e1c28/6415616d44aabd6ce0c4dd67f944",
-    "url": "https://allegrolokalnie.pl//oferta/fabraz-collection-limited-run-games-nintendo-switch-unikat-kolekcjonerska?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "22b3dfde-0892-4add-8525-861528344f12",
-    "title": "Daemon x Machina Soundtrack Selection Nintendo Switch OST",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1ed437/dd4d323940199f03d65825eb5a1b",
-    "url": "https://allegrolokalnie.pl//oferta/daemon-x-machina-soundtrack-selection-nintendo-switch-ost?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sokółka"
-  },
-  {
-    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
-    "title": "Animal Crossing: New Horizons - Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
   },
   {
     "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
@@ -3590,6 +3590,36 @@
     "city": "Kraków, Dębniki"
   },
   {
+    "id": "ccce257b-2ae9-48fe-b727-7b13cf358094",
+    "title": "Sakuna: of Rice and Ruin Japanese Edition Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e2ffb/e64260954cfa84ef8653916599b4",
+    "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-japanese-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "c2a4dddf-fb9a-463c-af82-dc27b6909158",
+    "title": "Overcooked! + Overcooked! 2 Gra Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e8d80/2515c5cb4fcebb615037a8cbb173",
+    "url": "https://allegrolokalnie.pl//oferta/overcooked-overcooked-2-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
+    "id": "a9abae2c-b9ad-4106-9aa9-4799cd0f2ed5",
+    "title": "Gra Nintendo Super Mario Maker 2",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e2b12/f44a9ad34995a448fd7d3670417c",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-maker-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "c899b16e-cf6e-49b2-bed2-a0c59fc56f78",
     "title": "Metroid Prime Remastered Nintendo Switch",
     "price": "130",
@@ -4175,16 +4205,6 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s180x180/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
     "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
-    "title": "Diablo 3 Eternal Collection",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e3e1b/a4f05ab1430ba9ea31962430bd32",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-zh2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
@@ -5975,16 +5995,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s180x180/119a04/c19840cb44319d20d29cec3accad",
     "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
-  },
-  {
-    "id": "0d1e91b3-866a-4b8c-853a-0634008c0351",
-    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE unikat zadbana",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/115a25/d58a32e0459b99ccb33c65f5782f",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
