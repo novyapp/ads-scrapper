@@ -1872,7 +1872,7 @@
   {
     "id": "a015d7d5-64ef-406e-9c11-50207c7985e9",
     "title": "Wiedźmin III Dziki Gon PL - Fabrycznie NOWA - Nintendo Switch",
-    "price": "140",
+    "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1e3efa/7b9db14c4ea79060c2d407ea3d7b",
     "url": "https://allegrolokalnie.pl//oferta/wiedzmin-iii-dziki-gon-pl-fabrycznie-nowa-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -1882,7 +1882,7 @@
   {
     "id": "7b7c4bde-5f81-4580-9686-6311b497dabc",
     "title": "Remnant From The Ashes - Nintendo Switch",
-    "price": "95",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1eef93/5e96ecf74bd9a6c5630322d40b87",
     "url": "https://allegrolokalnie.pl//oferta/remnant-from-the-ashes-nintendo-switch-ixw?navCategoryId=256922",
     "promoted": false,
@@ -2062,7 +2062,7 @@
   {
     "id": "d3b76099-3bfc-43f2-882c-76eab0a9149d",
     "title": "Metroid Dread - Nintendo Switch",
-    "price": "160",
+    "price": "145",
     "img": "https://a.allegroimg.com/s180x180/1e5b53/7d018ed14105b6df0f0e0a4fd581",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-ndb?navCategoryId=256922",
     "promoted": false,
@@ -2990,6 +2990,16 @@
     "city": "Łódź, Górna"
   },
   {
+    "id": "391f850b-658f-41b9-ae10-ffb46fd8e204",
+    "title": "Switch Pokemon Let's go Pikachu .. OKAZJA",
+    "price": "197",
+    "img": "https://a.allegroimg.com/s180x180/1e7833/a8ce31d946e6a18798ea4f3c2505",
+    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź, Górna"
+  },
+  {
     "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
     "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
     "price": "159",
@@ -3575,6 +3585,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1e7800/3aca0c384bc882cb5a3d4c73c945",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-kart-8-kzx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "7d0a6c5d-523c-4cb5-bb40-08e57f127115",
+    "title": "Nintendo Switch DC Super Hero Girls",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1eb0a1/d16273f44aa18b6a916d9d4c757f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
@@ -4178,26 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bytom"
-  },
-  {
-    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
-    "title": "Pokemon Shield Switch + Expansion Pass",
-    "price": "599",
-    "img": "https://a.allegroimg.com/s180x180/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowiny"
-  },
-  {
-    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
-    "title": "Pokemon Shield Switch + Expansion Pass",
-    "price": "599",
-    "img": "https://a.allegroimg.com/s180x180/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowiny"
   },
   {
     "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Goleniów"
+  },
+  {
+    "id": "47d20512-4cf4-477e-8e2c-70375c406b97",
+    "title": "Let's Sing ABBA Nintendo Switch",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s180x180/1e704a/4bdc14c04fcba0d203d3d29973b6",
+    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bytom"
   }
 ]
