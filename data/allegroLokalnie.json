@@ -260,16 +260,6 @@
     "city": "Miękowo"
   },
   {
-    "id": "10768623-7a54-498f-a6e8-59945d65a2d6",
-    "title": "Harvest Moon One World",
-    "price": "39",
-    "img": "https://a.allegroimg.com/s180x180/1e0c9f/5fad71eb4b7795f61fb1e09f5871",
-    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-one-world-vzq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tyniec Mały"
-  },
-  {
     "id": "51a2b4f8-299c-47bc-810c-d70fc5d8f432",
     "title": "Code: Realize ~Guardian of the Rebrith~ SWITCH",
     "price": "160",
@@ -595,6 +585,16 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "0fe85655-37c0-4935-9219-d0b8cdac135a",
+    "title": "ADVANCE WARS 1+2: RE-BOOT CAMP - NINTENDO SWITCH, JAK NOWA",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e407f/b81d811843d68602e2e47da772d8",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
@@ -1200,16 +1200,6 @@
     "city": "Iłża"
   },
   {
-    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
-    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
-    "price": "480",
-    "img": "https://a.allegroimg.com/s180x180/1ef0ad/9da8a3bd4f6d884ad84415853f74",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Mysłowice"
-  },
-  {
     "id": "4281978f-0987-4f67-8766-23c24df84ea7",
     "title": "You Suck at Parking klucz steam",
     "price": "29",
@@ -1538,16 +1528,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
-  },
-  {
-    "id": "81a27ce7-986c-49e8-9048-98308be6107f",
-    "title": "Saint Maker Nintendo Switch jak LIMITED RUN- Numerowana UNIKAT Edycja",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s180x180/1ef9aa/ce823ef34b2abe9882a8e3601c80",
-    "url": "https://allegrolokalnie.pl//oferta/saint-maker-nintendo-switch-jak-limited-run-numerowana-unikat-edycja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
   },
   {
     "id": "f558cff1-4ffe-4135-a65c-a007de41692a",
@@ -3010,6 +2990,16 @@
     "city": "Poznań"
   },
   {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "225",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "a9d6084f-3178-4466-8872-362febe07b09",
     "title": "Nintendo switch sport",
     "price": "170",
@@ -3600,16 +3590,6 @@
     "city": "Nadolice Wielkie"
   },
   {
-    "id": "5f13f753-c105-4b49-8ebf-047672c69af6",
-    "title": "Psi Patrol / On a Roll",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1ee884/4b419e5544b8b87f382b71d6636a",
-    "url": "https://allegrolokalnie.pl//oferta/psi-patrol-on-a-roll?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
     "id": "d39754ee-ca21-4af7-a79f-487b6958ea47",
     "title": "GRA NINTENDO GAME NIGHT",
     "price": "50",
@@ -4195,6 +4175,16 @@
     "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1e5b6a/f48e5f7841aeb14e843a73299e2b",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
+    "title": "Dragon Quest Treasures",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed090/192c26914b1b8c19f33a90456d1a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
