@@ -2376,7 +2376,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed62a/6e645da54c7ca7fbcc5b368595b4",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-nintendo-switch-fut?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Olsztyn"
   },
   {
@@ -2386,8 +2386,18 @@
     "img": "https://a.allegroimg.com/s180x180/1efdf2/819a46bc4f3c81963c433102c91b",
     "url": "https://allegrolokalnie.pl//oferta/nba-2k18-nintendo-switch-olz?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f01293d8-83c8-4df1-88f1-f3a9d89af62f",
+    "title": "Gra SEGA MEGA DRIVE CLASSICS Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3328/090c85b846429bf127b0aeb6fb2e",
+    "url": "https://allegrolokalnie.pl//oferta/gra-sega-mega-drive-classics-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
   },
   {
     "id": "afbad5cf-00bb-48ac-b8d1-6a53f72096ae",
@@ -2975,16 +2985,6 @@
     "price": "104",
     "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
     "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "391f850b-658f-41b9-ae10-ffb46fd8e204",
-    "title": "Switch Pokemon Let's go Pikachu .. OKAZJA",
-    "price": "197",
-    "img": "https://a.allegroimg.com/s180x180/1e7833/a8ce31d946e6a18798ea4f3c2505",
-    "url": "https://allegrolokalnie.pl//oferta/switch-pokemon-lets-go-pikachu-okazja?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Łódź, Górna"
@@ -3590,6 +3590,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "7d0a6c5d-523c-4cb5-bb40-08e57f127115",
+    "title": "Nintendo Switch DC Super Hero Girls",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1eb0a1/d16273f44aa18b6a916d9d4c757f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dc-super-hero-girls?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "40bd06d1-dd2a-4483-b14a-a1fc0161827a",
     "title": "Nintendo Switch Super Mario 3D World Bowser's Fury",
     "price": "160",
@@ -4190,16 +4200,6 @@
     "city": "Nowiny"
   },
   {
-    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
-    "title": "Pokemon Shield Switch + Expansion Pass",
-    "price": "599",
-    "img": "https://a.allegroimg.com/s180x180/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowiny"
-  },
-  {
     "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
     "title": "The Legend of Zelda: Breath of the Wild Switch",
     "price": "199",
@@ -4316,7 +4316,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e3d21/73542a9143f585e320847e3e18ab",
     "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Kielce"
   },
   {
@@ -4326,7 +4326,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e9005/e675763a4bfda76eb3ba92c1d8c4",
     "url": "https://allegrolokalnie.pl//oferta/metro-redux-nintendo-switch-2nr?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Kielce"
   },
   {
@@ -4336,7 +4336,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eb676/69ce5f1c46f79fc5d73232e74ddf",
     "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-z3b?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Kielce"
   },
   {
@@ -4736,7 +4736,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e62e0/2a287bbe4faa93129168762eba35",
     "url": "https://allegrolokalnie.pl//oferta/lets-sing-2-mikrofony-dedykowane-do-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bytom"
   },
   {
@@ -4788,6 +4788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Poznań, Stare Miasto"
+  },
+  {
+    "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
+    "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
+    "price": "550",
+    "img": "https://a.allegroimg.com/s180x180/1e4d24/a75d4b1c4fc5ab8c91b76a7a2ef4",
+    "url": "https://allegrolokalnie.pl//oferta/divinity-ii-original-sin-definitive-edition-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
   },
   {
     "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
@@ -5986,7 +5996,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e704a/4bdc14c04fcba0d203d3d29973b6",
     "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-fvl?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bytom"
   }
 ]
