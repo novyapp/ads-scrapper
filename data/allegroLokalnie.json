@@ -1350,6 +1350,16 @@
     "city": "Białystok"
   },
   {
+    "id": "28a4ab7e-0d14-4533-a80b-834ed582234a",
+    "title": "Pac Man World Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1eed2c/7b106e1e426192b3f95cf78b9824",
+    "url": "https://allegrolokalnie.pl//oferta/pac-man-world-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sucha Beskidzka"
+  },
+  {
     "id": "39c526bc-002f-4015-b588-594c9e50411b",
     "title": "Nintendo Switch Sports",
     "price": "140",
@@ -1512,7 +1522,7 @@
   {
     "id": "a5621fe0-6b54-4dcc-ad93-a9778284c27d",
     "title": "COFFE TALK STRICTLY LIMITED GAMES SWITCH",
-    "price": "329",
+    "price": "319",
     "img": "https://a.allegroimg.com/s180x180/1eda14/fb2b10be400b8506674cf658d045",
     "url": "https://allegrolokalnie.pl//oferta/coffe-talk-strictly-limited-games-switch?navCategoryId=256922",
     "promoted": false,
@@ -1778,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "db11a053-2a7c-42c9-a21c-9e2c40414fa8",
+    "title": "Pokemon Shield Nintendo Switch + Steelbox",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e790f/4defd2bd4fdd9a6c68d0501a9c69",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-steelbox-fwt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Zwierzyniec"
   },
   {
     "id": "db11a053-2a7c-42c9-a21c-9e2c40414fa8",
@@ -2380,26 +2400,6 @@
     "city": "Sokółka"
   },
   {
-    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
-    "title": "Animal Crossing: New Horizons - Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
-  },
-  {
-    "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
-    "title": "Splatoon 3 - Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e7340/370ff85c4ad99effe2f954ab21db",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-txh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
-  },
-  {
     "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
     "title": "Splatoon 3 - Nintendo Switch",
     "price": "179",
@@ -2852,7 +2852,7 @@
   {
     "id": "9350f425-583b-4b79-b632-d1f81a3e8537",
     "title": "MONSTER HUNTER RISE edycja kolekcjonerska",
-    "price": "359",
+    "price": "349",
     "img": "https://a.allegroimg.com/s180x180/1eecac/7b397cfd418b955f9d5f6356c375",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-edycja-kolekcjonerska-czu?navCategoryId=256922",
     "promoted": false,
@@ -3600,16 +3600,6 @@
     "city": "Kraków"
   },
   {
-    "id": "c899b16e-cf6e-49b2-bed2-a0c59fc56f78",
-    "title": "Metroid Prime Remastered Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1ef528/fd492c444859a3ed6031049a3510",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-lkb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "b63fda7d-9470-4b06-a212-61155022b43c",
     "title": "It Takes Two Switch",
     "price": "100",
@@ -4198,6 +4188,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "4abac667-60b5-491f-afd6-d343e86198f2",
+    "title": "Xenoblade Chronicles Definitive Edition (ENG) (SWITCH) NAJTANIEJ",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ea236/5a29ceb849e991a7aa217b14f0bd",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-eng-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
+    "title": "Diablo 3 Eternal Collection",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e3e1b/a4f05ab1430ba9ea31962430bd32",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-zh2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "4abac667-60b5-491f-afd6-d343e86198f2",
+    "title": "Xenoblade Chronicles Definitive Edition (ENG) (SWITCH) NAJTANIEJ",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ea236/5a29ceb849e991a7aa217b14f0bd",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-eng-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
@@ -5975,26 +5995,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s180x180/115a25/d58a32e0459b99ccb33c65f5782f",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
-  },
-  {
-    "id": "cfcd3232-0d48-4dd4-9ba2-10f0de1bf5dd",
-    "title": "ASH OF GODS REDEMPTION PL po polsku turowy RPG STRATEGIA jak banner saga",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/11df9b/28ec8637479c85d89ebc11a4bdce",
-    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-pl-po-polsku-turowy-rpg-strategia-jak-banner-saga-avd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
-  },
-  {
-    "id": "0db74203-4a93-4fa6-b444-ea94cf58c8f6",
-    "title": "YOSHI CRAFTED WORLD 1-2 GRACZY nintendo kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1113b3/d364e8544af48e5ca6d7318d4932",
-    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-12-graczy-nintendo-kardridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
