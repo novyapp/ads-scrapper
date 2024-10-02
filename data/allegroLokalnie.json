@@ -200,16 +200,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "fd87ac82-6b1e-4da8-b7af-5f7d450523a4",
-    "title": "Super Mario Bros. Wonder",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e6213/73e67f7d4d9da524df2ea424c3eb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-vgk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Małachowo-Wierzbiczany"
-  },
-  {
     "id": "4edbe804-b8fa-4620-a14e-44ac6e649e90",
     "title": "The Legend of Zelda: Tears of the Kingdom Edycja Kolekcjonerska",
     "price": "400",
@@ -4210,6 +4200,16 @@
     "city": "Rzeszów"
   },
   {
+    "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
+    "title": "Ys IX: Monstrum Nox",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
+    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
     "title": "Triangle Strategy",
     "price": "149",
@@ -5400,16 +5400,6 @@
     "city": "Łomża"
   },
   {
-    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
-    "title": "Animal Crossing New Horizons",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
     "title": "Pokémon Sword na konsolę Nintendo Switch",
     "price": "180",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
+  },
+  {
+    "id": "86483009-87bd-49d8-a194-39afde739c60",
+    "title": "Metal Max Xeno Reborn - Swith",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e16eb/241381cf419a8d887deffb786f6a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-max-xeno-reborn-swith?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Głogów"
   }
 ]
