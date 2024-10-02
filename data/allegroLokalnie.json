@@ -1800,16 +1800,6 @@
     "city": "Maniowy"
   },
   {
-    "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
-    "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/118af7/8aa2238d4ab09d35eb6ad3c66d54",
-    "url": "https://allegrolokalnie.pl//oferta/captain-tsubasa-rise-of-new-champions-gra-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Maniowy"
-  },
-  {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
     "title": "Super Mario Odyssey",
     "price": "179",
@@ -2400,6 +2390,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
+    "title": "Splatoon 3 - Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7340/370ff85c4ad99effe2f954ab21db",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-txh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
+  },
+  {
     "id": "ba7392e9-500e-4327-bcb8-71ee3cf25973",
     "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
     "price": "266",
@@ -2716,7 +2716,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e39e8/fa2262154f73bedcbdb0b72fb6ef",
     "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-kuw?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Chojnice"
   },
   {
@@ -3600,6 +3600,16 @@
     "city": "Nadolice Wielkie"
   },
   {
+    "id": "b63fda7d-9470-4b06-a212-61155022b43c",
+    "title": "It Takes Two Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e6181/203bede540cc8f3fb21ab922da8c",
+    "url": "https://allegrolokalnie.pl//oferta/it-takes-two-switch-n25?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nadolice Wielkie"
+  },
+  {
     "id": "5f13f753-c105-4b49-8ebf-047672c69af6",
     "title": "Psi Patrol / On a Roll",
     "price": "50",
@@ -4188,26 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
-    "title": "Fire Emblem Warriors",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1e5b6a/f48e5f7841aeb14e843a73299e2b",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "43166fa0-d1f1-40e9-af4c-29ff75d9fc5b",
-    "title": "Fire Emblem Warriors",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1e5b6a/f48e5f7841aeb14e843a73299e2b",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-xay?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
   },
   {
     "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
@@ -4800,6 +4790,26 @@
     "city": "Toruń"
   },
   {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
+    "title": "My Hero Ones Justice 2",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e8224/8e4e6e9548e6bc7ea6c0513268df",
+    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "6ee0ead9-984c-4a79-b74a-b667ac6b933a",
     "title": "Minecraft Story Mode Nintendo Switch",
     "price": "435",
@@ -5388,16 +5398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Opole Lubelskie"
-  },
-  {
-    "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
-    "title": "Family Trainer - gra Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1eca3e/798f6908489880bc298c97991bde",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-gra-nintendo-switch-ooy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ochota"
   },
   {
     "id": "fe8f39b9-59f5-448a-8b4a-785acc7aaf30",
