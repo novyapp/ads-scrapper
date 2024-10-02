@@ -585,7 +585,7 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e5a37/9ba5cc81451b8220a2d661119489",
     "url": "https://allegrolokalnie.pl//oferta/gra-urban-trial-playground?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Majdan królewski"
   },
@@ -1800,6 +1800,16 @@
     "city": "Owsiszcze"
   },
   {
+    "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
+    "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/118af7/8aa2238d4ab09d35eb6ad3c66d54",
+    "url": "https://allegrolokalnie.pl//oferta/captain-tsubasa-rise-of-new-champions-gra-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Maniowy"
+  },
+  {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
     "title": "Super Mario Odyssey",
     "price": "179",
@@ -2388,26 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sokółka"
-  },
-  {
-    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
-    "title": "Animal Crossing: New Horizons - Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
-  },
-  {
-    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
-    "title": "Animal Crossing: New Horizons - Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gliwice"
   },
   {
     "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
@@ -4200,6 +4190,26 @@
     "city": "Rzeszów"
   },
   {
+    "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
+    "title": "Octopath Traveler",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
+    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
+    "title": "Octopath Traveler",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
+    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
     "title": "Diablo 3 Eternal Collection",
     "price": "149",
@@ -5985,16 +5995,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s180x180/115a25/d58a32e0459b99ccb33c65f5782f",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
-  },
-  {
-    "id": "cfcd3232-0d48-4dd4-9ba2-10f0de1bf5dd",
-    "title": "ASH OF GODS REDEMPTION PL po polsku turowy RPG STRATEGIA jak banner saga",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/11df9b/28ec8637479c85d89ebc11a4bdce",
-    "url": "https://allegrolokalnie.pl//oferta/ash-of-gods-redemption-pl-po-polsku-turowy-rpg-strategia-jak-banner-saga-avd?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
