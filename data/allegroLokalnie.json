@@ -560,16 +560,6 @@
     "city": "Kraków"
   },
   {
-    "id": "e5337328-e80c-4203-8e9d-4f817656fec4",
-    "title": "Let's sing Abba Switch + 2 mikrofony",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e3a24/cd50e3544f3c84b8b1e48dd4040f",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "d2092a26-3faf-4bab-a03b-79ffd8632a5a",
     "title": "Star Wars Heritage Pack Nintendo Switch",
     "price": "162",
@@ -588,6 +578,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
+    "title": "Super Mario RPG - Gadżety - Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1ee457/f9fb72e64272922750f227faf724",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-q2c?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
@@ -1790,16 +1790,6 @@
     "city": "Kraków, Zwierzyniec"
   },
   {
-    "id": "db11a053-2a7c-42c9-a21c-9e2c40414fa8",
-    "title": "Pokemon Shield Nintendo Switch + Steelbox",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e790f/4defd2bd4fdd9a6c68d0501a9c69",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-steelbox-fwt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Zwierzyniec"
-  },
-  {
     "id": "326bd4c6-1983-47e3-84db-bc9331c7c372",
     "title": "Nintendo gra Animal Crossing",
     "price": "145",
@@ -2210,6 +2200,16 @@
     "city": "Kraków"
   },
   {
+    "id": "e5337328-e80c-4203-8e9d-4f817656fec4",
+    "title": "Let's sing Abba Switch + 2 mikrofony",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1e3a24/cd50e3544f3c84b8b1e48dd4040f",
+    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "1e6f2143-53b1-435a-a3cc-330405ac4d77",
     "title": "Minecraft Nintendo Switch",
     "price": "147",
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sokółka"
+  },
+  {
+    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
+    "title": "Animal Crossing: New Horizons - Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
   },
   {
     "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
@@ -4190,16 +4200,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
-    "title": "Octopath Traveler",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
-    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "64ccdf8b-90d5-46ff-96c3-438c54aeb196",
     "title": "Diablo 3 Eternal Collection",
     "price": "149",
@@ -4788,6 +4788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
+    "title": "Super Mario Bros U Deluxe Switch (nowa, folia)",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e6686/53d424c04f61a116615e33d1ba66",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-u-deluxe-switch-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
   },
   {
     "id": "40297bab-fedb-45b3-8b19-15349b79ca0a",
