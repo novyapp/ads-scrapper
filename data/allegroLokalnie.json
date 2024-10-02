@@ -595,7 +595,7 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e568f/41a3a2754186850e7ad2f0877475",
     "url": "https://allegrolokalnie.pl//oferta/gra-hollow-knight?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Majdan królewski"
   },
@@ -1330,6 +1330,16 @@
     "city": "Białystok"
   },
   {
+    "id": "d966e3b7-c70e-41cc-9ac6-e890d96ff9b8",
+    "title": "The Legend of Zelda Skyward Sword HD",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1ed0ad/af95801041a1810e886233276cbd",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-ppi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Krzyki"
+  },
+  {
     "id": "32fdc5f9-a58f-48c7-aa8d-9d661e4ad2e7",
     "title": "MARIO PARTY SUPERSTARS (NINTENDO SWITCH)",
     "price": "180",
@@ -1788,16 +1798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Owsiszcze"
-  },
-  {
-    "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
-    "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/118af7/8aa2238d4ab09d35eb6ad3c66d54",
-    "url": "https://allegrolokalnie.pl//oferta/captain-tsubasa-rise-of-new-champions-gra-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Maniowy"
   },
   {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sokółka"
+  },
+  {
+    "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
+    "title": "Animal Crossing: New Horizons - Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e93bf/0d2f2ae1465fa1107d674137c290",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-ao5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
   },
   {
     "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
@@ -4185,16 +4195,6 @@
     "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1e4bd7/88e3e9e143aa9243c4558e9d1ca0",
     "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-njq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
-    "title": "Octopath Traveler",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
-    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
