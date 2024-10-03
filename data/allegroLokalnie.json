@@ -1,5 +1,15 @@
 [
   {
+    "id": "de155e18-1cfe-4a81-83e5-ea93ff67cc8e",
+    "title": "Yoshi’s Crafted World gra na Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e6732/22e2aa8a41dfa1f14f4caafe2fdd",
+    "url": "https://allegrolokalnie.pl//oferta/yoshis-crafted-world-gra-na-nintendo-switch-gjn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wawer"
+  },
+  {
     "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
     "title": "Warioware get it together",
     "price": "90",
@@ -1250,16 +1260,6 @@
     "city": "Łódź"
   },
   {
-    "id": "3d3eb69d-d88d-4054-8e01-9c650615caec",
-    "title": "Dziedzictwo Hogwartu Nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e6c5b/eb425d5b4cbd9d0988c600fa08b5",
-    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-nintendo-switch-zax?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
     "title": "RingFit Adventure nintendo switch",
     "price": "200",
@@ -1778,6 +1778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sanniki"
+  },
+  {
+    "id": "f4021ce2-a809-4b13-9893-2c6eadaf7d69",
+    "title": "Gra Batman Trilogy Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e6935/a6e117744aba95d90a1dd676cc7a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-batman-trilogy-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mińsk Mazowiecki"
   },
   {
     "id": "a3e2202c-f290-4b3c-87bc-699c3c09e9f5",
@@ -2305,16 +2315,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e5a37/9ba5cc81451b8220a2d661119489",
     "url": "https://allegrolokalnie.pl//oferta/gra-urban-trial-playground?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Majdan królewski"
-  },
-  {
-    "id": "8a8704f5-aa63-47c9-aba7-76f9e5791035",
-    "title": "Gra Hollow Knight",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e568f/41a3a2754186850e7ad2f0877475",
-    "url": "https://allegrolokalnie.pl//oferta/gra-hollow-knight?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Majdan królewski"
@@ -3578,16 +3578,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
-  },
-  {
-    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
-    "title": "Gra Asterix i Obelix Slap Them All Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
@@ -5978,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
+  },
+  {
+    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
+    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e9acc/3680cbf84de4a1639029e27219b7",
+    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
