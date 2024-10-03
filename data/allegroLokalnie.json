@@ -460,16 +460,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "4b07307c-2e5d-4767-a6f5-e743ab60346b",
-    "title": "Just Dance 2021 dla Nintendo Switch",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e6b45/e22703104432a6a52d1e188eb63b",
-    "url": "https://allegrolokalnie.pl//oferta/just-dance-2021-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Toruń"
-  },
-  {
     "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
     "title": "Ikai switch horror",
     "price": "80",
@@ -595,16 +585,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "cd5c34db-69e9-4184-8190-9c6756f79f33",
-    "title": "PRINCE OF PERSIA: THE LOST CROWN - NINTENDO SWITCH, JAK NOWA",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
@@ -1198,6 +1178,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Kraków"
+  },
+  {
+    "id": "da1b0abd-e317-4552-8c5b-13a32350b3e0",
+    "title": "Bayonetta 3 Trinity Masquerade Edition switch",
+    "price": "444",
+    "img": "https://a.allegroimg.com/s180x180/1e1f47/aa2888214764ae68cf15eaaadd60",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nintendo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ruszkowice"
   },
   {
     "id": "da1b0abd-e317-4552-8c5b-13a32350b3e0",
@@ -3000,6 +2990,16 @@
     "city": "Kraków, Zwierzyniec"
   },
   {
+    "id": "8f42d096-1869-433c-a0bc-3111741dbeff",
+    "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s180x180/1e8143/341576d445f6ade6391f018a447c",
+    "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch-l77?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Zwierzyniec"
+  },
+  {
     "id": "78ce10f9-8b4e-4bb9-b509-c3c0db9c9462",
     "title": "Gra Nintendo Switch „ Lego Gwiezdne Wojny”",
     "price": "74",
@@ -3588,26 +3588,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
-    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Grochów"
-  },
-  {
-    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
-    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Grochów"
   },
   {
     "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
@@ -4208,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Nowa Sól"
-  },
-  {
-    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
-    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1e4b5b/d90095df4e40b0f239ed11ec8887",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "f6152979-b264-4638-8573-2ddd9cd50fa4",
@@ -5398,6 +5368,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
+    "title": "Dreamcutter Switch tylko kartrydż z grą",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ea2e1/01743a424fa29ba1ff21e09aa466",
+    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "ciechanów"
+  },
+  {
+    "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
+    "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e1ba4/2fa71d2641fb95228a4234ecc26e",
+    "url": "https://allegrolokalnie.pl//oferta/gry-ps4-ps-vita-nintendo-switch-assassins-shadiw-of-war-mordor?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Brzoza"
   },
   {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
