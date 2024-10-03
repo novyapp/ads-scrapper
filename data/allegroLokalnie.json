@@ -50,16 +50,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "8ab57077-ec73-4fc8-9690-fcd0ba8a77c1",
-    "title": "The Legend of Zelda Echoes of Wisdom Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e8b3d/4c2505fd46ffb3a0f0786000bcf6",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-nintendo-switch-gas?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "f91b7827-bd6a-4445-975e-6049bbc673d8",
     "title": "The Wine gra Nintendo Switch LIMITED RUN GAMES Unikat",
     "price": "139",
@@ -138,16 +128,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Bytom, Szombierki"
-  },
-  {
-    "id": "a28b81a9-82e2-4f8c-8656-3780e883d2e7",
-    "title": "GOTHIC 1 NINTENDO SWITCH PL",
-    "price": "81",
-    "img": "https://a.allegroimg.com/s180x180/1e221b/a130d18047b1be61414bc65e84d8",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-1-nintendo-switch-pl-xcq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Radzyń Podlaski"
   },
   {
     "id": "64ffd173-508e-4c60-9f61-d2ea39cbb964",
@@ -2570,16 +2550,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "142abcee-6d09-496b-b2ca-ec178f2cd5a8",
-    "title": "Pokemon Shining Pearl - Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e00c9/b4d6d3da43df988da4b2f8e88c20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-5lr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "fc8d769e-13ff-4c3c-91dc-c9b331ba6b1c",
     "title": "Xenoblade Chronicles 3 | Nintendo Switch",
     "price": "144",
@@ -4602,7 +4572,7 @@
   {
     "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
     "title": "Crash bandicoot n sane trilogy switch",
-    "price": "110",
+    "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1eeb9c/6f40af794f599752264da71a144c",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-switch-r4u?navCategoryId=256922",
     "promoted": false,
@@ -4788,16 +4758,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Śródmieście"
-  },
-  {
-    "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
-    "title": "The Legend of Zelda Skyward Sword HD Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1eff3e/1e1d4db5488d88aec5a343dcbd34",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-nintendo-switch-5v4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
@@ -5998,5 +5958,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom"
+  },
+  {
+    "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
+    "title": "Gra NSW Instant Sport Tenis",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1e063e/bf69d78444c6881bf5a139a81c05",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
+    "id": "efe79ebe-a904-4976-8fa0-7fbe639e36d7",
+    "title": "Xenoblade Chronicles Definitive Edition",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e3a8a/32139ca74fba8970c3fa47ea47a5",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-kwq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
+    "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee158/3566c7e342fcb472f3e8e44ce931",
+    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-tennis-aces-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   }
 ]
