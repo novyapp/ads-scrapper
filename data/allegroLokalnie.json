@@ -1,5 +1,15 @@
 [
   {
+    "id": "591f99ea-b7e2-4a26-a499-7d90b2b90939",
+    "title": "Gra Mario vs. Donkey Kong Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ec4a1/33bc59c74becb07b07807fc9b241",
+    "url": "https://allegrolokalnie.pl//oferta/gra-mario-vs-donkey-kong-nintendo-switch-wr4?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kobyłka"
+  },
+  {
     "id": "adcbc84b-fd02-4df2-a803-58a370f4ad88",
     "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
     "price": "179",
@@ -600,16 +610,6 @@
     "city": "Poznań, Jeżyce"
   },
   {
-    "id": "b42d6829-3c6c-4fa7-881b-ff9ba99bb1c2",
-    "title": "Luigi's Mansion 3 Nintendo Switch",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1ed1da/ef932cc3432caa62ee8515ac39c9",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-ts6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "130d6879-4086-4e9b-b91f-41b0ef411920",
     "title": "Vengeful Guardian Moonrider Nintendo Switch NOWA",
     "price": "159",
@@ -1195,6 +1195,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1e2d11/b3b8c45643adbbe62c386b7b3018",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-indivisible?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "27159df6-3664-43b7-bef7-7d0910186042",
+    "title": "Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush!!",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1eab30/2645095c444595556a7f2c0bffce",
+    "url": "https://allegrolokalnie.pl//oferta/switch-yugioh-rush-duel-lets-go-go-rush?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -3000,16 +3010,6 @@
     "city": "Kluczbork"
   },
   {
-    "id": "9ac34201-31e9-4b1c-a303-d5dabb4daf53",
-    "title": "CAPTAIN TOAD Treasure Tracker gra Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/11403e/6656faf1436dbf47124c44d219ba",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-gra-nintendo-switch-glr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kluczbork"
-  },
-  {
     "id": "aa674ab8-8232-4fd0-88af-a7e90fd01e58",
     "title": "Disgaea 5 nintendo switch",
     "price": "130",
@@ -4200,6 +4200,16 @@
     "city": "Bytom"
   },
   {
+    "id": "7bb39aaf-72c8-4379-abe9-92e869f58596",
+    "title": "Animal Crossing New Horizons",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e6901/55b9163d4874b48994d400bea28b",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-66g?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "6f33668c-4f5c-4ec3-9a49-69fde7d06a4f",
     "title": "Pokémon brilliant diamond & shining pearl+stelbook Nintendo Switch",
     "price": "325",
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Śródmieście"
-  },
-  {
-    "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
-    "title": "The Legend of Zelda Skyward Sword HD Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1eff3e/1e1d4db5488d88aec5a343dcbd34",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-nintendo-switch-5v4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
   },
   {
     "id": "1a73cca3-aa0e-4490-8f14-3aa8a2d6d175",
@@ -5400,6 +5400,16 @@
     "city": "Kraków, Prądnik Biały"
   },
   {
+    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
+    "title": "Warioware Get it together",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e2906/29bc28a2421c8e3a014714643729",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
     "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
     "title": "Animal Crossing: New Horizons Nintendo Switch",
     "price": "180",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ostrołęka"
-  },
-  {
-    "id": "7e35855e-2c73-4830-ba20-c281be4d5ad6",
-    "title": "GOTHIC I & II ZESTAW PL Nintendo Switch NOWE",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1ebbf3/e406362747dfa82d038d6ed84679",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-i-ii-zestaw-pl-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom"
   }
 ]
