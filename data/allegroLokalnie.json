@@ -600,6 +600,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "06421adb-0ae7-4a1e-931d-8597f3c73680",
+    "title": "Super Mario RPG - Gadżety - Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1ee457/f9fb72e64272922750f227faf724",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-q2c?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
     "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
     "price": "179",
@@ -1188,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
-  },
-  {
-    "id": "774f3e5f-f7b4-49e7-8b26-55cc711305d1",
-    "title": "Xenoblade Chronicles 2 (Edycja kolekconerska)",
-    "price": "700",
-    "img": "https://a.allegroimg.com/s180x180/1e13f7/9bb5da7b41c884f3ce6e9df3a1e4",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-edycja-kolekconerska?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków"
   },
   {
     "id": "da1b0abd-e317-4552-8c5b-13a32350b3e0",
@@ -5400,16 +5400,6 @@
     "city": "olecko"
   },
   {
-    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
-    "title": "Super Mario 3d World Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eb394/18c354254e8e8521965fc745798d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
     "title": "Pokemon Sword Switch Steelbook",
     "price": "100",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
