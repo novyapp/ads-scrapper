@@ -10,6 +10,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "f91b7827-bd6a-4445-975e-6049bbc673d8",
+    "title": "The Wine gra Nintendo Switch LIMITED RUN GAMES Unikat",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e9ebf/c2845dfe4bf099be7310e613d003",
+    "url": "https://allegrolokalnie.pl//oferta/the-wine-gra-nintendo-switch-limited-run-games-unikat?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "4b62b1df-6ea0-4bfa-a73e-4dea31ac332a",
     "title": "Sniper Elite 4 Nintendo Switch",
     "price": "80",
@@ -1002,7 +1012,7 @@
   {
     "id": "e54bed1b-7802-456d-b218-d6183bbcddb5",
     "title": "Nintendo Switch gra Splatoon 2",
-    "price": "170",
+    "price": "165",
     "img": "https://a.allegroimg.com/s180x180/1eaabf/969121a14981a77732193f5c9f73",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-splatoon-2-njc?navCategoryId=256922",
     "promoted": true,
@@ -1240,14 +1250,34 @@
     "city": "Białystok"
   },
   {
-    "id": "f91b7827-bd6a-4445-975e-6049bbc673d8",
-    "title": "The Wine gra Nintendo Switch LIMITED RUN GAMES Unikat",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e9ebf/c2845dfe4bf099be7310e613d003",
-    "url": "https://allegrolokalnie.pl//oferta/the-wine-gra-nintendo-switch-limited-run-games-unikat?navCategoryId=256922",
+    "id": "16b75cad-0d3d-4729-b900-903054420e62",
+    "title": "Mario Party Superstars (Nintendo Switch)",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1ea6d6/a3ec2d784dbb82cb4808d6ebc7f1",
+    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-nintendo-switch-k4a?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "ac2330d8-baf1-4319-9da3-d30dd2a6c179",
+    "title": "Metroid Prime Remastered (Nintendo Switch",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s180x180/1e4e17/af4a2e674fd5b71490d54d8ac932",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-vpj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "d996e3ed-497a-4b9e-a804-9aab96b5f100",
+    "title": "Metroid Dread (Nintendo Switch)",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ea8e0/83b1b26243299bf40cd52bed2b86",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-yi4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "a78d8af2-7bab-4fc3-a869-a4fbadf9d78c",
@@ -1765,36 +1795,6 @@
     "price": "165",
     "img": "https://a.allegroimg.com/s180x180/1e3fbb/039b035741b088e437b7abe83bf4",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-6bo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wiry"
-  },
-  {
-    "id": "68c4a9fb-713c-4c87-b4b4-511e3a8e0907",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e2182/5f68bfa94e1aaa95ff37e3b7bd56",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-nyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wiry"
-  },
-  {
-    "id": "d5d86da2-2b4f-47c2-820b-6ed5a7b19236",
-    "title": "The Legend Of Zelda Breath Of The Wild Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1eff58/d8106da74c2a8392680f5aadc0a8",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-yrb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wiry"
-  },
-  {
-    "id": "7c86095f-874e-4a3d-b0b9-a4ae39fed5fe",
-    "title": "Super Mario Party Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1edb0f/1714748c453e954a5055bc6944d5",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-adu?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wiry"
@@ -5400,6 +5400,36 @@
     "city": "Zielona góra, Nowe Miasto"
   },
   {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
+    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
+    "title": "GRIP: Combat Racing Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
+    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona góra, Nowe Miasto"
+  },
+  {
     "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
     "title": "Mario Odyssey NINTENDO SWITCH ideał",
     "price": "185",
@@ -5582,7 +5612,7 @@
   {
     "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
     "title": "Animal Crossing New Horizons gra Nintendo switch",
-    "price": "179",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1ef78d/04e5c936468ca561a2fdd5ce243d",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-5p3?navCategoryId=256922",
     "promoted": false,
@@ -5968,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
-  },
-  {
-    "id": "2c849131-86de-4420-8994-e9a75d36900f",
-    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarosław"
-  },
-  {
-    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
-    "title": "Neptunia sisters vs sisters (Nintendo switch)",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e0274/84ead5234a97b4ebc8d226a62781",
-    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomnica"
-  },
-  {
-    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gaszowice"
   }
 ]
