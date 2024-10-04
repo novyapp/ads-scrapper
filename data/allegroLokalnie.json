@@ -570,16 +570,6 @@
     "city": "Zakopane"
   },
   {
-    "id": "03a5b9bf-358b-41f5-b3aa-c38b3db701a5",
-    "title": "Wiedźmin dziki gon nintendo switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ec8da/c026db59400fba53eab7e6fd560f",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-dziki-gon-nintendo-switch-uvp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kożuchów"
-  },
-  {
     "id": "130d6879-4086-4e9b-b91f-41b0ef411920",
     "title": "Vengeful Guardian Moonrider Nintendo Switch NOWA",
     "price": "159",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Koszalin"
+  },
+  {
+    "id": "03a5b9bf-358b-41f5-b3aa-c38b3db701a5",
+    "title": "Wiedźmin dziki gon nintendo switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ec8da/c026db59400fba53eab7e6fd560f",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-dziki-gon-nintendo-switch-uvp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kożuchów"
   },
   {
     "id": "7e954e76-531a-4e9a-8ceb-f584233775ea",
@@ -1200,16 +1200,6 @@
     "city": "Białystok"
   },
   {
-    "id": "bb815c65-910f-4c5e-9b11-2c5151968a7e",
-    "title": "Mario Rabbids Sparks of Hope",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1ebf8c/d61725514bffb6c43006c109fa11",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-iwi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "f9c525fe-ac54-4e41-93de-2ce7132fbcf1",
     "title": "NINTENDO SWITCH SUPER MARIO ODYSSEY",
     "price": "129",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ochota"
+  },
+  {
+    "id": "5c599d72-14fb-4658-b250-f07fb86ffdbe",
+    "title": "Final fantasy 12 Nintendo switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1eff9c/24072b1d4d43895a80b95cb45bdc",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-12-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   },
   {
     "id": "5c599d72-14fb-4658-b250-f07fb86ffdbe",
