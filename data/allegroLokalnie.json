@@ -1080,16 +1080,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
-    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
-    "price": "480",
-    "img": "https://a.allegroimg.com/s180x180/1ef0ad/9da8a3bd4f6d884ad84415853f74",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Mysłowice"
-  },
-  {
     "id": "4281978f-0987-4f67-8766-23c24df84ea7",
     "title": "You Suck at Parking klucz steam",
     "price": "29",
@@ -1178,6 +1168,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "e04e6160-b9e9-4301-ad3e-b1e16d596147",
+    "title": "Mario Kart Live Home Circuit nintendo switch nowy!",
+    "price": "480",
+    "img": "https://a.allegroimg.com/s180x180/1ef0ad/9da8a3bd4f6d884ad84415853f74",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-nintendo-switch-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mysłowice"
   },
   {
     "id": "a8f9b547-0ea7-45d8-98d0-39b83aa22eaa",
@@ -3590,6 +3590,16 @@
     "city": "Bielsko-Biała"
   },
   {
+    "id": "18611ece-2f7f-4878-8a07-432fc4463046",
+    "title": "Super Mario 3DWorld + Bowser's Fury Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e2425/94bce9df430491137146f5d9f2ce",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3dworld-bowsers-fury-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bielsko-Biała"
+  },
+  {
     "id": "21ea2598-33c0-4613-89ef-5c0ca5bd2ca4",
     "title": "No Man's Sky Switch",
     "price": "219",
@@ -5390,16 +5400,6 @@
     "city": "Łomża"
   },
   {
-    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
-    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Głogów"
+  },
+  {
+    "id": "ff0a3a33-3b5e-48a5-8abf-dce0fc3a630b",
+    "title": "switch MARIO KART 8 DELUXE wyścigi 1-4 graczy, kardridż",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/119a04/c19840cb44319d20d29cec3accad",
+    "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Groblice"
   }
 ]
