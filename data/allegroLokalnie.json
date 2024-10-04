@@ -1190,16 +1190,6 @@
     "city": "Białystok"
   },
   {
-    "id": "053a67d8-3f6e-44a8-80f0-b93e5c676c42",
-    "title": "Legend of Mana dla Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1eba68/470668ce42e6bf856ded0aa3a638",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-mana-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
-  },
-  {
     "id": "0e1171e1-5b12-4661-aa6f-a4609c5434f9",
     "title": "Eiyuden Chronicles: Hundred Heroes dla Nintendo Switch",
     "price": "155",
@@ -1785,6 +1775,16 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s180x180/1e471c/c9bddc864236b2b1a9817a02384d",
     "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-s-echoes-of-an-elusive-age-switch-fll?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "74766c4a-e7f7-4d5e-b078-26de8834b223",
+    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e9474/78a3a2c143978b098b9878a9bce8",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-g3z?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
@@ -2400,16 +2400,6 @@
     "city": "Grabiny-Zameczek"
   },
   {
-    "id": "4e40a5fe-d28c-43bd-b768-6b08b0b3f741",
-    "title": "Ryan Rescue Squad Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e3795/ea62a4fa4ebab28e100097c63835",
-    "url": "https://allegrolokalnie.pl//oferta/ryan-rescue-squad-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grabiny-Zameczek"
-  },
-  {
     "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
     "title": "Super mario 3d world + bowsers fury",
     "price": "159",
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bronowice Małe Wschód"
+  },
+  {
+    "id": "09700d50-ef6e-4b3f-871c-30a8c318af45",
+    "title": "Luigi’s Mansion 2 HD Nintendo switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Jaworzno"
   },
   {
     "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
-  },
-  {
-    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   }
 ]
