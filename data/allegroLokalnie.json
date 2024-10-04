@@ -1190,11 +1190,11 @@
     "city": "Białystok"
   },
   {
-    "id": "0e1171e1-5b12-4661-aa6f-a4609c5434f9",
-    "title": "Eiyuden Chronicles: Hundred Heroes dla Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e4c1c/c5a6425948ef952ac4efd3bbc0d8",
-    "url": "https://allegrolokalnie.pl//oferta/eiyuden-chronicles-hundred-heroes-dla-nintendo-switch?navCategoryId=256922",
+    "id": "053a67d8-3f6e-44a8-80f0-b93e5c676c42",
+    "title": "Legend of Mana dla Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1eba68/470668ce42e6bf856ded0aa3a638",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-mana-dla-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
@@ -1222,7 +1222,7 @@
   {
     "id": "f9c525fe-ac54-4e41-93de-2ce7132fbcf1",
     "title": "NINTENDO SWITCH SUPER MARIO ODYSSEY",
-    "price": "129",
+    "price": "119",
     "img": "https://a.allegroimg.com/s180x180/1ed5e3/483cfcbd4aeb82f33ca067326d06",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-odyssey-rxp?navCategoryId=256922",
     "promoted": false,
@@ -1775,16 +1775,6 @@
     "price": "219",
     "img": "https://a.allegroimg.com/s180x180/1e471c/c9bddc864236b2b1a9817a02384d",
     "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-s-echoes-of-an-elusive-age-switch-fll?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "74766c4a-e7f7-4d5e-b078-26de8834b223",
-    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e9474/78a3a2c143978b098b9878a9bce8",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-g3z?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
+  },
+  {
+    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
+    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
+    "price": "96",
+    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
