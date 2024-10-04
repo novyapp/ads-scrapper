@@ -132,7 +132,7 @@
   {
     "id": "cacf2e66-ee6a-481f-b201-81c501290b3e",
     "title": "Star Wars Heritage Pack Nintendo Switch",
-    "price": "160",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1eefd2/b56dd5e141249912332910cfe235",
     "url": "https://allegrolokalnie.pl//oferta/star-wars-heritage-pack-nintendo-switch-tcl?navCategoryId=256922",
     "promoted": true,
@@ -2400,6 +2400,16 @@
     "city": "Owsiszcze"
   },
   {
+    "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
+    "title": "Super mario 3d world + bowsers fury",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1ed6cf/ed49e0244c6a9e116f223fea8a6d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-dq5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
+  },
+  {
     "id": "4c765f42-0d9f-416f-a260-70595eb6e02a",
     "title": "Dark souls remastered",
     "price": "139",
@@ -2985,16 +2995,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e7f14/6a1b2e88493489f1d82a7fdb699c",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-2am?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
-    "id": "454ede94-c55f-4a3e-a2dc-290affe2eff9",
-    "title": "Hogwarts Legacy Nintendo switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e4665/8b7bcb144008a8567b5a38230ff2",
-    "url": "https://allegrolokalnie.pl//oferta/hogwarts-legacy-nintendo-switch-bkk?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
@@ -4190,6 +4190,26 @@
     "city": "Zabrze"
   },
   {
+    "id": "99a6a422-e998-4e65-8158-aca88b9133d0",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
+    "price": "519",
+    "img": "https://a.allegroimg.com/s180x180/114ede/fa47ae654bfc9d624e4e4a336167",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-gra-ns-ffa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "99a6a422-e998-4e65-8158-aca88b9133d0",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
+    "price": "519",
+    "img": "https://a.allegroimg.com/s180x180/114ede/fa47ae654bfc9d624e4e4a336167",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-gra-ns-ffa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
     "id": "6af3483b-3027-4136-ac6e-c30273117d95",
     "title": "Signalis - Nintendo Switch",
     "price": "200",
@@ -4778,26 +4798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "warszawa"
-  },
-  {
-    "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
-    "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1eb9b0/0bbde30747f8abe25f8da7756950",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-sam-catridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żarki Wielkie"
-  },
-  {
-    "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
-    "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1eb9b0/0bbde30747f8abe25f8da7756950",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-sam-catridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żarki Wielkie"
   },
   {
     "id": "bc3aba2b-6695-4455-974a-2afb4985dcd7",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
+    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   }
 ]
