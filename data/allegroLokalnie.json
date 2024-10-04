@@ -122,7 +122,7 @@
   {
     "id": "cacf2e66-ee6a-481f-b201-81c501290b3e",
     "title": "Star Wars Heritage Pack Nintendo Switch",
-    "price": "165",
+    "price": "175",
     "img": "https://a.allegroimg.com/s180x180/1eefd2/b56dd5e141249912332910cfe235",
     "url": "https://allegrolokalnie.pl//oferta/star-wars-heritage-pack-nintendo-switch-tcl?navCategoryId=256922",
     "promoted": true,
@@ -1190,6 +1190,16 @@
     "city": "Warszawa, Bemowo"
   },
   {
+    "id": "774f3e5f-f7b4-49e7-8b26-55cc711305d1",
+    "title": "Xenoblade Chronicles 2 (Edycja kolekconerska)",
+    "price": "700",
+    "img": "https://a.allegroimg.com/s180x180/1e13f7/9bb5da7b41c884f3ce6e9df3a1e4",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-edycja-kolekconerska?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "da1b0abd-e317-4552-8c5b-13a32350b3e0",
     "title": "Bayonetta 3 Trinity Masquerade Edition switch",
     "price": "444",
@@ -1778,26 +1788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
-  },
-  {
-    "id": "86b49e6f-2115-4ff9-96ac-32c05b88d791",
-    "title": "DRAGON QUEST XI S ECHOES OF AN ELUSIVE AGE SWITCH",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1e471c/c9bddc864236b2b1a9817a02384d",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-s-echoes-of-an-elusive-age-switch-fll?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "86b49e6f-2115-4ff9-96ac-32c05b88d791",
-    "title": "DRAGON QUEST XI S ECHOES OF AN ELUSIVE AGE SWITCH",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1e471c/c9bddc864236b2b1a9817a02384d",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-s-echoes-of-an-elusive-age-switch-fll?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
   },
   {
     "id": "74766c4a-e7f7-4d5e-b078-26de8834b223",
@@ -3585,6 +3575,16 @@
     "price": "300",
     "img": "https://a.allegroimg.com/s180x180/112181/1fe2a20146e6a0c4ad8715c976f8",
     "url": "https://allegrolokalnie.pl//oferta/a-boy-and-his-blob-switch-limited-run-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pionki"
+  },
+  {
+    "id": "4184ca6c-3fb1-420b-b03d-a8e9730df124",
+    "title": "BloodRayne: Revamped - Switch - Limited Run Games",
+    "price": "290",
+    "img": "https://a.allegroimg.com/s180x180/118e06/602ac1a54cd8882fb12ec7050f9f",
+    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-revamped-switch-limited-run-games?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pionki"
@@ -5390,16 +5390,6 @@
     "city": "olecko"
   },
   {
-    "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
-    "title": "Super Mario 3d World Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eb394/18c354254e8e8521965fc745798d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
     "title": "Pokemon Sword Switch Steelbook",
     "price": "100",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
