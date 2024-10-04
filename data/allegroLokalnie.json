@@ -910,6 +910,26 @@
     "city": "Krakow, Swoszowice"
   },
   {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "76a71474-6763-40e2-9f12-2931073baf47",
     "title": "Raiden III X Mikado Maniax - Nintendo Switch JPN NOWA",
     "price": "150",
@@ -1178,26 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "6364d378-6191-40a3-a394-93d98967f6aa",
-    "title": "Gothic II Complete Edition",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e5fdd/6156f5584ec5ad0575e103cf0aca",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-edition-qgy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzała"
-  },
-  {
-    "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
-    "title": "Nintendo switch sports",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e4d77/687e174c412bad75a8fe5df77756",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-6gj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
   },
   {
     "id": "6364d378-6191-40a3-a394-93d98967f6aa",
@@ -1798,6 +1798,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "84728876-e6b8-4bc1-89a4-919b63e15bca",
+    "title": "Another Code Recollection gra Switch",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1ef45a/95934f684d78bb892d937761469f",
+    "url": "https://allegrolokalnie.pl//oferta/another-code-recollection-gra-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
   },
   {
     "id": "62d80b38-8ec3-4d71-8740-3290c7224cd8",
@@ -2988,26 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "szczecno"
-  },
-  {
-    "id": "7226a084-1d3a-486a-9da5-e45fe7c15b7c",
-    "title": "Elder Scrolls V Skyrim na Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e29ff/4ce740bf475f82a7cb9b90629032",
-    "url": "https://allegrolokalnie.pl//oferta/elder-scrolls-v-skyrim-na-nintendo-switch-tnj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
-    "id": "7226a084-1d3a-486a-9da5-e45fe7c15b7c",
-    "title": "Elder Scrolls V Skyrim na Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e29ff/4ce740bf475f82a7cb9b90629032",
-    "url": "https://allegrolokalnie.pl//oferta/elder-scrolls-v-skyrim-na-nintendo-switch-tnj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "9350f425-583b-4b79-b632-d1f81a3e8537",
@@ -4210,6 +4200,16 @@
     "city": "Lędziny"
   },
   {
+    "id": "b1a169d2-f33b-42c7-b060-ca7ffa6237c7",
+    "title": "LEGO Jurassic World Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/11419c/054c42e340f0aab5722242b3f8cb",
+    "url": "https://allegrolokalnie.pl//oferta/lego-jurassic-world-nintendo-switch-4s3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
     "id": "6ebf6b80-dbb7-4b5d-b791-65dc0da63b59",
     "title": "Monster Hunter Rise Edycja Kolekcjonerska Switch",
     "price": "699",
@@ -5400,6 +5400,16 @@
     "city": "Lublin"
   },
   {
+    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
+    "title": "Mario Odyssey NINTENDO SWITCH ideał",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
     "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
     "title": "Nintendo Switch, Super Mario Bros. WONDER",
     "price": "200",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
-  },
-  {
-    "id": "010aa751-6e86-47ce-bbe8-4cbf88c76587",
-    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
-    "price": "96",
-    "img": "https://a.allegroimg.com/s180x180/1ebae3/2eb5745e4afcbac664d8747b1506",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-ksq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
   }
 ]
