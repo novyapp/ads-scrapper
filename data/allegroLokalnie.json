@@ -1,5 +1,25 @@
 [
   {
+    "id": "1ecd724f-52d2-4a5b-b15f-e789c15950e8",
+    "title": "Stojak na gry do Nintendo Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1e9d11/f44dd8d44d3699dfb0d685ea5812",
+    "url": "https://allegrolokalnie.pl//oferta/stojak-na-gry-do-nintendo-switch-khi?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Krzyków"
+  },
+  {
+    "id": "ea048f99-3fd3-48f5-8eb8-62f5b1a10c68",
+    "title": "Luigi’s mansion 2",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1ee68c/f9daa2704243bd1db1c04f3d9f4a",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-bv7?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kielce"
+  },
+  {
     "id": "a688187f-6095-4c9f-a385-66774120f026",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
     "price": "375",
@@ -2380,16 +2400,6 @@
     "city": "Kraków"
   },
   {
-    "id": "e5337328-e80c-4203-8e9d-4f817656fec4",
-    "title": "Let's sing Abba Switch + 2 mikrofony",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e3a24/cd50e3544f3c84b8b1e48dd4040f",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "1e6f2143-53b1-435a-a3cc-330405ac4d77",
     "title": "Minecraft Nintendo Switch",
     "price": "144",
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "f5868a63-6e0e-4be8-8bd5-67a8dbb56274",
-    "title": "Fire Emblem Warriors: Three Hopes Nintendo Switch Nowa Zafoliowana",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1ea101/7374840f4bc986dd2aecffca5789",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-nintendo-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
   },
   {
     "id": "3ce78f05-e9c2-4c3b-a8cc-cc7417af619d",
@@ -3600,6 +3600,26 @@
     "city": "Kraków, Dębniki"
   },
   {
+    "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
+    "title": "Gra Harry Potter Dziedzictwo Hogwartu Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ee504/8fda52cc479dbada563b7c0ee1ce",
+    "url": "https://allegrolokalnie.pl//oferta/gra-harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "6a18f57b-bc65-4923-b970-60f0fae77c10",
+    "title": "Gra NBA 2K23 Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ee6ee/204f8ac74299854a2ed361e44a11",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k23-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
     "title": "Gra Quake Switch",
     "price": "200",
@@ -4178,16 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kędzierzyn-Koźle, Koźle"
-  },
-  {
-    "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
-    "title": "Ys IX: Monstrum Nox",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
-    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
   },
   {
     "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
@@ -4790,6 +4800,16 @@
     "city": "Żarki Wielkie"
   },
   {
+    "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
+    "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s180x180/1eb9b0/0bbde30747f8abe25f8da7756950",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-sam-catridge?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żarki Wielkie"
+  },
+  {
     "id": "bc3aba2b-6695-4455-974a-2afb4985dcd7",
     "title": "The legend of Zelda breath of the wild",
     "price": "179",
@@ -5378,16 +5398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
-  },
-  {
-    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
-    "title": "Nintendo Switch, Super Mario Bros. WONDER",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Grabówka"
   },
   {
     "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
@@ -5985,16 +5995,6 @@
     "price": "95",
     "img": "https://a.allegroimg.com/s180x180/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
-    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e5fd1/bf8c730f4be6b74b722c4759750c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
