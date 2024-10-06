@@ -1,5 +1,15 @@
 [
   {
+    "id": "6aa2dcd4-dff5-446f-971c-e65e0319850a",
+    "title": "Super Mario Odyssey stan BdB",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1ee231/ab8578e84171b6e612d64921c916",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-stan-bdb-bnk?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
     "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
     "price": "115",
@@ -642,7 +652,7 @@
   {
     "id": "23f69e10-2ba3-4a04-a24a-6fff898cf8ea",
     "title": "Mario Kart Live Home Circuit Luigi Nintendo Switch",
-    "price": "300",
+    "price": "330",
     "img": "https://a.allegroimg.com/s180x180/1e6b0b/4c09f69f49e68dc57fe03783a861",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-live-home-circuit-luigi-nintendo-switch-z5r?navCategoryId=256922",
     "promoted": true,
@@ -1108,6 +1118,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "dc961459-1a4b-49cb-b031-f48be934decc",
+    "title": "Harvestella [SWITCH]",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e340b/cc5f898144198317221f9d045568",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-ddb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsko-Biała"
   },
   {
     "id": "801499f1-35a6-4715-8b39-bbfbc7b32a0d",
@@ -1780,26 +1800,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "74766c4a-e7f7-4d5e-b078-26de8834b223",
-    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e9474/78a3a2c143978b098b9878a9bce8",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-g3z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
-    "id": "f4e8d616-4aaf-43cf-b5f9-1236d44ba369",
-    "title": "Nintendo Switch Ring Fit Adventure nowa",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s180x180/1ed003/ec8579e14d3cb46db26aed1b7cde",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ring-fit-adventure-nowa-jdl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Boguchwała"
-  },
-  {
     "id": "f86c6239-4929-4442-8d64-c0d65c890e39",
     "title": "Pokemon Scarlet Gra NINTENDO SWITCH",
     "price": "180",
@@ -2400,6 +2400,26 @@
     "city": "Owsiszcze"
   },
   {
+    "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
+    "title": "Super mario 3d world + bowsers fury",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1ed6cf/ed49e0244c6a9e116f223fea8a6d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-dq5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
+  },
+  {
+    "id": "4c765f42-0d9f-416f-a260-70595eb6e02a",
+    "title": "Dark souls remastered",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1ee222/4470a57143159887d695980b9275",
+    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-wpo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
+  },
+  {
     "id": "d0e3f682-8385-4e24-8e3c-80f363f2d094",
     "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
     "price": "90",
@@ -2978,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "szczecno"
-  },
-  {
-    "id": "7226a084-1d3a-486a-9da5-e45fe7c15b7c",
-    "title": "Elder Scrolls V Skyrim na Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e29ff/4ce740bf475f82a7cb9b90629032",
-    "url": "https://allegrolokalnie.pl//oferta/elder-scrolls-v-skyrim-na-nintendo-switch-tnj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
@@ -4190,16 +4200,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
-    "title": "Okami Switch ANG",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
-    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "160",
@@ -4785,6 +4785,16 @@
     "price": "290",
     "img": "https://a.allegroimg.com/s180x180/1e9a49/843d61c645dc9793ae7c8d39a54d",
     "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-desperate-struggle-lrg-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "5268abb6-0b26-412c-887d-6cd2573a3f05",
+    "title": "No More Heroes Limited Run Games Folia",
+    "price": "255",
+    "img": "https://a.allegroimg.com/s180x180/1e46fa/916e388745e1be9f2ac9155293bc",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-limited-run-games-folia?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
@@ -5390,16 +5400,6 @@
     "city": "Łomża"
   },
   {
-    "id": "97b81bb2-ef60-43ff-958a-3a339f175cfe",
-    "title": "Gra Nintendo Switch - LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1eb21f/05d28abd4254b818201c4f31207d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łomża"
-  },
-  {
     "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
     "title": "Animal Crossing New Horizons",
     "price": "175",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
+  },
+  {
+    "id": "86483009-87bd-49d8-a194-39afde739c60",
+    "title": "Metal Max Xeno Reborn - Swith",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e16eb/241381cf419a8d887deffb786f6a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-max-xeno-reborn-swith?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Głogów"
   }
 ]
