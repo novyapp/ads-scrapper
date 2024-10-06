@@ -540,16 +540,6 @@
     "city": "Białystok"
   },
   {
-    "id": "38aad286-e593-486d-a75c-864bef424743",
-    "title": "The Legend of Zelda Tears of the Kingdom plus pakiet premierowy",
-    "price": "211",
-    "img": "https://a.allegroimg.com/s180x180/1e9a2a/ea5fb3284b14926fc1f7f61d2a33",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-plus-pakiet-premierowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Częstochowa"
-  },
-  {
     "id": "a79e0082-97eb-4330-b788-878a734f9e75",
     "title": "Midnight Fight Express Limited Run #232",
     "price": "350",
@@ -1210,6 +1200,16 @@
     "city": "Gorzów Wielkopolski"
   },
   {
+    "id": "e479af2f-6408-4c01-9f68-e98171d992e1",
+    "title": "Super Mario Wonder Nintendo Switch! Okazja! Jak nowa!",
+    "price": "144",
+    "img": "https://a.allegroimg.com/s180x180/1e3347/1a5e606f4de285c262ebca0394d8",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-okazja-jak-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
     "id": "2655f357-d8c7-4715-8a6f-5ddb094a2f62",
     "title": "Tokyo 2020 Nintendo Switch",
     "price": "80",
@@ -1800,16 +1800,6 @@
     "city": "Poznań, Nowe Miasto"
   },
   {
-    "id": "74766c4a-e7f7-4d5e-b078-26de8834b223",
-    "title": "XENOBLADE CHRONICLES 2 / NINTENDO SWITCH",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e9474/78a3a2c143978b098b9878a9bce8",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-g3z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "f4e8d616-4aaf-43cf-b5f9-1236d44ba369",
     "title": "Nintendo Switch Ring Fit Adventure nowa",
     "price": "215",
@@ -1942,7 +1932,7 @@
   {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
     "title": "Super Mario Odyssey",
-    "price": "179",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e887a/8c2df0574a1a85499f5653ac794f",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-qio?navCategoryId=256922",
     "promoted": false,
@@ -2228,6 +2218,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "38aad286-e593-486d-a75c-864bef424743",
+    "title": "The Legend of Zelda Tears of the Kingdom plus pakiet premierowy",
+    "price": "211",
+    "img": "https://a.allegroimg.com/s180x180/1e9a2a/ea5fb3284b14926fc1f7f61d2a33",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-plus-pakiet-premierowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Częstochowa"
   },
   {
     "id": "6420fd42-b9b9-43f3-ad07-c81f558c59aa",
