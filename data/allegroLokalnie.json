@@ -1,5 +1,15 @@
 [
   {
+    "id": "d28db944-d35e-4f85-aa73-f7147e4ad592",
+    "title": "Princess Peach Showtime!",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e94b0/d9762dcf4d579e8fb2754a568c2b",
+    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-uko?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "4908aff0-5101-4bbc-a842-6ea9e209a6bf",
     "title": "Mario Kart 8 Deluxe Switch",
     "price": "179",
@@ -1190,26 +1200,6 @@
     "city": "Piotrków Trybunalski"
   },
   {
-    "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
-    "title": "Super Mario 3D All-Stars | Nowa | Switch",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s180x180/1e82f3/25efe59f4b0c87e0c9db25339a8d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-or-nowa-or-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
-    "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
-    "title": "Super Mario 3D All-Stars | Nowa | Switch",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s180x180/1e82f3/25efe59f4b0c87e0c9db25339a8d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-or-nowa-or-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
     "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
     "title": "Farming Simulator Nintendo Switch Edition",
     "price": "208",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "f4e8d616-4aaf-43cf-b5f9-1236d44ba369",
+    "title": "Nintendo Switch Ring Fit Adventure nowa",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1e5b8c/75764fe44e8e91fe3a1257459bc9",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-ring-fit-adventure-nowa-jdl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Boguchwała"
   },
   {
     "id": "f4e8d616-4aaf-43cf-b5f9-1236d44ba369",
@@ -2400,6 +2400,16 @@
     "city": "Owsiszcze"
   },
   {
+    "id": "d0e3f682-8385-4e24-8e3c-80f363f2d094",
+    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e8c45/a0b37708436598a68828d5bb3022",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka-qn4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "d112fa7b-9496-4ce4-9083-84a10e1e4986",
     "title": "nintendo switch the legend of zelda",
     "price": "190",
@@ -2990,26 +3000,6 @@
     "city": "Przemyśl"
   },
   {
-    "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
-    "title": "LAYTON’S MYSTERY JOURNEY – Deluxe Edition Nintendo Switch super PROMOCJA",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e20c2/dc5e155644fba500adef5e427f60",
-    "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-deluxe-edition-nintendo-switch-super-promocja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
-    "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
-    "title": "LAYTON’S MYSTERY JOURNEY – Deluxe Edition Nintendo Switch super PROMOCJA",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e20c2/dc5e155644fba500adef5e427f60",
-    "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-deluxe-edition-nintendo-switch-super-promocja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
     "id": "655b44b7-5d24-45cc-8ef3-081c13725883",
     "title": "Hollow Knight Gra Nintendo Switch prezent super prezent ROGUE + DODATKI",
     "price": "145",
@@ -3598,6 +3588,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
+    "title": "Gra Asterix i Obelix Slap Them All Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
+    "title": "Gra Asterix i Obelix Slap Them All Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
   },
   {
     "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
@@ -4800,16 +4810,6 @@
     "city": "warszawa"
   },
   {
-    "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
-    "title": "Captain Toad: Treasure Tracker Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e3c06/92a08a8b4fa89d62e4e7a09d13a9",
-    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ycw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "warszawa"
-  },
-  {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
     "price": "100",
@@ -5400,6 +5400,16 @@
     "city": "Dzierżoniów"
   },
   {
+    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
+    "title": "GRIP: Combat Racing Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
+    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona góra, Nowe Miasto"
+  },
+  {
     "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
     "title": "Mario Odyssey NINTENDO SWITCH ideał",
     "price": "185",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
-    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/115fb4/0d50466a42aaaeb7d29a3dde2673",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
   }
 ]
