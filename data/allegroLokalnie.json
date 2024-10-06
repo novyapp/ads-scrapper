@@ -500,16 +500,6 @@
     "city": "Kraków"
   },
   {
-    "id": "9a8ee7d0-4913-4f72-8a92-d93334fea41a",
-    "title": "Super Mario 3D World Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e05c0/b920fb9e490baa734f18c07d909d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-6qx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Miękowo"
-  },
-  {
     "id": "51a2b4f8-299c-47bc-810c-d70fc5d8f432",
     "title": "Code: Realize ~Guardian of the Rebrith~ SWITCH",
     "price": "160",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Majdan królewski"
+  },
+  {
+    "id": "7e954e76-531a-4e9a-8ceb-f584233775ea",
+    "title": "Fifa 22 Nintendo switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1e80de/de36fbec4fc69803574b0c4b596e",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-kpq?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sosnowiec"
   },
   {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
@@ -1185,6 +1185,16 @@
     "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e1eea/8c73099546a785c7d15423aa9255",
     "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-mikrofony-nintendo-switch-okazja-ideal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gorzów Wielkopolski"
+  },
+  {
+    "id": "e479af2f-6408-4c01-9f68-e98171d992e1",
+    "title": "Super Mario Wonder Nintendo Switch! Okazja! Jak nowa!",
+    "price": "144",
+    "img": "https://a.allegroimg.com/s180x180/1e3347/1a5e606f4de285c262ebca0394d8",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-okazja-jak-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gorzów Wielkopolski"
@@ -3590,26 +3600,6 @@
     "city": "Żory"
   },
   {
-    "id": "c2591ae9-2db9-4fee-8bb2-add67553ffee",
-    "title": "Minecraft Dungeons: Ultimate Edition Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1158c7/7395731c43beb703e6613b801891",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-ultimate-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żory"
-  },
-  {
-    "id": "723f0298-5f03-48bc-b5e8-e740d5fcd4a9",
-    "title": "RingFit Adventure Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ec121/3e5804b44f3596f3190ffb81d47c",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-adventure-nintendo-switch-i3n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
-  },
-  {
     "id": "18611ece-2f7f-4878-8a07-432fc4463046",
     "title": "Super Mario 3DWorld + Bowser's Fury Nintendo Switch",
     "price": "170",
@@ -4188,6 +4178,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
+  },
+  {
+    "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
+    "title": "ZELDA TEARS OF THE KINGDOM ANG",
+    "price": "449",
+    "img": "https://a.allegroimg.com/s180x180/1e5234/f1948d23421a8355d0df7cbe3fef",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ang-ejh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
+  },
+  {
+    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
+    "title": "Okami Switch ANG",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
+    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
