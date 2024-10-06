@@ -220,16 +220,6 @@
     "city": "Bytom, Szombierki"
   },
   {
-    "id": "e85ae2cc-b96b-44a2-9125-9f3181665c4b",
-    "title": "Super Smash Bros",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e9edd/0ca07944495aa6dcc4236f678200",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-uwt?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Strzałkowo"
-  },
-  {
     "id": "9133ec2c-8744-4a3b-ba60-69544e006880",
     "title": "MarioKart Deluxe i Mario Strikers Battle League Football Nintendo Switch",
     "price": "380",
@@ -1030,16 +1020,6 @@
     "city": "Kalisz"
   },
   {
-    "id": "c7275fa0-0aef-402a-852c-e3c75c97ec9a",
-    "title": "Gra Nintendo Switch Metroid Dread",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e833f/d93858294c21820891e37f941d5f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-metroid-dread-r5y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "1f4dac81-306a-453b-9dca-a8ef13149cc1",
     "title": "Nintendo Switch Indivisible",
     "price": "109",
@@ -1120,6 +1100,26 @@
     "city": "Białystok"
   },
   {
+    "id": "c7275fa0-0aef-402a-852c-e3c75c97ec9a",
+    "title": "Gra Nintendo Switch Metroid Dread",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e833f/d93858294c21820891e37f941d5f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-metroid-dread-r5y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "df9e3c3d-f9fe-4940-9bc8-8a3bd0b56e00",
+    "title": "The legend od Zelda Tears of the Kingdom Nintendo Switch",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s180x180/1e23e1/b06cf19045e89a7304e10035f22d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-tears-of-the-kingdom-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "119f69f5-f293-4d91-94d6-2656ed2c89f5",
     "title": "Mariokart Deluxe 8 Nintendo Switch",
     "price": "190",
@@ -1188,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdynia"
+  },
+  {
+    "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
+    "title": "Farming Simulator Nintendo Switch Edition",
+    "price": "208",
+    "img": "https://a.allegroimg.com/s180x180/1e245f/cb5b0b064931b22671c6e1bdc14d",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-nintendo-switch-edition-l4a?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "WARSZAWA"
   },
   {
     "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
@@ -1790,16 +1800,6 @@
     "city": "Zgorzała"
   },
   {
-    "id": "a5621fe0-6b54-4dcc-ad93-a9778284c27d",
-    "title": "COFFE TALK STRICTLY LIMITED GAMES SWITCH",
-    "price": "329",
-    "img": "https://a.allegroimg.com/s180x180/1eda14/fb2b10be400b8506674cf658d045",
-    "url": "https://allegrolokalnie.pl//oferta/coffe-talk-strictly-limited-games-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Przemyśl"
-  },
-  {
     "id": "86b49e6f-2115-4ff9-96ac-32c05b88d791",
     "title": "DRAGON QUEST XI S ECHOES OF AN ELUSIVE AGE SWITCH",
     "price": "219",
@@ -2400,16 +2400,6 @@
     "city": "Ostrołęka"
   },
   {
-    "id": "1804d2b8-512b-49b4-be8d-7b0fc0936eca",
-    "title": "The Legend of Zelda - Breath of the Wild Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e35f9/96c0c9fd48828e4a477aaa4b55dd",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-prk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Ostrołęka"
-  },
-  {
     "id": "4e40a5fe-d28c-43bd-b768-6b08b0b3f741",
     "title": "Ryan Rescue Squad Switch",
     "price": "80",
@@ -2998,6 +2988,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
+  },
+  {
+    "id": "2d8f313c-5b64-4107-b4c8-60e87915ea29",
+    "title": "Gra Crash Bandicoot N. Sane Trilogy - Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ec655/2a83641c4c60b66cd6a1b44c916c",
+    "url": "https://allegrolokalnie.pl//oferta/gra-crash-bandicoot-n-sane-trilogy-nintendo-switch-cxu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   },
   {
     "id": "2d8f313c-5b64-4107-b4c8-60e87915ea29",
@@ -4800,16 +4800,6 @@
     "city": "Toruń"
   },
   {
-    "id": "0d522283-ad7b-44a3-aa7e-705ffd4472d4",
-    "title": "SCHIM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
-    "price": "285",
-    "img": "https://a.allegroimg.com/s180x180/1ed23b/84153f824142a55cfe1b5dd8d487",
-    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-premierowe-egz-nowy-d3r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "ba0e0ffe-fea3-4573-b99a-a6f84eb4f2cb",
     "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska bez gry",
     "price": "199",
@@ -5400,6 +5390,26 @@
     "city": "Rzeszów"
   },
   {
+    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
+    "title": "Dreamcutter Switch tylko kartrydż z grą",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ea2e1/01743a424fa29ba1ff21e09aa466",
+    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "ciechanów"
+  },
+  {
+    "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
+    "title": "Dreamcutter Switch tylko kartrydż z grą",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ea2e1/01743a424fa29ba1ff21e09aa466",
+    "url": "https://allegrolokalnie.pl//oferta/dreamcutter-switch-tylko-kartrydz-z-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "ciechanów"
+  },
+  {
     "id": "ac3dc51a-10ec-4f08-89a6-08ce4477041a",
     "title": "Gry PS4 PS vita Nintendo switch assassin’s shadiw of war mordor",
     "price": "80",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "ad6fd722-47d1-4a25-9d74-89c7da8bbde6",
-    "title": "FRONT MISSION 1ST EDYCJA LIMITOWANA po polsku , manual+litografie NOWA!",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/115fb4/0d50466a42aaaeb7d29a3dde2673",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-edycja-limitowana-po-polsku-manual-litografie-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
   }
 ]
