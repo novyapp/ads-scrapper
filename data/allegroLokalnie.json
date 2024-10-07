@@ -3890,16 +3890,6 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
-    "id": "e9962c44-d5a4-468b-a993-9c3a101efe42",
-    "title": "Hyrule Warriors: Age of Calamity Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1ee2dc/29cef63e4b1b924983d7fcec1cf8",
-    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-jf7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowy Sącz, Kochanowskiego"
-  },
-  {
     "id": "ccb8681b-cfef-4def-b993-be50e293cb6c",
     "title": "SONIC COLOURS ULTIMATE / SWITCH",
     "price": "60",
@@ -4210,6 +4200,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "7bb39aaf-72c8-4379-abe9-92e869f58596",
+    "title": "Animal Crossing New Horizons",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e6901/55b9163d4874b48994d400bea28b",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-66g?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
     "id": "eb24ee6f-6bdf-4403-8bb5-8fb52613d159",
     "title": "Ring Fit Adventure + akcesoria",
     "price": "179",
@@ -4395,16 +4395,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
     "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
-    "title": "Triangle Strategy",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1ece36/a0f50ae446e98d2c8dde95d3c145",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-5j6?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
@@ -5400,26 +5390,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
-    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "941d51c5-b05f-4133-bca2-8e16250114d6",
-    "title": "Instant Chef Party (Nintendo Switch)",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1e1544/a28361f447469fdd57f7a274ac1d",
-    "url": "https://allegrolokalnie.pl//oferta/instant-chef-party-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "olecko"
-  },
-  {
     "id": "49b400cb-ce7c-4917-a2ec-dcb1e29a07d6",
     "title": "Super Mario 3d World Switch Steelbook",
     "price": "100",
@@ -5998,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "9d70fd97-51e7-46fc-885e-4240e4fbc73c",
+    "title": "Wyprzedaż KOLEKCJI! Mario Tennis Aces na Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee158/3566c7e342fcb472f3e8e44ce931",
+    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-tennis-aces-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "35287bdb-3482-49dc-892c-982066fbed25",
+    "title": "Wyprzedaż KOLEKCJI! Mario + Rabbids Kingdom Battle na Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e771f/4386951f4100bef003575bfdc99a",
+    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-rabbids-kingdom-battle-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   }
 ]
