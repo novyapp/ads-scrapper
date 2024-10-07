@@ -1120,16 +1120,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "19528cfb-92ff-432a-8ee4-b3636d06631c",
-    "title": "Civilization VI Nintendo Switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1eb16c/2f09bf7c4426a78b58e24b2eaad4",
-    "url": "https://allegrolokalnie.pl//oferta/civilization-vi-nintendo-switch-zlx?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kalisz"
-  },
-  {
     "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
     "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
     "price": "239",
@@ -1788,16 +1778,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "6364d378-6191-40a3-a394-93d98967f6aa",
-    "title": "Gothic II Complete Edition",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e5fdd/6156f5584ec5ad0575e103cf0aca",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-edition-qgy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzała"
   },
   {
     "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
@@ -4200,6 +4180,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "ddf135d7-0d75-4022-a307-ebd1d83b5bf7",
+    "title": "Nintendo Switch Madison",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e0fbb/2b7afc984581907ea224f2f4336a",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-madison?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "a55acc84-9a88-4ad8-95ae-3032e4a533f5",
     "title": "Nintendo Switch Hogwarts Legacy",
     "price": "139",
@@ -4785,16 +4775,6 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1ec363/4a3e12854ea590e17e88e9c4b10e",
     "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-a3i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
-    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eadec/d4bc6e344ca5b154b6331ef0d08a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-izk?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5988,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tomaszów Lubelski"
+  },
+  {
+    "id": "c8e1546c-f4eb-45eb-8ceb-50eb798797c6",
+    "title": "Nintendo Labo Toy Con 1 GRA NINTENDO SWITCH",
+    "price": "40",
+    "img": "https://a.allegroimg.com/s180x180/1e07ba/7b2e81b54b2bae1f0e87f5d4787b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toy-con-1-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
   }
 ]
