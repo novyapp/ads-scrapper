@@ -590,14 +590,24 @@
     "city": "Świdnica"
   },
   {
-    "id": "51a2b4f8-299c-47bc-810c-d70fc5d8f432",
-    "title": "Code: Realize ~Guardian of the Rebrith~ SWITCH",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e638b/811ab6a94c08a27880a67ada0c46",
-    "url": "https://allegrolokalnie.pl//oferta/code-realize-guardian-of-the-rebrith-switch?navCategoryId=256922",
-    "promoted": false,
+    "id": "fcd8cf2c-b4b8-4e7d-812c-6d84059a28da",
+    "title": "Resident Evil 4 Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e6e37/bce9aaba477a9cc649250ee69a54",
+    "url": "https://allegrolokalnie.pl//oferta/resident-evil-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
     "smartPost": true,
-    "city": "Warszawa"
+    "city": "Świdnica"
+  },
+  {
+    "id": "fcd8cf2c-b4b8-4e7d-812c-6d84059a28da",
+    "title": "Resident Evil 4 Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e6e37/bce9aaba477a9cc649250ee69a54",
+    "url": "https://allegrolokalnie.pl//oferta/resident-evil-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Świdnica"
   },
   {
     "id": "130d6879-4086-4e9b-b91f-41b0ef411920",
@@ -980,26 +990,6 @@
     "city": "Ruszkowice"
   },
   {
-    "id": "cc93d999-21f3-4b3e-9309-9ac9ad26300f",
-    "title": "Hades Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1eb6ca/a894b66f45e0b4a352747ca31115",
-    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-bwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
-    "id": "b886b119-fc6b-43de-be6b-6caf8d3bc2d1",
-    "title": "The Banner Saga Trilogy",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s180x180/1e84b2/956bea96425c8d68d8f0e15ee7f1",
-    "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-li6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
     "id": "8b71a02c-7e4d-4bfd-8aa1-020e18892d96",
     "title": "Super Mario Odyssey",
     "price": "145",
@@ -1150,16 +1140,6 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "706eb76b-93af-4897-b011-b3872dd994cb",
-    "title": "Pokémon Let’s go eevee",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1ef2d9/6815ac384d80941c28353a207b58",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-t5a?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Świdnica"
-  },
-  {
     "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
     "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
     "price": "163",
@@ -1198,6 +1178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bielsko-Biała"
+  },
+  {
+    "id": "801499f1-35a6-4715-8b39-bbfbc7b32a0d",
+    "title": "Lego Gwiezdne Wojny Saga Skywalkera",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e287a/38ddd8f4455f8675c17e6aea0a8d",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkera?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "801499f1-35a6-4715-8b39-bbfbc7b32a0d",
@@ -2400,6 +2390,26 @@
     "city": "Ostrołęka"
   },
   {
+    "id": "4e40a5fe-d28c-43bd-b768-6b08b0b3f741",
+    "title": "Ryan Rescue Squad Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e3795/ea62a4fa4ebab28e100097c63835",
+    "url": "https://allegrolokalnie.pl//oferta/ryan-rescue-squad-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grabiny-Zameczek"
+  },
+  {
+    "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
+    "title": "Super mario 3d world + bowsers fury",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1ed6cf/ed49e0244c6a9e116f223fea8a6d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-dq5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
+  },
+  {
     "id": "4c765f42-0d9f-416f-a260-70595eb6e02a",
     "title": "Dark souls remastered",
     "price": "139",
@@ -3580,46 +3590,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
-    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Grochów"
-  },
-  {
-    "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
-    "title": "Gra Harry Potter Dziedzictwo Hogwartu Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ee504/8fda52cc479dbada563b7c0ee1ce",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
-    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Grochów"
-  },
-  {
-    "id": "505f6c78-ac3a-4b46-b36f-dcc2c6026140",
-    "title": "Gra Harry Potter Dziedzictwo Hogwartu Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ee504/8fda52cc479dbada563b7c0ee1ce",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harry-potter-dziedzictwo-hogwartu-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "6a18f57b-bc65-4923-b970-60f0fae77c10",
     "title": "Gra NBA 2K23 Switch",
     "price": "80",
@@ -4198,6 +4168,46 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kędzierzyn-Koźle, Koźle"
+  },
+  {
+    "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
+    "title": "Ys IX: Monstrum Nox",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
+    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
+    "title": "Triangle Strategy",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ece36/a0f50ae446e98d2c8dde95d3c145",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-5j6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "7d55264d-75da-47d8-9e5f-d0cc9a14964b",
+    "title": "Ys IX: Monstrum Nox",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
+    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "49098e32-4423-4249-b3c2-5b4427d325ea",
+    "title": "Triangle Strategy",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ece36/a0f50ae446e98d2c8dde95d3c145",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-5j6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "22de88e1-5343-449c-bb94-8765b300b6c5",
@@ -4780,46 +4790,6 @@
     "city": "warszawa"
   },
   {
-    "id": "83320671-4922-47e1-8800-da470c51e673",
-    "title": "Minecraft PL Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
-    "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1eb9b0/0bbde30747f8abe25f8da7756950",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-sam-catridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żarki Wielkie"
-  },
-  {
-    "id": "83320671-4922-47e1-8800-da470c51e673",
-    "title": "Minecraft PL Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
-    "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1eb9b0/0bbde30747f8abe25f8da7756950",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-sam-catridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żarki Wielkie"
-  },
-  {
     "id": "bc3aba2b-6695-4455-974a-2afb4985dcd7",
     "title": "The legend of Zelda breath of the wild",
     "price": "179",
@@ -5400,6 +5370,46 @@
     "city": "Zielona góra, Nowe Miasto"
   },
   {
+    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
+    "title": "Mario Odyssey NINTENDO SWITCH ideał",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
+    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
+    "title": "Nintendo Switch, Super Mario Bros. WONDER",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
+  },
+  {
+    "id": "c49fedcb-65a7-4544-adcf-df97655c4124",
+    "title": "Mario Odyssey NINTENDO SWITCH ideał",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e8d32/01d6bed64fc7bbe433d6c736aa19",
+    "url": "https://allegrolokalnie.pl//oferta/mario-odyssey-nintendo-switch-ideal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
+  },
+  {
+    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
+    "title": "Nintendo Switch, Super Mario Bros. WONDER",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
+  },
+  {
     "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
     "title": "Nintendo Switch, Super Mario RPG",
     "price": "169",
@@ -5978,25 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
-  },
-  {
-    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
-    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
-    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e5fd1/bf8c730f4be6b74b722c4759750c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
   }
 ]
