@@ -1155,7 +1155,7 @@
     "price": "444",
     "img": "https://a.allegroimg.com/s180x180/1e1f47/aa2888214764ae68cf15eaaadd60",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nintendo?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Ruszkowice"
   },
@@ -4800,16 +4800,6 @@
     "city": "Suchy Dwór"
   },
   {
-    "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
-    "title": "Super Mario RPG [UKV]",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e95bd/0a601f594ca59179aed4106dffef",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-ukv-yab?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bytom"
-  },
-  {
     "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
     "title": "Pokemon Shield Switch + Expansion Pass",
     "price": "599",
@@ -5398,6 +5388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Piaseczno"
+  },
+  {
+    "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
+    "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
+    "price": "455",
+    "img": "https://a.allegroimg.com/s180x180/1ef29a/cc7b45564ac7935ca757d033a286",
+    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-wjx?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
   },
   {
     "id": "f2e96cd3-63a9-4015-883b-d053f33751c9",
