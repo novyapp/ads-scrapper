@@ -750,16 +750,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
-    "title": "Super Mario 3D All Stars",
-    "price": "599",
-    "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "ab759a4f-b003-4b73-bca6-32973697cdc4",
     "title": "Eiyuden Chronicle Hundred Heroes Switch",
     "price": "180",
@@ -1195,6 +1185,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e7ecd/cf0d8c8b413eb81f69053af29736",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-world-bowsers-fury-nintendo-switch-k6y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Józefosław"
+  },
+  {
+    "id": "ec2d56f2-656c-4cea-a533-e38eab799412",
+    "title": "Gra Luigi's Mansion 3 (Nintendo Switch)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1eabad/da4624834571a407d0f81170e7ee",
+    "url": "https://allegrolokalnie.pl//oferta/gra-luigis-mansion-3-nintendo-switch-yuf?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Józefosław"
