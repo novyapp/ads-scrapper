@@ -290,16 +290,6 @@
     "city": "Stargard"
   },
   {
-    "id": "cacf2e66-ee6a-481f-b201-81c501290b3e",
-    "title": "Star Wars Heritage Pack Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1eefd2/b56dd5e141249912332910cfe235",
-    "url": "https://allegrolokalnie.pl//oferta/star-wars-heritage-pack-nintendo-switch-tcl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Koszalin"
-  },
-  {
     "id": "530d8767-fb56-4af1-b847-1bae23c2ec56",
     "title": "Mario + Rabbids Sparks of Hope Gold Edition Switch - Folia",
     "price": "249",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "ddcc792e-85e9-415c-9cf1-80bc2a7305c4",
-    "title": "Resident Evil Revelations PL Nintendo Switch dwie gry",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ec996/12d1684d45a19e57ddd00547ecdd",
-    "url": "https://allegrolokalnie.pl//oferta/resident-evil-revelations-pl-nintendo-switch-dwie-gry?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Świdnica"
   },
   {
     "id": "fcd8cf2c-b4b8-4e7d-812c-6d84059a28da",
@@ -1000,6 +980,36 @@
     "city": "Ruszkowice"
   },
   {
+    "id": "8b71a02c-7e4d-4bfd-8aa1-020e18892d96",
+    "title": "Super Mario Odyssey",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e110f/24b7bf3846d3bc1a6dbda9fa8c1b",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-eqc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
+    "id": "84021ce0-7478-43c5-ba61-097d490a90ee",
+    "title": "Xenoblade Chronicles 2",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e1097/c4c069de475c89a7fafe76de8b71",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-q4w?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
+    "id": "72c22d86-f289-488c-ad8d-ed5a2264f6cd",
+    "title": "Super Mario Party",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e4a22/719cf51946e98c1eb85d799cefd9",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-3lq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
     "id": "5cff2f12-8b0a-41ed-8f16-b4b17d2e3beb",
     "title": "Splatoon 2 Nintendo Switch",
     "price": "90",
@@ -1178,36 +1188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "d6e9f04a-488e-4ff8-bfca-88de3008651f",
-    "title": "Zelda Hyrule Warriors Age of Calamity",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ee53a/50ed651448e6b1941129d40b352b",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-hyrule-warriors-age-of-calamity-o4a?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "b52487e8-cf53-465a-bdcf-78774fc2a20b",
-    "title": "Pokemon Lets Go Eevee Nintendo Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1ebf1f/4f64ee7d44fd868135e13dc60f10",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-mnd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "b52487e8-cf53-465a-bdcf-78774fc2a20b",
-    "title": "Pokemon Lets Go Eevee Nintendo Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1ebf1f/4f64ee7d44fd868135e13dc60f10",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-mnd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
@@ -2410,6 +2390,26 @@
     "city": "Kraków"
   },
   {
+    "id": "4c765f42-0d9f-416f-a260-70595eb6e02a",
+    "title": "Dark souls remastered",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1ee222/4470a57143159887d695980b9275",
+    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-wpo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
+  },
+  {
+    "id": "d0e3f682-8385-4e24-8e3c-80f363f2d094",
+    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e8c45/a0b37708436598a68828d5bb3022",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka-qn4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "d112fa7b-9496-4ce4-9083-84a10e1e4986",
     "title": "nintendo switch the legend of zelda",
     "price": "190",
@@ -2998,6 +2998,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "8eab4521-08e8-49e1-9209-961d04078914",
+    "title": "Cult of the lamb",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ee691/f0b30eb84e7c9a577db492013a2d",
+    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   },
   {
     "id": "f5868a63-6e0e-4be8-8bd5-67a8dbb56274",
@@ -5400,16 +5410,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
-    "title": "Ghost Trick na Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed666/d919f9394cec88e6b3b15def60cc",
-    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "a239d1d7-c1ba-4922-9d8f-0206aafdd41d",
     "title": "Dreamcutter Switch tylko kartrydż z grą",
     "price": "99",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
-    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e9acc/3680cbf84de4a1639029e27219b7",
-    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
   }
 ]
