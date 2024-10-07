@@ -970,14 +970,34 @@
     "city": "Ruszkowice"
   },
   {
-    "id": "eb24ee6f-6bdf-4403-8bb5-8fb52613d159",
-    "title": "Ring Fit Adventure + akcesoria",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e6e14/f67f2cc34cf7843b173ecb87e158",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-akcesoria?navCategoryId=256922",
+    "id": "89ad4993-80f3-4d35-96d8-7512237bf020",
+    "title": "Super Mario 3D All Stars",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s180x180/1e6403/74163cfc4ff6981397e7a0fd12de",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-v6l?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Gdańsk"
+    "city": "Książenice"
+  },
+  {
+    "id": "2faec496-aa4c-42d4-9af6-734781086be5",
+    "title": "Baldur’s Gate & Baldur’s Gate 2 : Enhanced Edition",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s180x180/1e341c/dc17dea04c8aadacdecc30c883f8",
+    "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-baldurs-gate-2-enhanced-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
+    "id": "8de689c7-f4f2-4bcb-99c3-8299091f5b8e",
+    "title": "Fire Emblem Three houses Limited Edition",
+    "price": "1 000",
+    "img": "https://a.allegroimg.com/s180x180/1e6e92/5a65256c44b1a574b01d4da48c8b",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-limited-edition-wfw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
   },
   {
     "id": "cc93d999-21f3-4b3e-9309-9ac9ad26300f",
@@ -1178,16 +1198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
-  },
-  {
-    "id": "dc961459-1a4b-49cb-b031-f48be934decc",
-    "title": "Harvestella [SWITCH]",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e340b/cc5f898144198317221f9d045568",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-ddb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
   },
   {
     "id": "dc961459-1a4b-49cb-b031-f48be934decc",
@@ -2262,7 +2272,7 @@
   {
     "id": "8719daaa-d138-4fff-92cc-602f809422bc",
     "title": "Red Colony Trilogy - Nintendo Switch - horror",
-    "price": "299",
+    "price": "280",
     "img": "https://a.allegroimg.com/s180x180/1ea6f1/07c3bc9044d6ad23bcfec25f1970",
     "url": "https://allegrolokalnie.pl//oferta/red-colony-trilogy-nintendo-switch-horror?navCategoryId=256922",
     "promoted": false,
@@ -2388,6 +2398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Żory"
+  },
+  {
+    "id": "1804d2b8-512b-49b4-be8d-7b0fc0936eca",
+    "title": "The Legend of Zelda - Breath of the Wild Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e35f9/96c0c9fd48828e4a477aaa4b55dd",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-prk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Ostrołęka"
   },
   {
     "id": "4e40a5fe-d28c-43bd-b768-6b08b0b3f741",
@@ -3420,16 +3440,6 @@
     "city": "Dulowa"
   },
   {
-    "id": "2dae1034-e6a6-4a50-bbfe-aed495f5390a",
-    "title": "Dziedzictwo Hogwartu / Hogwart Legacy - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef6c3/6acb25dc493d973d10af50c65f6d",
-    "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-hogwart-legacy-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Reda"
-  },
-  {
     "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
     "title": "RealMyst switch nowa Limited run",
     "price": "280",
@@ -4020,6 +4030,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "eb24ee6f-6bdf-4403-8bb5-8fb52613d159",
+    "title": "Ring Fit Adventure + akcesoria",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e6e14/f67f2cc34cf7843b173ecb87e158",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-akcesoria?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "170",
@@ -4168,26 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "f6152979-b264-4638-8573-2ddd9cd50fa4",
-    "title": "Minecraft Legends Deluxe Edition Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/112872/5a2e6dee49488059e266ffdc2004",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-legends-deluxe-edition-nintendo-switch-pyh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "74bcaa13-46ea-4834-9245-dc0e46ddabdb",
-    "title": "MARIO+Rabbids Kingdom Battele Nintendo Switch Używana",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e43c9/127c382042cdbda9f0bfe5a6254f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battele-nintendo-switch-uzywana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kędzierzyn-Koźle, Koźle"
   },
   {
     "id": "f6152979-b264-4638-8573-2ddd9cd50fa4",
@@ -4790,6 +4790,26 @@
     "city": "Rybnik"
   },
   {
+    "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
+    "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e6c8e/c73567cf4d9db14e668f8ae06c66",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-generations-ultimate-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Czyżyny"
+  },
+  {
+    "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
+    "title": "Captain Toad: Treasure Tracker Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e3c06/92a08a8b4fa89d62e4e7a09d13a9",
+    "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-ycw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "warszawa"
+  },
+  {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
     "price": "100",
@@ -5368,26 +5388,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
-  },
-  {
-    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
-    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
-    "title": "GRIP: Combat Racing Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
-    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona góra, Nowe Miasto"
   },
   {
     "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
