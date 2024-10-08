@@ -590,6 +590,26 @@
     "city": "Wejherowo"
   },
   {
+    "id": "0d766490-9568-482d-a240-31640590353c",
+    "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e11fa/41e1480e4174b375f7eb8d788db2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-saga-skywalkerow-skywalker-saga-ns-pl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
+    "id": "0d766490-9568-482d-a240-31640590353c",
+    "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e11fa/41e1480e4174b375f7eb8d788db2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-saga-skywalkerow-skywalker-saga-ns-pl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
     "id": "11838e39-2b02-4ee9-b0b8-2ead6789b607",
     "title": "Princess Peach Showtime Nintendo Switch",
     "price": "179",
@@ -2380,26 +2400,6 @@
     "city": "Łódź"
   },
   {
-    "id": "12ca9721-ce4e-46b2-abf3-7fefce0d8a89",
-    "title": "Terraria - Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e3647/1bb21ce041719a1df7964c4ff21d",
-    "url": "https://allegrolokalnie.pl//oferta/terraria-nintendo-switch-7aa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łazy"
-  },
-  {
-    "id": "12ca9721-ce4e-46b2-abf3-7fefce0d8a89",
-    "title": "Terraria - Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e3647/1bb21ce041719a1df7964c4ff21d",
-    "url": "https://allegrolokalnie.pl//oferta/terraria-nintendo-switch-7aa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łazy"
-  },
-  {
     "id": "5ddcaef0-3333-4a1a-b714-02cb51a348ca",
     "title": "Metroid Dread Nintendo Switch JP",
     "price": "144",
@@ -2985,6 +2985,16 @@
     "price": "129",
     "img": "https://a.allegroimg.com/s180x180/1e7d31/4c1c8fbc4b8ea33f8a9f7bac4376",
     "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-switch-5ea?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "82edf29d-ce02-4542-b21c-ed8c4995e9cb",
+    "title": "Shin Megami Tensei V Switch",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1ea004/f2c179ac4b4d8dda6c25c069288a",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-4z6?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
@@ -3578,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zgierz"
-  },
-  {
-    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
-    "title": "Road 96 - Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
   },
   {
     "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "05ee3301-9bc4-4c51-8296-cf4ddc211547",
+    "title": "Super Mario Bros Wonder",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1eaaa1/3aa0fc6d48939e10e591854601ca",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-yg6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Tuczempy "
   }
 ]
