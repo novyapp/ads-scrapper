@@ -1800,16 +1800,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
-    "title": "Splatoon 2 Nintendo switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1ee298/fd2cfd574fc88c5da8cd75bf1c1d",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-gyz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "59d8720b-d6c7-4ce8-9440-df6f89e190e4",
     "title": "Metroid dread Nintendo switch",
     "price": "110",
@@ -2388,6 +2378,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk Wrzeszcz"
+  },
+  {
+    "id": "4846e9bc-6cec-4fec-b873-70e644ac5652",
+    "title": "Nintendo Switch Sports gra + słuchawki Hori Gaming Earbuds PRO",
+    "price": "269",
+    "img": "https://a.allegroimg.com/s180x180/1e39cd/bdf5e05846f2acb03ff44d86df2b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-sluchawki-hori-gaming-earbuds-pro?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Czyżyny"
   },
   {
     "id": "2ffd6418-8825-48b3-a35e-4bda7ff3a047",
@@ -5985,6 +5985,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e103e/28d97ca945f386f21e2e0b13c5dc",
     "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
