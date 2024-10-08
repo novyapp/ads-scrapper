@@ -590,6 +590,16 @@
     "city": "Ruda Śląska, Ruda"
   },
   {
+    "id": "1fc90a89-bb37-4b9a-a79d-8142bb79ddd2",
+    "title": "The Legend of Zelda: Breath of the Wild + Expansion Pass",
+    "price": "539",
+    "img": "https://a.allegroimg.com/s180x180/1e154c/2cc11ca745c99d4648873afda3a3",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-expansion-pass?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Zalasewo"
+  },
+  {
     "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
     "title": "Sonic Frontiers na Switcha",
     "price": "120",
@@ -3590,16 +3600,6 @@
     "city": "Ostrów Mazowiecka"
   },
   {
-    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
-    "title": "Super Mario Odyssey",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
     "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
     "price": "199",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
+    "title": "No More Heroes 3 Switch - Wrocław",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/11972a/5ace71e94b3e9aa84cf50ef8da61",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
   }
 ]
