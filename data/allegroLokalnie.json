@@ -1130,6 +1130,16 @@
     "city": "Warszawa, Bemowo"
   },
   {
+    "id": "dff9e2cc-0ae8-474c-8579-fdf26b6f3a2e",
+    "title": "PAPER MARIO THE THOUSAND-YEAR DOOR / GRA NINTENDO SWITCH NA KARTRIDŻU",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1ee2b4/286f0aa24c179d522f861ca3b2a5",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Morąg"
+  },
+  {
     "id": "24770ba0-d958-401f-ac08-2474a6dee2ff",
     "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
     "price": "6",
@@ -1268,16 +1278,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Praga-Południe"
-  },
-  {
-    "id": "a2b4d49d-647a-47f8-9cd8-17c3e938d51f",
-    "title": "Gra Mario Kart 8 Deluxe (Nintendo Switch)",
-    "price": "174",
-    "img": "https://a.allegroimg.com/s180x180/1e6f9f/cfe1abb743a3a6550af528bc804e",
-    "url": "https://allegrolokalnie.pl//oferta/gra-mario-kart-8-deluxe-nintendo-switch-jrn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Józefosław"
   },
   {
     "id": "d876e850-63a4-4aea-93b5-e575026fc1fa",
@@ -2378,16 +2378,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Zwierzyniec"
-  },
-  {
-    "id": "326bd4c6-1983-47e3-84db-bc9331c7c372",
-    "title": "Nintendo gra Animal Crossing",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1ebef2/b5770281470a850222a3242f91ce",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-gra-animal-crossing?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piła"
   },
   {
     "id": "15110303-b1f8-4fd0-9bf5-593e86c9f190",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
+    "title": "No More Heroes 3 Switch - Wrocław",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/11972a/5ace71e94b3e9aa84cf50ef8da61",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
   }
 ]
