@@ -50,16 +50,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "f9910259-456a-41e5-8d6b-717abe5af0c2",
-    "title": "The Legend of Zelda Tears of the Kingdom Switch",
-    "price": "198",
-    "img": "https://a.allegroimg.com/s180x180/1e560f/3c548d794f41b162832620c8ba7b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-umi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wieliczka"
-  },
-  {
     "id": "87d43e6b-6ec6-4811-84fb-80b5e1dd54c7",
     "title": "Super Mario Bros. Wonder Switch",
     "price": "167",
@@ -595,6 +585,16 @@
     "price": "142",
     "img": "https://a.allegroimg.com/s180x180/1e20ac/3064baaf49d8a9d1c4aefa742d48",
     "url": "https://allegrolokalnie.pl//oferta/switch-mario-party-superstars?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "3a0f50dd-6b79-42d3-bd9d-3859565b9f5c",
+    "title": "OLYMPIC GAMES TOKYO 2020 - SWITCH STAN BDB",
+    "price": "29",
+    "img": "https://a.allegroimg.com/s180x180/1e046d/d991b2554979b93f0a527e82d919",
+    "url": "https://allegrolokalnie.pl//oferta/olympic-games-tokyo-2020-switch-stan-bdb?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
@@ -2102,7 +2102,7 @@
   {
     "id": "e48defd3-4b90-4891-8fd6-dfe177ca714e",
     "title": "Zestaw 6 gier na Nintendo Switch",
-    "price": "500",
+    "price": "480",
     "img": "https://a.allegroimg.com/s180x180/1ed1e8/f16c52b0457dbfa1bae18ffe9afc",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-6-gier-na-nintendo-switch-iwj?navCategoryId=256922",
     "promoted": false,
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wschowa"
+  },
+  {
+    "id": "0aae41a8-bc2d-4619-8f5f-b4ce2ca49029",
+    "title": "Nintendo Switch LEGO Jurassic World",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3cc8/65f8820a40ed98c7d5c197ec333f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-lego-jurassic-world-fq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
   }
 ]
