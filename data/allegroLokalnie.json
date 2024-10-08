@@ -1,5 +1,15 @@
 [
   {
+    "id": "a88294fa-b1a3-46e6-a16e-4904be42bd24",
+    "title": "..:: Super Mario 3D All Stars ::..",
+    "price": "329",
+    "img": "https://a.allegroimg.com/s180x180/1e0b9f/84cd85134c4d88eeed11dc3f2a0e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-2aa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bartniczka"
+  },
+  {
     "id": "70ae1f6a-8184-44a0-a1a1-18a2de1add03",
     "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
     "price": "160",
@@ -2052,7 +2062,7 @@
   {
     "id": "f87bd0c8-89ea-457e-bb0d-be16e5317966",
     "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch NS",
-    "price": "160",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e8ed5/7a95184f424f86d2d77faab31f2f",
     "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-ns?navCategoryId=256922",
     "promoted": false,
@@ -2062,7 +2072,7 @@
   {
     "id": "9a4190b7-432c-4abd-9613-84445c473faa",
     "title": "Diablo III: Eternal Collection Nintendo Switch NS",
-    "price": "110",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e0f51/bdd0f7394e60b70a0ac2444dda34",
     "url": "https://allegrolokalnie.pl//oferta/diablo-iii-eternal-collection-nintendo-switch-ns?navCategoryId=256922",
     "promoted": false,
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
-  },
-  {
-    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
-    "title": "Super Mario Odyssey",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
@@ -5400,6 +5400,16 @@
     "city": "Kraków, Dębniki"
   },
   {
+    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
+    "title": "Harvestella Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e3924/9c98e11140979ce582ede39725c6",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "035c80a9-5c19-42d4-b58e-e86dc34d1249",
     "title": "Animal Crossing new horizons",
     "price": "150",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "c2f3aaf2-227a-4df7-97bc-c43db4af474b",
-    "title": "No More Heroes 3 Switch - Wrocław",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/11972a/5ace71e94b3e9aa84cf50ef8da61",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-switch-wroclaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   }
 ]
