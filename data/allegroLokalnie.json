@@ -660,36 +660,6 @@
     "city": "Wejherowo"
   },
   {
-    "id": "5ddcaef0-3333-4a1a-b714-02cb51a348ca",
-    "title": "Metroid Dread Nintendo Switch JP",
-    "price": "144",
-    "img": "https://a.allegroimg.com/s180x180/1e3fda/1bc43a7141f5a429c84f9537b791",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-jp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "ba23c948-14a6-465b-aeb4-ecc7a5104fb5",
-    "title": "Live a Live Nintendo Switch Japanese Version",
-    "price": "117",
-    "img": "https://a.allegroimg.com/s180x180/1e1a19/8feec3a048d18c04a5d911701339",
-    "url": "https://allegrolokalnie.pl//oferta/live-a-live-nintendo-switch-japanese-version?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
-    "title": "Dragon Quest Treasures Nintendo Switch JP version",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "a79e0082-97eb-4330-b788-878a734f9e75",
     "title": "Midnight Fight Express Limited Run #232",
     "price": "350",
@@ -1160,6 +1130,36 @@
     "city": "Warszawa, Bemowo"
   },
   {
+    "id": "5ddcaef0-3333-4a1a-b714-02cb51a348ca",
+    "title": "Metroid Dread Nintendo Switch JP",
+    "price": "144",
+    "img": "https://a.allegroimg.com/s180x180/1e3fda/1bc43a7141f5a429c84f9537b791",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-jp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "ba23c948-14a6-465b-aeb4-ecc7a5104fb5",
+    "title": "Live a Live Nintendo Switch Japanese Version",
+    "price": "117",
+    "img": "https://a.allegroimg.com/s180x180/1e1a19/8feec3a048d18c04a5d911701339",
+    "url": "https://allegrolokalnie.pl//oferta/live-a-live-nintendo-switch-japanese-version?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
+    "title": "Dragon Quest Treasures Nintendo Switch JP version",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "88112d34-484e-4214-8bee-ed2032b58425",
     "title": "Luigi's Mansion 3 Nintendo Switch",
     "price": "155",
@@ -1195,26 +1195,6 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1eabad/da4624834571a407d0f81170e7ee",
     "url": "https://allegrolokalnie.pl//oferta/gra-luigis-mansion-3-nintendo-switch-yuf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Józefosław"
-  },
-  {
-    "id": "7b24f10d-197b-4359-b9a2-5a3b22cb7cd7",
-    "title": "Gra The Legend of Zelda Tears of the Kingdom (Nintendo Switch)",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e5ade/93b57c8c43e8bc18a6de22fdbea7",
-    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-sy7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Józefosław"
-  },
-  {
-    "id": "b81c16df-7f79-494e-b676-337db255932e",
-    "title": "Gra The Legend of Zelda: Breath of The Wild (Nintendo Switch)",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e3dfc/ca889d1c4a679d314a4884bba4a3",
-    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2w3?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Józefosław"
@@ -1798,6 +1778,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
+  },
+  {
+    "id": "a6e3d73d-9122-4bdb-a662-fba0d718cf3d",
+    "title": "Bayonetta 3 Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e5748/116c05444e73b16ee86f25ea3b5c",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-xay?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Młynów"
+  },
+  {
+    "id": "f518607e-2edd-49c5-adc0-d35226b33984",
+    "title": "Super Mario wonder Nintendo switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e3de3/cfe108ab4f788b08e794172675b3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-zjn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   },
   {
     "id": "a6e3d73d-9122-4bdb-a662-fba0d718cf3d",
