@@ -42,7 +42,7 @@
   {
     "id": "f9910259-456a-41e5-8d6b-717abe5af0c2",
     "title": "The Legend of Zelda Tears of the Kingdom Switch",
-    "price": "193",
+    "price": "191",
     "img": "https://a.allegroimg.com/s180x180/1e560f/3c548d794f41b162832620c8ba7b",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-umi?navCategoryId=256922",
     "promoted": true,
@@ -62,7 +62,7 @@
   {
     "id": "ef5504f1-27a5-41a8-bb5f-8bbfb36e368f",
     "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "169",
+    "price": "168",
     "img": "https://a.allegroimg.com/s180x180/1e7acf/4310cba74f3f825624afc1574601",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-gk2?navCategoryId=256922",
     "promoted": true,
@@ -242,7 +242,7 @@
   {
     "id": "5a274499-b085-43e2-9d8e-75459c010738",
     "title": "Gra Pokemon Violet Nintendo Switch",
-    "price": "165",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e3253/d93005824f6c97b190e3d85db4c0",
     "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-violet-nintendo-switch-3mc?navCategoryId=256922",
     "promoted": true,
@@ -1200,6 +1200,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "bbab4a8b-a25e-42a1-9954-9b32930baf53",
+    "title": "Luigi's Mansion 2 - Gadżety",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1e908c/f9acf20340588ce2e6260d445bc3",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-gadzety-3yn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "bd3e8f41-c6d0-41ae-96f5-93789a08d312",
     "title": "Super Mario RPG - Gadżety - Switch",
     "price": "19",
@@ -1785,16 +1795,6 @@
     "price": "96",
     "img": "https://a.allegroimg.com/s180x180/1e1a98/f0a7b2524c2d92d315340ad79230",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-oad?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "add61df0-0068-4712-be6e-1d5790c40294",
-    "title": "Super Mario 3d All Stars Nintendo Switch",
-    "price": "370",
-    "img": "https://a.allegroimg.com/s180x180/1e7ea7/83bb49a44c94b6b10573a2244a76",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-moq-yri?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
@@ -3600,6 +3600,26 @@
     "city": "Poznań"
   },
   {
+    "id": "a9d6084f-3178-4466-8872-362febe07b09",
+    "title": "Nintendo switch sport",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
+  },
+  {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
     "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
     "price": "199",
@@ -5400,16 +5420,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "f3ecdfb2-d9ac-41e7-aec9-5b802c43126d",
-    "title": "Harvestella Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e3924/9c98e11140979ce582ede39725c6",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-switch-iks?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "035c80a9-5c19-42d4-b58e-e86dc34d1249",
     "title": "Animal Crossing new horizons",
     "price": "150",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siemianowice Śląskie"
-  },
-  {
-    "id": "cbc5a1fc-c0b1-45b0-9eeb-dcf4b11ea8d9",
-    "title": "GRA NSW Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush! Zafoliowana",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e923b/64e4ff1c4c078e5a7594c39c0d90",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-switch-yugioh-rush-duel-lets-go-go-rush-zafoliowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   }
 ]
