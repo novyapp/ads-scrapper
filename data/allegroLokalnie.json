@@ -292,7 +292,7 @@
   {
     "id": "ce029a6e-319d-4d22-9ad4-c6149c63703e",
     "title": "Papier Mario Origami King Nintendo Switch",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1ed74d/0f9c63e84c8c95eacf505c39dd69",
     "url": "https://allegrolokalnie.pl//oferta/papier-mario-origami-king-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1182,9 +1182,19 @@
   {
     "id": "9fc41ff3-9d29-48e4-8a06-7090a945bde9",
     "title": "Gra Super Mario 3D World + Bowser's Fury (Nintendo Switch)",
-    "price": "179",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e7ecd/cf0d8c8b413eb81f69053af29736",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-world-bowsers-fury-nintendo-switch-k6y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Józefosław"
+  },
+  {
+    "id": "ec2d56f2-656c-4cea-a533-e38eab799412",
+    "title": "Gra Luigi's Mansion 3 (Nintendo Switch)",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1eabad/da4624834571a407d0f81170e7ee",
+    "url": "https://allegrolokalnie.pl//oferta/gra-luigis-mansion-3-nintendo-switch-yuf?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Józefosław"
@@ -1222,7 +1232,7 @@
   {
     "id": "a2b4d49d-647a-47f8-9cd8-17c3e938d51f",
     "title": "Gra Mario Kart 8 Deluxe (Nintendo Switch)",
-    "price": "179",
+    "price": "174",
     "img": "https://a.allegroimg.com/s180x180/1e6f9f/cfe1abb743a3a6550af528bc804e",
     "url": "https://allegrolokalnie.pl//oferta/gra-mario-kart-8-deluxe-nintendo-switch-jrn?navCategoryId=256922",
     "promoted": false,
@@ -1232,7 +1242,7 @@
   {
     "id": "d876e850-63a4-4aea-93b5-e575026fc1fa",
     "title": "Gra Nintendo Switch Sports",
-    "price": "159",
+    "price": "149",
     "img": "https://a.allegroimg.com/s180x180/1e6464/1a133c2a49cdb30d52dd4c035993",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-sports-u6h?navCategoryId=256922",
     "promoted": false,
@@ -1242,7 +1252,7 @@
   {
     "id": "7354634a-c3c3-4c49-80ff-af9b97bda801",
     "title": "Gra Mario Party Superstars (Nintendo Switch)",
-    "price": "179",
+    "price": "174",
     "img": "https://a.allegroimg.com/s180x180/1e37c9/043354104648a2909ed2724544f8",
     "url": "https://allegrolokalnie.pl//oferta/gra-mario-party-superstars-nintendo-switch-3wz?navCategoryId=256922",
     "promoted": false,
@@ -1252,7 +1262,7 @@
   {
     "id": "62cb2f9d-8370-4044-86f4-eb6bcfbd8b1b",
     "title": "Gra Super Mario Odyssey (Nintendo Switch)",
-    "price": "179",
+    "price": "174",
     "img": "https://a.allegroimg.com/s180x180/1e9962/401ce7774180be28dabb00c3a438",
     "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-esf?navCategoryId=256922",
     "promoted": false,
@@ -3590,16 +3600,6 @@
     "city": "Zgierz"
   },
   {
-    "id": "eb8fab89-a819-45b3-bc32-b92b234c745d",
-    "title": "Super Smash Bros. Ultimate Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e9fed/41a455174c5bb37b798f5fa8efb9",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-ldm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgierz"
-  },
-  {
     "id": "2112c3b7-5ec7-4709-93a9-28e3d455eb73",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "150",
@@ -4185,6 +4185,16 @@
     "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1e17fd/5ce412cf4fac8e7066655099a8f4",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-hogwarts-legacy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "5158cb37-692a-4f47-a396-4fd2f0313c5f",
+    "title": "Nintendo Switch Crysis Remastered",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1edd30/0ed30275436e8a161a03718a6eb5",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-remastered?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
