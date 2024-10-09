@@ -250,16 +250,6 @@
     "city": "Oleśnica"
   },
   {
-    "id": "5a274499-b085-43e2-9d8e-75459c010738",
-    "title": "Gra Pokemon Violet Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e3253/d93005824f6c97b190e3d85db4c0",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-violet-nintendo-switch-3mc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
     "id": "4908aff0-5101-4bbc-a842-6ea9e209a6bf",
     "title": "Mario Kart 8 Deluxe Switch",
     "price": "179",
@@ -588,26 +578,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Warszawa, Mokotów"
-  },
-  {
-    "id": "3a0f50dd-6b79-42d3-bd9d-3859565b9f5c",
-    "title": "OLYMPIC GAMES TOKYO 2020 - SWITCH STAN BDB",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s180x180/1e046d/d991b2554979b93f0a527e82d919",
-    "url": "https://allegrolokalnie.pl//oferta/olympic-games-tokyo-2020-switch-stan-bdb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "12d5fc82-2ad7-45fe-939f-cc17d2e82fec",
-    "title": "GAME CENTER CX - ARINO NO CHOUSENJOU 1+2 REPLAY - SWITCH",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef077/eeb47b3d418c97456fe919e399db",
-    "url": "https://allegrolokalnie.pl//oferta/game-center-cx-arino-no-chousenjou-1-2-replay-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
@@ -1050,6 +1020,16 @@
     "city": "Warszawa, Bemowo"
   },
   {
+    "id": "a9676641-371b-49ba-b52c-394b6d8d9fcc",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ea2f3/36ba319c43b19467c0f328619ce0",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-ksn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gliwice"
+  },
+  {
     "id": "d0f90483-17c6-43af-ac7e-9f7f38f7fe4c",
     "title": "Gra The Legend of Zelda Tears of the Kingdom Nintendo Switch",
     "price": "179",
@@ -1200,16 +1180,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "bd3e8f41-c6d0-41ae-96f5-93789a08d312",
-    "title": "Super Mario RPG - Gadżety - Switch",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1e187f/e6f353df4921b0ee7802e56b77bc",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "b112bedf-538a-4ab8-af52-841e08495da5",
     "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
     "price": "19",
@@ -1228,16 +1198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "88112d34-484e-4214-8bee-ed2032b58425",
-    "title": "Luigi's Mansion 3 Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e3654/a2e517a74da0ba3cf5169b337b58",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-msa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
   },
   {
     "id": "2ab1eb4f-9f29-4b1c-a45e-4fa081b97a68",
@@ -2170,6 +2130,26 @@
     "city": "Mińsk Mazowiecki"
   },
   {
+    "id": "3a0f50dd-6b79-42d3-bd9d-3859565b9f5c",
+    "title": "OLYMPIC GAMES TOKYO 2020 - SWITCH STAN BDB",
+    "price": "29",
+    "img": "https://a.allegroimg.com/s180x180/1e046d/d991b2554979b93f0a527e82d919",
+    "url": "https://allegrolokalnie.pl//oferta/olympic-games-tokyo-2020-switch-stan-bdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "12d5fc82-2ad7-45fe-939f-cc17d2e82fec",
+    "title": "GAME CENTER CX - ARINO NO CHOUSENJOU 1+2 REPLAY - SWITCH",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef077/eeb47b3d418c97456fe919e399db",
+    "url": "https://allegrolokalnie.pl//oferta/game-center-cx-arino-no-chousenjou-1-2-replay-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "a3e2202c-f290-4b3c-87bc-699c3c09e9f5",
     "title": "Fire Emblem Three Houses Nintendo Switch",
     "price": "199",
@@ -2395,6 +2375,16 @@
     "price": "117",
     "img": "https://a.allegroimg.com/s180x180/1e1a19/8feec3a048d18c04a5d911701339",
     "url": "https://allegrolokalnie.pl//oferta/live-a-live-nintendo-switch-japanese-version?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
+    "title": "Dragon Quest Treasures Nintendo Switch JP version",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
@@ -3000,16 +2990,6 @@
     "city": "Wrocław, Fabryczna"
   },
   {
-    "id": "11a7d225-e462-4e94-8d33-b9931618b659",
-    "title": "Xenoblade Chronicles 3 Nintendo Switch bez pudełka",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1eadaf/4d98b4c44badbdfd1208c60ea662",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-bez-pudelka?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
-  },
-  {
     "id": "89f74a80-3702-4d76-9003-7a91d6ef3648",
     "title": "Monster Hunter Rise",
     "price": "79",
@@ -3598,6 +3578,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
+    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ed33e/f38086794917816a29f2e6e7ca2d",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Milicz"
   },
   {
     "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
