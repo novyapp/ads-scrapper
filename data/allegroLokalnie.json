@@ -640,26 +640,6 @@
     "city": "Wejherowo"
   },
   {
-    "id": "0d766490-9568-482d-a240-31640590353c",
-    "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e11fa/41e1480e4174b375f7eb8d788db2",
-    "url": "https://allegrolokalnie.pl//oferta/lego-saga-skywalkerow-skywalker-saga-ns-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
-    "id": "11838e39-2b02-4ee9-b0b8-2ead6789b607",
-    "title": "Princess Peach Showtime Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1eb9cc/ca45f8fc4d9aa57e7c2adb3a30d2",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-nintendo-switch-bl5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Piaseczno"
-  },
-  {
     "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
     "title": "Super Mario Wonder",
     "price": "180",
@@ -1148,6 +1128,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "0d766490-9568-482d-a240-31640590353c",
+    "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e11fa/41e1480e4174b375f7eb8d788db2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-saga-skywalkerow-skywalker-saga-ns-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
+    "id": "11838e39-2b02-4ee9-b0b8-2ead6789b607",
+    "title": "Princess Peach Showtime Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1eb9cc/ca45f8fc4d9aa57e7c2adb3a30d2",
+    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-nintendo-switch-bl5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
+  },
+  {
+    "id": "f8f93e70-c18e-4839-ae82-a10c22a1015d",
+    "title": "Gra Super Mario Party (Nintendo Switch)",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ec3d2/a915fe1b42439448316ca2d98c94",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-party-nintendo-switch-xoo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Józefosław"
   },
   {
     "id": "5846e11a-6e31-4653-b28f-ebd14aca4c8c",
@@ -3000,16 +3010,6 @@
     "city": "Sokółka"
   },
   {
-    "id": "22b3dfde-0892-4add-8525-861528344f12",
-    "title": "Daemon x Machina Soundtrack Selection Nintendo Switch OST",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1ed437/dd4d323940199f03d65825eb5a1b",
-    "url": "https://allegrolokalnie.pl//oferta/daemon-x-machina-soundtrack-selection-nintendo-switch-ost?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sokółka"
-  },
-  {
     "id": "7a41d237-8af3-4457-a02d-0b2da5969328",
     "title": "Animal Crossing: New Horizons - Nintendo Switch",
     "price": "179",
@@ -3598,6 +3598,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gliwice"
-  },
-  {
-    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
-    "title": "Harvestella Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e103e/28d97ca945f386f21e2e0b13c5dc",
-    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   }
 ]
