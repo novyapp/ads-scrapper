@@ -506,7 +506,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e2182/5f68bfa94e1aaa95ff37e3b7bd56",
     "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-nyf?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wiry"
   },
   {
@@ -516,17 +516,17 @@
     "img": "https://a.allegroimg.com/s180x180/1edb0f/1714748c453e954a5055bc6944d5",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-adu?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wiry"
   },
   {
     "id": "06a53dae-e839-4b85-b5a2-f8cf16bdf09f",
     "title": "Captain Toad Treasure Tracker Nintendo Switch",
-    "price": "145",
+    "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e6a5b/2dd9cac3439a8cb5c2b938ab2f42",
     "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-nintendo-switch-skh?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wiry"
   },
   {
@@ -1185,6 +1185,16 @@
     "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e3654/a2e517a74da0ba3cf5169b337b58",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-msa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "2ab1eb4f-9f29-4b1c-a45e-4fa081b97a68",
+    "title": "Yoshi's Crafted World Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e766c/ca29688c4144b3c646f4cbcdf246",
+    "url": "https://allegrolokalnie.pl//oferta/yoshis-crafted-world-nintendo-switch-3dk?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
