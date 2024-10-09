@@ -222,7 +222,7 @@
   {
     "id": "ebb98c0e-8f6c-4964-80b1-a6f091a140c8",
     "title": "Snufkin Melody of Moominvalley Nintendo Switch Nowy",
-    "price": "280",
+    "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1e6dc4/d9871ba74f989bbd238f431cc568",
     "url": "https://allegrolokalnie.pl//oferta/snufkin-melody-of-moominvalley-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1200,16 +1200,6 @@
     "city": "Warszawa, Praga-Południe"
   },
   {
-    "id": "367149cb-7fe3-4fd0-9427-db682aaeab0b",
-    "title": "PIKMIN 4 NINTENDO SWITCH",
-    "price": "164",
-    "img": "https://a.allegroimg.com/s180x180/1eae24/eadcb8ea46279de67029c7a7e79f",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-4-nintendo-switch-csr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Południe"
-  },
-  {
     "id": "3c0a514e-f62c-46e5-934d-00364b526f97",
     "title": "Red Dead Redemption + Undead Nightmare Nintendo switch",
     "price": "150",
@@ -1795,6 +1785,16 @@
     "price": "480",
     "img": "https://a.allegroimg.com/s180x180/1e60b3/c9619616402596c88740ae210fdc",
     "url": "https://allegrolokalnie.pl//oferta/eldest-souls-switch-limited-run-w2y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
+    "id": "4e7e20fe-7d1b-47e2-a6e4-6d03283e0949",
+    "title": "Dark Devotion Switch limited Run",
+    "price": "430",
+    "img": "https://a.allegroimg.com/s180x180/1ec27b/6efbf90645c78a8ee057a6a8a1b0",
+    "url": "https://allegrolokalnie.pl//oferta/dark-devotion-switch-limited-run-zcm?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
@@ -2400,6 +2400,26 @@
     "city": "Gostynin"
   },
   {
+    "id": "51a2b4f8-299c-47bc-810c-d70fc5d8f432",
+    "title": "Code: Realize ~Guardian of the Rebrith~ SWITCH",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e638b/811ab6a94c08a27880a67ada0c46",
+    "url": "https://allegrolokalnie.pl//oferta/code-realize-guardian-of-the-rebrith-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "6eb99395-46f7-41c7-87f0-ee8c3bbb84e4",
+    "title": "Little Nightmares I+II Bundle - [Nintendo Switch] NOWE zafoliowane",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1e998a/fe9e95014e6889145b02e9926efe",
+    "url": "https://allegrolokalnie.pl//oferta/little-nightmares-i-ii-bundle-nintendo-switch-nowe-zafoliowane?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
     "id": "852811ee-3c96-437f-8f77-9bcb4f31f535",
     "title": "Mariokart deluxe",
     "price": "150",
@@ -2978,26 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ruda Śląska"
-  },
-  {
-    "id": "4f07a048-9c52-4845-832b-03aaf3c7de5f",
-    "title": "Super Smash Bros Ultimate - tylko raz grane",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e66f0/1837edb54c268a7d7a0209d03cba",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-tylko-raz-grane?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "fc1d243b-e4c0-480f-b5b2-75b8839e3a2b",
-    "title": "PAPER MARIO ORIGAMI KING",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1eb68f/6300f3b047bcb5ef8c37e4dbcf45",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-origami-king-pb2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Białołęka"
   },
   {
     "id": "10ffc468-ae26-431d-ab8c-3b819fc09986",
@@ -4200,16 +4200,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "0865906d-ec00-4a21-8efa-852d4c02c5cf",
-    "title": "SONIC ORIGINS PLUS SWITCH NOWA W FOLII 16 GIER",
-    "price": "124",
-    "img": "https://a.allegroimg.com/s180x180/1e5f31/396171134449a615a501da21da01",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-origins-plus-switch-nowa-w-folii-16-gier?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "28e72b12-1665-45db-8954-d07c09326914",
     "title": "Overcooked 2 Nintendo Switch",
     "price": "110",
@@ -4800,11 +4790,11 @@
     "city": "Kielce"
   },
   {
-    "id": "ad75df46-319b-47bb-b334-b5701632a048",
-    "title": "Dragon Ball Fighterz Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e3d21/73542a9143f585e320847e3e18ab",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
+    "id": "841b06c6-5546-4cd7-a870-f13749a3b22e",
+    "title": "Metro Redux Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e9005/e675763a4bfda76eb3ba92c1d8c4",
+    "url": "https://allegrolokalnie.pl//oferta/metro-redux-nintendo-switch-2nr?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kielce"
@@ -5400,6 +5390,26 @@
     "city": "Krotoszyn"
   },
   {
+    "id": "4e30c1f2-7c84-432e-b336-50c4e328e3eb",
+    "title": "Dragon Ball Xenoverse 2 Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ec762/ed3c560040b0ad66f0d95b5d079d",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-xenoverse-2-nintendo-switch-xqd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "1e1b3b5b-b2b4-4a6d-93c3-00b892b3cb7a",
+    "title": "[Nintendo Switch] Crisis Core Final Fantasy VII Reunion",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e8b52/4f75d28042caad916ba7bfa0d871",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
     "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
     "title": "[Nintendo Switch] Triangle Strategy",
     "price": "140",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom"
-  },
-  {
-    "id": "e3bd6004-6d27-41ac-b47e-1bc23153bb07",
-    "title": "Gra NSW Instant Sport Tenis",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1e063e/bf69d78444c6881bf5a139a81c05",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nsw-instant-sport-tenis?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   }
 ]
