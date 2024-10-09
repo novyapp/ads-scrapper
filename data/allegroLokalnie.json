@@ -160,16 +160,6 @@
     "city": "Ruda Śląska"
   },
   {
-    "id": "a94228f8-0e13-47f4-89a7-25962852cda1",
-    "title": "DOOM Nintendo Swich",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e94a8/63d18d4e4b3a8688e5ab5c1576e0",
-    "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-swich?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Seroczyn"
-  },
-  {
     "id": "3219edd5-a71b-4ca7-99df-beac5f04639b",
     "title": "VA-11 Hall-A - Nintendo Switch NOWA JPN",
     "price": "160",
@@ -742,7 +732,7 @@
   {
     "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
     "title": "Super Mario Odyssey Switch",
-    "price": "173",
+    "price": "174",
     "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -802,7 +792,7 @@
   {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
-    "price": "178",
+    "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ec954/a74d51d94aca97ab45661511c62a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
     "promoted": true,
@@ -812,7 +802,7 @@
   {
     "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
     "title": "Ori and the Will of the Wisps Switch",
-    "price": "133",
+    "price": "134",
     "img": "https://a.allegroimg.com/s180x180/1e2a26/3eb862004d7ea0cff34166318f4c",
     "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-3yh?navCategoryId=256922",
     "promoted": true,
@@ -822,7 +812,7 @@
   {
     "id": "7a39afcf-2f57-4ea7-9f99-4863a66674dd",
     "title": "Crisis Core Final Fantasy VII Reunion Switch",
-    "price": "135",
+    "price": "136",
     "img": "https://a.allegroimg.com/s180x180/1ec063/c13e7710418485e3d955526e76dc",
     "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-switch-kxo?navCategoryId=256922",
     "promoted": true,
@@ -852,7 +842,7 @@
   {
     "id": "671ef329-787a-4a48-aa8c-657a4a3a7f28",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "104",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e2bce/7cc273814336a398650528998804",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-th6?navCategoryId=256922",
     "promoted": true,
@@ -902,7 +892,7 @@
   {
     "id": "5d2bf0dc-1bf9-400f-920b-4acb93cedda0",
     "title": "Lego Ninjago PL-ANG Switch",
-    "price": "68",
+    "price": "69",
     "img": "https://a.allegroimg.com/s180x180/1e222c/648b51304a34a113cc300de96380",
     "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
     "promoted": true,
@@ -932,7 +922,7 @@
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
-    "price": "99",
+    "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
     "promoted": true,
@@ -4210,6 +4200,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "5158cb37-692a-4f47-a396-4fd2f0313c5f",
+    "title": "Nintendo Switch Crysis Remastered",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1edd30/0ed30275436e8a161a03718a6eb5",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-remastered?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "477a1cf6-071d-4d04-bc83-ab74e2dfafe9",
     "title": "Nintendo Switch Mario Kart 8",
     "price": "180",
@@ -4798,16 +4798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bytom"
-  },
-  {
-    "id": "9d07f4eb-1b74-4a54-b72f-aff2d01f08d2",
-    "title": "Pokemon Shield Switch + Expansion Pass",
-    "price": "599",
-    "img": "https://a.allegroimg.com/s180x180/1ea6d0/87a8b6f5462d8ab5aac63834fc20",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-expansion-pass?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nowiny"
   },
   {
     "id": "30d2bb94-9c2a-4082-b1c1-ce8ad3bce551",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Tuczempy "
+  },
+  {
+    "id": "ffaac98e-c3c1-4b5a-b847-fdd046a81eb5",
+    "title": "Bayonetta 3 - Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e6236/23ccfcdc474aa0d86f9bba14105e",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-itw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
   }
 ]
