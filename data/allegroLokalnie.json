@@ -340,16 +340,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "cb3e2ca0-421a-4222-9a7c-63db9ced4ba5",
-    "title": "Bayonetta 2 + Bayonetta",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e5b36/e94c57ba4ff0961300a5ba2def76",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-bayonetta?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Katowice"
-  },
-  {
     "id": "1232c049-0c06-47ca-a4fc-7dc6142d8a87",
     "title": "Jumanji The Video Game - Nintendo Switch",
     "price": "79",
@@ -610,6 +600,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "12d5fc82-2ad7-45fe-939f-cc17d2e82fec",
+    "title": "GAME CENTER CX - ARINO NO CHOUSENJOU 1+2 REPLAY - SWITCH",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef077/eeb47b3d418c97456fe919e399db",
+    "url": "https://allegrolokalnie.pl//oferta/game-center-cx-arino-no-chousenjou-1-2-replay-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "4edbe804-b8fa-4620-a14e-44ac6e649e90",
     "title": "The Legend of Zelda: Tears of the Kingdom Edycja Kolekcjonerska",
     "price": "300",
@@ -628,26 +628,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Zalasewo"
-  },
-  {
-    "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
-    "title": "Sonic Frontiers na Switcha",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e8574/ababe43e43fc93ed0eb54d61cf85",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-na-switcha?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wejherowo"
-  },
-  {
-    "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
-    "title": "Super Mario Wonder",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e7024/38159b22474087a49450b8e4b97f",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-vwp?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wejherowo"
   },
   {
     "id": "a79e0082-97eb-4330-b788-878a734f9e75",
@@ -1128,6 +1108,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
+    "title": "Sonic Frontiers na Switcha",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e8574/ababe43e43fc93ed0eb54d61cf85",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-na-switcha?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wejherowo"
+  },
+  {
+    "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
+    "title": "Super Mario Wonder",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7024/38159b22474087a49450b8e4b97f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-vwp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wejherowo"
   },
   {
     "id": "f8f93e70-c18e-4839-ae82-a10c22a1015d",
@@ -2400,26 +2400,6 @@
     "city": "Lędziny"
   },
   {
-    "id": "fac5cd73-2132-4224-ac5f-af3685d1b8b1",
-    "title": "Animal crossing New Horizons switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1ef280/f5744a31425fb7fc4520a782313e",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-switch-pee?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "be87b06e-eb62-4099-98b9-9a45406960f8",
-    "title": "Tactics Ogre Reborn - Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ee705/c1733d224d86af28cf006dcd5eee",
-    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-nintendo-switch-blw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gorzów Wielkopolski"
-  },
-  {
     "id": "15f5abff-295d-4a39-bf02-9449f8e18ec5",
     "title": "EA FC 24 NINTENDO SWITCH | BARDZO DOBRY!",
     "price": "99",
@@ -2478,6 +2458,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
+  },
+  {
+    "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
+    "title": "Super Mario Wonder",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7024/38159b22474087a49450b8e4b97f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-vwp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wejherowo"
   },
   {
     "id": "2ffd6418-8825-48b3-a35e-4bda7ff3a047",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   },
   {
     "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
@@ -4800,16 +4800,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
-    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eadec/d4bc6e344ca5b154b6331ef0d08a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-izk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "d04c5944-aeb0-4c9b-9b77-ff34f9790585",
     "title": "Crash bandicoot n sane trilogy switch",
     "price": "80",
@@ -5395,6 +5385,16 @@
     "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1eae4d/23aea52746e3b8b804dc34acfd10",
     "url": "https://allegrolokalnie.pl//oferta/sonic-forces-nintendo-switch-gxn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraśnik"
+  },
+  {
+    "id": "e7194adb-7dfe-4f5c-a90a-b29ae494a680",
+    "title": "HYRULE WARRIORS: DEFINITIVE EDITION Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e834b/2eb040b844d5999e7285b6a64483",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-definitive-edition-nintendo-switch-goc?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraśnik"
