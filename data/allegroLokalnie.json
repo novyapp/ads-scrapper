@@ -580,16 +580,6 @@
     "city": "Warszawa, Mokotów"
   },
   {
-    "id": "5084a4aa-0213-48a6-ad3d-b33ec1606bdb",
-    "title": "SWITCH Mario Party Superstars",
-    "price": "142",
-    "img": "https://a.allegroimg.com/s180x180/1e20ac/3064baaf49d8a9d1c4aefa742d48",
-    "url": "https://allegrolokalnie.pl//oferta/switch-mario-party-superstars?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "3a0f50dd-6b79-42d3-bd9d-3859565b9f5c",
     "title": "OLYMPIC GAMES TOKYO 2020 - SWITCH STAN BDB",
     "price": "29",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gliwice"
+  },
+  {
+    "id": "97df7841-39ea-4d48-b446-1ae1233e5fff",
+    "title": "Harvestella Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e103e/28d97ca945f386f21e2e0b13c5dc",
+    "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-wcn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "aeb8b317-a6d8-4451-be09-b0868e0e72db",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e3785/a400d3534db28e1fb77a7ae00874",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-koe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   }
 ]
