@@ -640,16 +640,6 @@
     "city": "Ruda Śląska, Ruda"
   },
   {
-    "id": "1fc90a89-bb37-4b9a-a79d-8142bb79ddd2",
-    "title": "The Legend of Zelda: Breath of the Wild + Expansion Pass",
-    "price": "539",
-    "img": "https://a.allegroimg.com/s180x180/1e154c/2cc11ca745c99d4648873afda3a3",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-expansion-pass?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zalasewo"
-  },
-  {
     "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
     "title": "Super Mario Wonder",
     "price": "180",
@@ -808,16 +798,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "91dfd91b-1b93-4721-8bcd-5a5a8be02db4",
-    "title": "The Legend of Zelda - Breath of the Wild Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e42f9/8833f9b146bba87b3b8bd6cc21be",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-tlc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "28ad8a85-b48c-4284-ae37-5c54d9bd0bb0",
@@ -1128,6 +1108,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "1fc90a89-bb37-4b9a-a79d-8142bb79ddd2",
+    "title": "The Legend of Zelda: Breath of the Wild + Expansion Pass",
+    "price": "539",
+    "img": "https://a.allegroimg.com/s180x180/1e154c/2cc11ca745c99d4648873afda3a3",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-expansion-pass?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zalasewo"
   },
   {
     "id": "2e65958c-827c-4bb5-8d25-b1afc2682fe8",
