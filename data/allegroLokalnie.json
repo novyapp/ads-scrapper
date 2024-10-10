@@ -732,7 +732,7 @@
   {
     "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
     "title": "Super Mario Odyssey Switch",
-    "price": "174",
+    "price": "173",
     "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -762,7 +762,7 @@
   {
     "id": "5c0619d6-63a9-4d3f-93d9-829da5bee165",
     "title": "Super Mario 3D World +Bowser's Fury Switch",
-    "price": "179",
+    "price": "178",
     "img": "https://a.allegroimg.com/s180x180/1ec954/a74d51d94aca97ab45661511c62a",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-nij?navCategoryId=256922",
     "promoted": true,
@@ -852,7 +852,7 @@
   {
     "id": "293cfb28-fa1d-4986-967f-bce8b40984e7",
     "title": "Mario + Rabbids Sparks of Hope Switch",
-    "price": "92",
+    "price": "91",
     "img": "https://a.allegroimg.com/s180x180/1ea6d5/d3cd8941488da075abff72e9e96d",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-switch-yvn?navCategoryId=256922",
     "promoted": true,
@@ -2990,16 +2990,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "f2816673-0039-4188-8999-b03fcb0d9350",
-    "title": "Pokemon Let's Go Pikachu",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ed408/ba7265d142dbae0fb52931441405",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-mbb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
     "id": "55e7d15d-14a9-48be-a392-7177a4a23b03",
     "title": "Radiant Silvergun",
     "price": "300",
@@ -4185,6 +4175,16 @@
     "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1e38c2/f25fbf6c40d9bae32eb5115f527d",
     "url": "https://allegrolokalnie.pl//oferta/bus-simulator-city-ride-nowa-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
+  },
+  {
+    "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
+    "title": "ZELDA TEARS OF THE KINGDOM ANG",
+    "price": "449",
+    "img": "https://a.allegroimg.com/s180x180/1e5234/f1948d23421a8355d0df7cbe3fef",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ang-ejh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
