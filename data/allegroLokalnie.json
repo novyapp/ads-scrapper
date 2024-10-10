@@ -1,25 +1,5 @@
 [
   {
-    "id": "c3046888-359e-4d1e-badf-717b34021d6e",
-    "title": "Zelda breath of the wild",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1eb0b4/829ccffc44629024f0f7982b7693",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-jnn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
-    "id": "e256cac9-3666-4e00-b1d4-32b2f4877d31",
-    "title": "Zelda tears of the kingdom",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1ee85c/780a2aaf4db88a22b281de1e2170",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ops?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
     "id": "106e548a-9a4f-4183-bf33-9688233ff636",
     "title": "THE PATHLESS / NOWA / NINTENDO SWITCH",
     "price": "50",
@@ -598,6 +578,26 @@
     "promoted": true,
     "smartPost": false,
     "city": "Kożuchów"
+  },
+  {
+    "id": "ddcc792e-85e9-415c-9cf1-80bc2a7305c4",
+    "title": "Resident Evil Revelations PL Nintendo Switch dwie gry",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1ec996/12d1684d45a19e57ddd00547ecdd",
+    "url": "https://allegrolokalnie.pl//oferta/resident-evil-revelations-pl-nintendo-switch-dwie-gry?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Świdnica"
+  },
+  {
+    "id": "fcd8cf2c-b4b8-4e7d-812c-6d84059a28da",
+    "title": "Resident Evil 4 Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e6e37/bce9aaba477a9cc649250ee69a54",
+    "url": "https://allegrolokalnie.pl//oferta/resident-evil-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Świdnica"
   },
   {
     "id": "ddcc792e-85e9-415c-9cf1-80bc2a7305c4",
@@ -3600,6 +3600,26 @@
     "city": "Siemianowice Śląskie, Bytków"
   },
   {
+    "id": "95013582-7a1a-4b51-8f2c-50435f48b928",
+    "title": "FINAL FANTASY X | X-2 HD REMASTER / NINTENDO SWITCH",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e8759/ce48f9ae4435b77de8930f7ff74e",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-hd-remaster-nintendo-switch-fhj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "c2591ae9-2db9-4fee-8bb2-add67553ffee",
+    "title": "Minecraft Dungeons: Ultimate Edition Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1158c7/7395731c43beb703e6613b801891",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-ultimate-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żory"
+  },
+  {
     "id": "723f0298-5f03-48bc-b5e8-e740d5fcd4a9",
     "title": "RingFit Adventure Nintendo Switch",
     "price": "180",
@@ -4175,46 +4195,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
     "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
-    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
-    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1e4b5b/d90095df4e40b0f239ed11ec8887",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
-    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
-    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1e4b5b/d90095df4e40b0f239ed11ec8887",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -4798,6 +4778,56 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "2603eb69-e827-4bfe-b413-c8cb3f556d54",
+    "title": "Gra Fire Emblem Engage Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e2ee7/aefa668049078f5394d3ede2fe0f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-fire-emblem-engage-nintendo-switch-zzs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Karwiany"
+  },
+  {
+    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
+    "title": "Yurukill - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e5cff/e1b3942e4e29adc6944ee2297e84",
+    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "5268abb6-0b26-412c-887d-6cd2573a3f05",
+    "title": "No More Heroes Limited Run Games Folia",
+    "price": "255",
+    "img": "https://a.allegroimg.com/s180x180/1e46fa/916e388745e1be9f2ac9155293bc",
+    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-limited-run-games-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "2603eb69-e827-4bfe-b413-c8cb3f556d54",
+    "title": "Gra Fire Emblem Engage Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e2ee7/aefa668049078f5394d3ede2fe0f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-fire-emblem-engage-nintendo-switch-zzs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Karwiany"
+  },
+  {
+    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
+    "title": "Yurukill - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e5cff/e1b3942e4e29adc6944ee2297e84",
+    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   },
   {
     "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
@@ -5965,36 +5995,6 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s180x180/11356b/3049b82f49b0940f6fdd064faedc",
     "url": "https://allegrolokalnie.pl//oferta/switch-hello-neighbor-2-edycja-kolekcjonerska-po-polsku-kardridz-big-box?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
-  },
-  {
-    "id": "86483009-87bd-49d8-a194-39afde739c60",
-    "title": "Metal Max Xeno Reborn - Swith",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e16eb/241381cf419a8d887deffb786f6a",
-    "url": "https://allegrolokalnie.pl//oferta/metal-max-xeno-reborn-swith?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Głogów"
-  },
-  {
-    "id": "ff0a3a33-3b5e-48a5-8abf-dce0fc3a630b",
-    "title": "switch MARIO KART 8 DELUXE wyścigi 1-4 graczy, kardridż",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/119a04/c19840cb44319d20d29cec3accad",
-    "url": "https://allegrolokalnie.pl//oferta/switch-mario-kart-8-deluxe-wyscigi-14-graczy-kardridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Groblice"
-  },
-  {
-    "id": "0d1e91b3-866a-4b8c-853a-0634008c0351",
-    "title": "DONKEY KONG COUNTRY TROPICAL FREEZE unikat zadbana",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/115a25/d58a32e0459b99ccb33c65f5782f",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-unikat-zadbana?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Groblice"
