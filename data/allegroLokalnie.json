@@ -990,16 +990,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "a9676641-371b-49ba-b52c-394b6d8d9fcc",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1ea2f3/36ba319c43b19467c0f328619ce0",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-ksn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gliwice"
-  },
-  {
     "id": "d0f90483-17c6-43af-ac7e-9f7f38f7fe4c",
     "title": "Gra The Legend of Zelda Tears of the Kingdom Nintendo Switch",
     "price": "179",
@@ -1198,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "600950b4-f21f-4fd7-b8a4-15493931a61f",
+    "title": "Switch Crash Bandicoot 4 Najwyższy Czas PL",
+    "price": "121",
+    "img": "https://a.allegroimg.com/s180x180/1e11b5/700d3a27419fad3d753df00b00fb",
+    "url": "https://allegrolokalnie.pl//oferta/switch-crash-bandicoot-4-najwyzszy-czas-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kalisz"
   },
   {
     "id": "600950b4-f21f-4fd7-b8a4-15493931a61f",
@@ -2450,16 +2450,6 @@
     "city": "Białystok"
   },
   {
-    "id": "08d5a8bf-6e1a-4b76-b068-d0d51cb78d65",
-    "title": "FIFA 21 Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1edadb/4498c8c44628b03424fe8ed8bbe1",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-21-nintendo-switch-uc5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bolesławiec"
-  },
-  {
     "id": "24c88f40-d2e4-46f5-a315-4e7d4aed91f1",
     "title": "Lego Marvel Super Heroes 2 - Nintendo Switch",
     "price": "65",
@@ -2988,6 +2978,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jarocin"
+  },
+  {
+    "id": "44b3fccf-55ad-4132-a3e9-c57527ea4ca7",
+    "title": "Crash Bandicoot 4 Nintendo Switch",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s180x180/1e9017/d08b059042b88baf693cbcff0a5d",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-nintendo-switch-b4b?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
   },
   {
     "id": "7d7e6195-eb43-4756-bdf6-c93b46f1373a",
@@ -3590,26 +3590,6 @@
     "city": "KOBIERZYCE"
   },
   {
-    "id": "97676510-cdbe-4aca-8bd2-3ead6b5e253a",
-    "title": "American Hero - Switch - Limited Run Games",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/119baa/6fb5e9c844ca8b51a05930d593d5",
-    "url": "https://allegrolokalnie.pl//oferta/american-hero-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
-    "id": "1e3113fb-328f-4c3d-a940-431b269a8343",
-    "title": "A Boy and His Blob - Switch - Limited Run Games",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/112181/1fe2a20146e6a0c4ad8715c976f8",
-    "url": "https://allegrolokalnie.pl//oferta/a-boy-and-his-blob-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
     "id": "4184ca6c-3fb1-420b-b03d-a8e9730df124",
     "title": "BloodRayne: Revamped - Switch - Limited Run Games",
     "price": "290",
@@ -4190,14 +4170,24 @@
     "city": "Piaseczno"
   },
   {
-    "id": "e933009f-ada2-42ea-9ebf-0798d24b1389",
-    "title": "Baten Kaitos I & II HD Remaster dla Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e888f/85d2ad264b999ad0a893c03d219d",
-    "url": "https://allegrolokalnie.pl//oferta/baten-kaitos-i-ii-hd-remaster-dla-nintendo-switch?navCategoryId=256922",
+    "id": "31d74350-c679-4b4d-a46e-73250ba44a12",
+    "title": "New Pokemon Snap Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/11e1d0/1794f03f48e7ae89dfe42d613e60",
+    "url": "https://allegrolokalnie.pl//oferta/new-pokemon-snap-nintendo-switch-3wl?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "da1886ec-4c35-40ae-80c2-32365c4ee581",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "195",
+    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-umo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   },
   {
     "id": "31d74350-c679-4b4d-a46e-73250ba44a12",
@@ -4800,26 +4790,6 @@
     "city": "Przemyśl"
   },
   {
-    "id": "3ec6e0d3-4012-4d81-9ce1-2223e68277f2",
-    "title": "Marvel Super Heroes 2",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e3b99/d42c01064b7e920c53147e702bc5",
-    "url": "https://allegrolokalnie.pl//oferta/marcel-super-heroes-2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
-    "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
-    "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e6c8e/c73567cf4d9db14e668f8ae06c66",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-generations-ultimate-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
     "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
     "title": "Captain Toad: Treasure Tracker Nintendo Switch",
     "price": "125",
@@ -5390,16 +5360,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
-    "title": "Pokemon Sword Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
     "title": "Bayonetta 3 Switch Steelbook",
     "price": "100",
@@ -5408,6 +5368,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
+  },
+  {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
   },
   {
     "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
@@ -5988,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
+  },
+  {
+    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
+    "title": "Metroid Prime Remastered (Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e1fe2/7fb339b04406b6886bc2091e9aac",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
