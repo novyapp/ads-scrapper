@@ -600,6 +600,16 @@
     "city": "Wiry"
   },
   {
+    "id": "68c4a9fb-713c-4c87-b4b4-511e3a8e0907",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e2182/5f68bfa94e1aaa95ff37e3b7bd56",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-nyf?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wiry"
+  },
+  {
     "id": "06a53dae-e839-4b85-b5a2-f8cf16bdf09f",
     "title": "Captain Toad Treasure Tracker Nintendo Switch",
     "price": "130",
@@ -1790,6 +1800,26 @@
     "city": "Olsztyn"
   },
   {
+    "id": "add61df0-0068-4712-be6e-1d5790c40294",
+    "title": "Super Mario 3d All Stars Nintendo Switch",
+    "price": "370",
+    "img": "https://a.allegroimg.com/s180x180/1e7ea7/83bb49a44c94b6b10573a2244a76",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-moq-yri?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "c61957e7-5d3a-4e3e-808d-422f1b1751fd",
+    "title": "Minecraft Story Mode Nintendo Switch",
+    "price": "435",
+    "img": "https://a.allegroimg.com/s180x180/1e7fdd/65377af54caea2690cb8275c98e1",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-story-mode-nintendo-switch-utb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "79b42158-c97d-4360-9fc9-19236a1eceec",
     "title": "Wiedźmin 3 dziki gon po polsku Nintendo Switch",
     "price": "240",
@@ -2368,26 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
-  },
-  {
-    "id": "15110303-b1f8-4fd0-9bf5-593e86c9f190",
-    "title": "Super Mario Maker 2 Nintendo Switch",
-    "price": "182",
-    "img": "https://a.allegroimg.com/s180x180/1eea57/1f769c80433492294e77be87e068",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-nintendo-switch-sed?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "1ba22d2d-e3b4-4c8a-81a2-b31b46cbbed9",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "210",
-    "img": "https://a.allegroimg.com/s180x180/1e9551/c307f02348cbb704e1630cb0fe6b",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-lan?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "fac5cd73-2132-4224-ac5f-af3685d1b8b1",
@@ -4170,16 +4180,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "0865906d-ec00-4a21-8efa-852d4c02c5cf",
-    "title": "SONIC ORIGINS PLUS SWITCH NOWA W FOLII 16 GIER",
-    "price": "114",
-    "img": "https://a.allegroimg.com/s180x180/1e5f31/396171134449a615a501da21da01",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-origins-plus-switch-nowa-w-folii-16-gier?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "28e72b12-1665-45db-8954-d07c09326914",
     "title": "Overcooked 2 Nintendo Switch",
     "price": "110",
@@ -4768,6 +4768,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kielce"
+  },
+  {
+    "id": "841b06c6-5546-4cd7-a870-f13749a3b22e",
+    "title": "Metro Redux Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e9005/e675763a4bfda76eb3ba92c1d8c4",
+    "url": "https://allegrolokalnie.pl//oferta/metro-redux-nintendo-switch-2nr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kielce"
+  },
+  {
+    "id": "457f6b2f-53f2-43cf-8c03-a8b295d254e2",
+    "title": "Doom Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1eb676/69ce5f1c46f79fc5d73232e74ddf",
+    "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-z3b?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kielce"
+  },
+  {
+    "id": "1d9a24ba-0031-435f-ab1f-7147062c37f2",
+    "title": "Pokrmon Violet Nintendo Switch karta",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1ee955/d1c5950c418a8cc2c85038b76da2",
+    "url": "https://allegrolokalnie.pl//oferta/pokrmon-violet-nintendo-switch-karta?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Inowrocław"
+  },
+  {
+    "id": "c614852e-d2db-464e-9e70-415b2ccde4b0",
+    "title": "LEGO GWIEZDNE WOJNY: SAGA SKYWALKERÓW NINTENDO SWITCH PL",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e2bda/dd6c7b4c4c9e9d4cc6e80f6c7b4f",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
@@ -5955,16 +5995,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ee158/3566c7e342fcb472f3e8e44ce931",
     "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-tennis-aces-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
-    "id": "35287bdb-3482-49dc-892c-982066fbed25",
-    "title": "Wyprzedaż KOLEKCJI! Mario + Rabbids Kingdom Battle na Nintendo Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e771f/4386951f4100bef003575bfdc99a",
-    "url": "https://allegrolokalnie.pl//oferta/wyprzedaz-kolekcji-mario-rabbids-kingdom-battle-na-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
