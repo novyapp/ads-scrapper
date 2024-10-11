@@ -2970,6 +2970,26 @@
     "city": "Kamionki, Osiedle Azaliowe"
   },
   {
+    "id": "11a7d225-e462-4e94-8d33-b9931618b659",
+    "title": "Xenoblade Chronicles 3 Nintendo Switch bez pudełka",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1eadaf/4d98b4c44badbdfd1208c60ea662",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-bez-pudelka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
+    "id": "89f74a80-3702-4d76-9003-7a91d6ef3648",
+    "title": "Monster Hunter Rise",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s180x180/1ee1a9/dcd1061643c2a4cf89afde3c95cc",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-bmo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zalas"
+  },
+  {
     "id": "a15b77e8-8c1e-4d25-81e0-8a4be309d7b6",
     "title": "Dredge (Nintendo Switch)",
     "price": "95",
@@ -3570,36 +3590,6 @@
     "city": "Reda"
   },
   {
-    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
-    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
-    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/11655f/c6a25f81443f87e3ba4e80d6f1ce",
-    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
-    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
-    "title": "Bravely Default II (Switch)",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
-    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
     "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
     "title": "RealMyst switch nowa Limited run",
     "price": "280",
@@ -4168,6 +4158,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "e933009f-ada2-42ea-9ebf-0798d24b1389",
+    "title": "Baten Kaitos I & II HD Remaster dla Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e888f/85d2ad264b999ad0a893c03d219d",
+    "url": "https://allegrolokalnie.pl//oferta/baten-kaitos-i-ii-hd-remaster-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piaseczno"
   },
   {
     "id": "31d74350-c679-4b4d-a46e-73250ba44a12",
@@ -5370,6 +5370,26 @@
     "city": "Radom, Michałów"
   },
   {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
+  },
+  {
     "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
     "title": "GRIP: Combat Racing Nintendo Switch",
     "price": "99",
@@ -5968,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "e23241ad-8fb3-4e08-b2ca-25b5f6375fda",
+    "title": "Pokemon Violet Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1eaeb5/98f89d274396aa355b1313835fd5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qtm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gaszowice"
   }
 ]
