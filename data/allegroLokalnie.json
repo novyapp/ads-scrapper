@@ -2390,16 +2390,6 @@
     "city": "Gorzów Wielkopolski"
   },
   {
-    "id": "15f5abff-295d-4a39-bf02-9449f8e18ec5",
-    "title": "EA FC 24 NINTENDO SWITCH | BARDZO DOBRY!",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1ebdbe/32e789df4e808a4beeeeec2a9133",
-    "url": "https://allegrolokalnie.pl//oferta/ea-fc-24-nintendo-switch-or-bardzo-dobry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wolbórz"
-  },
-  {
     "id": "42a84011-c390-4c21-84a6-32209e9d9f10",
     "title": "METROID PRIME REMASTERED - NINTENDO SWITCH - STAN IDEALNY",
     "price": "129",
@@ -2800,16 +2790,6 @@
     "city": "Kraków"
   },
   {
-    "id": "e5337328-e80c-4203-8e9d-4f817656fec4",
-    "title": "Let's sing Abba Switch + 2 mikrofony",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e3a24/cd50e3544f3c84b8b1e48dd4040f",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "1e6f2143-53b1-435a-a3cc-330405ac4d77",
     "title": "Minecraft Nintendo Switch",
     "price": "141",
@@ -2968,6 +2948,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "6daa4692-760d-44f8-a9db-1d6898861684",
+    "title": "Pokémon sword and shield",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1eb17c/7cdcc7474ed887b9f330bfef7ad1",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-and-shield-4in?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "lublin"
+  },
+  {
+    "id": "a3d8e088-8b10-46c9-9f85-fb976d492712",
+    "title": "Pokémon brillant diamond",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e0fc9/985e31ec42a69dbf77eb79b737eb",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brillant-diamond-cua?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "lublin"
   },
   {
     "id": "68cad325-44b2-4b36-8679-12548318b007",
@@ -4770,6 +4770,16 @@
     "city": "Orzesze"
   },
   {
+    "id": "fb35efb5-9b73-4631-82c8-0ea75ce986b1",
+    "title": "Pokemon Sword + Pokemon Sword Expansion Pass Nintendo Switch",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s180x180/1e5e1b/71b1d5524f2dac2e011c492a401a",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-pokemon-sword-expansion-pass-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
+  },
+  {
     "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
     "title": "Charade Maniacs gra visual novel",
     "price": "189",
@@ -5355,16 +5365,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1eb394/18c354254e8e8521965fc745798d",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-switch-steelbook?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
-    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
-    "title": "Pokemon Sword Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
@@ -5968,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "cef313a0-b8fb-4e14-8014-46dc3ee4d573",
+    "title": "Neptunia sisters vs sisters (Nintendo switch) nowe w foli",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1e35/2a26594b43909b1477a90c772e24",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch-nowe?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
