@@ -590,16 +590,6 @@
     "city": "Częstochowa, Lisiniec"
   },
   {
-    "id": "87b2e6a6-7a9c-47c5-af28-7c0cab342e88",
-    "title": "Super Mario Maker 2",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e55dd/38f7913c49e0a692303ab9effb7c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-hyd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "415b8c7d-8b64-45dc-bab2-a2d01e83d649",
     "title": "Pokken Tournament DX",
     "price": "185",
@@ -1800,6 +1790,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "f518607e-2edd-49c5-adc0-d35226b33984",
+    "title": "Super Mario wonder Nintendo switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e3de3/cfe108ab4f788b08e794172675b3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-nintendo-switch-zjn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
     "title": "Splatoon 2 Nintendo switch",
     "price": "125",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk Wrzeszcz"
-  },
-  {
-    "id": "711dd73d-98f9-4688-aea3-2fad148fe34e",
-    "title": "Rabbids Party of Legends PL Nintendo Switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1ea73a/a572d7f44b94be0b0ab9a0f0ac59",
-    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-pl-nintendo-switch-73x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dankowice"
   },
   {
     "id": "4846e9bc-6cec-4fec-b873-70e644ac5652",
@@ -3588,6 +3578,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   },
   {
     "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
@@ -4790,16 +4800,6 @@
     "city": "Kraków, Czyżyny"
   },
   {
-    "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
-    "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e6c8e/c73567cf4d9db14e668f8ae06c66",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-generations-ultimate-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
     "id": "6b91d5a2-8dbf-40ff-b2e9-be77d5b66369",
     "title": "Captain Toad: Treasure Tracker Nintendo Switch",
     "price": "125",
@@ -5390,16 +5390,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
-    "title": "Mario Tennis Aces Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dzierżoniów"
-  },
-  {
     "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
     "title": "GRIP: Combat Racing Nintendo Switch",
     "price": "99",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jarosław"
+  },
+  {
+    "id": "b64c48df-23c4-469d-9354-0e39a7aa6f7c",
+    "title": "Neptunia sisters vs sisters (Nintendo switch)",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e0274/84ead5234a97b4ebc8d226a62781",
+    "url": "https://allegrolokalnie.pl//oferta/neptunia-sisters-vs-sisters-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łomnica"
   }
 ]
