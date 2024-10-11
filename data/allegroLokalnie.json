@@ -392,7 +392,7 @@
   {
     "id": "d279135f-6c5d-4052-b935-3bf1cc80c583",
     "title": "Smerfy Misja Złoliść Edycja Smerfastyczna Dubbing PL Kartridż",
-    "price": "189",
+    "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e2c55/288390a64fc6b0fbd69191f2a0af",
     "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-edycja-smerfastyczna-dubbing-pl-kartridz?navCategoryId=256922",
     "promoted": true,
@@ -402,7 +402,7 @@
   {
     "id": "ebf9e1c6-b3e6-40f7-bae9-267c175aa4a1",
     "title": "Asterix & Obelix Slap them All! Limited Edition na Nintendo Switch",
-    "price": "189",
+    "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e71ce/9915d9654fbb8eb9a5815d716022",
     "url": "https://allegrolokalnie.pl//oferta/asterix-obelix-slap-them-all-limited-edition-na-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1198,6 +1198,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Biały Bór"
+  },
+  {
+    "id": "7942e9ac-98a6-408b-a69d-2df76135151b",
+    "title": "Zelda breath of the wild",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ec990/095246104e06b16f8740b0849567",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-jya?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gawrony"
   },
   {
     "id": "42a67d9f-aa8d-409b-a53f-692cc5a68770",
@@ -2400,16 +2410,6 @@
     "city": "Gdańsk Wrzeszcz"
   },
   {
-    "id": "4baf097f-fb3a-4235-8abf-a6452aa8157b",
-    "title": "Zelda breath of the wild",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e100f/2a85e49e469a8377738def930a3e",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-q4s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk Wrzeszcz"
-  },
-  {
     "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
     "title": "Super smash Bros Nintendo Switch",
     "price": "180",
@@ -3306,7 +3306,7 @@
     "img": "https://a.allegroimg.com/s180x180/1effe0/e90f704d49e98d08da966df2499f",
     "url": "https://allegrolokalnie.pl//oferta/super-blood-hockey?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Sosnowiec"
   },
   {
@@ -3598,6 +3598,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   },
   {
     "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
@@ -4200,16 +4210,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "e933009f-ada2-42ea-9ebf-0798d24b1389",
-    "title": "Baten Kaitos I & II HD Remaster dla Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e888f/85d2ad264b999ad0a893c03d219d",
-    "url": "https://allegrolokalnie.pl//oferta/baten-kaitos-i-ii-hd-remaster-dla-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piaseczno"
-  },
-  {
     "id": "31d74350-c679-4b4d-a46e-73250ba44a12",
     "title": "New Pokemon Snap Nintendo Switch",
     "price": "165",
@@ -4798,6 +4798,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
+  },
+  {
+    "id": "8d179180-95ae-4631-9aa2-bdfd27021f77",
+    "title": "Charade Maniacs gra visual novel",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e3056/a92b19d64bab8365af35a3baacc0",
+    "url": "https://allegrolokalnie.pl//oferta/charade-maniacs-gra-visual-novel?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Przemyśl"
   },
   {
     "id": "3ec6e0d3-4012-4d81-9ce1-2223e68277f2",
@@ -5400,16 +5410,6 @@
     "city": "Radom, Michałów"
   },
   {
-    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
-    "title": "Bayonetta 3 Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ed4a9/67acc7514666b6afc31fbb098266",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
-  },
-  {
     "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
     "title": "Loop Hero Special Reserve #67 Switch",
     "price": "300",
@@ -5606,7 +5606,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ee25d/8f3e191c4a54841858fa880c52ce",
     "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Sosnowiec"
   },
   {
