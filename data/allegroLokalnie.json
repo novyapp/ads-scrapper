@@ -600,16 +600,6 @@
     "city": "Bysław"
   },
   {
-    "id": "87b2e6a6-7a9c-47c5-af28-7c0cab342e88",
-    "title": "Super Mario Maker 2",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e55dd/38f7913c49e0a692303ab9effb7c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-hyd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "415b8c7d-8b64-45dc-bab2-a2d01e83d649",
     "title": "Pokken Tournament DX",
     "price": "185",
@@ -1200,6 +1190,26 @@
     "city": "Baranów"
   },
   {
+    "id": "2fbe792d-b926-4e07-8f7a-03fa6251d6ca",
+    "title": "GRA Nintendo Switch POKEMON Scarlet & Violet DUAL PACK Steelbook Edition",
+    "price": "489",
+    "img": "https://a.allegroimg.com/s180x180/1e7880/6f6f43294b5fb2673337c8a4a30b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-violet-dual-pack-steelbook-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "2fbe792d-b926-4e07-8f7a-03fa6251d6ca",
+    "title": "GRA Nintendo Switch POKEMON Scarlet & Violet DUAL PACK Steelbook Edition",
+    "price": "489",
+    "img": "https://a.allegroimg.com/s180x180/1e7880/6f6f43294b5fb2673337c8a4a30b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-violet-dual-pack-steelbook-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
     "id": "9a7b843b-957e-47b0-8793-c0f8d07eb83d",
     "title": "The Legend of Zelda Tears of the Kingdom  Switch Nowa",
     "price": "200",
@@ -1785,16 +1795,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e287a/38ddd8f4455f8675c17e6aea0a8d",
     "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkera?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "d6e9f04a-488e-4ff8-bfca-88de3008651f",
-    "title": "Zelda Hyrule Warriors Age of Calamity",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ee53a/50ed651448e6b1941129d40b352b",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-hyrule-warriors-age-of-calamity-o4a?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wejherowo"
+  },
+  {
+    "id": "0d766490-9568-482d-a240-31640590353c",
+    "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1e11fa/41e1480e4174b375f7eb8d788db2",
+    "url": "https://allegrolokalnie.pl//oferta/lego-saga-skywalkerow-skywalker-saga-ns-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   },
   {
     "id": "0d766490-9568-482d-a240-31640590353c",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
-  },
-  {
-    "id": "2c849131-86de-4420-8994-e9a75d36900f",
-    "title": "Gothic Classic Switch Pudełko wydanie PL NA STANIE Z POLSKI",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/11d1d6/15a9b6aa4496991429c4ad26329d",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-classic-switch-pudelko-wydanie-pl-na-stanie-z-polski?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarosław"
   }
 ]
