@@ -140,16 +140,6 @@
     "city": "Nowy Sącz"
   },
   {
-    "id": "626fde7c-fe88-45c3-8d1d-abc316d00851",
-    "title": "The Legend of Zelda: Tears of the Kingdom Breath of the Wild Switch",
-    "price": "320",
-    "img": "https://a.allegroimg.com/s180x180/1ee106/923339084744b4b69b09492e8b22",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-breath-of-the-wild-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Nowy Sącz"
-  },
-  {
     "id": "b3d27b0d-bfeb-44ac-be2b-7e7b128f4658",
     "title": "Zelda Echoes of Wisdom Nintendo Switch",
     "price": "189",
@@ -1188,6 +1178,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "77d41675-8ff9-47f4-a894-7779f45d380f",
+    "title": "Shantae half Genie Hero Nintendo Switch",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1ecf07/73f9137349bd808ad8f50fba3302",
+    "url": "https://allegrolokalnie.pl//oferta/shantae-half-genie-hero-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Stare Miasto"
   },
   {
     "id": "0b9d00da-7370-4fbc-ae0b-069a0c75d22b",
@@ -4190,16 +4190,6 @@
     "city": "Bytom"
   },
   {
-    "id": "b9926297-2ecc-41af-b9d1-2efa7febc9ac",
-    "title": "Serial Cleaner na Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e0456/f413caa945acae787ca8fe1e4655",
-    "url": "https://allegrolokalnie.pl//oferta/serial-cleaner-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
-  },
-  {
     "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "170",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomnica"
+  },
+  {
+    "id": "1d81401a-2217-495a-8a81-16264cf9bc80",
+    "title": "Metroid Prime Remastered (Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e1fe2/7fb339b04406b6886bc2091e9aac",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-switch-dav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
