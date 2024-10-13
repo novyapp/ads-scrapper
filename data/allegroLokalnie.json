@@ -1130,6 +1130,36 @@
     "city": "Warszawa, Bemowo"
   },
   {
+    "id": "140e61e3-8ec3-4c99-9557-33a3724af9a7",
+    "title": "Zestaw gier Nintendo Switch 6sztuk",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s180x180/1e4f94/319fa021462eabe8f3361384135f",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-gier-nintendo-switch-6sztuk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "2d1c1736-93e6-4412-8415-c5cf349fd1ce",
+    "title": "Super Mario Odyssey",
+    "price": "205",
+    "img": "https://a.allegroimg.com/s180x180/1ed562/ac8f82c84632bcd9eaff5f6d4768",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-ug5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "19769b78-b223-4d21-9f6b-4b79ea5140c6",
+    "title": "Everybody 1 2 Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1e710b/c8cfd35c4f1fa005d26ae8ebb8d9",
+    "url": "https://allegrolokalnie.pl//oferta/everybody-1-2-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "8a710c99-d70b-4e64-a393-fbc1d3e3ff61",
     "title": "Zestaw gier Nintendo Switch 2 sztuki",
     "price": "140",
@@ -1185,16 +1215,6 @@
     "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1ed999/ea2ec46b4acea2691e0711e4066e",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-ev3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "a3c1d35c-e7eb-403c-8e7a-316f04e85116",
-    "title": "MarioKart 8 Deluxe - gra Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e95f4/dff0d4444d739efe27bd168ba126",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-8-deluxe-gra-nintendo-switch-gqh?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
@@ -1800,6 +1820,16 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
+    "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
+    "price": "163",
+    "img": "https://a.allegroimg.com/s180x180/1e2377/9aa841be436ea1d45b57ab192b3b",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-18-polskie-wydanie-z-dodatkiem-world-cup-mmg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "df9e3c3d-f9fe-4940-9bc8-8a3bd0b56e00",
     "title": "The legend od Zelda Tears of the Kingdom Nintendo Switch",
     "price": "215",
@@ -2368,36 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ruda Śląska, Ruda"
-  },
-  {
-    "id": "999a8a52-7a06-4b74-a733-c5ea05695e40",
-    "title": "Sonic Frontiers Nintendo switch",
-    "price": "104",
-    "img": "https://a.allegroimg.com/s180x180/1e141b/bdbfd34c41ba8820e5a5ad98da2e",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-nwm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Owsiszcze"
-  },
-  {
-    "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
-    "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/118af7/8aa2238d4ab09d35eb6ad3c66d54",
-    "url": "https://allegrolokalnie.pl//oferta/captain-tsubasa-rise-of-new-champions-gra-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Maniowy"
-  },
-  {
-    "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
-    "title": "Super Mario Odyssey",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e887a/8c2df0574a1a85499f5653ac794f",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-qio?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
@@ -3578,6 +3578,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
+    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/11655f/c6a25f81443f87e3ba4e80d6f1ce",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   },
   {
     "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gaszowice"
-  },
-  {
-    "id": "f5deb8c9-79f4-4389-a7cf-532b5aef477a",
-    "title": "Monster Hunter Stories 2 II Nintendo Switch gra",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1e2c10/0cc29fb14865a8d2ed1ed32eda89",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-ii-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
-    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e5fd1/bf8c730f4be6b74b722c4759750c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
   }
 ]
