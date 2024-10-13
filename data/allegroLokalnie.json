@@ -642,7 +642,7 @@
   {
     "id": "3a0f50dd-6b79-42d3-bd9d-3859565b9f5c",
     "title": "OLYMPIC GAMES TOKYO 2020 - SWITCH STAN BDB",
-    "price": "25",
+    "price": "19",
     "img": "https://a.allegroimg.com/s180x180/1e046d/d991b2554979b93f0a527e82d919",
     "url": "https://allegrolokalnie.pl//oferta/olympic-games-tokyo-2020-switch-stan-bdb?navCategoryId=256922",
     "promoted": true,
@@ -2390,6 +2390,16 @@
     "city": "Zalasewo"
   },
   {
+    "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
+    "title": "Sonic Frontiers na Switcha",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e8574/ababe43e43fc93ed0eb54d61cf85",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-na-switcha?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wejherowo"
+  },
+  {
     "id": "0d766490-9568-482d-a240-31640590353c",
     "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
     "price": "129",
@@ -2968,26 +2978,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "a3d8e088-8b10-46c9-9f85-fb976d492712",
-    "title": "Pokémon brillant diamond",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e0fc9/985e31ec42a69dbf77eb79b737eb",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brillant-diamond-cua?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "lublin"
-  },
-  {
-    "id": "68cad325-44b2-4b36-8679-12548318b007",
-    "title": "DC Justice League Cosmic Chaos PL Nintendo Switch",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1e697d/337e2a454f2a978a646821e0f354",
-    "url": "https://allegrolokalnie.pl//oferta/dc-justice-league-cosmic-chaos-pl-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kamionki, Osiedle Azaliowe"
   },
   {
     "id": "a3d8e088-8b10-46c9-9f85-fb976d492712",
@@ -3590,6 +3580,26 @@
     "city": "Warszawa"
   },
   {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
     "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
     "title": "Pokemon Shining Pearl Dodatki",
     "price": "149",
@@ -4168,26 +4178,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "da1886ec-4c35-40ae-80c2-32365c4ee581",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "195",
-    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-umo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "08a190ad-dae4-4884-bac8-776531bafddd",
-    "title": "AEW: Fight Forever Gra NINTENDO switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1ef7a0/6556144446dfbb5c325c55925f24",
-    "url": "https://allegrolokalnie.pl//oferta/aew-fight-forever-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zabrze"
   },
   {
     "id": "da1886ec-4c35-40ae-80c2-32365c4ee581",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
+  },
+  {
+    "id": "669c7bd0-6165-468e-9887-709e56b4aebc",
+    "title": "Nintendo Switch gra Snack World the dungeon crawl gold",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e5fd1/bf8c730f4be6b74b722c4759750c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-snack-world-the-dungeon-crawl-gold?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
+    "id": "939f28a4-1143-43b2-84f2-88caf04635ef",
+    "title": "NS LIVE A LIVE nowa zafoliowana NAJTANIEJ dystrybucja PL ANG ANG !",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e9acc/3680cbf84de4a1639029e27219b7",
+    "url": "https://allegrolokalnie.pl//oferta/ns-live-a-live-nowa-zafoliowana-najtaniej-dystrybucja-pl-ang-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
   }
 ]
