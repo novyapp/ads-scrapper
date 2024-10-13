@@ -1640,16 +1640,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "cbbf1dbc-f82a-4f52-a49b-8caf5e70eaf7",
-    "title": "Gra Pokemon Legends Arceus",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1ec445/2ffe2a8d489fab81a620a5e01fff",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-legends-arceus-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
     "id": "88f5f444-462b-4424-97d8-746129ac870c",
     "title": "SUPER MARIO 3D WORLD + BOWSER'S FURY SWITCH",
     "price": "170",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piotrków Trybunalski"
+  },
+  {
+    "id": "5ea85ddc-7e9e-4ff4-8233-959add77176b",
+    "title": "Splatoon 2 - gra Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ed999/ea2ec46b4acea2691e0711e4066e",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-ev3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
   },
   {
     "id": "5ea85ddc-7e9e-4ff4-8233-959add77176b",
@@ -2398,16 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Targówek"
-  },
-  {
-    "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
-    "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
-    "price": "163",
-    "img": "https://a.allegroimg.com/s180x180/1e2377/9aa841be436ea1d45b57ab192b3b",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-18-polskie-wydanie-z-dodatkiem-world-cup-mmg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
   },
   {
     "id": "df9e3c3d-f9fe-4940-9bc8-8a3bd0b56e00",
@@ -4195,6 +4185,16 @@
     "price": "300",
     "img": "https://a.allegroimg.com/s180x180/119baa/6fb5e9c844ca8b51a05930d593d5",
     "url": "https://allegrolokalnie.pl//oferta/american-hero-switch-limited-run-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pionki"
+  },
+  {
+    "id": "1e3113fb-328f-4c3d-a940-431b269a8343",
+    "title": "A Boy and His Blob - Switch - Limited Run Games",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/112181/1fe2a20146e6a0c4ad8715c976f8",
+    "url": "https://allegrolokalnie.pl//oferta/a-boy-and-his-blob-switch-limited-run-games?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Pionki"
