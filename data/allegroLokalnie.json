@@ -2550,16 +2550,6 @@
     "city": "Szczecin"
   },
   {
-    "id": "6364d378-6191-40a3-a394-93d98967f6aa",
-    "title": "Gothic II Complete Edition",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e5fdd/6156f5584ec5ad0575e103cf0aca",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-edition-qgy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zgorzała"
-  },
-  {
     "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
     "title": "Nintendo switch sports",
     "price": "160",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łomża"
+  },
+  {
+    "id": "753056ee-7086-4e4e-89a8-6ba91e4e3e4a",
+    "title": "Animal Crossing New Horizons",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e0ca1/5ef076dc48b6b0fec7e44adbfcd3",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-w2l?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   }
 ]
