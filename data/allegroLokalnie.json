@@ -1086,7 +1086,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ec996/12d1684d45a19e57ddd00547ecdd",
     "url": "https://allegrolokalnie.pl//oferta/resident-evil-revelations-pl-nintendo-switch-dwie-gry?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Świdnica"
   },
   {
@@ -1096,7 +1096,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e6e37/bce9aaba477a9cc649250ee69a54",
     "url": "https://allegrolokalnie.pl//oferta/resident-evil-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Świdnica"
   },
   {
@@ -1106,7 +1106,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e6fa7/05f1bc7340158faf186fadd86a0e",
     "url": "https://allegrolokalnie.pl//oferta/vengeful-guardian-moonrider-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Świdnica"
   },
   {
@@ -3562,7 +3562,7 @@
   {
     "id": "fc1d243b-e4c0-480f-b5b2-75b8839e3a2b",
     "title": "PAPER MARIO ORIGAMI KING",
-    "price": "169",
+    "price": "159",
     "img": "https://a.allegroimg.com/s180x180/1eb68f/6300f3b047bcb5ef8c37e4dbcf45",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-origami-king-pb2?navCategoryId=256922",
     "promoted": false,
@@ -3578,6 +3578,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraśnik"
+  },
+  {
+    "id": "92216785-e2f8-456a-ac10-96e97244640c",
+    "title": "Splatoon 2 Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e53a9/640138d8410891379c14f8ef68df",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-um2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "cd9f6976-83bc-4fbe-a433-9cafb8b11b32",
+    "title": "POKEMON VIOLET / POKEMONY / GRA NINTENDO SWITCH NA KARTRIDŻU",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e9a34/d6d98e8d4c5ba15e058d2bf2fc04",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-pokemony-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   },
   {
     "id": "f7567161-e1ab-4585-9032-f70125941ce9",
@@ -4755,26 +4775,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
     "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "22de88e1-5343-449c-bb94-8765b300b6c5",
-    "title": "Travis Strikes Again: No More Heroes",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e4bd7/88e3e9e143aa9243c4558e9d1ca0",
-    "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-njq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "e60f5e6e-c79e-486d-812e-ce471f51fd96",
-    "title": "Octopath Traveler",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e7414/c5a2188b4d5a9f34c4b87efe72d8",
-    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-uon?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "710eee37-8f1c-4be1-af24-fe2e49c7026c",
+    "title": "Nintendo Switch Monster Hunter Stories 2",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ea015/b523e6894316b39eb2d7357360fc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-monster-hunter-stories-2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia"
+  },
+  {
+    "id": "a9d4f344-7bf2-44c8-901a-f69d5b063256",
+    "title": "Gry Nintendo switch",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s180x180/1ec605/2f2e3fac4676b70ac571ee72e6b9",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-ciy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Oborniki"
   }
 ]
