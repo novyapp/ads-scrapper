@@ -1,25 +1,5 @@
 [
   {
-    "id": "e30d15ff-ff6e-4531-af39-c62de7707797",
-    "title": "Princess Peach Showtime",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e65ee/40aea58d42ec85c192e39bcfedfe",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-how?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
-    "id": "3cceedb8-fde8-4c24-8c15-32fca676b0e2",
-    "title": "Dragon quest monsters Nintendo switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ede22/dbc1723049149f6aa67a9574edb6",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-monsters-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "769d021d-b53b-4ba9-8c90-4310698ed393",
     "title": "Minecraft Nintendo switch",
     "price": "70",
@@ -1210,6 +1190,16 @@
     "city": "Majdan królewski"
   },
   {
+    "id": "ac3a1e51-f194-483a-83e3-42285354f7c5",
+    "title": "Gra Urban Trial PlayGround",
+    "price": "81",
+    "img": "https://a.allegroimg.com/s180x180/1e5a37/9ba5cc81451b8220a2d661119489",
+    "url": "https://allegrolokalnie.pl//oferta/gra-urban-trial-playground?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Majdan królewski"
+  },
+  {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
     "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
     "price": "179",
@@ -1800,16 +1790,6 @@
     "city": "Warszawa, Targówek"
   },
   {
-    "id": "8c392047-25b9-4df6-bc6d-a51cb043f321",
-    "title": "The Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e60d2/5c494a7e4c4db6b7543318b611ab",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-n7c?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "419b70f3-d5fb-4e9b-a8e0-71dc917cd048",
     "title": "Gra Paw Patrol World, Świat Psiego Patrolu Nintendo Switch po Polsku",
     "price": "100",
@@ -2398,6 +2378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tarnów"
+  },
+  {
+    "id": "903d767c-800b-4abb-af46-000007cf32b5",
+    "title": "Terraria gra na Nintendo switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1eeaa8/81dd2df34d068b8807fcd291c8ed",
+    "url": "https://allegrolokalnie.pl//oferta/terraria-gra-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "szczawnica"
+  },
+  {
+    "id": "903d767c-800b-4abb-af46-000007cf32b5",
+    "title": "Terraria gra na Nintendo switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1eeaa8/81dd2df34d068b8807fcd291c8ed",
+    "url": "https://allegrolokalnie.pl//oferta/terraria-gra-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "szczawnica"
   },
   {
     "id": "2fb6a1d6-d44e-4554-8c1d-44a6eaeab34f",
@@ -3000,16 +3000,6 @@
     "city": "Zalasewo"
   },
   {
-    "id": "1fc90a89-bb37-4b9a-a79d-8142bb79ddd2",
-    "title": "The Legend of Zelda: Breath of the Wild + Expansion Pass",
-    "price": "539",
-    "img": "https://a.allegroimg.com/s180x180/1e154c/2cc11ca745c99d4648873afda3a3",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-expansion-pass?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zalasewo"
-  },
-  {
     "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
     "title": "Sonic Frontiers na Switcha",
     "price": "120",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "a3d8e088-8b10-46c9-9f85-fb976d492712",
+    "title": "Pokémon brillant diamond",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e0fc9/985e31ec42a69dbf77eb79b737eb",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brillant-diamond-cua?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "lublin"
   },
   {
     "id": "68cad325-44b2-4b36-8679-12548318b007",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Zacisze"
-  },
-  {
-    "id": "199f9105-e4fe-4307-a480-48a4e04220ef",
-    "title": "Everybody 1-2-Switch!",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e74c5/2a327be943a0838238971b138c90",
-    "url": "https://allegrolokalnie.pl//oferta/everybody-12switch-77p?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
   }
 ]
