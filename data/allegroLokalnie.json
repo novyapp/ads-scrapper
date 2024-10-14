@@ -1660,6 +1660,16 @@
     "city": "Warszawa, Bemowo"
   },
   {
+    "id": "51ca2f87-6883-4676-b5ba-d540fd46ddcf",
+    "title": "WARHAMMER 40,000 BOLTGUN (SWITCH) EGZ NOWY, W FOLII",
+    "price": "266",
+    "img": "https://a.allegroimg.com/s180x180/1e19e5/0554fc73472a98c465f331bfd6b2",
+    "url": "https://allegrolokalnie.pl//oferta/warhammer-40000-boltgun-switch-egz-nowy-w-folii-r77?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "c8abacf6-d452-42fd-b85a-42b4a8a18079",
     "title": "NINTENDO SWITCH Crash TRYLOGIA + Crash 4 NAJWYŻSZY CZAS",
     "price": "239",
@@ -1775,6 +1785,16 @@
     "price": "205",
     "img": "https://a.allegroimg.com/s180x180/1ed562/ac8f82c84632bcd9eaff5f6d4768",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-ug5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "19769b78-b223-4d21-9f6b-4b79ea5140c6",
+    "title": "Everybody 1 2 Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1e710b/c8cfd35c4f1fa005d26ae8ebb8d9",
+    "url": "https://allegrolokalnie.pl//oferta/everybody-1-2-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
@@ -2375,26 +2395,6 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e098b/14dd864149af9501e7bf83620b44",
     "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-new-horizons-nintendo-switch-eos?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "432c100a-a86a-4e28-9c62-6d52e836d18d",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e596d/764902cb46128098db079a6688be",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-xdk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "38bdcb01-0abf-4c71-a346-e99e58ab47c4",
-    "title": "Super Mario RPG Switch",
-    "price": "144",
-    "img": "https://a.allegroimg.com/s180x180/1ef11c/4142ee2043858f43d5faf94c434c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-zwd?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
@@ -4800,16 +4800,6 @@
     "city": "Zabrze"
   },
   {
-    "id": "dbde7197-3954-4ae4-b0cf-e3db555530a5",
-    "title": "BUS SIMULATOR CITY RIDE NOWA PL",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e38c2/f25fbf6c40d9bae32eb5115f527d",
-    "url": "https://allegrolokalnie.pl//oferta/bus-simulator-city-ride-nowa-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zabrze"
-  },
-  {
     "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
     "title": "ZELDA TEARS OF THE KINGDOM ANG",
     "price": "449",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "99cd37c8-4fa6-4b3c-a507-3a4ec8dc697d",
+    "title": "Pokémon Sword na konsolę Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ea515/04a574904fd58a5c581058259d92",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-na-konsole-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Zacisze"
   }
 ]
