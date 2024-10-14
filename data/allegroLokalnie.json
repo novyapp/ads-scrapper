@@ -580,16 +580,6 @@
     "city": "Koszalin"
   },
   {
-    "id": "52ec4f26-ea96-4bc1-bdc7-d7a3a64eac42",
-    "title": "Dead Cells GOTY Switch",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1ee915/8fb0e7454216b6c4c6fce0510bfc",
-    "url": "https://allegrolokalnie.pl//oferta/dead-cells-goty-switch-ytq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Maków Nowy, Maków Nowy"
-  },
-  {
     "id": "30c1dfb7-45c4-459c-822e-925998529bcc",
     "title": "Darkest Dungeon Switch",
     "price": "180",
@@ -598,6 +588,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Maków Nowy, Maków Nowy"
+  },
+  {
+    "id": "7592ab28-9a19-4351-af66-deef1a03fe89",
+    "title": "Luigi's Mansion 3 Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1432/a03631874e55b7dd8a79ebda82b7",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-cdt?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sanok"
+  },
+  {
+    "id": "33829a4f-a396-4df5-97ae-18f200b7d8d3",
+    "title": "Super Smash Bros Ultimate Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7723/7b02a4e642789e4513248b9b096c",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-4d4?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Ochaby Wielkie"
   },
   {
     "id": "4fcd3918-ebc4-4e45-b933-2f5b6f3d5ac4",
@@ -1178,26 +1188,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Majdan królewski"
-  },
-  {
-    "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
-    "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
-    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "cd5c34db-69e9-4184-8190-9c6756f79f33",
-    "title": "PRINCE OF PERSIA: THE LOST CROWN - NINTENDO SWITCH, JAK NOWA",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
@@ -2400,6 +2390,46 @@
     "city": "Warszawa, Targówek"
   },
   {
+    "id": "2fb6a1d6-d44e-4554-8c1d-44a6eaeab34f",
+    "title": "Doom Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1efdee/ea32f8f34ba3b2a2d57e61c0a0f0",
+    "url": "https://allegrolokalnie.pl//oferta/doom-nintendo-switch-lgm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
+    "id": "580f165c-cf6e-4d46-9693-b53e6ee40172",
+    "title": "Rayman Legends Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e0d57/06fc493341c1b8109af3185ba896",
+    "url": "https://allegrolokalnie.pl//oferta/rayman-legends-nintendo-switch-agh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Targówek"
+  },
+  {
+    "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
+    "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
+    "price": "163",
+    "img": "https://a.allegroimg.com/s180x180/1e2377/9aa841be436ea1d45b57ab192b3b",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-18-polskie-wydanie-z-dodatkiem-world-cup-mmg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "df9e3c3d-f9fe-4940-9bc8-8a3bd0b56e00",
+    "title": "The legend od Zelda Tears of the Kingdom Nintendo Switch",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1e23e1/b06cf19045e89a7304e10035f22d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-tears-of-the-kingdom-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "119f69f5-f293-4d91-94d6-2656ed2c89f5",
     "title": "Mariokart Deluxe 8 Nintendo Switch",
     "price": "186",
@@ -2958,16 +2988,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zalasewo"
-  },
-  {
-    "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
-    "title": "Sonic Frontiers na Switcha",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e8574/ababe43e43fc93ed0eb54d61cf85",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-na-switcha?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wejherowo"
   },
   {
     "id": "0d766490-9568-482d-a240-31640590353c",
@@ -3570,6 +3590,16 @@
     "city": "Kamionki, Osiedle Azaliowe"
   },
   {
+    "id": "68cad325-44b2-4b36-8679-12548318b007",
+    "title": "DC Justice League Cosmic Chaos PL Nintendo Switch",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s180x180/1e697d/337e2a454f2a978a646821e0f354",
+    "url": "https://allegrolokalnie.pl//oferta/dc-justice-league-cosmic-chaos-pl-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kamionki, Osiedle Azaliowe"
+  },
+  {
     "id": "11a7d225-e462-4e94-8d33-b9931618b659",
     "title": "Xenoblade Chronicles 3 Nintendo Switch bez pudełka",
     "price": "120",
@@ -4158,56 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pionki"
-  },
-  {
-    "id": "0b786856-096f-4c07-b41e-2e344e8e018b",
-    "title": "BloodRayne 2: Revamped - Switch - Limited Run Games",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s180x180/1158e8/30af44e249fc9b20a609e50ba55f",
-    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-2-revamped-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
-    "id": "82b0ad26-c210-4913-9456-713bb97094f8",
-    "title": "Axiom Verge 2 - Switch - Limited Run Games",
-    "price": "270",
-    "img": "https://a.allegroimg.com/s180x180/11d568/3a1c4a1f4ca3a0bc88fc39cf2454",
-    "url": "https://allegrolokalnie.pl//oferta/axiom-verge-2-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
-    "id": "6146e159-c18d-4e12-aa9f-2417bb7cc872",
-    "title": "Nintendo switch  nowe gry razem lub osobno",
-    "price": "1 300",
-    "img": "https://a.allegroimg.com/s180x180/1e22f0/6fb4fd2e48399f972eb6ebc64161",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-nowe-gry-razem-lub-osobno-3pd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Opole"
-  },
-  {
-    "id": "82b0ad26-c210-4913-9456-713bb97094f8",
-    "title": "Axiom Verge 2 - Switch - Limited Run Games",
-    "price": "270",
-    "img": "https://a.allegroimg.com/s180x180/11d568/3a1c4a1f4ca3a0bc88fc39cf2454",
-    "url": "https://allegrolokalnie.pl//oferta/axiom-verge-2-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
-    "id": "6146e159-c18d-4e12-aa9f-2417bb7cc872",
-    "title": "Nintendo switch  nowe gry razem lub osobno",
-    "price": "1 300",
-    "img": "https://a.allegroimg.com/s180x180/1e22f0/6fb4fd2e48399f972eb6ebc64161",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-nowe-gry-razem-lub-osobno-3pd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Opole"
   },
   {
     "id": "ace121b6-6390-48c3-8644-bf46ffaf0df1",
@@ -5390,6 +5370,46 @@
     "city": "Poznań"
   },
   {
+    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
+    "title": "Lego Ninjago Il Film Video Game",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1ec6c9/1e336f374c9ab332325d16a12139",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
+    "title": "Splatoon 2 na Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e8b63/842b685a4d629b2c08d588cf7e84",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-zoo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "6659f909-95f7-4383-8f6b-a1d519aa215e",
+    "title": "Lego Ninjago Il Film Video Game",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1ec6c9/1e336f374c9ab332325d16a12139",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-il-film-video-game?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "ca35246b-16b5-4215-b9e8-1011bd1e4d3f",
+    "title": "Splatoon 2 na Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e8b63/842b685a4d629b2c08d588cf7e84",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-zoo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Krowodrza"
+  },
+  {
     "id": "b3428be8-8a60-4963-ac61-4fd8bfbd83fd",
     "title": "Super Mario Bros U Deluxe Switch (nowa, folia)",
     "price": "179",
@@ -5968,25 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Czarnów"
-  },
-  {
-    "id": "76cdcafc-994f-40e4-a10b-de7b4bee94fa",
-    "title": "Gra Nintendo super Mario deluxe",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e82e9/1c41ead046caaa1d0f0c4ac6a645",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-super-mario-deluxe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Opole Lubelskie"
-  },
-  {
-    "id": "fa9553a8-7203-4c49-96a5-3cdd2e063f24",
-    "title": "Family Trainer - gra Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1eca3e/798f6908489880bc298c97991bde",
-    "url": "https://allegrolokalnie.pl//oferta/family-trainer-gra-nintendo-switch-ooy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ochota"
   }
 ]
