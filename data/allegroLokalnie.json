@@ -110,16 +110,6 @@
     "city": "Gdynia, Grabówek"
   },
   {
-    "id": "008e30af-c2aa-4f4d-83a3-44583460d9a9",
-    "title": "The Legend of Zelda: Tears of the Kingdom",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e5f23/41a6e5ef48f7b831932061c57ceb",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gt5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zgorzelec"
-  },
-  {
     "id": "4586f9a4-5b35-4250-8467-565b8c439cfb",
     "title": "SUPER MARIO 3D WORLD + BOWSER'S FURY - NINTENDO SWITCH - nowa w folii",
     "price": "209",
@@ -595,6 +585,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1e5185/8ce588a049ee9ad104d675006fc1",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-rlm?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
+    "id": "bf41a393-33a0-43a8-927c-ddad97c4e0ea",
+    "title": "Xenoblade Chronicles 2",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e1f3e/ebccb5ac4e9a967c81a00763fde5",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-ika?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Tczew"
@@ -2400,16 +2400,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "bbab4a8b-a25e-42a1-9954-9b32930baf53",
-    "title": "Luigi's Mansion 2 - Gadżety",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1e908c/f9acf20340588ce2e6260d445bc3",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-gadzety-3yn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "bd3e8f41-c6d0-41ae-96f5-93789a08d312",
     "title": "Super Mario RPG - Gadżety - Switch",
     "price": "19",
@@ -4195,6 +4185,16 @@
     "price": "194",
     "img": "https://a.allegroimg.com/s180x180/1ec8b0/0358de74411b937f5aadae46a77a",
     "url": "https://allegrolokalnie.pl//oferta/metal-gear-solid-master-collection-volume-1-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "a271a1df-a16a-4412-8716-19e373600031",
+    "title": "Wreckfest Nintendo Switch NS",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
+    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
