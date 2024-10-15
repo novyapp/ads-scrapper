@@ -600,16 +600,6 @@
     "city": "Tczew"
   },
   {
-    "id": "bf41a393-33a0-43a8-927c-ddad97c4e0ea",
-    "title": "Xenoblade Chronicles 2",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e1f3e/ebccb5ac4e9a967c81a00763fde5",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-ika?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Tczew"
-  },
-  {
     "id": "a4cfc751-2629-4c89-b36f-de9700870823",
     "title": "Xenoblade Chronicles: Definitive Edition",
     "price": "150",
@@ -2395,6 +2385,16 @@
     "price": "19",
     "img": "https://a.allegroimg.com/s180x180/1e8a16/bdd8c26c40b290fec4d548c801ce",
     "url": "https://allegrolokalnie.pl//oferta/detective-pikachu-returns-brelok-vh2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "bbab4a8b-a25e-42a1-9954-9b32930baf53",
+    "title": "Luigi's Mansion 2 - Gadżety",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1e908c/f9acf20340588ce2e6260d445bc3",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-gadzety-3yn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
@@ -4200,16 +4200,6 @@
     "city": "Rumia"
   },
   {
-    "id": "a271a1df-a16a-4412-8716-19e373600031",
-    "title": "Wreckfest Nintendo Switch NS",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
-    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
     "id": "63acd8f1-8d57-47ca-8c32-5f143380b6f3",
     "title": "Mario Kart 8 Deluxe + Booster Course Pass Nintendo Switch NS",
     "price": "440",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
+  },
+  {
+    "id": "0b3d4c27-80e8-4139-a41a-b79bbdbe8a39",
+    "title": "Mario Tennis Aces Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e5691/05b9f7f84d0b9e083056b29af235",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-gkr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dzierżoniów"
   }
 ]
