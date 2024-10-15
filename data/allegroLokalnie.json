@@ -20,16 +20,6 @@
     "city": "Strzyżów"
   },
   {
-    "id": "6cd020f5-649a-4bd2-98c1-9a8bc4436e4a",
-    "title": "NieR:Automata The End of YoRHa Edition Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e9133/4c55f7ee47f79828b694245856b7",
-    "url": "https://allegrolokalnie.pl//oferta/nierautomata-the-end-of-yorha-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Sulechów"
-  },
-  {
     "id": "e3ac965c-d542-493a-a397-ac56376f01a2",
     "title": "Mario Party SuperStars - Nintendo Switch",
     "price": "165",
@@ -122,7 +112,7 @@
   {
     "id": "d8e7e6d1-44ad-40cb-840b-54ae2f08ff99",
     "title": "Super Mario Odyssey",
-    "price": "149",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e2afe/afa2593d42e6abb5ef676f9dba17",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-xej?navCategoryId=256922",
     "promoted": true,
@@ -1332,7 +1322,7 @@
   {
     "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
     "title": "Super Mario 3D All Stars",
-    "price": "599",
+    "price": "579",
     "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
     "promoted": true,
@@ -1412,7 +1402,7 @@
   {
     "id": "21ea2598-33c0-4613-89ef-5c0ca5bd2ca4",
     "title": "No Man's Sky Switch",
-    "price": "209",
+    "price": "195",
     "img": "https://a.allegroimg.com/s180x180/1eb78a/d89e4f2549628d7c8f05c1125ba6",
     "url": "https://allegrolokalnie.pl//oferta/no-mans-sky-switch-x7h?navCategoryId=256922",
     "promoted": true,
@@ -4200,16 +4190,6 @@
     "city": "Poznań"
   },
   {
-    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
-    "title": "Super Mario Odyssey",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
     "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
     "price": "199",
@@ -5930,16 +5910,6 @@
     "city": "Kobylany"
   },
   {
-    "id": "8007a381-5f32-4d56-ba0b-60eedc64c58c",
-    "title": "METROID PRIME REMASTERED 3xA",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e5250/49477e6f40b19c864924515dcf84",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-3xa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
     "title": "Gra Nintendo Switch Bendy and the ink Machine - kardridż RARYTAS",
     "price": "185",
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "1e1b3b5b-b2b4-4a6d-93c3-00b892b3cb7a",
+    "title": "[Nintendo Switch] Crisis Core Final Fantasy VII Reunion",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e8b52/4f75d28042caad916ba7bfa0d871",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
   }
 ]
