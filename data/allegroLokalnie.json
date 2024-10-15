@@ -1090,16 +1090,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "561705e2-3fc8-4351-9876-b8589710b6ea",
-    "title": "Luigi's Mansion 3 - Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e0aa0/a423d38744d684900627b7a0eb0c",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-mrb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Częstochowa, Tysiąclecie"
-  },
-  {
     "id": "24b14993-ef34-4015-9b1d-a22afeace320",
     "title": "Metroid Prime Remastered - Nintendo Switch",
     "price": "119",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dzierżoniów"
+  },
+  {
+    "id": "e9f63dee-69e4-414a-b32e-e3851915bd50",
+    "title": "GRIP: Combat Racing Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e8f73/5a22b88942bc8384a71c126441d3",
+    "url": "https://allegrolokalnie.pl//oferta/grip-combat-racing-nintendo-switch-f2n?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona góra, Nowe Miasto"
   }
 ]
