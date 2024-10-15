@@ -1190,6 +1190,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "711dd73d-98f9-4688-aea3-2fad148fe34e",
+    "title": "Rabbids Party of Legends PL Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ea73a/a572d7f44b94be0b0ab9a0f0ac59",
+    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-pl-nintendo-switch-73x?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Dankowice"
+  },
+  {
     "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
     "title": "Super Mario Wonder",
     "price": "180",
@@ -1790,16 +1800,6 @@
     "city": "Lublin"
   },
   {
-    "id": "052b0636-e191-4075-80f3-403d6d43101c",
-    "title": "EA Sports FC 24 Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e514d/96dd462d4b90b36bb2c59d125707",
-    "url": "https://allegrolokalnie.pl//oferta/ea-sports-fc-24-nintendo-switch-vki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "80969f41-e1d0-4dc9-9bc9-1541053f0ccc",
     "title": "Gra Iniemamocni z Niemiecką Okładką",
     "price": "75",
@@ -2385,6 +2385,16 @@
     "price": "6",
     "img": "https://a.allegroimg.com/s180x180/1e6303/a4bb9c394874afd59fbea649da8a",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-bz3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "006c4aa6-2ca0-4664-98e9-d2a6b335b941",
+    "title": "Super Mario - zeszyt + naklejki",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1e2d5d/9a27d9c94e328b11c2e4120988c2",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-zeszyt-naklejki?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
@@ -3590,16 +3600,6 @@
     "city": "Kraków"
   },
   {
-    "id": "d0e3f682-8385-4e24-8e3c-80f363f2d094",
-    "title": "Gothic Nintendo Switch PL dubbing Polska okładka",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e8c45/a0b37708436598a68828d5bb3022",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-nintendo-switch-pl-dubbing-polska-okladka-qn4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "d112fa7b-9496-4ce4-9083-84a10e1e4986",
     "title": "nintendo switch the legend of zelda",
     "price": "190",
@@ -4188,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "7aada744-88e8-4a17-82c4-fb5f58c704aa",
+    "title": "Switch Minecraft - Kartridź Folia PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "391f850b-658f-41b9-ae10-ffb46fd8e204",
@@ -5390,16 +5400,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "c614852e-d2db-464e-9e70-415b2ccde4b0",
-    "title": "LEGO GWIEZDNE WOJNY: SAGA SKYWALKERÓW NINTENDO SWITCH PL",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e2bda/dd6c7b4c4c9e9d4cc6e80f6c7b4f",
-    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
     "id": "89ac9d61-57e2-4505-88da-f57aa6988edc",
     "title": "NINTENDO SWITCH GRA SHIN MEGAMI TENSEI",
     "price": "100",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zielona góra, Nowe Miasto"
+  },
+  {
+    "id": "07506c02-bdab-4c42-b11f-d913edef2a55",
+    "title": "Nintendo Switch, Super Mario Bros. WONDER",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e9e32/25415cf44557a68434163f30248b",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
   }
 ]
