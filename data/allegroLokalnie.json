@@ -790,16 +790,6 @@
     "city": "Rzeszów"
   },
   {
-    "id": "b172e724-f40e-42ac-9fb2-4edb2e2f347c",
-    "title": "Mario & Sonic Olympic Games Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e5dfe/60a8880e4d8ea4d13647d9ee16fc",
-    "url": "https://allegrolokalnie.pl//oferta/mario-sonic-olympic-games-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "9500f501-24dd-4949-912d-9eb6d36ff8fe",
     "title": "Star Ocean Second Story R Nintendo Switch ANG",
     "price": "289",
@@ -4190,6 +4180,16 @@
     "city": "Poznań"
   },
   {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
+  },
+  {
     "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
     "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
     "price": "199",
@@ -5975,6 +5975,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e8b52/4f75d28042caad916ba7bfa0d871",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
+    "title": "[Nintendo Switch] Triangle Strategy",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
