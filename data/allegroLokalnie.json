@@ -350,16 +350,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "2cc8544c-9377-4ddf-9eb2-31efa9e77863",
-    "title": "Gra Super Mario Odyssey Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1edfbd/847ae74f47d89270cfeffe8a7c77",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-uuq?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kobyłka"
-  },
-  {
     "id": "109e089d-1ac4-43b9-8971-f1bad7e7f49b",
     "title": "MY UNIVERSE: MY BABY DRAGON Switch Nowa!",
     "price": "150",
@@ -1800,16 +1790,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "b6407288-31fa-4cc2-aa53-0bcb3b9bf176",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e1a42/b29d68304fc3bffb37a13c3d69c6",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-lvl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "b8c324c4-7d87-4288-be7e-7996563061d9",
     "title": "Super Mario Bros. Wonder Nintendo Switch",
     "price": "170",
@@ -2400,6 +2380,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "6eca8671-4da3-4554-a3c6-b489ea65e517",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1ef15e/f41706b9473aba1930dd2f46961c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-6oy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gliwice"
+  },
+  {
     "id": "a2b62e3a-1c02-4276-96e2-b2b2582c6ff7",
     "title": "Darksiders Genesis Nephilim Edition Nintendo Switch gra unikat komplet",
     "price": "1 500",
@@ -2978,26 +2968,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
-  },
-  {
-    "id": "f81c1218-c6e4-4180-8a5c-88fce844a13a",
-    "title": "Nintendo Switch Pokemon Scarlet",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1ec48e/05e0bdeb489584eb2c40b8872137",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pokemon-scarlet-jst?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "2aa490fc-6c83-4013-b533-8237979c50d2",
-    "title": "Two point campus enrolment edition Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1e3e20/320a22734bd38777ff3ee212fa68",
-    "url": "https://allegrolokalnie.pl//oferta/two-point-campus-enrolment-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "2aa490fc-6c83-4013-b533-8237979c50d2",
@@ -4200,6 +4170,36 @@
     "city": "Wilczyce"
   },
   {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "752be9fd-40b2-4dd3-bb11-1b484bc375c8",
+    "title": "Metal Gear Solid Master Collection Volume 1 Nintendo Switch NS",
+    "price": "194",
+    "img": "https://a.allegroimg.com/s180x180/1ec8b0/0358de74411b937f5aadae46a77a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-gear-solid-master-collection-volume-1-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
     "id": "752be9fd-40b2-4dd3-bb11-1b484bc375c8",
     "title": "Metal Gear Solid Master Collection Volume 1 Nintendo Switch NS",
     "price": "194",
@@ -5390,36 +5390,6 @@
     "city": "Rypin"
   },
   {
-    "id": "ad75df46-319b-47bb-b334-b5701632a048",
-    "title": "Dragon Ball Fighterz Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e3d21/73542a9143f585e320847e3e18ab",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
-    "id": "ad75df46-319b-47bb-b334-b5701632a048",
-    "title": "Dragon Ball Fighterz Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e3d21/73542a9143f585e320847e3e18ab",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-ball-fighterz-nintendo-switch-k4h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
-    "id": "841b06c6-5546-4cd7-a870-f13749a3b22e",
-    "title": "Metro Redux Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e9005/e675763a4bfda76eb3ba92c1d8c4",
-    "url": "https://allegrolokalnie.pl//oferta/metro-redux-nintendo-switch-2nr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kielce"
-  },
-  {
     "id": "457f6b2f-53f2-43cf-8c03-a8b295d254e2",
     "title": "Doom Nintendo Switch",
     "price": "175",
@@ -5995,6 +5965,26 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
+    "title": "Bayonetta 3 Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed4a9/67acc7514666b6afc31fbb098266",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Radom, Michałów"
