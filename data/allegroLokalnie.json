@@ -600,16 +600,6 @@
     "city": "Dąbrowa Tarnowska"
   },
   {
-    "id": "6e65443f-45e7-474f-8bd4-b14f7eee0510",
-    "title": "Saturday Morning RPG - Limited Run Games",
-    "price": "224",
-    "img": "https://a.allegroimg.com/s180x180/1e30c2/a12990d04dffb278753c8944759d",
-    "url": "https://allegrolokalnie.pl//oferta/saturday-morning-rpg-limited-run-games?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dąbrowa Tarnowska"
-  },
-  {
     "id": "157725c2-e501-4945-b70a-b85b094884fb",
     "title": "Gra Splatoon 3 Nintendo Switch",
     "price": "169",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "711dd73d-98f9-4688-aea3-2fad148fe34e",
+    "title": "Rabbids Party of Legends PL Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ea73a/a572d7f44b94be0b0ab9a0f0ac59",
+    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-pl-nintendo-switch-73x?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Dankowice"
   },
   {
     "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
@@ -2385,16 +2385,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1eea37/d9f9cd5545c0bf52ebd8a2700edb",
     "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-0-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "96d3c84e-51ef-4855-bdea-93af2a29cd88",
-    "title": "Gra Resident Evil Revelations Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e374d/67e9cd5f4fc7b2de8f318017146f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-revelations-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
@@ -4160,46 +4150,6 @@
     "city": "Wilczyce"
   },
   {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "a9d6084f-3178-4466-8872-362febe07b09",
-    "title": "Nintendo switch sport",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
-    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
-    "title": "Super Mario Odyssey",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrów Mazowiecka"
-  },
-  {
-    "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
-    "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e98cf/67a02e414fb397fa130bf99c5c4f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-kartridz-octopath-traveler-eng-nintendo-switch-przepiekna-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Włocławek"
-  },
-  {
     "id": "78ddc3ac-615a-4cf1-9206-467ac14b59e2",
     "title": "Pokémon Shining Pearl używana",
     "price": "135",
@@ -5948,5 +5898,55 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
+    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "941d51c5-b05f-4133-bca2-8e16250114d6",
+    "title": "Instant Chef Party (Nintendo Switch)",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e1544/a28361f447469fdd57f7a274ac1d",
+    "url": "https://allegrolokalnie.pl//oferta/instant-chef-party-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "olecko"
+  },
+  {
+    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
+    "title": "Pokemon Sword Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "aae7b5b2-665e-4e31-964d-5e301717b61d",
+    "title": "Bayonetta 3 Switch Steelbook",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed4a9/67acc7514666b6afc31fbb098266",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-switch-steelbook-77q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
+  },
+  {
+    "id": "5bd30f78-599e-4459-8e57-30d3e335173d",
+    "title": "Loop Hero Special Reserve #67 Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e37d0/747eaa3e4d4793590f4922df9d30",
+    "url": "https://allegrolokalnie.pl//oferta/loop-hero-special-reserve-67-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom, Michałów"
   }
 ]
