@@ -1260,16 +1260,6 @@
     "city": "Świdnica"
   },
   {
-    "id": "fcd8cf2c-b4b8-4e7d-812c-6d84059a28da",
-    "title": "Resident Evil 4 Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e6e37/bce9aaba477a9cc649250ee69a54",
-    "url": "https://allegrolokalnie.pl//oferta/resident-evil-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Świdnica"
-  },
-  {
     "id": "130d6879-4086-4e9b-b91f-41b0ef411920",
     "title": "Vengeful Guardian Moonrider Nintendo Switch NOWA",
     "price": "159",
@@ -1778,6 +1768,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "b10e9b10-6ce6-4ef4-bd32-deb3f3e56369",
+    "title": "FINAL FANTASY I-VI COLLECTION ANNIVERSARY EDITION , SWITCH , NOWA / FOLIA",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1e2059/0587c1584716a8455af0258e6da0",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-ivi-collection-anniversary-edition-switch-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "57d9f801-4d9c-4849-adc4-f49ed7ff0ffb",
@@ -4780,6 +4780,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "86b6d0ce-046f-468f-b2be-2daeb47a7641",
+    "title": "Nintendo Switch Crowns and Pawns - Super Rare Games",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s180x180/1eebbe/e871dd694f03931cf9a45eb14786",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crowns-and-pawns-super-rare-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "3c3b1448-5a59-47ba-b213-83d335da839c",
     "title": "Farming simulator 20 Nintendo Switch",
     "price": "60",
@@ -5380,16 +5390,6 @@
     "city": "Inowrocław"
   },
   {
-    "id": "1d9a24ba-0031-435f-ab1f-7147062c37f2",
-    "title": "Pokrmon Violet Nintendo Switch karta",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1ee955/d1c5950c418a8cc2c85038b76da2",
-    "url": "https://allegrolokalnie.pl//oferta/pokrmon-violet-nintendo-switch-karta?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Inowrocław"
-  },
-  {
     "id": "c614852e-d2db-464e-9e70-415b2ccde4b0",
     "title": "LEGO GWIEZDNE WOJNY: SAGA SKYWALKERÓW NINTENDO SWITCH PL",
     "price": "89",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Grabówka"
+  },
+  {
+    "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
+    "title": "Nintendo Switch, Super Mario RPG",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e197a/cb00df32425c968110d3a8d4a163",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-rpg-ebj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Grabówka"
+  },
+  {
+    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
+    "title": "Ghost Trick na Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ed666/d919f9394cec88e6b3b15def60cc",
+    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   }
 ]
