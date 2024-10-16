@@ -1,15 +1,5 @@
 [
   {
-    "id": "0d31fc66-678c-4077-b57f-00301f8c2116",
-    "title": "Gry Psi Patrol Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e20a1/c0deea764b28af36f5bed91c9567",
-    "url": "https://allegrolokalnie.pl//oferta/gry-psi-patrol-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lwówek Śląski "
-  },
-  {
     "id": "bfcea050-b5ed-420b-be88-b3ed06448db9",
     "title": "The Legend Of Zelda Breath Of The Wild szybka wysyłka.",
     "price": "145",
@@ -595,6 +585,16 @@
     "price": "212",
     "img": "https://a.allegroimg.com/s180x180/1e3ffa/e8492f204d2489c18327192f9ec1",
     "url": "https://allegrolokalnie.pl//oferta/legend-of-legacy-wyd-amerykanskie?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Dąbrowa Tarnowska"
+  },
+  {
+    "id": "6e65443f-45e7-474f-8bd4-b14f7eee0510",
+    "title": "Saturday Morning RPG - Limited Run Games",
+    "price": "224",
+    "img": "https://a.allegroimg.com/s180x180/1e30c2/a12990d04dffb278753c8944759d",
+    "url": "https://allegrolokalnie.pl//oferta/saturday-morning-rpg-limited-run-games?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Dąbrowa Tarnowska"
@@ -1198,16 +1198,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "711dd73d-98f9-4688-aea3-2fad148fe34e",
-    "title": "Rabbids Party of Legends PL Nintendo Switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1ea73a/a572d7f44b94be0b0ab9a0f0ac59",
-    "url": "https://allegrolokalnie.pl//oferta/rabbids-party-of-legends-pl-nintendo-switch-73x?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dankowice"
   },
   {
     "id": "4544a7b0-8369-4cc2-9d6b-aa3fece2b5e4",
@@ -2410,6 +2400,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "96d3c84e-51ef-4855-bdea-93af2a29cd88",
+    "title": "Gra Resident Evil Revelations Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e374d/67e9cd5f4fc7b2de8f318017146f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-revelations-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "fff8439f-0b7a-4b51-9e08-f9fb33de9b06",
     "title": "Gra Resident Evil 4 Nintendo Switch",
     "price": "130",
@@ -2550,26 +2550,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "24770ba0-d958-401f-ac08-2474a6dee2ff",
-    "title": "POKEMON DIAMOND PEARL - GADŻETY - SWITCH",
-    "price": "6",
-    "img": "https://a.allegroimg.com/s180x180/1e6303/a4bb9c394874afd59fbea649da8a",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamond-pearl-gadzety-switch-bz3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "006c4aa6-2ca0-4664-98e9-d2a6b335b941",
-    "title": "Super Mario - zeszyt + naklejki",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1e2d5d/9a27d9c94e328b11c2e4120988c2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-zeszyt-naklejki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "8eb9d02d-851c-4f8d-96b6-9de77a0af6e1",
     "title": "Detective Pikachu Returns - brelok",
     "price": "19",
@@ -2580,41 +2560,11 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "bbab4a8b-a25e-42a1-9954-9b32930baf53",
-    "title": "Luigi's Mansion 2 - Gadżety",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1e908c/f9acf20340588ce2e6260d445bc3",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-gadzety-3yn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "bd3e8f41-c6d0-41ae-96f5-93789a08d312",
-    "title": "Super Mario RPG - Gadżety - Switch",
-    "price": "19",
-    "img": "https://a.allegroimg.com/s180x180/1e187f/e6f353df4921b0ee7802e56b77bc",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-gadzety-switch-fex?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "b112bedf-538a-4ab8-af52-841e08495da5",
     "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
     "price": "19",
     "img": "https://a.allegroimg.com/s180x180/1e2cfe/7af6910b490d89bb48da33a359e8",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch-h53?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "02651808-229f-4f16-bae3-0b72af0428fc",
-    "title": "The Legend Of Zelda Echoes of Wisdom - gadżety - Switch",
-    "price": "29",
-    "img": "https://a.allegroimg.com/s180x180/1e9818/cc08aad1420dbbce427bd1b102d5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-gadzety-switch-oye?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
