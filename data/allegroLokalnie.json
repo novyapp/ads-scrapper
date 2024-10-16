@@ -762,7 +762,7 @@
   {
     "id": "0360ff8e-ba54-46dc-bc9d-1ad3649d21fd",
     "title": "Gimmick! 2 klucz na Nintendo Switch",
-    "price": "82",
+    "price": "78",
     "img": "https://a.allegroimg.com/s180x180/1ee786/07eeae4d44659585c1ed6ed85dd9",
     "url": "https://allegrolokalnie.pl//oferta/gimmick-2-klucz-na-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -798,6 +798,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "42a67d9f-aa8d-409b-a53f-692cc5a68770",
+    "title": "Skyrim Nintendo switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1ec4de/377c7df146f8b8b0d142c66c1062",
+    "url": "https://allegrolokalnie.pl//oferta/skyrim-nintendo-switch-ljr?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gawrony"
   },
   {
     "id": "9500f501-24dd-4949-912d-9eb6d36ff8fe",
@@ -1770,6 +1780,26 @@
     "city": "Białystok"
   },
   {
+    "id": "2f01d78d-9431-45b8-92df-a36f36e89ae2",
+    "title": "Sonic mania plus Nintendo",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1ef504/67ae48954b6fa1053bfea45d5beb",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-mania-plus-nintendo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wroclaw"
+  },
+  {
+    "id": "743286bc-8e11-4977-8b8c-7b66595637f3",
+    "title": "Pokemon let's go Pikachu Nintendo",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e7358/22517331405b8cd6843c04aa330f",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-2kl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wroclaw"
+  },
+  {
     "id": "7f8bbfeb-0277-445f-bde7-90795b46da1a",
     "title": "SnowRunner Nintendo Switch",
     "price": "110",
@@ -2478,16 +2508,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Biały Bór"
-  },
-  {
-    "id": "42a67d9f-aa8d-409b-a53f-692cc5a68770",
-    "title": "Skyrim Nintendo switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1ec4de/377c7df146f8b8b0d142c66c1062",
-    "url": "https://allegrolokalnie.pl//oferta/skyrim-nintendo-switch-ljr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gawrony"
   },
   {
     "id": "5fd58c09-a150-4cae-960a-259cfdb0bc99",
@@ -4092,7 +4112,7 @@
   {
     "id": "8f42d096-1869-433c-a0bc-3111741dbeff",
     "title": "SpongeBob SquarePants: Cosmic Shake Edycja Kolekcjonerska BFF Switch",
-    "price": "650",
+    "price": "600",
     "img": "https://a.allegroimg.com/s180x180/1e8143/341576d445f6ade6391f018a447c",
     "url": "https://allegrolokalnie.pl//oferta/spongebob-squarepants-cosmic-shake-edycja-kolekcjonerska-bff-switch-l77?navCategoryId=256922",
     "promoted": false,
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Grabówka"
-  },
-  {
-    "id": "018c48d2-d042-48bc-84ca-b7688a0f6c3c",
-    "title": "Nintendo Switch, Super Mario RPG",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e197a/cb00df32425c968110d3a8d4a163",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-rpg-ebj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Grabówka"
-  },
-  {
-    "id": "270083c9-dadb-497d-a872-230efc69a9a6",
-    "title": "Ghost Trick na Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed666/d919f9394cec88e6b3b15def60cc",
-    "url": "https://allegrolokalnie.pl//oferta/ghost-trick-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
   }
 ]
