@@ -1,5 +1,25 @@
 [
   {
+    "id": "48e079b0-36df-459c-8ed6-be95f49dc217",
+    "title": "Gra Super Mario 3D World + Bowser's Fury",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e4c66/7a3cbfc641e7bf7f3a91a5408023",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-world-bowsers-fury-7qd?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lwówek Śląski "
+  },
+  {
+    "id": "8c6c32ed-93b0-44ee-a36a-68c77cb4c604",
+    "title": "Gra Super Mario Odyssey Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e8551/7c821adb4dcd9ea7e1485c615a04",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-nintendo-switch-fug?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lwówek Śląski "
+  },
+  {
     "id": "bfcea050-b5ed-420b-be88-b3ed06448db9",
     "title": "The Legend Of Zelda Breath Of The Wild szybka wysyłka.",
     "price": "145",
@@ -1770,6 +1790,16 @@
     "city": "Białystok"
   },
   {
+    "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
+    "title": "Pokemon Let's Go Eevee Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e726d/0fad81fb4b2fb13927bc61ae8930",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-cwl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
     "title": "Ac komplet switch",
     "price": "250",
@@ -2370,6 +2400,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "9462acc7-a083-4430-8313-06f804dd4d42",
+    "title": "Gra Resident Evil 0 Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eea37/d9f9cd5545c0bf52ebd8a2700edb",
+    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-0-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "96d3c84e-51ef-4855-bdea-93af2a29cd88",
     "title": "Gra Resident Evil Revelations Nintendo Switch",
     "price": "130",
@@ -2955,16 +2995,6 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1ee298/fd2cfd574fc88c5da8cd75bf1c1d",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-gyz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "59d8720b-d6c7-4ce8-9440-df6f89e190e4",
-    "title": "Metroid dread Nintendo switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e1134/2764cf9b4419b52b17a0074039a7",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-sft?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
@@ -3570,36 +3600,6 @@
     "city": "Częstochowa"
   },
   {
-    "id": "8719daaa-d138-4fff-92cc-602f809422bc",
-    "title": "Red Colony Trilogy - Nintendo Switch - horror",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/1ea6f1/07c3bc9044d6ad23bcfec25f1970",
-    "url": "https://allegrolokalnie.pl//oferta/red-colony-trilogy-nintendo-switch-horror?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "faf64c59-a332-47b2-87ac-e7e56091709f",
-    "title": "Charons staircase switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e9b78/ff5bbf2f4d32b47febe89a147805",
-    "url": "https://allegrolokalnie.pl//oferta/charons-staircase-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
-    "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
-    "title": "Ikai switch horror",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1efd77/9bd101d7467a8a9ebc7cd8c3ddbe",
-    "url": "https://allegrolokalnie.pl//oferta/ikai-switch-horror?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "1f185108-a51c-41f0-b10f-ca57d88ed98b",
     "title": "Minecraft / PL / Switch",
     "price": "105",
@@ -4158,6 +4158,46 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łaziska Górne"
+  },
+  {
+    "id": "e6f4aef5-5258-40b8-8571-137334b3e6ed",
+    "title": "Wario Ware Get it Together! Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ecbf1/31f36f19499fa87e9dd56c4c1134",
+    "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nintendo-switch-mq3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
+    "title": "Ultra Age - Switch (Nowa)",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "225",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "a9d6084f-3178-4466-8872-362febe07b09",
+    "title": "Nintendo switch sport",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e67ed/63f90e1e4bab9ba30393a1aac6ea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-khw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   },
   {
     "id": "e6f4aef5-5258-40b8-8571-137334b3e6ed",
@@ -5958,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "1e1b3b5b-b2b4-4a6d-93c3-00b892b3cb7a",
-    "title": "[Nintendo Switch] Crisis Core Final Fantasy VII Reunion",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e8b52/4f75d28042caad916ba7bfa0d871",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crisis-core-final-fantasy-vii-reunion?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "48f25798-b69e-48ec-99b6-05afba9db10f",
-    "title": "[Nintendo Switch] Triangle Strategy",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e2da3/b1494c0a416c8e51e71bf1f2b84c",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-avk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "2651ac21-3abe-431f-9838-b551d5e8fa04",
-    "title": "[Nintendo Switch] The Legend of Zelda Tears of the Kingdom",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e8e0e/ae10b6944e18b298c4a7eedd94d2",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-tears-of-the-kingdom?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Nowa Huta"
   }
 ]
