@@ -1,5 +1,25 @@
 [
   {
+    "id": "7a9a85a4-4c39-452d-a3c2-32fa4e993beb",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e1fcf/827f3fb14e65b757f9b9db43f9fa",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-axu?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "a52fd5f5-a05c-4696-8d08-ed7df99561fd",
+    "title": "Super Mario Odyssey",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e2b3a/d671d67f4e318a9e3e49b28022c3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-f7z?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "8bad5a79-c058-4262-b6da-5b29bcd3dfc9",
     "title": "MARIO + RABBIDS SPARKS OF HOPE Nintendo Switch",
     "price": "59",
@@ -1780,26 +1800,6 @@
     "city": "Dąbrowa Tarnowska"
   },
   {
-    "id": "dab3d9f4-3032-4b19-b361-fae3b82a73b4",
-    "title": "Crash Team Racing",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e9f90/9778af0b4b4bba7c57bec54a94a9",
-    "url": "https://allegrolokalnie.pl//oferta/crash-team-racing-pg5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ochota"
-  },
-  {
-    "id": "3da77ad4-7feb-4a63-9a2c-cc24f455d3c6",
-    "title": "Scribblenauts Showdown",
-    "price": "30",
-    "img": "https://a.allegroimg.com/s180x180/1e51a8/3c55885a4b55a6f084368903da7c",
-    "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Roźwienica"
-  },
-  {
     "id": "5164768c-6b48-4acf-975e-ff70f89fb255",
     "title": "Gra Moving Out Nintendo Switch",
     "price": "50",
@@ -2378,6 +2378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Milicz"
+  },
+  {
+    "id": "3ae7d565-583a-445d-8d23-09ed7dcaea20",
+    "title": "Shin Megami Tensei V",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e0863/1fcf7f8d40ccbf9ffb34c0ce8022",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-3b4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Piotrków Trybunalski"
+  },
+  {
+    "id": "5ea85ddc-7e9e-4ff4-8233-959add77176b",
+    "title": "Splatoon 2 - gra Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ed999/ea2ec46b4acea2691e0711e4066e",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-ev3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
   },
   {
     "id": "3ae7d565-583a-445d-8d23-09ed7dcaea20",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "941d51c5-b05f-4133-bca2-8e16250114d6",
-    "title": "Instant Chef Party (Nintendo Switch)",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1e1544/a28361f447469fdd57f7a274ac1d",
-    "url": "https://allegrolokalnie.pl//oferta/instant-chef-party-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "olecko"
-  },
-  {
-    "id": "3d1a4cce-87b3-4f48-a7f9-89d8bc6dcfb2",
-    "title": "Pokemon Sword Switch Steelbook",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6668/415244aa4f8596585309602a043c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-switch-steelbook-eaj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radom, Michałów"
   }
 ]
