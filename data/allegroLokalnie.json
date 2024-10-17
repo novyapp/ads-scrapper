@@ -1,5 +1,25 @@
 [
   {
+    "id": "61085cfa-02bd-4172-b31a-c6989d757e38",
+    "title": "Mario Rabbids + Kingdom Battle",
+    "price": "105",
+    "img": "https://a.allegroimg.com/s180x180/1ed73c/85b911784e169a469d49413e5449",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-s6s?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "fc1aa012-7358-4fb6-b8e4-b44fc7735c4b",
+    "title": "Kirby and the Forgotten Land",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1efd2a/da6ef1bd4f5b82840a7bf481bd8a",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-jf5?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "7a9a85a4-4c39-452d-a3c2-32fa4e993beb",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "155",
@@ -600,26 +620,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "5e54c14c-087d-4e43-b68f-efcb353a6fd1",
-    "title": "Super Mario RPG Switch Nowa Zafoliowana!",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/11f57c/ff0a5f0d4e1689ed4602ad98ed56",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
-    "id": "1a3d40c5-d206-418f-86b9-ddece1ce6530",
-    "title": "Yum Yum Cookstar Nintendo Switch Nowa Folia",
-    "price": "58",
-    "img": "https://a.allegroimg.com/s180x180/115142/4ef9877b48859a97462047276e17",
-    "url": "https://allegrolokalnie.pl//oferta/yum-yum-cookstar-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
     "id": "9386eafa-51f5-4e19-9d3a-d9ab67b80645",
     "title": "Dino Ranch - Ride to the Rescue /Mission Sauvetage/ Nintendo Switch Nowa",
     "price": "75",
@@ -821,7 +821,7 @@
   },
   {
     "id": "90108a4d-41bf-471b-b440-a5ab7beb6b79",
-    "title": "Minecraft plus Fifa23 FIFA 23 plus LEGO Gwiezdne Wojny Nintendo Switch",
+    "title": "Minecraft Nintendo Switch",
     "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1e800a/50a007f04f3e8cd3fdb974668263",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-plus-fifa23-fifa-23-nintendo-switch?navCategoryId=256922",
