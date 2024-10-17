@@ -3590,16 +3590,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "42a84011-c390-4c21-84a6-32209e9d9f10",
-    "title": "METROID PRIME REMASTERED - NINTENDO SWITCH - STAN IDEALNY",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e168e/c51f85aa4e3bb7bfcdbecb415b72",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "4baf097f-fb3a-4235-8abf-a6452aa8157b",
     "title": "Zelda breath of the wild",
     "price": "170",
@@ -4790,6 +4780,26 @@
     "city": "Nowy Sącz, Kochanowskiego"
   },
   {
+    "id": "06ee8d42-d699-437f-8251-0c2de1d20b03",
+    "title": "Super Mario Odyssey gra na Nintendo Switch",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s180x180/1e9f03/4a44f40f40b7866bf522f47e03bb",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-kb2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
+    "id": "2daed241-6dc1-4b97-adfe-8c28d9575a12",
+    "title": "Luigi Mansion 3 gra na Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1efd2c/9692665d4b049abff54b7610a796",
+    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-3-gra-na-nintendo-switch-tdd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wieliczka"
+  },
+  {
     "id": "27ac5427-7347-421b-a95c-bd7645cdf920",
     "title": "Xenoblade 2 edycja kolekcjonerska nowa w folii",
     "price": "1 699",
@@ -5390,26 +5400,6 @@
     "city": "Bytom"
   },
   {
-    "id": "76bb8947-6f46-4617-bc1a-d05750bf966b",
-    "title": "Mario + Rabbids: Kingdom Battle Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eadec/d4bc6e344ca5b154b6331ef0d08a",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-izk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "4bc5beb4-d2a3-4c9d-b12e-7f475bf0370d",
-    "title": "Super Mario RPG [UKV]",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e95bd/0a601f594ca59179aed4106dffef",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-ukv-yab?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bytom"
-  },
-  {
     "id": "39b0c6a6-4988-48c2-ba6a-a6219480fa43",
     "title": "Xenoblade Chronicles 3 jak Nówka",
     "price": "163",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Prądnik Biały"
+  },
+  {
+    "id": "2d7b088d-6b07-421a-9f6b-43acc3633fd4",
+    "title": "Warioware Get it together",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e2906/29bc28a2421c8e3a014714643729",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nac?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "10001d87-ce80-40a4-87aa-5eeda3a082cf",
+    "title": "Animal Crossing: New Horizons Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/11c5c6/7fd919c343568c14db4a72914017",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-qta?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krotoszyn"
   }
 ]
