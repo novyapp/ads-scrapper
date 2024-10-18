@@ -912,7 +912,7 @@
   {
     "id": "0360ff8e-ba54-46dc-bc9d-1ad3649d21fd",
     "title": "Gimmick! 2 klucz na Nintendo Switch",
-    "price": "74",
+    "price": "63",
     "img": "https://a.allegroimg.com/s180x180/1ee786/07eeae4d44659585c1ed6ed85dd9",
     "url": "https://allegrolokalnie.pl//oferta/gimmick-2-klucz-na-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -2830,19 +2830,9 @@
     "city": "Biały Bór"
   },
   {
-    "id": "5fd58c09-a150-4cae-960a-259cfdb0bc99",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1efa86/c04e32134bc1b247284dc5120e8c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-jpk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gliwice"
-  },
-  {
     "id": "d0f90483-17c6-43af-ac7e-9f7f38f7fe4c",
     "title": "Gra The Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "price": "179",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1eb93b/8fb5e37449ee8c9186b1afd4ba80",
     "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-gd2?navCategoryId=256922",
     "promoted": false,
@@ -2852,7 +2842,7 @@
   {
     "id": "6eca8671-4da3-4554-a3c6-b489ea65e517",
     "title": "Super Mario RPG Nintendo Switch",
-    "price": "139",
+    "price": "119",
     "img": "https://a.allegroimg.com/s180x180/1ef15e/f41706b9473aba1930dd2f46961c",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-6oy?navCategoryId=256922",
     "promoted": false,
@@ -4210,6 +4200,16 @@
     "city": "Lędziny"
   },
   {
+    "id": "cd9f6976-83bc-4fbe-a433-9cafb8b11b32",
+    "title": "POKEMON VIOLET / POKEMONY / GRA NINTENDO SWITCH NA KARTRIDŻU",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e9a34/d6d98e8d4c5ba15e058d2bf2fc04",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-pokemony-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
     "id": "f7567161-e1ab-4585-9032-f70125941ce9",
     "title": "HOT WHEELS UNLEASHED CHALLENGE EDITION PL",
     "price": "134",
@@ -4800,16 +4800,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "58f62057-082e-4c6f-a87c-ae9b969c2452",
-    "title": "Gra MotoGP Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ea51a/f3520d144a4f8c7506526202c411",
-    "url": "https://allegrolokalnie.pl//oferta/gra-motogp-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "9fb1e527-7080-4f01-b067-81ca687c7f80",
     "title": "Gra na Nintendo Switch TrailBlazers",
     "price": "60",
@@ -5395,6 +5385,16 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1ec852/b4cfbd2f4cf596eecf5827a4f7b9",
     "url": "https://allegrolokalnie.pl//oferta/dragon-quest-builders-l53?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
+  },
+  {
+    "id": "ef673fd5-cda8-4f73-bedd-a8da42bacb9e",
+    "title": "The Banner Saga Trilogy PL",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e62cd/70d1c2b7438bb842742cc9e1add1",
+    "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
