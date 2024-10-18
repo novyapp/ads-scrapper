@@ -776,7 +776,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e509f/62cd338e42a0b456d8430d8b62d9",
     "url": "https://allegrolokalnie.pl//oferta/fc24-pl-nintendo-switch-zl5?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Rzeszów"
   },
   {
@@ -936,17 +936,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e9a0e/aef20c224e17a95eebab68550faa",
     "url": "https://allegrolokalnie.pl//oferta/ringfit-ring-fit-nintendo-switch-komplet?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
-    "id": "90108a4d-41bf-471b-b440-a5ab7beb6b79",
-    "title": "Minecraft Nintendo Switch",
-    "price": "74",
-    "img": "https://a.allegroimg.com/s180x180/1e3737/d8d128de497e8820307b4dd9814a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-plus-fifa23-fifa-23-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Rzeszów"
   },
   {
@@ -1156,7 +1146,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed74d/0f9c63e84c8c95eacf505c39dd69",
     "url": "https://allegrolokalnie.pl//oferta/papier-mario-origami-king-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Rzeszów"
   },
   {
@@ -4200,6 +4190,16 @@
     "city": "Lędziny"
   },
   {
+    "id": "ab759a4f-b003-4b73-bca6-32973697cdc4",
+    "title": "Eiyuden Chronicle Hundred Heroes Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ec4d2/87d123394bf0b65f3402ae3dd8ee",
+    "url": "https://allegrolokalnie.pl//oferta/eiyuden-chronicle-hundred-heroes-switch-lqx?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Pokój"
+  },
+  {
     "id": "f7567161-e1ab-4585-9032-f70125941ce9",
     "title": "HOT WHEELS UNLEASHED CHALLENGE EDITION PL",
     "price": "134",
@@ -4308,16 +4308,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
-  },
-  {
-    "id": "ab759a4f-b003-4b73-bca6-32973697cdc4",
-    "title": "Eiyuden Chronicle Hundred Heroes Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ec4d2/87d123394bf0b65f3402ae3dd8ee",
-    "url": "https://allegrolokalnie.pl//oferta/eiyuden-chronicle-hundred-heroes-switch-lqx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pokój"
   },
   {
     "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
@@ -5400,16 +5390,6 @@
     "city": "Kraków, Nowa Huta"
   },
   {
-    "id": "ef673fd5-cda8-4f73-bedd-a8da42bacb9e",
-    "title": "The Banner Saga Trilogy PL",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e62cd/70d1c2b7438bb842742cc9e1add1",
-    "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
     "id": "36da39a5-4c48-402a-ac85-b92125b39b73",
     "title": "DC Super Hero Girls Teen Power",
     "price": "40",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Pruszków, Malichy"
+  },
+  {
+    "id": "99619ad6-1732-4f46-a242-2ea38c61a3e8",
+    "title": "Family Trainer SWITCH",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s180x180/1e5265/9569954d4eb0b25090cd597455af",
+    "url": "https://allegrolokalnie.pl//oferta/family-trainer-switch-jhs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
   }
 ]
