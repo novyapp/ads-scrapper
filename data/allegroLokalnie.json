@@ -42,7 +42,7 @@
   {
     "id": "b9dc681f-975d-45b8-8a47-030ee9b73a22",
     "title": "Disney Illusion Island Switch",
-    "price": "150",
+    "price": "149",
     "img": "https://a.allegroimg.com/s180x180/1ef2e6/2d5e34334daca0968f2de4e5d0d6",
     "url": "https://allegrolokalnie.pl//oferta/disney-illusion-island-switch-gkw?navCategoryId=256922",
     "promoted": true,
@@ -588,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
-  },
-  {
-    "id": "4fb9b0d4-823b-44d2-8ac5-6bbf69065a69",
-    "title": "Gry Nintendo Switch Okazja!",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1ea5c3/83a771204eb49456fc65d4c77693",
-    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-okazja?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Strzyżów"
   },
   {
     "id": "ae124817-15e4-4201-8e8c-6047fc477041",
@@ -3590,6 +3580,16 @@
     "city": "Owsiszcze"
   },
   {
+    "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
+    "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/118af7/8aa2238d4ab09d35eb6ad3c66d54",
+    "url": "https://allegrolokalnie.pl//oferta/captain-tsubasa-rise-of-new-champions-gra-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Maniowy"
+  },
+  {
     "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
     "title": "Super Mario Odyssey",
     "price": "169",
@@ -4178,16 +4178,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "f2816673-0039-4188-8999-b03fcb0d9350",
-    "title": "Pokemon Let's Go Pikachu",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1ed408/ba7265d142dbae0fb52931441405",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-mbb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "f2816673-0039-4188-8999-b03fcb0d9350",
@@ -4800,6 +4790,16 @@
     "city": "Kraków"
   },
   {
+    "id": "ccce257b-2ae9-48fe-b727-7b13cf358094",
+    "title": "Sakuna: of Rice and Ruin Japanese Edition Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e2ffb/e64260954cfa84ef8653916599b4",
+    "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-japanese-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "c2a4dddf-fb9a-463c-af82-dc27b6909158",
     "title": "Overcooked! + Overcooked! 2 Gra Nintendo Switch",
     "price": "129",
@@ -5385,16 +5385,6 @@
     "price": "40",
     "img": "https://a.allegroimg.com/s180x180/1ef213/753d972545a7811807aef32ec9aa",
     "url": "https://allegrolokalnie.pl//oferta/dc-super-hero-girls-teen-power?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Nowa Huta"
-  },
-  {
-    "id": "9841a454-cc3b-4aee-a8d9-d4ac9280d61e",
-    "title": "Miitopia Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e29b6/47dea86b413dbd7c580eaa9a0a79",
-    "url": "https://allegrolokalnie.pl//oferta/miitopia-nintendo-switch-q3d?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Nowa Huta"
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "18b3c0ad-1c22-4b39-b45e-d41ceb35d3c4",
+    "title": "The Legend of Zelda Tears of the Kingdom (Gra NS) TotK",
+    "price": "173",
+    "img": "https://a.allegroimg.com/s180x180/1e5e18/48eedf6b45058460821699ffaa1c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-gra-ns-totk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Podgórze Duchackie"
   }
 ]
