@@ -160,16 +160,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "fc1aa012-7358-4fb6-b8e4-b44fc7735c4b",
-    "title": "Kirby and the Forgotten Land",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1efd2a/da6ef1bd4f5b82840a7bf481bd8a",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-jf5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "7a9a85a4-4c39-452d-a3c2-32fa4e993beb",
     "title": "Splatoon 3 Nintendo Switch",
     "price": "155",
@@ -588,6 +578,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Strzyżów"
+  },
+  {
+    "id": "ae124817-15e4-4201-8e8c-6047fc477041",
+    "title": "Instant Sports All Stars Switch Nintendo Nowa Folia !",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/119ec1/92d2d3fc486dbbc28f1811394b00",
+    "url": "https://allegrolokalnie.pl//oferta/instant-sports-all-stars-switch-nintendo-nowa-folia?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wałbrzych"
   },
   {
     "id": "7b2e7724-cd5a-4eee-9057-49ce6af89353",
@@ -1175,6 +1175,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ea84d/d70094fc408585b3699316f16188",
     "url": "https://allegrolokalnie.pl//oferta/unmetal-nintendo-switch-edycja-kolekcjonerska-unikat-jak-limited-run?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "f91b7827-bd6a-4445-975e-6049bbc673d8",
+    "title": "The Wine gra Nintendo Switch LIMITED RUN GAMES Unikat",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e9ebf/c2845dfe4bf099be7310e613d003",
+    "url": "https://allegrolokalnie.pl//oferta/the-wine-gra-nintendo-switch-limited-run-games-unikat?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Bydgoszcz"
@@ -2380,26 +2390,6 @@
     "city": "Strzyżów"
   },
   {
-    "id": "4ed2a03a-cb01-44db-82bf-f222c104acf2",
-    "title": "Super Mario 3d All Stars - mało używana - zresetowana",
-    "price": "380",
-    "img": "https://a.allegroimg.com/s180x180/1e17fa/98fcae9d45988dfd32f614f1839c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-malo-uzywana-zresetowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czernięcin Główny"
-  },
-  {
-    "id": "4ed2a03a-cb01-44db-82bf-f222c104acf2",
-    "title": "Super Mario 3d All Stars - mało używana - zresetowana",
-    "price": "380",
-    "img": "https://a.allegroimg.com/s180x180/1e17fa/98fcae9d45988dfd32f614f1839c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-malo-uzywana-zresetowana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czernięcin Główny"
-  },
-  {
     "id": "b74c95e5-497c-4cd3-b12e-6e1aec4ede1a",
     "title": "STAR OCEAN THE SECOND STORY R  (SWITCH) + SOUNDTRACK",
     "price": "479",
@@ -3600,16 +3590,6 @@
     "city": "Maniowy"
   },
   {
-    "id": "0d9ab427-bfdd-4417-8757-b7ea5259c2f0",
-    "title": "Super Mario Odyssey",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e887a/8c2df0574a1a85499f5653ac794f",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-qio?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "1fc90a89-bb37-4b9a-a79d-8142bb79ddd2",
     "title": "The Legend of Zelda: Breath of the Wild + Expansion Pass",
     "price": "539",
@@ -4198,6 +4178,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "53d5f722-aa90-4478-a195-b39b5786a1d0",
+    "title": "Nintendo Switch TRUCK&LOGISTICS SIMULATOR ... tylko kartridż",
+    "price": "157",
+    "img": "https://a.allegroimg.com/s180x180/1e9aef/bd86fe664566b51dc853b01b9c2f",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trucklogistics-simulator-tylko-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "53d5f722-aa90-4478-a195-b39b5786a1d0",
@@ -5978,5 +5968,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kobylany"
+  },
+  {
+    "id": "a4ad7f15-5b6c-414f-9d10-ea725bcb5ef6",
+    "title": "Asterix i Obelix Slap Them All! Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e6509/7afb94a4495898cf033a465d8801",
+    "url": "https://allegrolokalnie.pl//oferta/asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
+    "id": "1571d5fe-38fb-41d0-9809-4f7569909ba2",
+    "title": "Life is Strange True Colors Nintendo Switch JAK NOWA Angielska wersja",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e0ecd/fb0690194bb193ee48563c982265",
+    "url": "https://allegrolokalnie.pl//oferta/life-is-strange-true-colors-nintendo-switch-jak-nowa-angielska-wersja-ihl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Prądnik Biały"
   }
 ]
