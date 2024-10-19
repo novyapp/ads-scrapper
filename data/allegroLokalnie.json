@@ -772,7 +772,7 @@
   {
     "id": "c6ecbf87-1b6d-4aa7-ab12-5c2da27b8053",
     "title": "Zelda Breath of The Wild Nintendo Switch",
-    "price": "150",
+    "price": "149",
     "img": "https://a.allegroimg.com/s180x180/1e509f/62cd338e42a0b456d8430d8b62d9",
     "url": "https://allegrolokalnie.pl//oferta/fc24-pl-nintendo-switch-zl5?navCategoryId=256922",
     "promoted": true,
@@ -2390,6 +2390,16 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "ac2886c0-a0b3-49c2-be85-44c658015fa7",
+    "title": "MONSTER HUNTER RISE COLLECTOR'S EDITION (SWITCH)",
+    "price": "599",
+    "img": "https://a.allegroimg.com/s180x180/1e457d/9922258e4d86ba45a32109337b61",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-collectors-edition-switch-uji?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "38d49e28-1eb4-484f-aa93-8602768874c1",
     "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
     "price": "465",
@@ -2975,16 +2985,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1e6bbd/0860ba2844a1b0e749d8936a6cc8",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-yrt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "2ad41ac6-0593-47b6-b52b-31d49c7cb03d",
-    "title": "Arms Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e41f7/fd2ebd8e4db8ac4e8bdf4244e05f",
-    "url": "https://allegrolokalnie.pl//oferta/arms-nintendo-switch-37w?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
@@ -3590,6 +3590,16 @@
     "city": "Ruda Śląska, Ruda"
   },
   {
+    "id": "999a8a52-7a06-4b74-a733-c5ea05695e40",
+    "title": "Sonic Frontiers Nintendo switch",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1e141b/bdbfd34c41ba8820e5a5ad98da2e",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-nwm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Owsiszcze"
+  },
+  {
     "id": "124f5112-9826-42ba-90a8-2fb82c9e1acb",
     "title": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS GRA SWITCH",
     "price": "129",
@@ -4178,16 +4188,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "f7567161-e1ab-4585-9032-f70125941ce9",
-    "title": "HOT WHEELS UNLEASHED CHALLENGE EDITION PL",
-    "price": "134",
-    "img": "https://a.allegroimg.com/s180x180/1ed2a1/b09287504905b800de7a8dca5c6e",
-    "url": "https://allegrolokalnie.pl//oferta/hot-wheels-unleashed-challenge-edition-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "f7567161-e1ab-4585-9032-f70125941ce9",
@@ -5985,6 +5985,16 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1e0c76/30af8ad5411581f09e1342526457",
     "url": "https://allegrolokalnie.pl//oferta/rain-code-collectors-editionmysteriful-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Toruń"
+  },
+  {
+    "id": "42143d24-9d22-4de6-a62c-4ae36505fa9f",
+    "title": "Bayonetta 2 collector's edition",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e777f/530ae8fb4a4297f5201e14b73903",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-collectors-edition?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
