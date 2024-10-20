@@ -770,16 +770,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "dcbc2452-4e35-4ebd-b76a-c056438687eb",
-    "title": "Princess Peach: Showtime! Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e8d5f/1fe909644db2a8eb24181fdfb1ee",
-    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-nintendo-switch-n4f?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wadowice Górne"
-  },
-  {
     "id": "c6ecbf87-1b6d-4aa7-ab12-5c2da27b8053",
     "title": "Zelda Breath of The Wild Nintendo Switch",
     "price": "149",
@@ -1390,6 +1380,16 @@
     "city": "Świdnica"
   },
   {
+    "id": "c0603436-56c0-4d27-8899-830974bfb9c1",
+    "title": "Gra na nintendo switch The Elder Scrolls V: Skyrim",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1efd7b/ba42dcd9459d9c4f7fff8a7ff0ec",
+    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-the-elder-scrolls-v-skyrim?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Ursus"
+  },
+  {
     "id": "ac3a1e51-f194-483a-83e3-42285354f7c5",
     "title": "Gra Urban Trial PlayGround",
     "price": "81",
@@ -1910,6 +1910,26 @@
     "city": "Białystok"
   },
   {
+    "id": "276d41f7-b79d-4adf-981d-f74027851de8",
+    "title": "Gra Zombie Army Trilogy Nintendo switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e635c/f58af2ac4f3493e766e508afce0a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-zombie-army-trilogy-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dziekanów Leśny"
+  },
+  {
+    "id": "771f6bcb-2ea4-4ef8-871f-53c8bc89e2e8",
+    "title": "ZESTAW lego marvel super heroes + lego marvel super heroes 2 (Switch)",
+    "price": "182",
+    "img": "https://a.allegroimg.com/s180x180/1ea73d/28b80cbf41a8ac1d325fb30cbb80",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-lego-marvel-super-heroes-lego-marvel-super-heroes-2-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Czernięcin Główny"
+  },
+  {
     "id": "4912357c-914a-485f-aed1-73434b66d848",
     "title": "Pokemon Legends Arceus Nintendo Switch",
     "price": "188",
@@ -2400,16 +2420,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "f187a40d-826c-4eac-940e-d5efc39b3ad2",
-    "title": "THE LEGEND OF ZELDA: BREATH OF THE WILD Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e6172/24dffb844970b08e19d6e064c61a",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-pux?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
     "title": "Pokemon Let's Go Eevee Nintendo Switch",
     "price": "190",
@@ -2792,7 +2802,7 @@
   {
     "id": "8a710c99-d70b-4e64-a393-fbc1d3e3ff61",
     "title": "Zestaw gier Nintendo Switch 2 sztuki",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e004c/d49c617145e5b27c7f9fd515ef69",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-gier-nintendo-switch-2-sztuki?navCategoryId=256922",
     "promoted": false,
@@ -3088,16 +3098,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Praga-Południe"
-  },
-  {
-    "id": "a2b15f8a-55d9-4432-99c4-d0eca855b3b8",
-    "title": "Hollow Knight na Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e7f84/8489d8c2415c9c3dbe8d1c47c663",
-    "url": "https://allegrolokalnie.pl//oferta/hollow-knight-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Nysa"
   },
   {
     "id": "8ae6b322-c03d-4884-9d4e-efe83392ccb8",
@@ -4175,6 +4175,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1ef118/81ed8d5242c394937329f3448f1f",
     "url": "https://allegrolokalnie.pl//oferta/raiden-iv-x-mikado-remix-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "36f2c46b-274e-4698-bd4b-f6873c1ffadd",
+    "title": "Lego Gwiezdne Wojny Saga Skywalkerów - Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ea107/e88bb2ec438d82135ffcc52c77a5",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-ezo?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
@@ -5978,25 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
-    "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
-    "price": "500",
-    "img": "https://a.allegroimg.com/s180x180/1e4d24/a75d4b1c4fc5ab8c91b76a7a2ef4",
-    "url": "https://allegrolokalnie.pl//oferta/divinity-ii-original-sin-definitive-edition-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
-    "id": "020bda74-7afb-41c3-8cd3-bc9cd3e2fbc9",
-    "title": "Mario Strikers: Battle League Football Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e3d37/a0423bc94d7e8911f9ed15922091",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-lr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Praga-Północ"
   }
 ]
