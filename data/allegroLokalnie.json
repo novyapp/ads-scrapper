@@ -470,16 +470,6 @@
     "city": "BARTĄG"
   },
   {
-    "id": "e93ba2a6-b17c-42f4-811f-78a69a7017ff",
-    "title": "Paper Mario The Thousand Year Door Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e219e/388dd502425ca8c052360dada9b7",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-nintendo-switch-p6q?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "ed0b24e0-b6ac-46e9-b31d-5bdf62164547",
     "title": "MARIO GOLF SUPER RUSH NOWA NINTENDO SWITCH",
     "price": "171",
@@ -4200,6 +4190,16 @@
     "city": "Sosnowiec"
   },
   {
+    "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
+    "title": "Fabraz Collection Limited Run Games Nintendo Switch UNIKAT kolekcjonerska",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e1c28/6415616d44aabd6ce0c4dd67f944",
+    "url": "https://allegrolokalnie.pl//oferta/fabraz-collection-limited-run-games-nintendo-switch-unikat-kolekcjonerska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "22b3dfde-0892-4add-8525-861528344f12",
     "title": "Daemon x Machina Soundtrack Selection Nintendo Switch OST",
     "price": "75",
@@ -4778,26 +4778,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
-  },
-  {
-    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
-    "title": "Pokemon Shining Pearl Dodatki",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e59bf/a1995f8a48f0be25636be9dd73b4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "KOBIERZYCE"
-  },
-  {
-    "id": "97676510-cdbe-4aca-8bd2-3ead6b5e253a",
-    "title": "American Hero - Switch - Limited Run Games",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/119baa/6fb5e9c844ca8b51a05930d593d5",
-    "url": "https://allegrolokalnie.pl//oferta/american-hero-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
   },
   {
     "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "e19f5a16-2e3c-4814-932c-a4eea9ec72fd",
+    "title": "DIVINITY II ORIGINAL SIN DEFINITIVE EDITION PL",
+    "price": "500",
+    "img": "https://a.allegroimg.com/s180x180/1e4d24/a75d4b1c4fc5ab8c91b76a7a2ef4",
+    "url": "https://allegrolokalnie.pl//oferta/divinity-ii-original-sin-definitive-edition-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
   }
 ]
