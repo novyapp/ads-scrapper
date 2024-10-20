@@ -2000,6 +2000,16 @@
     "city": "Białystok"
   },
   {
+    "id": "46e5fde9-de68-4b0a-ab73-473dd8d602ce",
+    "title": "-== Darksiders III NOWA - Switch - Wawa ==-",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e9dc5/fc5e61ab4aa18c5a99d3eba45061",
+    "url": "https://allegrolokalnie.pl//oferta/darksiders-iii-nowa-switch-wawa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "b802bba6-ee44-41a1-bf24-b5bea724de43",
     "title": "FIFA22 Nintendo switch edycja legacy",
     "price": "69",
@@ -2390,14 +2400,14 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "412b41f0-51c6-40b1-876d-d709bcb915ba",
-    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM , NINTENDO SWITCH",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e1077/a0cb9f0d402eadac62de94f6efc4",
-    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-tears-of-the-kingdom-switch?navCategoryId=256922",
+    "id": "139eaabe-24ce-4af7-9d51-59a8a980ea5a",
+    "title": "NINTENDO THE LEGEND OF ZELDA:TEARS OF THE KINGDOM",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eefb6/8696f1ae41bfba124c0a6f506f51",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-the-legend-of-zeldatears-of-the-kingdom?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
+    "smartPost": false,
+    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "412b41f0-51c6-40b1-876d-d709bcb915ba",
@@ -2990,26 +3000,6 @@
     "city": "Milicz"
   },
   {
-    "id": "3ae7d565-583a-445d-8d23-09ed7dcaea20",
-    "title": "Shin Megami Tensei V",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e0863/1fcf7f8d40ccbf9ffb34c0ce8022",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-3b4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piotrków Trybunalski"
-  },
-  {
-    "id": "5ea85ddc-7e9e-4ff4-8233-959add77176b",
-    "title": "Splatoon 2 - gra Nintendo Switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1ed999/ea2ec46b4acea2691e0711e4066e",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-ev3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "0b9d00da-7370-4fbc-ae0b-069a0c75d22b",
     "title": "Carrion Nintendo Switch",
     "price": "149",
@@ -3600,6 +3590,36 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "f518894b-4cd7-4342-9c02-c73c3c5e7e5b",
+    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e1baf/4cc6fc4b4844a1b0927760daa613",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-tv4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "3f25ff5a-1091-4d12-9b23-20c5f373a40d",
+    "title": "Zelda breath of the wild Nintendo switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e5aa4/da6fd7fc46e9a1cb69837dc80db8",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-nintendo-switch-ufl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "f518894b-4cd7-4342-9c02-c73c3c5e7e5b",
+    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e1baf/4cc6fc4b4844a1b0927760daa613",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-tv4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
     "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
     "title": "RingFit Adventure nintendo switch",
     "price": "200",
@@ -4178,26 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
-  },
-  {
-    "id": "7b7c4bde-5f81-4580-9686-6311b497dabc",
-    "title": "Remnant From The Ashes - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1eef93/5e96ecf74bd9a6c5630322d40b87",
-    "url": "https://allegrolokalnie.pl//oferta/remnant-from-the-ashes-nintendo-switch-ixw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "936ab8d4-635a-4b18-aca1-f55d8db33d34",
-    "title": "My Riding Stables Nintendo Switch",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1e3591/ad1f0883482182cf4c78a249201f",
-    "url": "https://allegrolokalnie.pl//oferta/my-riding-stables-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kończyce Wielkie"
   },
   {
     "id": "936ab8d4-635a-4b18-aca1-f55d8db33d34",
@@ -5400,16 +5400,6 @@
     "city": "Lędziny"
   },
   {
-    "id": "7a1bd12a-5c5f-46ab-8c0e-e5baadce40e5",
-    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1146f7/88a99e2d468897e9095d42a9d4b4",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-kx2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
     "id": "e933009f-ada2-42ea-9ebf-0798d24b1389",
     "title": "Baten Kaitos I & II HD Remaster dla Nintendo Switch",
     "price": "160",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Karwiany"
+  },
+  {
+    "id": "06b0ecc9-d0af-4d18-aed5-596f76359f1a",
+    "title": "Yurukill - Switch (Nowa)",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e5cff/e1b3942e4e29adc6944ee2297e84",
+    "url": "https://allegrolokalnie.pl//oferta/yurukill-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
