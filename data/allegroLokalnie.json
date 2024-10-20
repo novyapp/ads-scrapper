@@ -1820,16 +1820,6 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "d1050201-3903-4688-b8fb-0e7f437309f5",
-    "title": "My Hero Ones Justice 2",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e8224/8e4e6e9548e6bc7ea6c0513268df",
-    "url": "https://allegrolokalnie.pl//oferta/my-hero-ones-justice-2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
     "id": "887a945a-5aa3-4298-9236-bdbafa7a932b",
     "title": "Railway Empire Nintendo Switch",
     "price": "65",
@@ -3588,6 +3578,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
+  },
+  {
+    "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
+    "title": "RingFit Adventure nintendo switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ef56c/32de2ca44a2d9988232106643c4d",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-adventure-nintendo-switch-6qd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
-    "title": "Gra Harvest Moon The Winds of Anthos + maskotka na Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e8bc0/55ba35d0427f90d211a91137a6b4",
-    "url": "https://allegrolokalnie.pl//oferta/gra-harvest-moon-the-winds-of-anthos-maskotka-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   }
 ]
