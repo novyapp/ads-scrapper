@@ -1556,7 +1556,7 @@
     "img": "https://a.allegroimg.com/s180x180/113768/14450ea74ec2b7881cfb42509ffb",
     "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nintendo-switch-rak?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "świebodzice"
   },
   {
@@ -3000,6 +3000,16 @@
     "city": "Radzewo"
   },
   {
+    "id": "86b47340-b50a-4e21-948c-5c591b509332",
+    "title": "Gra Nintendo Switch Pokemon Let's go Pikachu",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1eedc7/7ab0323a4581880345a3fe8cbb81",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-lets-go-pikachu-fp5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Radzewo"
+  },
+  {
     "id": "140e61e3-8ec3-4c99-9557-33a3724af9a7",
     "title": "Zestaw gier Nintendo Switch 6sztuk",
     "price": "480",
@@ -4185,16 +4195,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1e198f/81474ba14c01a206349961545e13",
     "url": "https://allegrolokalnie.pl//oferta/sonic-frointiens?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radzymin, Radzymin"
-  },
-  {
-    "id": "02dd6165-4e08-4369-8437-4bd2a1e61de3",
-    "title": "Marvel super heroes",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1ece77/cf40deaf49f78184c26bbc0b4a0d",
-    "url": "https://allegrolokalnie.pl//oferta/marvel-super-heroes-txu?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Radzymin, Radzymin"
@@ -5400,6 +5400,16 @@
     "city": "Dzikowo Chrapy, Chrapy"
   },
   {
+    "id": "3c3b1448-5a59-47ba-b213-83d335da839c",
+    "title": "Farming simulator 20 Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e6375/9b91f07d473d97b9a4310bacb56f",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-20-nintendo-switch-ch3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Dzikowo Chrapy, Chrapy"
+  },
+  {
     "id": "2188c01f-8297-433d-a5bc-fdf45cbaa4ce",
     "title": "Odd Ballers Switch - kod w pudełku NOWY",
     "price": "40",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Przemyśl"
-  },
-  {
-    "id": "5926d0c6-2096-41c8-8f9e-2e67dfd26161",
-    "title": "Monster Hunter Generations Ultimate Nintendo Switch Nowa",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e6c8e/c73567cf4d9db14e668f8ae06c66",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-generations-ultimate-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
   }
 ]
