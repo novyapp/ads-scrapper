@@ -200,16 +200,6 @@
     "city": "Białystok"
   },
   {
-    "id": "c544f3ad-244c-4c6e-ad1a-5468d413d0b4",
-    "title": "Nintendo Switch Sports",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e48d9/823a5eca4faa89e1f536e109dbc7",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-rln?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Żory"
-  },
-  {
     "id": "e30aff86-2f70-4a8a-a858-3fda772f3c81",
     "title": "Minecraft Nintendo Switch",
     "price": "65",
@@ -232,7 +222,7 @@
   {
     "id": "3828265a-ad2c-4995-9eca-0a0cbfc059f7",
     "title": "Nintendo Switch The Legend of Zelda Echoes of Wisdom",
-    "price": "185",
+    "price": "183",
     "img": "https://a.allegroimg.com/s180x180/1e1fea/90d324bf44a0a177f569c453f6ec",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-echoes-of-wisdom?navCategoryId=256922",
     "promoted": true,
@@ -2380,16 +2370,6 @@
     "city": "Lubin"
   },
   {
-    "id": "f75e6b15-0057-4ca2-9411-721f987a7b54",
-    "title": "BOMB RUSH CYBERFUNK SWITCH",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e02b9/634adcef48cc86e1156a20882779",
-    "url": "https://allegrolokalnie.pl//oferta/bomb-rush-cyberfunk-switch-5yy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lubin"
-  },
-  {
     "id": "312df3cb-4a3a-4daf-b9e0-766c9f608838",
     "title": "Prince of Persia The Lost Crown Nintendo Switch",
     "price": "100",
@@ -3578,16 +3558,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
-    "title": "RingFit Adventure nintendo switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ef56c/32de2ca44a2d9988232106643c4d",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-adventure-nintendo-switch-6qd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
@@ -5372,7 +5342,7 @@
   {
     "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
     "title": "Pokemon Shield Nintendo Switch",
-    "price": "170",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lng?navCategoryId=256922",
     "promoted": false,
@@ -5412,7 +5382,7 @@
   {
     "id": "da1886ec-4c35-40ae-80c2-32365c4ee581",
     "title": "Pokemon Shield Nintendo Switch",
-    "price": "195",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-umo?navCategoryId=256922",
     "promoted": false,
@@ -5988,5 +5958,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "bf4304a6-63a0-43c9-b89c-26367a461cbf",
+    "title": "Gra Harvest Moon The Winds of Anthos + maskotka na Nintendo Switch",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e8bc0/55ba35d0427f90d211a91137a6b4",
+    "url": "https://allegrolokalnie.pl//oferta/gra-harvest-moon-the-winds-of-anthos-maskotka-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   }
 ]
