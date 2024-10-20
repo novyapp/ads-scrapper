@@ -1,5 +1,15 @@
 [
   {
+    "id": "3b5a5afa-ff87-4b24-90fc-fe2d8387f010",
+    "title": "Kirby Star Allies",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebc2c/2c4c7ff84f8ebe02d9cf55201af1",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-star-allies-i5d?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "1a945183-d600-4002-b4aa-5d347e8e28a9",
     "title": "Animal Crossing New Horizons Nintendo Switch",
     "price": "150",
@@ -588,16 +598,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Zielona Góra"
-  },
-  {
-    "id": "5bc3bb1b-eee7-489d-bd52-0511595965be",
-    "title": "Gra Triangle Strategy na konsolę Nintendo Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1eee9b/658391ef4993a2b87acfbc931a96",
-    "url": "https://allegrolokalnie.pl//oferta/gra-triangle-strategy-na-konsole-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "BARTĄG"
   },
   {
     "id": "ed0b24e0-b6ac-46e9-b31d-5bdf62164547",
@@ -2400,6 +2400,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "a78e7129-cce0-4cdc-be75-945d94871f46",
+    "title": "Bayonetta 3 Trinity Masquerade Edition NOWA NSW",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s180x180/1e2548/786023c74e00b4d9e14c5d73262a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-nsw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gliwice"
+  },
+  {
     "id": "360acbf2-a640-41b5-83f3-d14f521c2b8e",
     "title": "RingFit Adventure Nintendo Switch, Ring Fit",
     "price": "199",
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "2d1c1736-93e6-4412-8415-c5cf349fd1ce",
-    "title": "Super Mario Odyssey",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed562/ac8f82c84632bcd9eaff5f6d4768",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-ug5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
   },
   {
     "id": "19769b78-b223-4d21-9f6b-4b79ea5140c6",
@@ -4188,6 +4188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radzymin, Radzymin"
+  },
+  {
+    "id": "df49f99d-3645-4e28-a5ea-53fdaf0b885d",
+    "title": "Cross code Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e0cc3/38c40f8544d49ee4adf2041fa24f",
+    "url": "https://allegrolokalnie.pl//oferta/cross-code-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsko-Biała"
   },
   {
     "id": "df49f99d-3645-4e28-a5ea-53fdaf0b885d",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "warszawa"
-  },
-  {
-    "id": "8194d01a-f955-4c96-beca-802e2f5ed2c8",
-    "title": "Fire Emblem Warriors Three Hopes - Switch (sam catridge)",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1eb9b0/0bbde30747f8abe25f8da7756950",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-warriors-three-hopes-switch-sam-catridge?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Żarki Wielkie"
   }
 ]
