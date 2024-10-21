@@ -40,16 +40,6 @@
     "city": "Lwówek Śląski "
   },
   {
-    "id": "d3cdb8f3-95b5-454e-abc6-99419feb9a34",
-    "title": "Minecraft Nintendo Switch",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1e99c3/a057a3ed4a90ac1f6fdcdeb9f452",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-z6d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lwówek Śląski "
-  },
-  {
     "id": "3b5a5afa-ff87-4b24-90fc-fe2d8387f010",
     "title": "Kirby Star Allies",
     "price": "179",
@@ -5978,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Dąbrowa"
+  },
+  {
+    "id": "dda7b984-0189-4a38-a73b-ed52672729db",
+    "title": "Ghost Song Nintendo Switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e692a/b13e01f7415e94998ce16edb1abb",
+    "url": "https://allegrolokalnie.pl//oferta/ghost-song-nintendo-switch-3g6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sanniki"
   }
 ]
