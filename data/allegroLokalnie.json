@@ -110,16 +110,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "4018bbaa-cbfb-47dd-adc1-f14a58ab3218",
-    "title": "Nintendo Online + expansion pack grupa rodzinna 11 miesięcy",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s180x180/1ed963/b8c8634a490c9fa881e8a42de562",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-online-expansion-pass-grupa-rodzinna-11-miesiecy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "ef2585e5-a7ec-4d52-97af-e86f8fe58f6f",
     "title": "Super Mario 3D World + Bowser’s Fury Nintendo Switch",
     "price": "110",
@@ -2028,16 +2018,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "f8ba9fe6-b620-44e6-ada7-8fac0986225b",
-    "title": "Assassin's Creed: The Ezio Collection (polska wersja PL)",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1e5663/38219b7d40c29082e91f73811273",
-    "url": "https://allegrolokalnie.pl//oferta/assassins-creed-the-ezio-collection-polska-wersja-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarocin"
   },
   {
     "id": "23515d8c-6045-4dc8-aa6e-16c6804056e5",
@@ -4200,16 +4180,6 @@
     "city": "Bysław"
   },
   {
-    "id": "de74bf96-4e66-4f2b-8d6e-595782f35f70",
-    "title": "Animal Crossing New Horizons",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e31db/07c63c9a49e8aaa7cebabdf68589",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-uix?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "a5621fe0-6b54-4dcc-ad93-a9778284c27d",
     "title": "COFFE TALK STRICTLY LIMITED GAMES SWITCH",
     "price": "299",
@@ -4795,6 +4765,16 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1e7d31/4c1c8fbc4b8ea33f8a9f7bac4376",
     "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-switch-5ea?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "82edf29d-ce02-4542-b21c-ed8c4995e9cb",
+    "title": "Shin Megami Tensei V Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ea004/f2c179ac4b4d8dda6c25c069288a",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-4z6?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
@@ -5400,16 +5380,6 @@
     "city": "Opole"
   },
   {
-    "id": "ace121b6-6390-48c3-8644-bf46ffaf0df1",
-    "title": "Minecraft Nintendo Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1e95ba/ae5f34564ddda1bf6e793ac18468",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-mzy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Siemianowice Śląskie, Bytków"
-  },
-  {
     "id": "95013582-7a1a-4b51-8f2c-50435f48b928",
     "title": "FINAL FANTASY X | X-2 HD REMASTER / NINTENDO SWITCH",
     "price": "109",
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "60f7e29d-2ae9-415b-8164-678116941ae5",
+    "title": "Luigi's Mansion 3 | Nintendo Switch | Stan idealny | Szybka wysyłka |",
+    "price": "210",
+    "img": "https://a.allegroimg.com/s180x180/1ebe16/5f37a79d4d77a11b6a1eb4c3d93a",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-or-nintendo-switch-or-stan-idealny-or-szybka-wysylka-or?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Śródmieście"
   }
 ]
