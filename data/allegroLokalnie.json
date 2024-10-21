@@ -600,16 +600,6 @@
     "city": "Zielona Góra"
   },
   {
-    "id": "110c075c-3984-4cb8-bb65-af03244cd38f",
-    "title": "Xenonlade chronicles definitive edition Nintendo switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e6c96/a63988664cc0a1ed0210937657fb",
-    "url": "https://allegrolokalnie.pl//oferta/xenonlade-chronicles-definitive-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "3267d5b7-b430-4314-ad0b-aed3dcc6b16f",
     "title": "Xenonlade chronicles 3 Nintendo switch",
     "price": "160",
@@ -1795,6 +1785,16 @@
     "price": "69",
     "img": "https://a.allegroimg.com/s180x180/1e222c/648b51304a34a113cc300de96380",
     "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
+    "title": "Mario + Rabbids: Kingdom Battle Switch",
+    "price": "108",
+    "img": "https://a.allegroimg.com/s180x180/1e2a51/26f569c247e69b18505bb6b499ec",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-ore?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
@@ -3000,26 +3000,6 @@
     "city": "Poznań"
   },
   {
-    "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
-    "title": "Pokemon Let's Go Eevee Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e726d/0fad81fb4b2fb13927bc61ae8930",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-cwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
-    "title": "Ac komplet switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1ed97c/7760988746f7b23cec2e032a4e45",
-    "url": "https://allegrolokalnie.pl//oferta/ac-komplet-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "ca01f862-8f3a-489d-82ae-443679f774db",
     "title": "The Legend of Zelda Echoes of Wisdom",
     "price": "200",
@@ -3598,6 +3578,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Jeżyce"
+  },
+  {
+    "id": "9cd10ac9-05ef-4de2-8416-a947aac056e2",
+    "title": "Ancestors Legacy Day One Edition Nintendo Switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e5329/4239045843ca9af8e9902e4821eb",
+    "url": "https://allegrolokalnie.pl//oferta/ancestors-legacy-day-one-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Biały Bór"
+  },
+  {
+    "id": "d0f90483-17c6-43af-ac7e-9f7f38f7fe4c",
+    "title": "Gra The Legend of Zelda Tears of the Kingdom Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1eb93b/8fb5e37449ee8c9186b1afd4ba80",
+    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-gd2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gliwice"
   },
   {
     "id": "6eca8671-4da3-4554-a3c6-b489ea65e517",
@@ -4785,16 +4785,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1ea004/f2c179ac4b4d8dda6c25c069288a",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-4z6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "a262c52d-740e-497d-a316-e30d751a0361",
-    "title": "Burnout Paradise Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ea81f/07c6fe5b4eae974d3c3a4da67d10",
-    "url": "https://allegrolokalnie.pl//oferta/burnout-paradise-switch-t2x?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Śródmieście"
+  },
+  {
+    "id": "d35c6f75-defc-4856-82c8-350c84c733fd",
+    "title": "Dragon Quest Treasures",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed090/192c26914b1b8c19f33a90456d1a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Nowa Huta"
   }
 ]
