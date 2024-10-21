@@ -70,16 +70,6 @@
     "city": "Żory"
   },
   {
-    "id": "9158c1ea-0471-4fed-b1c4-fa3225db3ae8",
-    "title": "The Legend of Zelda - Tears of the Kingdom",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e18fd/df532fec4788954fc02e7b0cd382",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-cvl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gliwice"
-  },
-  {
     "id": "0ac89f21-3270-4b26-b4b7-2e103d0b9e6b",
     "title": "THE LEGEND OF ZELDA ECHOES OF WISDOM UŻYWANA NINTEND SWITCH STAN BDB",
     "price": "176",
@@ -902,7 +892,7 @@
   {
     "id": "c6ecbf87-1b6d-4aa7-ab12-5c2da27b8053",
     "title": "Zelda Breath of The Wild Nintendo Switch",
-    "price": "149",
+    "price": "199",
     "img": "https://a.allegroimg.com/s180x180/1e3ec5/5f7cd64c447fa74849f3007f7c30",
     "url": "https://allegrolokalnie.pl//oferta/fc24-pl-nintendo-switch-zl5?navCategoryId=256922",
     "promoted": true,
@@ -1682,7 +1672,7 @@
   {
     "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
     "title": "Grandia HD Collection Switch ANG",
-    "price": "315",
+    "price": "309",
     "img": "https://a.allegroimg.com/s180x180/1e4efd/95afc69647a8b5a221ac34a97132",
     "url": "https://allegrolokalnie.pl//oferta/grandia-hd-collection-switch-ang-dha?navCategoryId=256922",
     "promoted": true,
@@ -2990,26 +2980,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "19769b78-b223-4d21-9f6b-4b79ea5140c6",
-    "title": "Everybody 1 2 Switch",
-    "price": "63",
-    "img": "https://a.allegroimg.com/s180x180/1e710b/c8cfd35c4f1fa005d26ae8ebb8d9",
-    "url": "https://allegrolokalnie.pl//oferta/everybody-1-2-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "8a710c99-d70b-4e64-a393-fbc1d3e3ff61",
-    "title": "Zestaw gier Nintendo Switch 2 sztuki",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e004c/d49c617145e5b27c7f9fd515ef69",
-    "url": "https://allegrolokalnie.pl//oferta/zestaw-gier-nintendo-switch-2-sztuki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "506cde5c-9a5e-496f-b890-28995edd54bd",
     "title": "Mario wonder naklejki New Mario U",
     "price": "10",
@@ -3588,6 +3558,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "79b42158-c97d-4360-9fc9-19236a1eceec",
+    "title": "Wiedźmin 3 dziki gon po polsku Nintendo Switch",
+    "price": "240",
+    "img": "https://a.allegroimg.com/s180x180/1eb19b/288eeb874b4697166a89e30181f5",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-po-polsku-nintendo-switch-xux?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "bb815c65-910f-4c5e-9b11-2c5151968a7e",
+    "title": "Mario Rabbids Sparks of Hope",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1ebf8c/d61725514bffb6c43006c109fa11",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-iwi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   },
   {
     "id": "79b42158-c97d-4360-9fc9-19236a1eceec",
@@ -4190,16 +4180,6 @@
     "city": "Bielsko-Biała"
   },
   {
-    "id": "38aad286-e593-486d-a75c-864bef424743",
-    "title": "The Legend of Zelda Tears of the Kingdom plus pakiet premierowy",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e9a2a/ea5fb3284b14926fc1f7f61d2a33",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-plus-pakiet-premierowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Częstochowa"
-  },
-  {
     "id": "faf64c59-a332-47b2-87ac-e7e56091709f",
     "title": "Charons staircase switch - horror",
     "price": "100",
@@ -4785,6 +4765,16 @@
     "price": "172",
     "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "752be9fd-40b2-4dd3-bb11-1b484bc375c8",
+    "title": "Metal Gear Solid Master Collection Volume 1 Nintendo Switch NS",
+    "price": "194",
+    "img": "https://a.allegroimg.com/s180x180/1ec8b0/0358de74411b937f5aadae46a77a",
+    "url": "https://allegrolokalnie.pl//oferta/metal-gear-solid-master-collection-volume-1-nintendo-switch-ns?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
@@ -5532,7 +5522,7 @@
   {
     "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
     "title": "Okami Switch ANG",
-    "price": "175",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
     "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
     "promoted": false,
