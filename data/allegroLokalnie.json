@@ -600,6 +600,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "e30d15ff-ff6e-4531-af39-c62de7707797",
+    "title": "Princess Peach Showtime",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e65ee/40aea58d42ec85c192e39bcfedfe",
+    "url": "https://allegrolokalnie.pl//oferta/princess-peach-showtime-how?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Zielona Góra"
+  },
+  {
     "id": "110c075c-3984-4cb8-bb65-af03244cd38f",
     "title": "Xenonlade chronicles definitive edition Nintendo switch",
     "price": "175",
@@ -1185,16 +1195,6 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e2814/ef7bf0ac4e669279acf9e9ae2e05",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-wersja-koreanska?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Rypin"
-  },
-  {
-    "id": "490bddf8-afa2-4092-8847-2a27e5d5fe33",
-    "title": "Super Mario Party (Nintendo Switch) - wersja koreańska",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ee01b/c252ab8445738f1f4fba7787c0c6",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-wersja-koreanska?navCategoryId=256922",
     "promoted": true,
     "smartPost": false,
     "city": "Rypin"
@@ -1800,6 +1800,16 @@
     "city": "Białystok"
   },
   {
+    "id": "5d2bf0dc-1bf9-400f-920b-4acb93cedda0",
+    "title": "Lego Ninjago PL-ANG Switch",
+    "price": "69",
+    "img": "https://a.allegroimg.com/s180x180/1e222c/648b51304a34a113cc300de96380",
+    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-plang-switch-pw3?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
     "price": "108",
@@ -2028,6 +2038,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "c69c7baf-98d4-4e45-b67e-c12b70f5c590",
+    "title": "THE LEGEND OF ZELDA ECHOES OF WISDOM NINTENDO SWITCH",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e1bba/26b1f7324f86801ce2603f28c280",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-nintendo-switch-oo7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
   },
   {
     "id": "03a88d1c-0fd2-4487-8b45-67387a127b98",
@@ -2375,26 +2395,6 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s180x180/1e9140/9f27113b485a94b3e8f80d37f8c6",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-nn5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "4684ec2c-0704-4942-9357-286957330d89",
-    "title": "Super Mario Bros Wonder",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e986b/acd633c94b4b862d542d5a87eaab",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-kzz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jastrzębie-Zdrój"
-  },
-  {
-    "id": "332c70df-aefc-4249-887c-3d2305d09041",
-    "title": "Minecraft - Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eebe5/ff78b9fc49cd97975565f918a868",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-all?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
@@ -3600,6 +3600,26 @@
     "city": "Poznań, Jeżyce"
   },
   {
+    "id": "9cd10ac9-05ef-4de2-8416-a947aac056e2",
+    "title": "Ancestors Legacy Day One Edition Nintendo Switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e5329/4239045843ca9af8e9902e4821eb",
+    "url": "https://allegrolokalnie.pl//oferta/ancestors-legacy-day-one-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Biały Bór"
+  },
+  {
+    "id": "d0f90483-17c6-43af-ac7e-9f7f38f7fe4c",
+    "title": "Gra The Legend of Zelda Tears of the Kingdom Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1eb93b/8fb5e37449ee8c9186b1afd4ba80",
+    "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-gd2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gliwice"
+  },
+  {
     "id": "6eca8671-4da3-4554-a3c6-b489ea65e517",
     "title": "Super Mario RPG Nintendo Switch",
     "price": "119",
@@ -4178,26 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
-  },
-  {
-    "id": "de74bf96-4e66-4f2b-8d6e-595782f35f70",
-    "title": "Animal Crossing New Horizons",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e31db/07c63c9a49e8aaa7cebabdf68589",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-uix?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "a5621fe0-6b54-4dcc-ad93-a9778284c27d",
-    "title": "COFFE TALK STRICTLY LIMITED GAMES SWITCH",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1eda14/fb2b10be400b8506674cf658d045",
-    "url": "https://allegrolokalnie.pl//oferta/coffe-talk-strictly-limited-games-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Przemyśl"
   },
   {
     "id": "de74bf96-4e66-4f2b-8d6e-595782f35f70",
@@ -4800,16 +4800,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "82edf29d-ce02-4542-b21c-ed8c4995e9cb",
-    "title": "Shin Megami Tensei V Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ea004/f2c179ac4b4d8dda6c25c069288a",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-4z6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
-  },
-  {
     "id": "a262c52d-740e-497d-a316-e30d751a0361",
     "title": "Burnout Paradise Switch",
     "price": "100",
@@ -5398,6 +5388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Opole"
+  },
+  {
+    "id": "ace121b6-6390-48c3-8644-bf46ffaf0df1",
+    "title": "Minecraft Nintendo Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1e95ba/ae5f34564ddda1bf6e793ac18468",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-mzy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Siemianowice Śląskie, Bytków"
   },
   {
     "id": "ace121b6-6390-48c3-8644-bf46ffaf0df1",
