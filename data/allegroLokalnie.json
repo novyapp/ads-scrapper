@@ -2030,6 +2030,46 @@
     "city": "Białystok"
   },
   {
+    "id": "36e2b42c-b236-4cc3-b14a-67a13cd676cc",
+    "title": "Super Mario Party",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e9b58/fdd33d59435294c8e76e1749564c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-dgc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "87ae6e81-bb54-46b7-8d0c-5fd8ab1b85ae",
+    "title": "Mario Tennis Aces",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1ee871/f1ab45be4adc965a229ad0ce78bb",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-cjv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "6d3fb8ab-19cc-4a64-b590-e33d6c155666",
+    "title": "The Legend of Zelda Tears of the Kingdom",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e8f7a/d31f3ab5490eb845dad9de4bf576",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-aou?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "0e4b4d88-0a72-4ca3-8e89-019ab7c4df29",
+    "title": "Pokemon Let's Go Eevee",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1ea73b/3e58976542dc8abf92cbf7b1905c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-7ai?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "9d715590-f1cb-4f0a-a83e-0cccb33dbe4f",
     "title": "Pokemon Scarlet Nintendo Switch",
     "price": "175",
@@ -2360,44 +2400,14 @@
     "city": "Jablonna k Warszawy "
   },
   {
-    "id": "68d062fe-53dd-43e7-8ce5-8c031a06e3fb",
-    "title": "Paper Mario the Thousand Year Door",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ef965/4058e5f542b983e4be3dca4769c0",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-hoc?navCategoryId=256922",
+    "id": "5107b4fe-1120-40fe-b118-fe41d8643ebf",
+    "title": "Gra Snipperclips Nintendo switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1eae88/58fcda1f4235a29634654b212b5a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-snipperclips-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Jablonna k Warszawy "
-  },
-  {
-    "id": "85d684d7-e57c-4fab-ab46-98c9a6f1cffb",
-    "title": "Bayonetta 3 Nintendo Swiich",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e7353/0b280ac7410e83ed6ccf59e4a0e8",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-swiich?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jablonna k Warszawy "
-  },
-  {
-    "id": "e6ed6dcb-1c7f-4067-8611-501e5dc12a48",
-    "title": "Luigi Mansion 2 HD",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e446c/00a9f6104246ae18a580e0ad9eae",
-    "url": "https://allegrolokalnie.pl//oferta/luigi-mansion-2-hd-wom?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jablonna k Warszawy "
-  },
-  {
-    "id": "8d0f8ecf-269a-4876-875f-4363d75a9791",
-    "title": "Kirby Return to Dream Land",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e088b/c06e3dd949b79eb892c5f074fb82",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-return-to-dream-land?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jablonna k Warszawy "
+    "city": "Łazy"
   },
   {
     "id": "169027f4-8199-432b-a00b-7f81525eeb5a",
@@ -3600,36 +3610,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "9462acc7-a083-4430-8313-06f804dd4d42",
-    "title": "Gra Resident Evil 0 Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1eea37/d9f9cd5545c0bf52ebd8a2700edb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-0-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "96d3c84e-51ef-4855-bdea-93af2a29cd88",
-    "title": "Gra Resident Evil Revelations Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1e374d/67e9cd5f4fc7b2de8f318017146f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-revelations-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "fff8439f-0b7a-4b51-9e08-f9fb33de9b06",
-    "title": "Gra Resident Evil 4 Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1eaf48/ae5b29d24a65980b771601b99a29",
-    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-4-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "c68a902f-f96e-4b71-9e83-ebca9bb74408",
     "title": "Gra John Wick Hex Nintendo Switch",
     "price": "165",
@@ -4198,6 +4178,76 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "373939fe-f452-44d1-8fed-406b15923756",
+    "title": "Collection of Mana | Nintendo SWITCH | NOWA | FOLIA | PAL",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/118b46/6d63fc8e4ad5af0682805b2896a7",
+    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana-or-nintendo-switch-or-nowa-or-folia-or-pal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostróda"
+  },
+  {
+    "id": "6afe6452-1640-4af7-ab01-5b6d243e3edd",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1ef9d2/66fd12cf4b85b3c76b70e2428f41",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-tfu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "88ee2481-6ea3-48a1-b6c6-1832c1180662",
+    "title": "Source of Madness Switch Super Rare",
+    "price": "380",
+    "img": "https://a.allegroimg.com/s180x180/1e6c3c/b5c8b72f4a8dad3a29990752f805",
+    "url": "https://allegrolokalnie.pl//oferta/source-of-madness-switch-super-rare?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
+    "id": "2aa490fc-6c83-4013-b533-8237979c50d2",
+    "title": "Two point campus enrolment edition Nintendo Switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1e3e20/320a22734bd38777ff3ee212fa68",
+    "url": "https://allegrolokalnie.pl//oferta/two-point-campus-enrolment-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "e48defd3-4b90-4891-8fd6-dfe177ca714e",
+    "title": "Zestaw 6 gier na Nintendo Switch",
+    "price": "520",
+    "img": "https://a.allegroimg.com/s180x180/1e4dac/c2fb2ed04fc3bb6458afde1ca111",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-6-gier-na-nintendo-switch-iwj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "373939fe-f452-44d1-8fed-406b15923756",
+    "title": "Collection of Mana | Nintendo SWITCH | NOWA | FOLIA | PAL",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/118b46/6d63fc8e4ad5af0682805b2896a7",
+    "url": "https://allegrolokalnie.pl//oferta/collection-of-mana-or-nintendo-switch-or-nowa-or-folia-or-pal?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostróda"
+  },
+  {
+    "id": "6afe6452-1640-4af7-ab01-5b6d243e3edd",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1ef9d2/66fd12cf4b85b3c76b70e2428f41",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-tfu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
   },
   {
     "id": "97d4eee5-ccd7-4d89-ba6d-7ed1ce7c3c9d",
@@ -5948,55 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "dbde7197-3954-4ae4-b0cf-e3db555530a5",
-    "title": "BUS SIMULATOR CITY RIDE NOWA PL",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e38c2/f25fbf6c40d9bae32eb5115f527d",
-    "url": "https://allegrolokalnie.pl//oferta/bus-simulator-city-ride-nowa-pl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zabrze"
-  },
-  {
-    "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
-    "title": "ZELDA TEARS OF THE KINGDOM ANG",
-    "price": "449",
-    "img": "https://a.allegroimg.com/s180x180/1e5234/f1948d23421a8355d0df7cbe3fef",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ang-ejh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zabrze"
-  },
-  {
-    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
-    "title": "Okami Switch ANG",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
-    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
-    "id": "722fae8f-5085-4b6a-a9d6-d525c2644eda",
-    "title": "Nintendo Labo Toy-Con 03: Kit Véhicules",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1e4b5b/d90095df4e40b0f239ed11ec8887",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-toycon-03-kit-vehicules?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   }
 ]
