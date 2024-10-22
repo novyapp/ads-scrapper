@@ -1,5 +1,15 @@
 [
   {
+    "id": "3c4f1430-91f0-469c-8250-3b01c9380a1b",
+    "title": "STAN IDEALNY SUPER MARIO BROS Wonder - NINTENDO SWITCH",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e22f1/8fa851c549f1818eec9b514b53a6",
+    "url": "https://allegrolokalnie.pl//oferta/stan-idealny-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bytom"
+  },
+  {
     "id": "bee1206c-d413-4d20-bc88-f94e07be58b7",
     "title": "Darkest dungeon 2 Nintendo Switch",
     "price": "135",
@@ -2390,6 +2400,16 @@
     "city": "Szczecin"
   },
   {
+    "id": "b2888800-4c89-4ecc-92c7-62458fdd89f4",
+    "title": "Neversong Nowa!!",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e5603/d0ee27fe44aeaa8299fab863dbe5",
+    "url": "https://allegrolokalnie.pl//oferta/neversong-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
     "id": "989191f4-9c37-4bcd-8a3c-7e36c8e2f039",
     "title": "Beyond a Steel Sky: Utopia Edition",
     "price": "180",
@@ -2975,16 +2995,6 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s180x180/1e95e1/179702444ff0b1c8be62369a6bd6",
     "url": "https://allegrolokalnie.pl//oferta/ringfit-adventure-nintendo-switch-ring-fit-lhy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "a8edeabb-9a0e-4e8c-86b5-e86ac3d89f0d",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e4da6/3098cb98490a84c88f78a8739bda",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-obd?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
@@ -4178,16 +4188,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
-  },
-  {
-    "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
-    "title": "Splatoon 2 Nintendo switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1ee298/fd2cfd574fc88c5da8cd75bf1c1d",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-gyz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Bydgoszcz"
   },
   {
     "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
+  },
+  {
+    "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   }
 ]
