@@ -72,7 +72,7 @@
   {
     "id": "8ee85a4c-9724-46bf-af52-064856c7ee5d",
     "title": "Zelda breath of the wild",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e7144/02f554c748d9b94c9fbc1cbb3cbc",
     "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-f6i?navCategoryId=256922",
     "promoted": true,
@@ -2180,16 +2180,6 @@
     "city": "Kraków, Dębniki"
   },
   {
-    "id": "b6226024-891f-4889-9407-f65ab0790b4e",
-    "title": "Untitled Goose Game na Nintendo Switch- stan bdb!",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1ef582/026ab84e418da363999f68be04d5",
-    "url": "https://allegrolokalnie.pl//oferta/untitled-goose-game-na-nintendo-switch-stan-bdb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
-  },
-  {
     "id": "dac5552e-46e0-45d7-b709-f3e72dd2655b",
     "title": "Death's Door na Nintendo Switch- stan bdb!",
     "price": "99",
@@ -2275,16 +2265,6 @@
     "price": "147",
     "img": "https://a.allegroimg.com/s180x180/1e73e4/dec4e83f495ba3d298778edee434",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-na-nintendo-switch-lsi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jarocin"
-  },
-  {
-    "id": "f8bdcd2f-c664-4932-8f60-738cd85b044a",
-    "title": "Super Mario Bros. Wonder - gra na Nintendo Switch (Super Mario Wonder)",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ee443/1895044046e7938026df4e76cd80",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-gra-na-nintendo-switch-super-mario-wonder?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Jarocin"
@@ -2398,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jablonna k Warszawy "
+  },
+  {
+    "id": "015776fe-6fce-45aa-9de1-fc5c37c171d3",
+    "title": "Iron Meat Nintendo Switch",
+    "price": "450",
+    "img": "https://a.allegroimg.com/s180x180/1e7641/4fc0b42d47b190a822a863704df9",
+    "url": "https://allegrolokalnie.pl//oferta/iron-meat-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Będzin"
   },
   {
     "id": "015776fe-6fce-45aa-9de1-fc5c37c171d3",
@@ -5400,26 +5390,6 @@
     "city": "zgorzelec"
   },
   {
-    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
-    "title": "Switch Splatoon 2 ... OKAZJA",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e18b5/8af26a3847f588978a95e6af8c35",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
-    "title": "Luigi's Mansion 3",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ea4da/c2842bb24ccf9acf221a2348b9b8",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
     "id": "36f35b5c-c2cc-487b-b425-f44c3e7f1356",
     "title": "Super Mario Party Nintendo Switch",
     "price": "175",
@@ -5998,5 +5968,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "da1886ec-4c35-40ae-80c2-32365c4ee581",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-umo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "08a190ad-dae4-4884-bac8-776531bafddd",
+    "title": "AEW: Fight Forever Gra NINTENDO switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1ef7a0/6556144446dfbb5c325c55925f24",
+    "url": "https://allegrolokalnie.pl//oferta/aew-fight-forever-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
   }
 ]
