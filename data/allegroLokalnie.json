@@ -480,16 +480,6 @@
     "city": "Białystok"
   },
   {
-    "id": "55a08527-86a8-4add-8347-03bd79ec1026",
-    "title": "The Legend of Zelda Tears of The Kingdom WAW",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1edac7/69c6af524adc9467b3114b3680dc",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-waw-mzj?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa, Wesoła"
-  },
-  {
     "id": "7e2741a9-27fb-45ef-aace-5b57713545fe",
     "title": "The Legend of Zelda : Echoes of Wisdom Nintendo Switch",
     "price": "184",
@@ -4200,6 +4190,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
+    "title": "Splatoon 2 Nintendo switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1ee298/fd2cfd574fc88c5da8cd75bf1c1d",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-gyz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "59d8720b-d6c7-4ce8-9440-df6f89e190e4",
     "title": "Metroid dread Nintendo switch",
     "price": "99",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lng?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   }
 ]
