@@ -2030,6 +2030,16 @@
     "city": "Białystok"
   },
   {
+    "id": "f64adbf3-9065-4021-bd0d-056633c6d81d",
+    "title": "Diablo 3 Eternal Collection",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e1dc4/bf1072ba494cbbe4ed30d8669d24",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-3p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "df3e1907-d09c-4702-b04a-38b35cd77d47",
     "title": "Disco Elysium na Nintendo Switch- stan bdb!",
     "price": "135",
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łazy"
-  },
-  {
-    "id": "169027f4-8199-432b-a00b-7f81525eeb5a",
-    "title": "LAYTON’S MYSTERY JOURNEY Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e1076/9ce0644148b889d2d644ec4884d9",
-    "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-nintendo-switch-2jv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jastrzębie-Zdrój"
   },
   {
     "id": "dadb5d17-6250-4bed-a4cc-524368039003",
@@ -3600,6 +3600,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "c68a902f-f96e-4b71-9e83-ebca9bb74408",
+    "title": "Gra John Wick Hex Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e9a8b/b409b12c4d8d8279d90115581939",
+    "url": "https://allegrolokalnie.pl//oferta/gra-john-wick-hex-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "dfc04c83-628e-4b71-b868-7d02d131a1b0",
     "title": "Gra Onimusha Warlords Nintendo Switch",
     "price": "275",
@@ -4190,16 +4200,6 @@
     "city": "Bysław"
   },
   {
-    "id": "c55a6258-a70b-439e-9c35-9d47f82cb567",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e6077/d8ab08a14ba2800fe1393e90011d",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-dlh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "26aca984-e6f8-449d-b5a0-222f1685d995",
     "title": "Captain Toad Treasure Tracker",
     "price": "145",
@@ -4778,6 +4778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "36f2c46b-274e-4698-bd4b-f6873c1ffadd",
+    "title": "Lego Gwiezdne Wojny Saga Skywalkerów - Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ea107/e88bb2ec438d82135ffcc52c77a5",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-ezo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "f5fdac42-d999-4ae6-96bc-eca65382275d",
+    "title": "Fabraz Collection Limited Run Games Nintendo Switch UNIKAT kolekcjonerska",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e1c28/6415616d44aabd6ce0c4dd67f944",
+    "url": "https://allegrolokalnie.pl//oferta/fabraz-collection-limited-run-games-nintendo-switch-unikat-kolekcjonerska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "36f2c46b-274e-4698-bd4b-f6873c1ffadd",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "f6152979-b264-4638-8573-2ddd9cd50fa4",
-    "title": "Minecraft Legends Deluxe Edition Nintendo Switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/112872/5a2e6dee49488059e266ffdc2004",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-legends-deluxe-edition-nintendo-switch-pyh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "74bcaa13-46ea-4834-9245-dc0e46ddabdb",
-    "title": "MARIO+Rabbids Kingdom Battele Nintendo Switch Używana",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e43c9/127c382042cdbda9f0bfe5a6254f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battele-nintendo-switch-uzywana?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kędzierzyn-Koźle, Koźle"
   }
 ]
