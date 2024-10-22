@@ -3692,7 +3692,7 @@
   {
     "id": "8ae6b322-c03d-4884-9d4e-efe83392ccb8",
     "title": "Eastward Collector's Edition",
-    "price": "340",
+    "price": "330",
     "img": "https://a.allegroimg.com/s180x180/1ef8af/c90b8d4c41c7a734d77dc0ea66dd",
     "url": "https://allegrolokalnie.pl//oferta/eastward-collectors-edition?navCategoryId=256922",
     "promoted": false,
@@ -3712,7 +3712,7 @@
   {
     "id": "2faec496-aa4c-42d4-9af6-734781086be5",
     "title": "Baldur’s Gate & Baldur’s Gate 2 : Enhanced Edition",
-    "price": "340",
+    "price": "330",
     "img": "https://a.allegroimg.com/s180x180/1e341c/dc17dea04c8aadacdecc30c883f8",
     "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-baldurs-gate-2-enhanced-edition?navCategoryId=256922",
     "promoted": false,
@@ -3722,7 +3722,7 @@
   {
     "id": "8de689c7-f4f2-4bcb-99c3-8299091f5b8e",
     "title": "Fire Emblem Three houses Limited Edition",
-    "price": "950",
+    "price": "900",
     "img": "https://a.allegroimg.com/s180x180/1e6e92/5a65256c44b1a574b01d4da48c8b",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-limited-edition-wfw?navCategoryId=256922",
     "promoted": false,
@@ -4800,6 +4800,16 @@
     "city": "Gliwice"
   },
   {
+    "id": "befa8f08-08c6-4f07-a854-08ad5e35804d",
+    "title": "Splatoon 3 - Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7340/370ff85c4ad99effe2f954ab21db",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-txh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gliwice"
+  },
+  {
     "id": "a17c7e48-bca5-43f1-ab6d-7641e16f28fb",
     "title": "Super Mario Maker 2 Switch",
     "price": "185",
@@ -5390,26 +5400,6 @@
     "city": "Pionki"
   },
   {
-    "id": "0b786856-096f-4c07-b41e-2e344e8e018b",
-    "title": "BloodRayne 2: Revamped - Switch - Limited Run Games",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s180x180/1158e8/30af44e249fc9b20a609e50ba55f",
-    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-2-revamped-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
-    "id": "0b786856-096f-4c07-b41e-2e344e8e018b",
-    "title": "BloodRayne 2: Revamped - Switch - Limited Run Games",
-    "price": "290",
-    "img": "https://a.allegroimg.com/s180x180/1158e8/30af44e249fc9b20a609e50ba55f",
-    "url": "https://allegrolokalnie.pl//oferta/bloodrayne-2-revamped-switch-limited-run-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pionki"
-  },
-  {
     "id": "82b0ad26-c210-4913-9456-713bb97094f8",
     "title": "Axiom Verge 2 - Switch - Limited Run Games",
     "price": "270",
@@ -5995,6 +5985,16 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ebc81/418ba9f743c680752244ebc1a985",
     "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-4pb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "22de88e1-5343-449c-bb94-8765b300b6c5",
+    "title": "Travis Strikes Again: No More Heroes",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e4bd7/88e3e9e143aa9243c4558e9d1ca0",
+    "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-njq?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
