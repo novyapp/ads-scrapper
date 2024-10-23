@@ -2040,6 +2040,16 @@
     "city": "Białystok"
   },
   {
+    "id": "9f808422-5962-426a-92be-a4548cde8250",
+    "title": "Pokemon shield + expasion pass",
+    "price": "800",
+    "img": "https://a.allegroimg.com/s180x180/1ec3cd/1fff26ec4e0fbcb25c13bf0690d2",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-expasion-pass?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia, Śródmieście"
+  },
+  {
     "id": "e5e6cbb6-04d9-42f5-8303-e4d331660f51",
     "title": "Mario Party Superstars / Nintendo Switch",
     "price": "160",
@@ -2395,6 +2405,16 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1e8f7a/d31f3ab5490eb845dad9de4bf576",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-aou?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "0e4b4d88-0a72-4ca3-8e89-019ab7c4df29",
+    "title": "Pokemon Let's Go Eevee",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1ea73b/3e58976542dc8abf92cbf7b1905c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-7ai?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -2975,16 +2995,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1ef47c/2ca2801447f0b83a6a904cc61860",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-w6t?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Międzychód"
-  },
-  {
-    "id": "02a68e8e-4ff4-49e2-80ad-eed1ea4f5026",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1ea515/00e54ce947f188f462b45c1dd2d3",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-uvh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Międzychód"
@@ -3600,16 +3610,6 @@
     "city": "Wieliczka"
   },
   {
-    "id": "2d1c1736-93e6-4412-8415-c5cf349fd1ce",
-    "title": "Super Mario Odyssey",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ed562/ac8f82c84632bcd9eaff5f6d4768",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-ug5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "19769b78-b223-4d21-9f6b-4b79ea5140c6",
     "title": "Everybody 1 2 Switch",
     "price": "63",
@@ -4198,6 +4198,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
+  },
+  {
+    "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
+    "title": "Nintendo switch sports",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e4d77/687e174c412bad75a8fe5df77756",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-6gj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "zgorzelec"
   },
   {
     "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lng?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   }
 ]
