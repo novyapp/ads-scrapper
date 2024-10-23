@@ -3600,16 +3600,6 @@
     "city": "Grabiny-Zameczek"
   },
   {
-    "id": "0f5e0e6b-c26c-4fc7-bd94-88545defca87",
-    "title": "Mario + Rabbids Kingdom Battle",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1e647d/6f7249c049c2b5dce0acfda75555",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-thk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grabiny-Zameczek"
-  },
-  {
     "id": "3372697f-b154-4971-bbe8-f45d9bce8bd4",
     "title": "Lego The Incredibles - Iniemamocni Switch",
     "price": "45",
@@ -4198,6 +4188,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
+  },
+  {
+    "id": "2aa490fc-6c83-4013-b533-8237979c50d2",
+    "title": "Two point campus enrolment edition Nintendo Switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1e3e20/320a22734bd38777ff3ee212fa68",
+    "url": "https://allegrolokalnie.pl//oferta/two-point-campus-enrolment-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "e48defd3-4b90-4891-8fd6-dfe177ca714e",
@@ -5400,6 +5400,16 @@
     "city": "Reda"
   },
   {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
+  },
+  {
     "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
     "title": "RealMyst switch nowa Limited run",
     "price": "280",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
-  },
-  {
-    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
-    "title": "Okami Switch ANG",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
-    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   }
 ]
