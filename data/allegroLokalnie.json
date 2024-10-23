@@ -230,16 +230,6 @@
     "city": "Warszawa, Śródmieście"
   },
   {
-    "id": "caf43206-756c-4005-a0dd-f330f6e0a6b8",
-    "title": "Animal Crossing: New Horizons",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e865d/c59aea5b48b59dbaaf224c959b5f",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-tz6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Majdan"
-  },
-  {
     "id": "6bb99eca-8cf2-4862-a827-e1fba18879a9",
     "title": "Nintendo Ring Fit Adventure Nintendo Switch",
     "price": "205",
@@ -598,16 +588,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Lublin"
-  },
-  {
-    "id": "e737983f-9e4b-43a0-b961-08e60c52d7e9",
-    "title": "Front Mission 1st Limited Edition",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e132e/21b8b8f844948fcf365ad79b9aab",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-limited-edition-ihc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "f18f3215-b42b-4dd8-8d62-cceeb59fdc67",
@@ -1810,6 +1790,16 @@
     "city": "Białystok"
   },
   {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
     "title": "Kangurek Kao Switch PL",
     "price": "103",
@@ -1988,6 +1978,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "36a059ae-10ce-4fcd-8ddb-d7d4f1deba1a",
+    "title": "Gra Nintendo Switch Dead or Alive Xtreme 3 Scarlet",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s180x180/1e4ee4/b9c04a924476bc9bde97a339e5cc",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-or-alive-xtreme-3-scarlet?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   },
   {
     "id": "f6e40f68-5794-4b37-b095-79d75ffc3ac6",
@@ -2408,16 +2408,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "d2bb6bde-1ce3-4f97-a506-a47ff689ffc3",
-    "title": "Donkey kong country tropical freeze Nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e151c/367da6cb4a55843772461f3bbfcb",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-vir?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łazy"
   },
   {
     "id": "38568d53-8d8c-45e1-8df5-c8646e64d672",
@@ -5400,6 +5390,16 @@
     "city": "Reda"
   },
   {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
     "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
     "title": "Pokemon Shining Pearl Dodatki",
     "price": "149",
@@ -5978,25 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
-  },
-  {
-    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
-    "title": "Okami Switch ANG",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
-    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "3dfae125-5f2e-4f79-8cec-d37416ca32e9",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e8767/73f8ffde4a98873fa017f75cebe0",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-sys?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
   }
 ]
