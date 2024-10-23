@@ -1200,16 +1200,6 @@
     "city": "Oleśnica"
   },
   {
-    "id": "5f64c788-3188-4ac0-8691-9d7bdcfb2c64",
-    "title": "Super Mario 3D ALL STARS",
-    "price": "650",
-    "img": "https://a.allegroimg.com/s180x180/1ee01a/d74e865d4de1b29eb0b7f72b4fd2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-fdo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Oleśnica"
-  },
-  {
     "id": "1ecd724f-52d2-4a5b-b15f-e789c15950e8",
     "title": "Stojak na gry do Nintendo Switch",
     "price": "65",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
+  },
+  {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
@@ -3590,6 +3590,26 @@
     "city": "Gostynin"
   },
   {
+    "id": "0f5e0e6b-c26c-4fc7-bd94-88545defca87",
+    "title": "Mario + Rabbids Kingdom Battle",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e647d/6f7249c049c2b5dce0acfda75555",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-thk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grabiny-Zameczek"
+  },
+  {
+    "id": "0f5e0e6b-c26c-4fc7-bd94-88545defca87",
+    "title": "Mario + Rabbids Kingdom Battle",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e647d/6f7249c049c2b5dce0acfda75555",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-thk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grabiny-Zameczek"
+  },
+  {
     "id": "3372697f-b154-4971-bbe8-f45d9bce8bd4",
     "title": "Lego The Incredibles - Iniemamocni Switch",
     "price": "45",
@@ -4178,26 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
-  },
-  {
-    "id": "2aa490fc-6c83-4013-b533-8237979c50d2",
-    "title": "Two point campus enrolment edition Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1e3e20/320a22734bd38777ff3ee212fa68",
-    "url": "https://allegrolokalnie.pl//oferta/two-point-campus-enrolment-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Śródmieście"
-  },
-  {
-    "id": "2aa490fc-6c83-4013-b533-8237979c50d2",
-    "title": "Two point campus enrolment edition Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1e3e20/320a22734bd38777ff3ee212fa68",
-    "url": "https://allegrolokalnie.pl//oferta/two-point-campus-enrolment-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Śródmieście"
   },
   {
     "id": "e48defd3-4b90-4891-8fd6-dfe177ca714e",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zabrze"
+  },
+  {
+    "id": "01fab179-ee98-4d01-a83c-26ac5c18a181",
+    "title": "Okami Switch ANG",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1ec4df/6d9d57f54e50b4714a1c2f1c0903",
+    "url": "https://allegrolokalnie.pl//oferta/okami-switch-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   }
 ]
