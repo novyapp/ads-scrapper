@@ -540,16 +540,6 @@
     "city": "Kraków"
   },
   {
-    "id": "d48a9573-8aaa-4556-af16-2279982eabf8",
-    "title": "animal crossing new horizons",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eb668/04e24dd34473ab79acac815ab8d3",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizon-gra-nintendo-switch-ops?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa, Szczęśliwice"
-  },
-  {
     "id": "0be3ea23-2ae5-43ad-8489-6bb6ee16c190",
     "title": "Luigi mansion 3 nintendo switch",
     "price": "139",
@@ -1200,16 +1190,6 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "f5b79e6f-67c1-4d93-8c39-16ea092c2d02",
-    "title": "Pokémon Brilliant Diamond Nintendo Switch",
-    "price": "124",
-    "img": "https://a.allegroimg.com/s180x180/1edf36/7a1aff354cee8fa5d1829b82ac98",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-ksk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chrząstowice"
-  },
-  {
     "id": "5b5ceb35-22e8-46d5-88ad-673084c510e3",
     "title": "KLONOA Phantasy Reverie Series - Klonoa 1 + 2 - Nintendo Switch - Jak nowa",
     "price": "80",
@@ -1795,6 +1775,16 @@
     "price": "113",
     "img": "https://a.allegroimg.com/s180x180/1ed578/d9549b6347ec98926a7678ad0ca9",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-vbn?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "83320671-4922-47e1-8800-da470c51e673",
+    "title": "Minecraft PL Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
@@ -2482,7 +2472,7 @@
   {
     "id": "40a30e52-2c58-4e80-8d62-601dafe8b8d8",
     "title": "LEGEND OF ZELDA TEARS OF THE KINGDOM",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e753f/8137e31943c0b2d1fa9d5b829dce",
     "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-tears-of-the-kingdom-k7h?navCategoryId=256922",
     "promoted": false,
@@ -3600,16 +3590,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "0b9d00da-7370-4fbc-ae0b-069a0c75d22b",
-    "title": "Carrion Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1ea22e/8c28c9184914b6ea9cea0b89c553",
-    "url": "https://allegrolokalnie.pl//oferta/carrion-nintendo-switch-sj3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Stare Miasto"
-  },
-  {
     "id": "a44cbece-a0de-49bc-9829-465c908db08a",
     "title": "Shin Megami Tensey V",
     "price": "100",
@@ -4130,16 +4110,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "bb815c65-910f-4c5e-9b11-2c5151968a7e",
-    "title": "Mario Rabbids Sparks of Hope",
-    "price": "60",
-    "img": "https://a.allegroimg.com/s180x180/1ebf8c/d61725514bffb6c43006c109fa11",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-iwi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
     "title": "Nintendo switch sports",
     "price": "160",
@@ -4198,6 +4168,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
+  },
+  {
+    "id": "da8ce8ef-331c-4af4-8a95-3840ae4eeaf5",
+    "title": "Snack World The Dungeon Crawl Gold Nintendo Switch",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s180x180/1eb5f8/a4d4ab7745daaa4f0d13efbc7346",
+    "url": "https://allegrolokalnie.pl//oferta/snack-world-the-dungeon-crawl-gold-nintendo-switch-ydg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
+    "id": "094f1ec2-8305-452c-84a4-c03e2336f81d",
+    "title": "Eldest Souls Switch limited Run",
+    "price": "399",
+    "img": "https://a.allegroimg.com/s180x180/1e60b3/c9619616402596c88740ae210fdc",
+    "url": "https://allegrolokalnie.pl//oferta/eldest-souls-switch-limited-run-w2y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   },
   {
     "id": "da8ce8ef-331c-4af4-8a95-3840ae4eeaf5",
