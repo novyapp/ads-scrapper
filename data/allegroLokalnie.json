@@ -3600,6 +3600,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "5ea85ddc-7e9e-4ff4-8233-959add77176b",
+    "title": "Splatoon 2 - gra Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ed999/ea2ec46b4acea2691e0711e4066e",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-ev3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "0b9d00da-7370-4fbc-ae0b-069a0c75d22b",
     "title": "Carrion Nintendo Switch",
     "price": "149",
@@ -3922,7 +3932,7 @@
   {
     "id": "432c100a-a86a-4e28-9c62-6d52e836d18d",
     "title": "Splatoon 3 Nintendo Switch",
-    "price": "169",
+    "price": "158",
     "img": "https://a.allegroimg.com/s180x180/1e596d/764902cb46128098db079a6688be",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-xdk?navCategoryId=256922",
     "promoted": false,
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
-  },
-  {
-    "id": "094f1ec2-8305-452c-84a4-c03e2336f81d",
-    "title": "Eldest Souls Switch limited Run",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1e60b3/c9619616402596c88740ae210fdc",
-    "url": "https://allegrolokalnie.pl//oferta/eldest-souls-switch-limited-run-w2y?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
   },
   {
     "id": "4e7e20fe-7d1b-47e2-a6e4-6d03283e0949",
@@ -4800,6 +4800,16 @@
     "city": "Kraków"
   },
   {
+    "id": "d112fa7b-9496-4ce4-9083-84a10e1e4986",
+    "title": "nintendo switch the legend of zelda",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1ee1ce/a79ce5e14537928e7639419a45bd",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-xpo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "823447e8-ddcc-4620-8e58-0214de06a2e0",
     "title": "nintendo switch splatoon 2",
     "price": "129",
@@ -5385,16 +5395,6 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s180x180/11a322/b0e356604394ab9e0a4ae2a7c2bb",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-fcd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "1034f3b0-ef51-4060-a346-6444a2a6aee9",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/117792/ef09ee7f4905aa005c77e93bb983",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-oaw?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "dbde7197-3954-4ae4-b0cf-e3db555530a5",
+    "title": "BUS SIMULATOR CITY RIDE NOWA PL",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e38c2/f25fbf6c40d9bae32eb5115f527d",
+    "url": "https://allegrolokalnie.pl//oferta/bus-simulator-city-ride-nowa-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
   }
 ]
