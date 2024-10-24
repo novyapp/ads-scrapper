@@ -170,16 +170,6 @@
     "city": "Sanniki"
   },
   {
-    "id": "74dfabf6-3ac5-4b35-b151-1cf9e52dfbee",
-    "title": "Super Mario Bros Wonder - Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e435c/fec994834e4b8deba40c4b30586e",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-switch-kgu?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "7ff75d62-ab2e-4af3-b978-42a3a5092517",
     "title": "Prince of persja Nintendo switch",
     "price": "75",
@@ -2110,6 +2100,16 @@
     "city": "Białystok"
   },
   {
+    "id": "a82374bf-ce34-4f80-b48c-37642a239dec",
+    "title": "The Legend of Zelda Echoes of Wisdom",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e82f5/b92c94ae4e808f060f4dddf6c6e7",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-abi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pionki"
+  },
+  {
     "id": "effad967-59a9-4590-863f-1f6fead83ff4",
     "title": "Mario Party Jamboree - gadżety - Switch",
     "price": "29",
@@ -2388,16 +2388,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Chodzież"
-  },
-  {
-    "id": "adaf3540-eb4d-481e-a58a-54a215a7d36c",
-    "title": "Nintendo Ring Fit Adventure - Nintendo Switch",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s180x180/1e70c9/af54889f429e9e2b53eaba2e0b6a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-ring-fit-adventure-nintendo-switch-spr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sobowo"
   },
   {
     "id": "adaf3540-eb4d-481e-a58a-54a215a7d36c",
@@ -5995,6 +5985,16 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1ee81f/797c339d417b989c510bc4c2faa3",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-demon-gaze-extra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "cda52cae-bd39-4f80-93d9-390a748356ed",
+    "title": "Nintendo Switch Trails of Cold Steel IV 4",
+    "price": "275",
+    "img": "https://a.allegroimg.com/s180x180/1e790b/43b0196843329a6887ac637d0565",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trails-of-cold-steel-iv-4?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
