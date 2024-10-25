@@ -822,7 +822,7 @@
   {
     "id": "4586f9a4-5b35-4250-8467-565b8c439cfb",
     "title": "SUPER MARIO 3D WORLD + BOWSER'S FURY - NINTENDO SWITCH - nowa w folii",
-    "price": "190",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e27b1/0386abe34bdcb21254004a5148ec",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-nowa-w-folii?navCategoryId=256922",
     "promoted": true,
@@ -1672,7 +1672,7 @@
   {
     "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
     "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
-    "price": "170",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
     "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
@@ -1682,7 +1682,7 @@
   {
     "id": "cd5c34db-69e9-4184-8190-9c6756f79f33",
     "title": "PRINCE OF PERSIA: THE LOST CROWN - NINTENDO SWITCH, JAK NOWA",
-    "price": "160",
+    "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
     "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
     "promoted": true,
@@ -2990,6 +2990,16 @@
     "city": "Lędziny"
   },
   {
+    "id": "b2888800-4c89-4ecc-92c7-62458fdd89f4",
+    "title": "Neversong Nowa!!",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e5603/d0ee27fe44aeaa8299fab863dbe5",
+    "url": "https://allegrolokalnie.pl//oferta/neversong-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
     "id": "989191f4-9c37-4bcd-8a3c-7e36c8e2f039",
     "title": "Beyond a Steel Sky: Utopia Edition",
     "price": "180",
@@ -3568,16 +3578,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Dąbrowa Tarnowska"
-  },
-  {
-    "id": "dab3d9f4-3032-4b19-b361-fae3b82a73b4",
-    "title": "Crash Team Racing",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e9f90/9778af0b4b4bba7c57bec54a94a9",
-    "url": "https://allegrolokalnie.pl//oferta/crash-team-racing-pg5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ochota"
   },
   {
     "id": "dab3d9f4-3032-4b19-b361-fae3b82a73b4",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Grochów"
+  },
+  {
+    "id": "6a18f57b-bc65-4923-b970-60f0fae77c10",
+    "title": "Gra NBA 2K23 Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ee6ee/204f8ac74299854a2ed361e44a11",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k23-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
+    "title": "Gra Quake Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e45a9/265303484768a0ac9de2cf279a2b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-quake-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
   }
 ]
