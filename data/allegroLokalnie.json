@@ -310,16 +310,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "48677d16-ca57-4779-b462-065ad8e54f15",
-    "title": "Super Mario Wonder Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ef837/de0105a5494a8091b52c8829a2a9",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-wonder-switch-e24?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "4a5c1aa9-d464-445d-9594-60b90bb4c73f",
     "title": "The Legend of Zelda: Link's Awakening",
     "price": "165",
@@ -1210,6 +1200,16 @@
     "city": "Kraków"
   },
   {
+    "id": "32a5f926-c6e3-40a4-9247-20fcd2054c7f",
+    "title": "GRA NINTENDO PAPER MARIO",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e7dc2/9dccce344406b72f5950c182c7c6",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-paper-mario?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -1800,16 +1800,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
-    "title": "Super Mario Odyssey Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
     "title": "Fifa 22 Nintendo switch",
     "price": "55",
@@ -2385,6 +2375,26 @@
     "price": "199",
     "img": "https://a.allegroimg.com/s180x180/1e483a/a36d64bc48a3b8a16d9ae3d54606",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-saga-scarlet-grace-ambitions-wqg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "b1cd3a80-1aef-483d-a268-ff1727289cca",
+    "title": "Nintendo Switch Dragon Marked for Death",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1ef6d2/bbf7bf8742e3bb9f95fca140835c",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dragon-marked-for-death-3q3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
+  },
+  {
+    "id": "42f71300-dfcd-47f1-a719-bdaafa4c5205",
+    "title": "Nintendo Switch Attack on Titan 2",
+    "price": "369",
+    "img": "https://a.allegroimg.com/s180x180/1eeec0/da05e9da44b5a8af41c89cef2400",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-attack-on-titan-2-hm2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
@@ -2990,26 +3000,6 @@
     "city": "Lędziny"
   },
   {
-    "id": "f7a711d6-277b-4904-8d9b-c94803e7a204",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "e2865e18-573a-4c27-9a9e-57d317c13449",
-    "title": "Pokemon Sword Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ec97d/3f79b8364ab190c6115ee2abc1c0",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-qae?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
     "id": "db78617d-33e1-4591-bc95-949fa05927dc",
     "title": "Pokemon Sword Nintendo Switch",
     "price": "150",
@@ -3588,6 +3578,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lubin"
+  },
+  {
+    "id": "ad525db5-54cb-400f-a080-969c0604533c",
+    "title": "Luigi's Mansion 2 HD Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1ec60e/32b53f3245dea4f6aefe0185268e",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-lsh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lubin"
+  },
+  {
+    "id": "356a66a1-3f1a-4d23-a221-2bd55f95ead3",
+    "title": "Gra Super Smash Bros na Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee6cc/8c539fef4d1190e391b1a62781f9",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-smash-bros-na-nintendo-switch-lca?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzyżów"
   },
   {
     "id": "ad525db5-54cb-400f-a080-969c0604533c",
