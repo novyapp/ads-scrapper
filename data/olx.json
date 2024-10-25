@@ -1,5 +1,38 @@
 [
   {
+    "localId": 954778368,
+    "title": "Sea of Stars [aktywne]",
+    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/9ckzucj9nics1-PL/image;s=200x0;q=50",
+    "url": "https://www.olx.pl/d/oferta/sea-of-stars-aktywne-CID99-ID12C9t6.html",
+    "pricePLN": "130 zł",
+    "city": "Ząbki",
+    "type": "BUY_NOW",
+    "date": "25.10.2024 08:00",
+    "timestamp": 1729843200000
+  },
+  {
+    "localId": 954777862,
+    "title": "Dragon Quest XI S Echoes of an Elusive Age [aktywne]",
+    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/6zoqdfwioftj-PL/image;s=200x0;q=50",
+    "url": "https://www.olx.pl/d/oferta/dragon-quest-xi-s-echoes-of-an-elusive-age-aktywne-CID99-ID12C9kV.html",
+    "pricePLN": "160 zł",
+    "city": "Ząbki",
+    "type": "BUY_NOW",
+    "date": "25.10.2024 07:57",
+    "timestamp": 1729843020000
+  },
+  {
+    "localId": 947318672,
+    "title": "Gra minecraft switch",
+    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/lx3igzkbx8ua1-PL/image;s=200x0;q=50",
+    "url": "https://www.olx.pl/d/oferta/gra-minecraft-switch-CID99-ID126QRq.html",
+    "pricePLN": "100 zł",
+    "city": "Szczecin, Centrum",
+    "type": "BUY_NOW",
+    "date": "25.10.2024 07:54",
+    "timestamp": 1729842840000
+  },
+  {
     "localId": 947316907,
     "title": "Gra fifa 23 switch",
     "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/pteq73klenjk-PL/image;s=200x0;q=50",
@@ -24,7 +57,7 @@
   {
     "localId": 954771401,
     "title": "FC24 Nintendo Switch",
-    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/rrecs6dbab5i3-PL/image;s=200x0;q=50",
+    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
     "url": "https://www.olx.pl/d/oferta/fc24-nintendo-switch-CID99-ID12C7EJ.html",
     "pricePLN": "75 zł",
     "city": "Zakopane",
@@ -35,7 +68,7 @@
   {
     "localId": 954770918,
     "title": "Dwie gry Nintendo switch",
-    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/64ecgf9unac12-PL/image;s=200x0;q=50",
+    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
     "url": "https://www.olx.pl/d/oferta/dwie-gry-nintendo-switch-CID99-ID12C7vV.html",
     "pricePLN": "155 zł",
     "city": "Zakopane",
@@ -46,7 +79,7 @@
   {
     "localId": 954770880,
     "title": "Princess Peach Showtime Nintendo Switch",
-    "thumbnail": "https://ireland.apollo.olxcdn.com/v1/files/72qgr5s56is33-PL/image;s=200x0;q=50",
+    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
     "url": "https://www.olx.pl/d/oferta/princess-peach-showtime-nintendo-switch-CID99-ID12C7vk.html",
     "pricePLN": "125 zł",
     "city": "Garwolin",
@@ -405,38 +438,5 @@
     "type": "BUY_NOW",
     "date": "25.10.2024 04:27",
     "timestamp": 1729830420000
-  },
-  {
-    "localId": 954749871,
-    "title": "Fc24 nintendo switch",
-    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
-    "url": "https://www.olx.pl/d/oferta/fc24-nintendo-switch-CID99-ID12C23t.html",
-    "pricePLN": "90 zł",
-    "city": "Białystok, Bojary",
-    "type": "BUY_NOW",
-    "date": "25.10.2024 04:25",
-    "timestamp": 1729830300000
-  },
-  {
-    "localId": 954749799,
-    "title": "Spongebob nintendo switch",
-    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
-    "url": "https://www.olx.pl/d/oferta/spongebob-nintendo-switch-CID99-ID12C22j.html",
-    "pricePLN": "75 zł",
-    "city": "Białystok, Bojary",
-    "type": "BUY_NOW",
-    "date": "25.10.2024 04:21",
-    "timestamp": 1729830060000
-  },
-  {
-    "localId": 954749376,
-    "title": "Super Mario Party jamboree",
-    "thumbnail": "https://www.olx.pl/app/static/media/no_thumbnail.c222b0530.svg",
-    "url": "https://www.olx.pl/d/oferta/super-mario-party-jamboree-CID99-ID12C1Wu.html",
-    "pricePLN": "160 zł",
-    "city": "Łódź, Śródmieście",
-    "type": "BUY_NOW",
-    "date": "25.10.2024 04:01",
-    "timestamp": 1729828860000
   }
 ]
