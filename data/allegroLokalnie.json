@@ -592,7 +592,7 @@
   {
     "id": "9c5bf927-f5fa-4e12-ac81-8d3a16fc3bf5",
     "title": "The Legend of Zelda - Breath of the Wild Switch",
-    "price": "186",
+    "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1e387f/af77bdc848f695270671f6fc273e",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-hje?navCategoryId=256922",
     "promoted": true,
@@ -601,8 +601,8 @@
   },
   {
     "id": "b9dc681f-975d-45b8-8a47-030ee9b73a22",
-    "title": "Disney Illusion Island Switch",
-    "price": "149",
+    "title": "Disney Illusion Island Switch (w folii)",
+    "price": "148",
     "img": "https://a.allegroimg.com/s180x180/1ef2e6/2d5e34334daca0968f2de4e5d0d6",
     "url": "https://allegrolokalnie.pl//oferta/disney-illusion-island-switch-gkw?navCategoryId=256922",
     "promoted": true,
@@ -632,7 +632,7 @@
   {
     "id": "907d8130-5093-4025-b16a-31f9d24c8781",
     "title": "The Legend of Zelda Link's Awakening",
-    "price": "207",
+    "price": "206",
     "img": "https://a.allegroimg.com/s180x180/1eefa3/43e65b104a61b4afb4c4d3955956",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-bdi?navCategoryId=256922",
     "promoted": true,
@@ -1762,7 +1762,7 @@
   {
     "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
     "title": "Super Mario Odyssey Switch",
-    "price": "170",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
     "promoted": true,
@@ -1822,7 +1822,7 @@
   {
     "id": "11c173a0-b141-42b9-80c0-3a69ffd6cc4c",
     "title": "Ori and the Will of the Wisps Switch",
-    "price": "132",
+    "price": "131",
     "img": "https://a.allegroimg.com/s180x180/1e2a26/3eb862004d7ea0cff34166318f4c",
     "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-3yh?navCategoryId=256922",
     "promoted": true,
@@ -1912,7 +1912,7 @@
   {
     "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "108",
+    "price": "107",
     "img": "https://a.allegroimg.com/s180x180/1e2a51/26f569c247e69b18505bb6b499ec",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-ore?navCategoryId=256922",
     "promoted": true,
@@ -1932,7 +1932,7 @@
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
-    "price": "99",
+    "price": "98",
     "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
     "promoted": true,
@@ -2138,6 +2138,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "cc73b20c-18ef-4f1e-80bf-0452862a8485",
+    "title": "Nintendo Switch Wasteland 2: Director's Cut",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1ec62e/69fc10f140b89c15bad8424dc0f0",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-wasteland-2-directors-cut?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
     "id": "8ec5090c-0b81-4c53-851d-7f6c7bc55f5d",
@@ -2368,6 +2378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "1d6ea169-86d8-4e60-b2f0-74f822873926",
+    "title": "Legend of Zelda Tears of the Kingdom",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e9260/06c240904e0081f94d1a62c14763",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-tears-of-the-kingdom-7ed?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Wilda"
+  },
+  {
+    "id": "108932fc-1f3c-4b6a-8328-407b9528910c",
+    "title": "FIFA 22 Edycja Legacy Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1ecdec/3ad2e6264997ba3f82878b20d81c",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-edycja-legacy-nintendo-switch-pos?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzelin"
   },
   {
     "id": "1d6ea169-86d8-4e60-b2f0-74f822873926",
@@ -2678,36 +2708,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "cf71ee3f-d811-4469-955f-9497dfc09317",
-    "title": "Witcher 3 Wild Hunt Complete Edition Wiedźmin 3 Dziki Gon Edycja Kompletna",
-    "price": "220",
-    "img": "https://a.allegroimg.com/s180x180/1e34bb/e39333014d268e8fd40eeb585957",
-    "url": "https://allegrolokalnie.pl//oferta/witcher-3-wild-hunt-complete-edition-wiedzmin-3-dziki-gon-edycja-kompletna?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "cf1f7c5e-de12-449b-96bb-84057453caf3",
-    "title": "Monark Deluxe Edition na Nintendo Switch (nowa w folii)",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e710d/e8b5620c41d4afcb70e0809a24b8",
-    "url": "https://allegrolokalnie.pl//oferta/monark-deluxe-edition-na-nintendo-switch-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "1351a1af-5110-467c-a28f-5c999f424574",
-    "title": "Super Smash Bros Ultimate Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e6526/774ae08b4f8693c919861b152d3a",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-xbn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
   },
   {
     "id": "b3e55d92-a2cb-424b-b69c-5a4b8e640229",
@@ -4200,6 +4200,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "b112bedf-538a-4ab8-af52-841e08495da5",
+    "title": "Paper Mario The Thousand - Year Door GADŻETY Switch",
+    "price": "19",
+    "img": "https://a.allegroimg.com/s180x180/1e2cfe/7af6910b490d89bb48da33a359e8",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch-h53?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
     "id": "8ae6b322-c03d-4884-9d4e-efe83392ccb8",
     "title": "Eastward Collector's Edition",
     "price": "330",
@@ -4788,26 +4798,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Mińsk Mazowiecki"
-  },
-  {
-    "id": "a3e2202c-f290-4b3c-87bc-699c3c09e9f5",
-    "title": "Fire Emblem Three Houses Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e41b7/1afc90c341999dd8b828ba450f43",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-nintendo-switch-q45?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kalisz"
-  },
-  {
-    "id": "a3e2202c-f290-4b3c-87bc-699c3c09e9f5",
-    "title": "Fire Emblem Three Houses Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e41b7/1afc90c341999dd8b828ba450f43",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-nintendo-switch-q45?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kalisz"
   },
   {
     "id": "d88b4883-abc3-485b-b065-33f8e358a3ae",
@@ -5400,6 +5390,26 @@
     "city": "Wieliczka"
   },
   {
+    "id": "cd9f6976-83bc-4fbe-a433-9cafb8b11b32",
+    "title": "POKEMON VIOLET / POKEMONY / GRA NINTENDO SWITCH NA KARTRIDŻU",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e9a34/d6d98e8d4c5ba15e058d2bf2fc04",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-pokemony-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "cd9f6976-83bc-4fbe-a433-9cafb8b11b32",
+    "title": "POKEMON VIOLET / POKEMONY / GRA NINTENDO SWITCH NA KARTRIDŻU",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e9a34/d6d98e8d4c5ba15e058d2bf2fc04",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-pokemony-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
     "id": "f7567161-e1ab-4585-9032-f70125941ce9",
     "title": "HOT WHEELS UNLEASHED CHALLENGE EDITION PL",
     "price": "134",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
-  },
-  {
-    "id": "c2a4dddf-fb9a-463c-af82-dc27b6909158",
-    "title": "Overcooked! + Overcooked! 2 Gra Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e8d80/2515c5cb4fcebb615037a8cbb173",
-    "url": "https://allegrolokalnie.pl//oferta/overcooked-overcooked-2-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Praga-Południe"
   }
 ]
