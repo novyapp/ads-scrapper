@@ -3600,6 +3600,26 @@
     "city": "Strzyżów"
   },
   {
+    "id": "ad525db5-54cb-400f-a080-969c0604533c",
+    "title": "Luigi's Mansion 2 HD Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1ec60e/32b53f3245dea4f6aefe0185268e",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-lsh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lubin"
+  },
+  {
+    "id": "356a66a1-3f1a-4d23-a221-2bd55f95ead3",
+    "title": "Gra Super Smash Bros na Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee6cc/8c539fef4d1190e391b1a62781f9",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-smash-bros-na-nintendo-switch-lca?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzyżów"
+  },
+  {
     "id": "42fdb2e1-16b7-475d-a577-864b7654dfdc",
     "title": "Pokémon Arceus - Nintendo Switch",
     "price": "170",
@@ -4175,26 +4195,6 @@
     "price": "135",
     "img": "https://a.allegroimg.com/s180x180/1e374d/67e9cd5f4fc7b2de8f318017146f",
     "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-revelations-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "fff8439f-0b7a-4b51-9e08-f9fb33de9b06",
-    "title": "Gra Resident Evil 4 Nintendo Switch",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1eaf48/ae5b29d24a65980b771601b99a29",
-    "url": "https://allegrolokalnie.pl//oferta/gra-resident-evil-4-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "c68a902f-f96e-4b71-9e83-ebca9bb74408",
-    "title": "Gra John Wick Hex Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e9a8b/b409b12c4d8d8279d90115581939",
-    "url": "https://allegrolokalnie.pl//oferta/gra-john-wick-hex-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
@@ -4778,6 +4778,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "de74bf96-4e66-4f2b-8d6e-595782f35f70",
+    "title": "Animal Crossing New Horizons",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e31db/07c63c9a49e8aaa7cebabdf68589",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-uix?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "a5621fe0-6b54-4dcc-ad93-a9778284c27d",
+    "title": "COFFE TALK STRICTLY LIMITED GAMES SWITCH",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s180x180/1eda14/fb2b10be400b8506674cf658d045",
+    "url": "https://allegrolokalnie.pl//oferta/coffe-talk-strictly-limited-games-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Przemyśl"
   },
   {
     "id": "de74bf96-4e66-4f2b-8d6e-595782f35f70",
@@ -5590,16 +5610,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "3ce78f05-e9c2-4c3b-a8cc-cc7417af619d",
-    "title": "Super Blood Hockey",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/1effe0/e90f704d49e98d08da966df2499f",
-    "url": "https://allegrolokalnie.pl//oferta/super-blood-hockey?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
     "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
     "price": "140",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bielsko-Biała"
-  },
-  {
-    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
-    "title": "Gra Asterix i Obelix Slap Them All Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
   }
 ]
