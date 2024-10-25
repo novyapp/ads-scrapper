@@ -1,5 +1,35 @@
 [
   {
+    "id": "b3290242-3a9b-4dae-9bb6-966baae5a2ff",
+    "title": "Shin Megami Tensei V",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1edb5b/df9e275142a3beec8b016bca3b23",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-7ar?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "59268668-3502-43c8-90c6-ca21cf6bd2b3",
+    "title": "Wiedźmin 3 Edycja Kompletna Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1ecde1/bb7483fe4ceeb6b0fa67d876ab3c",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-kompletna-switch-sn7?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "9bfeaf0e-a4a7-47ff-985e-25663bb561b7",
+    "title": "Rune Factory 3 Special Switch + DLC NOWE!",
+    "price": "147",
+    "img": "https://a.allegroimg.com/s180x180/1e94f9/f84402d44c3fa6e63033a8f9d5db",
+    "url": "https://allegrolokalnie.pl//oferta/rune-factory-3-special-switch-dlc-nowe-juk?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
     "id": "52a335b4-c1fe-4962-a982-7db64a3b16ab",
     "title": "Gothic classic, Gothic 2 Nintendo switch",
     "price": "109",
@@ -568,26 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Świdnica"
-  },
-  {
-    "id": "cc02e1f4-e9ad-4f4b-8b84-2c5f92c81fe4",
-    "title": "Timespinner Limted Run Games (LRG) Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e04ee/abd1da064a49a947a6c6ad6f39a3",
-    "url": "https://allegrolokalnie.pl//oferta/timespinner-limted-run-games-lrg-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Katowice"
-  },
-  {
-    "id": "6235995a-87db-449c-96ff-4d4f7e1b3949",
-    "title": "MINECRAFT DUNGEONS HERO EDITION - EXPRES",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e912b/4c2b21954471bc729e18f542e9ce",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-expres?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Lublin"
   },
   {
     "id": "063e5787-3241-4ee0-a076-a7fdc7fae061",
@@ -1200,16 +1210,6 @@
     "city": "Kraków"
   },
   {
-    "id": "32a5f926-c6e3-40a4-9247-20fcd2054c7f",
-    "title": "GRA NINTENDO PAPER MARIO",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e7dc2/9dccce344406b72f5950c182c7c6",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-paper-mario?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -1798,6 +1798,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
+    "title": "Super Mario Odyssey Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
@@ -5390,6 +5400,26 @@
     "city": "Zalas"
   },
   {
+    "id": "68cad325-44b2-4b36-8679-12548318b007",
+    "title": "DC Justice League Cosmic Chaos PL Nintendo Switch",
+    "price": "64",
+    "img": "https://a.allegroimg.com/s180x180/1e697d/337e2a454f2a978a646821e0f354",
+    "url": "https://allegrolokalnie.pl//oferta/dc-justice-league-cosmic-chaos-pl-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kamionki, Osiedle Azaliowe"
+  },
+  {
+    "id": "89f74a80-3702-4d76-9003-7a91d6ef3648",
+    "title": "Monster Hunter Rise",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s180x180/1ee1a9/dcd1061643c2a4cf89afde3c95cc",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-bmo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zalas"
+  },
+  {
     "id": "a15b77e8-8c1e-4d25-81e0-8a4be309d7b6",
     "title": "Dredge (Nintendo Switch)",
     "price": "95",
@@ -5965,36 +5995,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
     "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
-    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Grochów"
-  },
-  {
-    "id": "6a18f57b-bc65-4923-b970-60f0fae77c10",
-    "title": "Gra NBA 2K23 Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1ee6ee/204f8ac74299854a2ed361e44a11",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nba-2k23-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
-  },
-  {
-    "id": "e97a4635-0a30-45f5-920f-23a6268b72f4",
-    "title": "Gra Quake Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e45a9/265303484768a0ac9de2cf279a2b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-quake-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Kraków, Dębniki"
