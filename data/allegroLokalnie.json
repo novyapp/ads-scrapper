@@ -1800,16 +1800,6 @@
     "city": "Białystok"
   },
   {
-    "id": "70c53585-e07d-43e6-b92a-af7bbda0cd61",
-    "title": "Super Mario Odyssey Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e60dc/191f65804c46973d9b99c04035bd",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
     "title": "Fifa 22 Nintendo switch",
     "price": "55",
@@ -2395,6 +2385,16 @@
     "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1e1c7c/cc7d6d61478bac05bfd9d77acf73",
     "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-nintendo-switch-tx7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Targ"
+  },
+  {
+    "id": "4e275e2f-699e-4140-adf7-909895bd5f51",
+    "title": "Mario Strikers Battle League Football Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e2fb7/1062045c460b816d66bb4e0c2ac0",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mfn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -3792,7 +3792,7 @@
   {
     "id": "d750af4a-e904-4d57-bc3a-7a4fc9f3f47c",
     "title": "The Legend of Zelda Echoes of Wisdom Nintendo Switch",
-    "price": "199",
+    "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1e13e3/7cbebf224168977d20bb316124ec",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-nintendo-switch-c7d?navCategoryId=256922",
     "promoted": false,
@@ -3812,7 +3812,7 @@
   {
     "id": "ad525db5-54cb-400f-a080-969c0604533c",
     "title": "Luigi's Mansion 2 HD Nintendo Switch",
-    "price": "199",
+    "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1ec60e/32b53f3245dea4f6aefe0185268e",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-lsh?navCategoryId=256922",
     "promoted": false,
