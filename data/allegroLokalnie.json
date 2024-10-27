@@ -790,16 +790,6 @@
     "city": "Strzyżów"
   },
   {
-    "id": "954ca6fc-e149-4753-b5ed-071ee5b24305",
-    "title": "Persona 5 Royal Switch",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1e549f/f859155f44308f6b58095d978b91",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-switch-rrf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Stare Kurowo"
-  },
-  {
     "id": "5611fc93-445f-4500-88d5-4951c74f824e",
     "title": "Nintendo Switch Mario Part Superstars",
     "price": "170",
@@ -2410,6 +2400,16 @@
     "city": "Nowy Targ"
   },
   {
+    "id": "785d6d6c-e0f5-4fd6-a454-f59ee84963df",
+    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1ead11/c7774832437a94ade59f3d4ae77c",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-ety?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Targ"
+  },
+  {
     "id": "353d2bb0-4783-43a1-af8e-b8aed2f748b3",
     "title": "Minecraft Dungeons Ultimate Edition Nintendo Switch",
     "price": "109",
@@ -2995,16 +2995,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e585c/ec5fef304abc8c274c42d31914b9",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-fhw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
-  },
-  {
-    "id": "a6621c5e-91ab-4918-9f97-f752da94c603",
-    "title": "Zombie Army 4: Dead War Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e501d/9ae31b854a56aa53813dab472a23",
-    "url": "https://allegrolokalnie.pl//oferta/zombie-army-4-dead-war-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
@@ -4210,6 +4200,16 @@
     "city": "Gostynin"
   },
   {
+    "id": "c8abacf6-d452-42fd-b85a-42b4a8a18079",
+    "title": "NINTENDO SWITCH Crash TRYLOGIA + Crash 4 NAJWYŻSZY CZAS",
+    "price": "239",
+    "img": "https://a.allegroimg.com/s180x180/1e9c7b/c8134dc94b439f72e0a35a7932b8",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crash-trylogia-crash-4-najwyzszy-czas?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
     "id": "14bbb1e7-7c04-4eed-b8af-f4cd0daf26f5",
     "title": "3 x MARIO Nintendo SWITCH zestaw 3 gier MARIO mega paka !",
     "price": "589",
@@ -5400,16 +5400,6 @@
     "city": "Grabiny-Zameczek"
   },
   {
-    "id": "990cccfb-817f-446d-b3c8-00d572ad4a25",
-    "title": "Super mario 3d world + bowsers fury",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1ed6cf/ed49e0244c6a9e116f223fea8a6d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-dq5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Owsiszcze"
-  },
-  {
     "id": "4c765f42-0d9f-416f-a260-70595eb6e02a",
     "title": "Dark souls remastered",
     "price": "139",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   }
 ]
