@@ -1200,16 +1200,6 @@
     "city": "Katowice"
   },
   {
-    "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
-    "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
-    "price": "105",
-    "img": "https://a.allegroimg.com/s180x180/1e82b1/935a1a824e7788df6ce545f0d931",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-thf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Katowice"
-  },
-  {
     "id": "f1f1005d-4b45-4e7a-a3d3-aa12945af4b1",
     "title": "Luigi's Mansion 3 Nintendo Switch",
     "price": "179",
@@ -1660,26 +1650,6 @@
     "city": "Majdan królewski"
   },
   {
-    "id": "932fbbe0-8da8-40b3-b46f-8aa4946c2851",
-    "title": "NEW SUPER MARIO BROS. U DELUXE - NINTENDO SWITCH, JAK NOWA",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1eb876/fd963a414dd8b578983dd5e00691",
-    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-deluxe-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
-    "id": "cd5c34db-69e9-4184-8190-9c6756f79f33",
-    "title": "PRINCE OF PERSIA: THE LOST CROWN - NINTENDO SWITCH, JAK NOWA",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e0b6b/869b72094890b8211bfa320bcfbf",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-jak-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
     "title": "Super Mario 3D All Stars",
     "price": "569",
@@ -1798,6 +1768,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
+    "title": "Fifa 22 Nintendo switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s180x180/1eb78f/c3e0c1294437a8a76a1af0c201f1",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-ewd?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Jelenia Góra"
   },
   {
     "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
@@ -2240,6 +2220,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "df3737dd-1502-4573-bc5f-04811e39a815",
+    "title": "Gra Super Mario Party Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e57b8/87fa9f5843afa9b548c4723cb148",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-party-nintendo-switch-lcd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasło"
+  },
+  {
     "id": "785d6d6c-e0f5-4fd6-a454-f59ee84963df",
     "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
     "price": "189",
@@ -2668,16 +2658,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "61bb9d33-ce62-4fda-8490-2abbf7ce0023",
-    "title": "FC25 FIFA Nintendo switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ee7cd/0ce0841c499b897bd69613512c09",
-    "url": "https://allegrolokalnie.pl//oferta/fc25-fifa-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łódź"
   },
   {
     "id": "3b49f10d-d0b4-4ab7-b797-16852768bbdc",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bielsko-Biała"
+  },
+  {
+    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
+    "title": "Gra Asterix i Obelix Slap Them All Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "196b237d-0b68-4f22-868a-10de17e7b0d1",
+    "title": "Nintendo Labo Vehicle Kit. Gra i akcesoria",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e9c2c/ec540b564793b8cd80b0ab1c8e20",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-labo-vehicle-kit-gra-i-akcesoria?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Grochów"
   }
 ]
