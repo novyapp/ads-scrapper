@@ -600,6 +600,16 @@
     "city": "Dobroszyce"
   },
   {
+    "id": "7f73e266-4e5f-403d-b434-48d741443a23",
+    "title": "-> Nintendo Switch LUIGI's MANSION 3...HIT ! <-",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e64a1/c68b85d745279c8cd6ee900e367a",
+    "url": "https://allegrolokalnie.pl//oferta/greater-nintendo-switch-luigis-mansion-3hit-less?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Dobroszyce"
+  },
+  {
     "id": "51e45285-630e-4c5d-aefa-9cfe84449ee5",
     "title": "Metroid Prime Remastered Nintendo Switch",
     "price": "120",
@@ -1788,16 +1798,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
-  },
-  {
-    "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
-    "title": "Fifa 22 Nintendo switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s180x180/1eb78f/c3e0c1294437a8a76a1af0c201f1",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-ewd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Jelenia Góra"
   },
   {
     "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
@@ -3600,6 +3600,16 @@
     "city": "Rzeszów"
   },
   {
+    "id": "2f353624-f0fe-46ec-9a1e-c74f5daca3b9",
+    "title": "Dark Souls Remastered Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e5263/fa731caf455a889a6d379c1ab501",
+    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-nintendo-switch-7wo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "4394470d-e41f-4250-a753-0079e5080390",
     "title": "Persona 5 Royal Nintendo Switch",
     "price": "119",
@@ -4180,14 +4190,14 @@
     "city": "Piotrków Trybunalski"
   },
   {
-    "id": "0b9d00da-7370-4fbc-ae0b-069a0c75d22b",
-    "title": "Carrion Nintendo Switch",
-    "price": "144",
-    "img": "https://a.allegroimg.com/s180x180/1ea22e/8c28c9184914b6ea9cea0b89c553",
-    "url": "https://allegrolokalnie.pl//oferta/carrion-nintendo-switch-sj3?navCategoryId=256922",
+    "id": "5ea85ddc-7e9e-4ff4-8233-959add77176b",
+    "title": "Splatoon 2 - gra Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ed999/ea2ec46b4acea2691e0711e4066e",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-ev3?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Stare Miasto"
+    "smartPost": false,
+    "city": "Warszawa, Ursynów"
   },
   {
     "id": "a44cbece-a0de-49bc-9829-465c908db08a",
@@ -5978,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "18611ece-2f7f-4878-8a07-432fc4463046",
+    "title": "Super Mario 3DWorld + Bowser's Fury Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e2425/94bce9df430491137146f5d9f2ce",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3dworld-bowsers-fury-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsko-Biała"
   }
 ]
