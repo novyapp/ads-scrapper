@@ -1142,7 +1142,7 @@
   {
     "id": "a4cfc751-2629-4c89-b36f-de9700870823",
     "title": "Xenoblade Chronicles: Definitive Edition",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1eb9d2/28ef8086407d8bdcfd0fb9e322ff",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-5rb?navCategoryId=256922",
     "promoted": true,
@@ -2210,6 +2210,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "ed2c92c0-1c49-422e-b1d5-ad92fae9edb3",
+    "title": "Luigis mansion 3 gra Nintendo switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e60ef/97f829cb46289965db323dc67984",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-gra-nintendo-switch-dvn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
     "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
     "title": "Kangurek Kao Nintendo switch",
     "price": "75",
@@ -2385,16 +2395,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e18b9/4de27e4146d1bb67231bb7e2f579",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-iui?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "22e4349f-f43e-4b77-80a6-58cf7e771685",
-    "title": "Paper Mario The Thousand Year Door Nintendo Switch",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1ee887/edc979c84ae4835220094e08711b",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-nintendo-switch-ncq?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -3598,6 +3598,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "2a95539c-f7d9-4dd4-b6ab-430962518cdf",
+    "title": "Radiant Silvergun Nintendo Switch",
+    "price": "300",
+    "img": "https://a.allegroimg.com/s180x180/1e64c2/d9190b264355b984d0bf64d1507c",
+    "url": "https://allegrolokalnie.pl//oferta/radiant-silvergun-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   },
   {
     "id": "feef6dde-622c-40c3-b287-626f76d6ac6c",
