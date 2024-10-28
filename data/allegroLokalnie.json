@@ -1,5 +1,15 @@
 [
   {
+    "id": "62c19cbf-96e1-44e3-81c6-d634e24ea87e",
+    "title": "The Legend of Zelda Link's Awakening",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e43d9/5617d67b4fffac0d957f5dd70d0c",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-abg?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Kraków"
+  },
+  {
     "id": "e0e583d0-320e-41ad-9dde-cf6518939dd0",
     "title": "Pokemon Shining Pearl",
     "price": "90",
@@ -590,26 +600,6 @@
     "city": "Lublin"
   },
   {
-    "id": "7f73e266-4e5f-403d-b434-48d741443a23",
-    "title": "-> Nintendo Switch LUIGI's MANSION 3...HIT ! <-",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e64a1/c68b85d745279c8cd6ee900e367a",
-    "url": "https://allegrolokalnie.pl//oferta/greater-nintendo-switch-luigis-mansion-3hit-less?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dobroszyce"
-  },
-  {
-    "id": "7f73e266-4e5f-403d-b434-48d741443a23",
-    "title": "-> Nintendo Switch LUIGI's MANSION 3...HIT ! <-",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e64a1/c68b85d745279c8cd6ee900e367a",
-    "url": "https://allegrolokalnie.pl//oferta/greater-nintendo-switch-luigis-mansion-3hit-less?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dobroszyce"
-  },
-  {
     "id": "51e45285-630e-4c5d-aefa-9cfe84449ee5",
     "title": "Metroid Prime Remastered Nintendo Switch",
     "price": "120",
@@ -1195,6 +1185,16 @@
     "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e82b1/935a1a824e7788df6ce545f0d931",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-thf?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Katowice"
+  },
+  {
+    "id": "f1f1005d-4b45-4e7a-a3d3-aa12945af4b1",
+    "title": "Luigi's Mansion 3 Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1efb2c/2ded76f340af9aa19d04ab0f55f4",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-hdu?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Katowice"
@@ -4200,6 +4200,16 @@
     "city": "DOBRZANY"
   },
   {
+    "id": "38d49e28-1eb4-484f-aa93-8602768874c1",
+    "title": "SEA OF STARS (SWITCH) EGZ NOWY, WYD KOLEKCJONERSKIE",
+    "price": "465",
+    "img": "https://a.allegroimg.com/s180x180/1e08b2/9328d3564edeb729317680e2152c",
+    "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-pqo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "04f4ecc3-225d-4d26-bd66-61388651266a",
     "title": "SCHiM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
     "price": "286",
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
-  },
-  {
-    "id": "f0763ab0-0c7b-40ee-861d-a32c5d01206e",
-    "title": "Lets Sing Abba! + mikrofony Nintendo Switch Okazja! Ideał!",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s180x180/1e1eea/8c73099546a785c7d15423aa9255",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-mikrofony-nintendo-switch-okazja-ideal?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gorzów Wielkopolski"
   },
   {
     "id": "2655f357-d8c7-4715-8a6f-5ddb094a2f62",
@@ -5400,6 +5400,16 @@
     "city": "Zakopane"
   },
   {
+    "id": "faf64c59-a332-47b2-87ac-e7e56091709f",
+    "title": "Charons staircase switch - horror",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e9b78/ff5bbf2f4d32b47febe89a147805",
+    "url": "https://allegrolokalnie.pl//oferta/charons-staircase-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
     "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
     "title": "Ikai switch horror",
     "price": "80",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
-  },
-  {
-    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
-    "title": "Switch Splatoon 2 ... OKAZJA",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e18b5/8af26a3847f588978a95e6af8c35",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   }
 ]
