@@ -2280,6 +2280,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "80505c1a-725a-4497-a324-676133a4dbb1",
+    "title": "Monster Hunter Stories 2",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e4074/8de023f747918f75424a3936b3bc",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-jav?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lubaczów"
+  },
+  {
     "id": "246dcf1a-d6b4-4cf6-af7b-493130bf794d",
     "title": "Mario Party Superstars",
     "price": "160",
@@ -2395,16 +2405,6 @@
     "price": "529",
     "img": "https://a.allegroimg.com/s180x180/1ed503/248598ff403da7a6e2b11351ed46",
     "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-kolekcjonerka-bonus-ibs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
-    "id": "e93ff5b5-7b54-471d-8e43-96f277ccf979",
-    "title": "Astral Chain na nintendo switch - nowa w folii",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1eb455/2efc7fcc4534a826daea8f31e935",
-    "url": "https://allegrolokalnie.pl//oferta/astral-chain-na-nintendo-switch-nowa-w-folii-up5?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
@@ -3585,6 +3585,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "e2865e18-573a-4c27-9a9e-57d317c13449",
+    "title": "Pokemon Sword Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ec97d/3f79b8364ab190c6115ee2abc1c0",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-qae?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łaziska Górne"
-  },
-  {
-    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
-    "title": "Ultra Age - Switch (Nowa)",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
   }
 ]
