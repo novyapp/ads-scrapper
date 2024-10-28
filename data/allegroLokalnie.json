@@ -3670,16 +3670,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "466464ed-0f68-4379-a29b-ef2feb5c3c52",
-    "title": "Metroid Prime Ramastered Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eae2e/6c8a4c8c4e4f90cd4337067a29d3",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-ramastered-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Międzychód"
-  },
-  {
     "id": "c7c123c0-fad4-428d-ae15-969da5bd1eb0",
     "title": "Super Mario 3D World Nintendo Switch",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   }
 ]
