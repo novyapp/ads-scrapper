@@ -210,16 +210,6 @@
     "city": "Piaseczno"
   },
   {
-    "id": "06c217bd-7f6d-44ef-bff7-a955c7e9cd12",
-    "title": "Master Detective Archives RAINCODE Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e7f51/bed7416641b784d78b576981aeed",
-    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-raincode-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "85e962a6-3b82-4a88-8a7f-3be8cd9bfe91",
     "title": "Dark Souls Remastered",
     "price": "120",
@@ -588,6 +578,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Wesoła"
+  },
+  {
+    "id": "e2e88ea5-58ab-4a18-bd7e-18afc394fd70",
+    "title": "Fifa 22 Nintendo Switch",
+    "price": "45",
+    "img": "https://a.allegroimg.com/s180x180/1ec520/7e852d9f40baaad31641cb80fff0",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-i4y?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lwówek Śląski "
+  },
+  {
+    "id": "988b32cc-32ae-403d-af34-42eb2a497f1b",
+    "title": "Lego Star Wars Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e455e/7a7860d1423c816bfcd04720f30b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-nintendo-switch-k5o?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lwówek Śląski "
   },
   {
     "id": "e2e88ea5-58ab-4a18-bd7e-18afc394fd70",
@@ -5390,6 +5400,16 @@
     "city": "Zalasewo"
   },
   {
+    "id": "b65d79ba-e2b2-4b55-a724-4e9500862c33",
+    "title": "Sonic Frontiers na Switcha",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e8574/ababe43e43fc93ed0eb54d61cf85",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-na-switcha?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wejherowo"
+  },
+  {
     "id": "0d766490-9568-482d-a240-31640590353c",
     "title": "Lego Saga Skywalkerów , Skywalker Saga - NS, PL",
     "price": "129",
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "8eab4521-08e8-49e1-9209-961d04078914",
-    "title": "Cult of the lamb",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ee691/f0b30eb84e7c9a577db492013a2d",
-    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   }
 ]
