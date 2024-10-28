@@ -580,16 +580,6 @@
     "city": "Poznań"
   },
   {
-    "id": "cf357002-e51c-45aa-b76d-c8c3a6157cfe",
-    "title": "TRIANGLE STRATEGY Nintendo Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e4511/6d2669554c5f8c974c69f8283369",
-    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-7r7?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Wesoła"
-  },
-  {
     "id": "e2e88ea5-58ab-4a18-bd7e-18afc394fd70",
     "title": "Fifa 22 Nintendo Switch",
     "price": "45",
@@ -4200,16 +4190,6 @@
     "city": "Warszawa, Ochota"
   },
   {
-    "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
-    "title": "Pokemon: Let's go, Eevee",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Roźwienica"
-  },
-  {
     "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
     "title": "Pokemon Shield + Expansion Pass",
     "price": "600",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
+    "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e06a1/0292e2d54bd18edf3665bfc243e9",
+    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-the-winds-of-anthos-nintendo-switch-nowa-w-folii-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz"
   }
 ]
