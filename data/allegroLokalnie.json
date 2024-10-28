@@ -6,7 +6,7 @@
     "img": "https://a.allegroimg.com/s180x180/1edcc9/7653dc8747bd9f52637b570bc3a7",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-mario-kart-8-deluxe-rcj?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Nadole"
   },
   {
@@ -578,6 +578,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Lwówek Śląski "
+  },
+  {
+    "id": "988b32cc-32ae-403d-af34-42eb2a497f1b",
+    "title": "Lego Star Wars Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e455e/7a7860d1423c816bfcd04720f30b",
+    "url": "https://allegrolokalnie.pl//oferta/lego-star-wars-nintendo-switch-k5o?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lwówek Śląski "
+  },
+  {
+    "id": "3b5a5afa-ff87-4b24-90fc-fe2d8387f010",
+    "title": "Kirby Star Allies",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebc2c/2c4c7ff84f8ebe02d9cf55201af1",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-star-allies-i5d?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "988b32cc-32ae-403d-af34-42eb2a497f1b",
@@ -1175,26 +1195,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/11f57c/ff0a5f0d4e1689ed4602ad98ed56",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-nowa-zafoliowana?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
-    "id": "1a3d40c5-d206-418f-86b9-ddece1ce6530",
-    "title": "Yum Yum Cookstar Nintendo Switch Nowa Folia",
-    "price": "58",
-    "img": "https://a.allegroimg.com/s180x180/115142/4ef9877b48859a97462047276e17",
-    "url": "https://allegrolokalnie.pl//oferta/yum-yum-cookstar-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
-    "id": "9386eafa-51f5-4e19-9d3a-d9ab67b80645",
-    "title": "Dino Ranch - Ride to the Rescue /Mission Sauvetage/ Nintendo Switch Nowa",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/11433f/b0a937014edfb2790fa1c6057d36",
-    "url": "https://allegrolokalnie.pl//oferta/dino-ranch-ride-to-the-rescue-mission-sauvetage-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
@@ -2285,7 +2285,7 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e07dd/c94e903548fc8c487a143597285d",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-6gq?navCategoryId=256922",
-    "promoted": false,
+    "promoted": true,
     "smartPost": true,
     "city": "Poręba"
   },
@@ -2388,6 +2388,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siedlce"
+  },
+  {
+    "id": "74ec8fac-dd4c-4b04-bd70-0ebd65e5db83",
+    "title": "Pokemon Sword Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eaafa/8be787dd47f3a337e7186c66391e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-73q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szpital"
+  },
+  {
+    "id": "74ec8fac-dd4c-4b04-bd70-0ebd65e5db83",
+    "title": "Pokemon Sword Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eaafa/8be787dd47f3a337e7186c66391e",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-73q?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szpital"
   },
   {
     "id": "6c914753-cec1-4c47-8060-79fe578f4038",
@@ -2990,16 +3010,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "ab2adf52-430e-4921-94bd-9decf52fa9e7",
-    "title": "Switch Yu-Gi-Oh! Rush Duel: Let’s Go! Go Rush!!",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1ea92f/e2a033664702975625cdbc3470bd",
-    "url": "https://allegrolokalnie.pl//oferta/switch-yugioh-rush-duel-lets-go-go-rush-e5w?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "c7886b0f-1810-4063-b043-30fb19d40c11",
     "title": "Nintendo Switch Indivisible",
     "price": "89",
@@ -3038,16 +3048,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
-    "id": "ca7779ff-2ea0-421a-af18-e8a404741def",
-    "title": "Pikmin 4 na Nintendo Switch- stan bdb!",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e062f/d0842c90409d8b56cb4be57f05dc",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-4-na-nintendo-switch-stan-bdb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "b3963880-4f23-4b5d-a04c-4f31bc4f5a30",
@@ -3585,6 +3585,16 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1eb7da/9f3cde8e4b55b898fe0dc77830ef",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-47r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "f7a711d6-277b-4904-8d9b-c94803e7a204",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -4190,16 +4200,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
-    "title": "Pokemon Let's Go Eevee Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e726d/0fad81fb4b2fb13927bc61ae8930",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-cwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
     "title": "Ac komplet switch",
     "price": "250",
@@ -4788,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Książenice"
+  },
+  {
+    "id": "5cff2f12-8b0a-41ed-8f16-b4b17d2e3beb",
+    "title": "Splatoon 2 Nintendo Switch",
+    "price": "84",
+    "img": "https://a.allegroimg.com/s180x180/1e6bbd/0860ba2844a1b0e749d8936a6cc8",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-yrt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "2ad41ac6-0593-47b6-b52b-31d49c7cb03d",
