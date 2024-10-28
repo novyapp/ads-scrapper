@@ -600,16 +600,6 @@
     "city": "Lwówek Śląski "
   },
   {
-    "id": "e2e88ea5-58ab-4a18-bd7e-18afc394fd70",
-    "title": "Fifa 22 Nintendo Switch",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1ec520/7e852d9f40baaad31641cb80fff0",
-    "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-i4y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lwówek Śląski "
-  },
-  {
     "id": "988b32cc-32ae-403d-af34-42eb2a497f1b",
     "title": "Lego Star Wars Nintendo Switch",
     "price": "90",
@@ -3005,16 +2995,6 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1eda8f/293052e247a8bacd4bec4b4b9cbb",
     "url": "https://allegrolokalnie.pl//oferta/gra-legend-of-zelda-breath-of-the-wild-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszcz Gdański"
-  },
-  {
-    "id": "6c9404d0-b4e4-45b9-bb48-712856eea0aa",
-    "title": "Super Mario Odyssey Switch GRA",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1ea657/03c883764e12a5097c8c28636f57",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-gra?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Pruszcz Gdański"
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
+  },
+  {
+    "id": "8eab4521-08e8-49e1-9209-961d04078914",
+    "title": "Cult of the lamb",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ee691/f0b30eb84e7c9a577db492013a2d",
+    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
+  },
+  {
+    "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
+    "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e06a1/0292e2d54bd18edf3665bfc243e9",
+    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-the-winds-of-anthos-nintendo-switch-nowa-w-folii-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz"
   }
 ]
