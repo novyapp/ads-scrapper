@@ -340,16 +340,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "e6ee75a1-cd10-4258-8b4b-14bab1e24c24",
-    "title": "Zelda Breath of The Wild",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e585e/6d7aebd140e6aee5a77a18af9e3e",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-un3?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "0e8af2b1-fdea-4fad-9a2c-7f5e06b5b09d",
     "title": "Super Mario 3D World + Bowser’s Fury",
     "price": "190",
@@ -4200,16 +4190,6 @@
     "city": "Warszawa, Ochota"
   },
   {
-    "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
-    "title": "Pokemon: Let's go, Eevee",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Roźwienica"
-  },
-  {
     "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
     "title": "Pokemon Shield + Expansion Pass",
     "price": "600",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Nowy Sącz"
+  },
+  {
+    "id": "2779ce0b-21cc-42c8-b44d-a315d0075b95",
+    "title": "Fire Emblem Three Houses Limited Edition",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s180x180/1eec2b/e3246f8747bb9b673a2a62e6453f",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-limited-edition-ou3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
   }
 ]
