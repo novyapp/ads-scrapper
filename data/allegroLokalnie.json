@@ -1200,26 +1200,6 @@
     "city": "Kobyłka"
   },
   {
-    "id": "6e65443f-45e7-474f-8bd4-b14f7eee0510",
-    "title": "Saturday Morning RPG - Limited Run Games",
-    "price": "224",
-    "img": "https://a.allegroimg.com/s180x180/1e30c2/a12990d04dffb278753c8944759d",
-    "url": "https://allegrolokalnie.pl//oferta/saturday-morning-rpg-limited-run-games?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dąbrowa Tarnowska"
-  },
-  {
-    "id": "157725c2-e501-4945-b70a-b85b094884fb",
-    "title": "Gra Splatoon 3 Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1eb54b/f11deee540d78b75788ae222319d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-splatoon-3-nintendo-switch-baa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kobyłka"
-  },
-  {
     "id": "a4cfc751-2629-4c89-b36f-de9700870823",
     "title": "Xenoblade Chronicles: Definitive Edition",
     "price": "140",
@@ -1798,6 +1778,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Sosnowiec"
+  },
+  {
+    "id": "21ea2598-33c0-4613-89ef-5c0ca5bd2ca4",
+    "title": "No Man's Sky Switch",
+    "price": "192",
+    "img": "https://a.allegroimg.com/s180x180/1eb78a/d89e4f2549628d7c8f05c1125ba6",
+    "url": "https://allegrolokalnie.pl//oferta/no-mans-sky-switch-x7h?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
+    "id": "9a0f492e-077d-48f7-a26e-7df13ddead41",
+    "title": "Fifa 22 Nintendo switch",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s180x180/1eb78f/c3e0c1294437a8a76a1af0c201f1",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-nintendo-switch-ewd?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Jelenia Góra"
   },
   {
     "id": "12083218-3eca-403a-b2a5-0ad1c3d6b074",
@@ -4800,16 +4800,6 @@
     "city": "Książenice"
   },
   {
-    "id": "8de689c7-f4f2-4bcb-99c3-8299091f5b8e",
-    "title": "Fire Emblem Three houses Limited Edition",
-    "price": "850",
-    "img": "https://a.allegroimg.com/s180x180/1e6e92/5a65256c44b1a574b01d4da48c8b",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-limited-edition-wfw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
     "id": "b886b119-fc6b-43de-be6b-6caf8d3bc2d1",
     "title": "The Banner Saga Trilogy",
     "price": "190",
@@ -5398,6 +5388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "fac5cd73-2132-4224-ac5f-af3685d1b8b1",
+    "title": "Animal crossing New Horizons switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ef280/f5744a31425fb7fc4520a782313e",
+    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-switch-pee?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "be87b06e-eb62-4099-98b9-9a45406960f8",
