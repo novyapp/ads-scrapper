@@ -590,16 +590,6 @@
     "city": "Lipowa"
   },
   {
-    "id": "2000fee9-49ef-4aa6-b85a-c5565d4490af",
-    "title": "Do sprzedania mam grę spyro na Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e7397/357085584aca91d838bec7e2972b",
-    "url": "https://allegrolokalnie.pl//oferta/do-sprzedania-mam-gre-spyro-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Orły"
-  },
-  {
     "id": "17952316-94d8-4bfe-92d1-340d34f981cd",
     "title": "Animal Crossing New Horizons Nintendo Switch",
     "price": "170",
@@ -3590,6 +3580,16 @@
     "city": "Bysław"
   },
   {
+    "id": "dac5552e-46e0-45d7-b709-f3e72dd2655b",
+    "title": "Death's Door na Nintendo Switch- stan bdb!",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ec5ac/4ff0c64944578ddf2d2abcec9efd",
+    "url": "https://allegrolokalnie.pl//oferta/deaths-door-na-nintendo-switch-stan-bdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
     "id": "c8ac3f12-8308-4d5b-a317-3bd9c67822d1",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "150",
@@ -4178,16 +4178,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "2f01d78d-9431-45b8-92df-a36f36e89ae2",
-    "title": "Sonic mania plus Nintendo",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1ef504/67ae48954b6fa1053bfea45d5beb",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-mania-plus-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wroclaw"
   },
   {
     "id": "2f01d78d-9431-45b8-92df-a36f36e89ae2",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
+    "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e06a1/0292e2d54bd18edf3665bfc243e9",
+    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-the-winds-of-anthos-nintendo-switch-nowa-w-folii-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz"
   }
 ]
