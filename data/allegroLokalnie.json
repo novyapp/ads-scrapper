@@ -2200,6 +2200,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "a1349d21-f2fa-4e9a-af2c-e456f8143a74",
+    "title": "Xenoblade Chronicles 3 jak Nówka",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e6972/2c50f2374a77ac987cfb42920a64",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-jak-nowka-xek?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "763d6ad6-79ca-4842-8a6b-54053f328b43",
     "title": "Blasphemous 2 na Nintendo Switch- stan bdb!",
     "price": "69",
@@ -3212,7 +3222,7 @@
   {
     "id": "c34d289c-af0c-4f7f-bffb-51d3787d1647",
     "title": "Metroid Prime Nintendo Switch",
-    "price": "112",
+    "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1eb2df/c13c1a21463cbe29f0b85a1d2b00",
     "url": "https://allegrolokalnie.pl//oferta/meteoid-prime-nintendo?navCategoryId=256922",
     "promoted": false,
@@ -3222,7 +3232,7 @@
   {
     "id": "a5d3f58e-e5eb-4418-90da-cc685bb104bb",
     "title": "Metroid Dred Nintendo Switch",
-    "price": "142",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e44b7/95513f0943e684c5c4bb4edc55a6",
     "url": "https://allegrolokalnie.pl//oferta/meteoid-dred-nintendo?navCategoryId=256922",
     "promoted": false,
@@ -3575,16 +3585,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ebb3e/3e2d7a354525baac45ec491a57e5",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-syj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "206e3a6c-de77-4f8b-b164-7f1d9061f68d",
-    "title": "Luigi's Mansion 3",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1ea1cb/8c1ddd0243009edc52c34c097941",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-thv?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -4790,16 +4790,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "5cff2f12-8b0a-41ed-8f16-b4b17d2e3beb",
-    "title": "Splatoon 2 Nintendo Switch",
-    "price": "84",
-    "img": "https://a.allegroimg.com/s180x180/1e6bbd/0860ba2844a1b0e749d8936a6cc8",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-yrt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
     "title": "Nintendo Switch Mario De lux",
     "price": "150",
@@ -5978,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   }
 ]
