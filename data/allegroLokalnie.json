@@ -2170,26 +2170,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "309f9da2-41da-4411-aded-b970e5bf226d",
-    "title": "Souldiers Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e2f5e/402092914540990318e2b329b08e",
-    "url": "https://allegrolokalnie.pl//oferta/souldiers-nintendo-switch-jrt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
-    "id": "89558bdb-d228-4efa-ac7b-d07fb95d35f8",
-    "title": "Bo: Path of the Teal Lotus  Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e6f2b/8e73cf66473288350e495f531873",
-    "url": "https://allegrolokalnie.pl//oferta/bo-path-of-the-teal-lotus-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
     "id": "d839beb9-2a42-41f0-94bd-ae3fa554bf19",
     "title": "Zelda Tears of the Kingdom gra Switch",
     "price": "179",
@@ -2398,6 +2378,56 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "29f4c391-d6a8-4524-a67e-4294949970ad",
+    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e2b30/5482d9e545de82c06ebea12638fb",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-2on?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Elbląg"
+  },
+  {
+    "id": "322027b9-31b1-4e9c-9879-e52eea62c5f1",
+    "title": "Darksiders III 3 Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed96d/ef0192c342ccae343a755efc3fc7",
+    "url": "https://allegrolokalnie.pl//oferta/darksiders-iii-3-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Elbląg"
+  },
+  {
+    "id": "db651bd8-f604-4187-9625-04d63bdf053d",
+    "title": "The Legend Of Zelda Echoes of Wisdom - gadżety - Switch",
+    "price": "29",
+    "img": "https://a.allegroimg.com/s180x180/1e1e5d/cc37b41e48769b9937f78a7ad553",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-gadzety-switch-fyt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "29f4c391-d6a8-4524-a67e-4294949970ad",
+    "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e2b30/5482d9e545de82c06ebea12638fb",
+    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-2on?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Elbląg"
+  },
+  {
+    "id": "322027b9-31b1-4e9c-9879-e52eea62c5f1",
+    "title": "Darksiders III 3 Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ed96d/ef0192c342ccae343a755efc3fc7",
+    "url": "https://allegrolokalnie.pl//oferta/darksiders-iii-3-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Elbląg"
   },
   {
     "id": "1d2bfaa2-dceb-4c02-b69c-b2913a3f61f7",
@@ -2968,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
-  },
-  {
-    "id": "4b2764f6-d4d3-4605-888d-e4c2e4eba3ac",
-    "title": "Gra Legend of Zelda Breath of the Wild Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1eda8f/293052e247a8bacd4bec4b4b9cbb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-legend-of-zelda-breath-of-the-wild-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Pruszcz Gdański"
   },
   {
     "id": "6c9404d0-b4e4-45b9-bb48-712856eea0aa",
@@ -3565,6 +3585,16 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1ea73b/3e58976542dc8abf92cbf7b1905c",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-7ai?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "9d715590-f1cb-4f0a-a83e-0cccb33dbe4f",
+    "title": "Pokemon Scarlet Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1ed4c2/0d346719498fb761029bd6c6f5f1",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-4x3?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -4168,36 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wroclaw"
-  },
-  {
-    "id": "57d9f801-4d9c-4849-adc4-f49ed7ff0ffb",
-    "title": "Gra Arms Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e153c/eea8d45f4e2ab8c8aa789a1d06e0",
-    "url": "https://allegrolokalnie.pl//oferta/gra-arms-nintendo-switch-h5f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
-    "title": "Pokemon Let's Go Eevee Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e726d/0fad81fb4b2fb13927bc61ae8930",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-cwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
-    "title": "Ac komplet switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1ed97c/7760988746f7b23cec2e032a4e45",
-    "url": "https://allegrolokalnie.pl//oferta/ac-komplet-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
