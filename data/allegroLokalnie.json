@@ -1800,16 +1800,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "28ad8a85-b48c-4284-ae37-5c54d9bd0bb0",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
-    "price": "499",
-    "img": "https://a.allegroimg.com/s180x180/119d57/59bcc3fa4637b6195088bf17585a",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-gra-ns?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Wrocław"
-  },
-  {
     "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
     "title": "Grandia HD Collection Switch ANG",
     "price": "299",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Banino"
+  },
+  {
+    "id": "05ff8a1e-8fd6-42f5-971e-34e903a1360d",
+    "title": "Pokken Tournament DX (Nintendo Switch)",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e9019/04d6db4548579c77d29f65c4286c",
+    "url": "https://allegrolokalnie.pl//oferta/pokken-tournament-dx-nintendo-switch-yms?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Augustów"
   },
   {
     "id": "38dff6a0-ac27-4354-9b15-1827dc004936",
@@ -4200,16 +4200,6 @@
     "city": "Wadowice"
   },
   {
-    "id": "d39bacf3-31dd-400e-b1d3-53d4da708b13",
-    "title": "Cult of the lamb switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e3ff8/42ddf38b44c9b0059155f48bc48c",
-    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb-switch-ibv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wadowice"
-  },
-  {
     "id": "230989fd-647e-4127-81b5-20f9d5446779",
     "title": "Princess peach showtime!",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "7aada744-88e8-4a17-82c4-fb5f58c704aa",
+    "title": "Switch Minecraft - Kartridź Folia PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
