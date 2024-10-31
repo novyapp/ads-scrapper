@@ -2130,6 +2130,16 @@
     "city": "Krakow, Swoszowice"
   },
   {
+    "id": "58ea1410-5109-4f87-9cc6-f20afb8503c7",
+    "title": "The Legend of Zelda Tears of the Kingdom Switch",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1e564e/22f116f54074b797964321702fd1",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-qdb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "ab121d1f-6a50-4028-8137-0ced091ffcbd",
     "title": "The Legend of Zelda: Breath of the Wild",
     "price": "160",
@@ -2390,11 +2400,21 @@
     "city": "Sanniki"
   },
   {
-    "id": "be33d99b-a70f-41c1-ba7e-42493fcc3cca",
-    "title": "Mega Man 11 Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e235d/23371fc94f85a60583ce62a77775",
-    "url": "https://allegrolokalnie.pl//oferta/mega-man-11-nintendo-switch-sbq?navCategoryId=256922",
+    "id": "4af68fb4-e366-4ea4-97ed-3b44587d51dc",
+    "title": "Sparkle Ultimate Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ea1ab/315ec5934ba8ac7e1769f18ba9c6",
+    "url": "https://allegrolokalnie.pl//oferta/sparkle-ultimate-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
+  },
+  {
+    "id": "f53f7725-7594-44e4-8166-a65c641041b0",
+    "title": "Ultra Age Nintendo Switch",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e0ce7/a4840f1745e0938c37514a5fcb16",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-age-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
@@ -3000,36 +3020,6 @@
     "city": "Nowy Targ"
   },
   {
-    "id": "d189d4fe-9150-4ed6-b9e9-7261317806e9",
-    "title": "SpongeBob Cosmic Shake Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e7e14/d2df7a644d078da245231438f075",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-cosmic-shake-nintendo-switch-4zt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "8608a307-c934-4799-a5d9-b7a790e9ea59",
-    "title": "Sonic Colours Ultimate Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e0e41/01beb210457c8a73052b39fc76f0",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-colours-ultimate-nintendo-switch-c45?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "1094ce34-9a09-48e8-a57c-2bcf267171ce",
-    "title": "Kao The Kangaroo Nintendo Switch",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s180x180/1e3c3c/88fc616f42d0ae9f8d57ea74d86e",
-    "url": "https://allegrolokalnie.pl//oferta/kao-the-kangaroo-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "757416d8-c8a3-4291-96e0-4b0215c349db",
     "title": "Super Mario 3D World + Bowser Fury Nintendo Switch",
     "price": "159",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Chodzież"
+  },
+  {
+    "id": "adaf3540-eb4d-481e-a58a-54a215a7d36c",
+    "title": "Nintendo Ring Fit Adventure - Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e70c9/af54889f429e9e2b53eaba2e0b6a",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-ring-fit-adventure-nintendo-switch-spr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Sobowo"
   },
   {
     "id": "5923b8cb-42c5-4f03-b839-4d30c9463906",
@@ -4240,16 +4240,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "2f01d78d-9431-45b8-92df-a36f36e89ae2",
-    "title": "Sonic mania plus Nintendo",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1ef504/67ae48954b6fa1053bfea45d5beb",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-mania-plus-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wroclaw"
-  },
-  {
     "id": "57d9f801-4d9c-4849-adc4-f49ed7ff0ffb",
     "title": "Gra Arms Nintendo Switch",
     "price": "145",
@@ -4798,6 +4788,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Książenice"
+  },
+  {
+    "id": "72c22d86-f289-488c-ad8d-ed5a2264f6cd",
+    "title": "Super Mario Party",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e4a22/719cf51946e98c1eb85d799cefd9",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-3lq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
+    "id": "5cff2f12-8b0a-41ed-8f16-b4b17d2e3beb",
+    "title": "Splatoon 2 Nintendo Switch",
+    "price": "84",
+    "img": "https://a.allegroimg.com/s180x180/1e6bbd/0860ba2844a1b0e749d8936a6cc8",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-yrt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
@@ -5380,46 +5390,6 @@
     "city": "Gdańsk Wrzeszcz"
   },
   {
-    "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
-    "title": "Super smash Bros Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e55ec/f08636314747ba6285b20f79b8f6",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-t6v?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk Wrzeszcz"
-  },
-  {
-    "id": "4846e9bc-6cec-4fec-b873-70e644ac5652",
-    "title": "Nintendo Switch Sports gra + słuchawki Hori Gaming Earbuds PRO",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1e39cd/bdf5e05846f2acb03ff44d86df2b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-sluchawki-hori-gaming-earbuds-pro?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
-    "title": "Super smash Bros Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e55ec/f08636314747ba6285b20f79b8f6",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-t6v?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk Wrzeszcz"
-  },
-  {
-    "id": "4846e9bc-6cec-4fec-b873-70e644ac5652",
-    "title": "Nintendo Switch Sports gra + słuchawki Hori Gaming Earbuds PRO",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1e39cd/bdf5e05846f2acb03ff44d86df2b",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sports-gra-sluchawki-hori-gaming-earbuds-pro?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Czyżyny"
-  },
-  {
     "id": "ba23c948-14a6-465b-aeb4-ecc7a5104fb5",
     "title": "Live a Live Nintendo Switch Japanese Version",
     "price": "117",
@@ -5998,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "c5a9850e-94f9-4fbb-8e21-722eed19808c",
+    "title": "Zelda Breath of The Wild eng",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e2fad/d0f93a4f4ee8a10941df583261cc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-zelda-4tt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łaziska Górne"
+  },
+  {
+    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
+    "title": "Ultra Age - Switch (Nowa)",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
   }
 ]
