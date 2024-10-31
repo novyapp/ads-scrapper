@@ -310,16 +310,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "33d49e72-278b-489d-b759-b7a77d5f9e9f",
-    "title": "Wiedźmin 3 Dziki Gon Nintendo switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1eba07/3512d9a64e7780f2910722617f8e",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-nintendo-switch-y7z?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dankowice"
-  },
-  {
     "id": "6387d10c-85d9-4fb9-a1af-b0270d95f3f9",
     "title": "Zelda Skyward Sword HD Folia ze Steelbokiem",
     "price": "220",
@@ -482,7 +472,7 @@
   {
     "id": "6482880f-5961-45dc-9330-2a7ddd760a62",
     "title": "Rune Factory 4 Special Edition (Edycja Specjalna) Switch",
-    "price": "80",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1e1c44/799890534642ad39280de4a2e222",
     "url": "https://allegrolokalnie.pl//oferta/rune-factory-4-special-edition-edycja-specjalna-switch?navCategoryId=256922",
     "promoted": true,
@@ -3000,16 +2990,6 @@
     "city": "Nowy Targ"
   },
   {
-    "id": "757416d8-c8a3-4291-96e0-4b0215c349db",
-    "title": "Super Mario 3D World + Bowser Fury Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e056d/9e6b194a404e8098580145236ab0",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowser-fury-nintendo-switch-nbo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "e9efb14a-4b64-4b3c-a124-7457c66ba6d5",
     "title": "Mario Rabbids Kingdom Battle Nintendo Switch",
     "price": "99",
@@ -4810,6 +4790,16 @@
     "city": "Książenice"
   },
   {
+    "id": "b886b119-fc6b-43de-be6b-6caf8d3bc2d1",
+    "title": "The Banner Saga Trilogy",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e84b2/956bea96425c8d68d8f0e15ee7f1",
+    "url": "https://allegrolokalnie.pl//oferta/the-banner-saga-trilogy-li6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Książenice"
+  },
+  {
     "id": "84021ce0-7478-43c5-ba61-097d490a90ee",
     "title": "Xenoblade Chronicles 2",
     "price": "160",
@@ -5395,16 +5385,6 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1e100f/2a85e49e469a8377738def930a3e",
     "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-q4s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk Wrzeszcz"
-  },
-  {
-    "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
-    "title": "Super smash Bros Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e55ec/f08636314747ba6285b20f79b8f6",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-t6v?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk Wrzeszcz"
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "c5a9850e-94f9-4fbb-8e21-722eed19808c",
+    "title": "Zelda Breath of The Wild eng",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e2fad/d0f93a4f4ee8a10941df583261cc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-zelda-4tt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łaziska Górne"
   }
 ]
