@@ -2140,6 +2140,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "cf92d388-f56e-40aa-be7b-35263db94209",
+    "title": "Luigi's mansion 2 HD switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1eaf3f/defa723c4326b1fe136314027698",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-switch-mx2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tarnów"
+  },
+  {
     "id": "976d4546-01fd-4b06-a0e8-5d6e4df8e753",
     "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna Nintendo Switch",
     "price": "349",
@@ -3630,16 +3640,6 @@
     "city": "Bysław"
   },
   {
-    "id": "6d3fb8ab-19cc-4a64-b590-e33d6c155666",
-    "title": "The Legend of Zelda Tears of the Kingdom",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e8f7a/d31f3ab5490eb845dad9de4bf576",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-aou?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "0e4b4d88-0a72-4ca3-8e89-019ab7c4df29",
     "title": "Pokemon Let's Go Eevee",
     "price": "185",
@@ -4790,26 +4790,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "432c100a-a86a-4e28-9c62-6d52e836d18d",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "158",
-    "img": "https://a.allegroimg.com/s180x180/1e596d/764902cb46128098db079a6688be",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-xdk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "432c100a-a86a-4e28-9c62-6d52e836d18d",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "158",
-    "img": "https://a.allegroimg.com/s180x180/1e596d/764902cb46128098db079a6688be",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-xdk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "38bdcb01-0abf-4c71-a346-e99e58ab47c4",
     "title": "Super Mario RPG Switch",
     "price": "139",
@@ -5115,16 +5095,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1ed410/08f09d284653898d824f184fab77",
     "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-eqn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "17540ed1-ee4d-4d4c-8ec4-b88bf131653d",
-    "title": "Pokemon Violet Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e339b/81e4f790400fa831f0eeb66cc7d2",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-qmb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   }
 ]
