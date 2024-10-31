@@ -600,6 +600,16 @@
     "city": "Warszawa, Ursynów"
   },
   {
+    "id": "dfab5a6e-ae56-4d88-b242-77d8ab14cbee",
+    "title": "-== Shin Megami Tensei V - Switch - Wawa ==-",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e6a17/23c92e1f48a0a0f761941fa3c1ab",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-wawa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
     "id": "5bc50e07-9646-4be0-80ab-ccc6127ae325",
     "title": "Hades Nintendo Switch",
     "price": "275",
@@ -3000,16 +3010,6 @@
     "city": "Nowy Targ"
   },
   {
-    "id": "4e275e2f-699e-4140-adf7-909895bd5f51",
-    "title": "Mario Strikers Battle League Football Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e2fb7/1062045c460b816d66bb4e0c2ac0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mfn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "129387a1-9412-4d25-be65-898a57bd0c49",
     "title": "Crash Bandicoot  N Sane Trilogy Nintendo Switch",
     "price": "109",
@@ -3900,16 +3900,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "dd3483e7-5c71-46c1-885f-45b640b78fee",
-    "title": "Super Mario Odyssey - Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ecfc4/93536ed942f8911b18e6c4665f20",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-67h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "9dddea3d-1205-4ea8-b848-885b26be19aa",
     "title": "Kirby's Return to Dream Land Deluxe NINTENDO Switch + PLAKAT !",
     "price": "239",
@@ -4195,6 +4185,16 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Roźwienica"
+  },
+  {
+    "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
+    "title": "Pokemon Shield + Expansion Pass",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s180x180/1e54db/c1e0c2f34efeae9347ef8c21caac",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-expansion-pass-qut?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Roźwienica"
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   }
 ]
