@@ -2610,16 +2610,6 @@
     "city": "Zielona góra"
   },
   {
-    "id": "7fad63b0-d61e-471b-a7c5-ee301071f2cc",
-    "title": "Wiedźmin 3: Dziki Gon Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1ea814/93cadb254785a07e25f142915936",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-nintendo-switch-d45?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona góra"
-  },
-  {
     "id": "7dbc93f9-9c98-4e93-babe-181585078a7c",
     "title": "Scribblenauts Showdown Nintendo Switch NS",
     "price": "89",
@@ -2995,16 +2985,6 @@
     "price": "149",
     "img": "https://a.allegroimg.com/s180x180/1e2fb7/1062045c460b816d66bb4e0c2ac0",
     "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mfn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "129387a1-9412-4d25-be65-898a57bd0c49",
-    "title": "Crash Bandicoot  N Sane Trilogy Nintendo Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e7a10/180fe85a484db0703574bafbfb35",
-    "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-nintendo-switch-rpy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -3610,6 +3590,16 @@
     "city": "Bysław"
   },
   {
+    "id": "2f66d43b-5b4a-4f00-ab62-48ab7a355bf0",
+    "title": "The Legend of Zelda Skyward Sword HD",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ebb3e/3e2d7a354525baac45ec491a57e5",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-syj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "206e3a6c-de77-4f8b-b164-7f1d9061f68d",
     "title": "Luigi's Mansion 3",
     "price": "185",
@@ -4198,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "2f01d78d-9431-45b8-92df-a36f36e89ae2",
-    "title": "Sonic mania plus Nintendo",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1ef504/67ae48954b6fa1053bfea45d5beb",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-mania-plus-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wroclaw"
   },
   {
     "id": "57d9f801-4d9c-4849-adc4-f49ed7ff0ffb",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "40abe497-ad8c-489c-a8d0-18eb2c0eea0d",
+    "title": "Super Mario Odyssey",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e180a/c9966ac84952b327e0cffc20de3c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-zjh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrów Mazowiecka"
   }
 ]
