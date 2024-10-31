@@ -1,5 +1,15 @@
 [
   {
+    "id": "cd74ba24-8b34-42ba-9c6b-142ec940f2b2",
+    "title": "LEGO Harry Potter Collection",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1eb95c/acf7acdb43e9a5cfe9d3cbdc52fc",
+    "url": "https://allegrolokalnie.pl//oferta/lego-harry-potter-collection-qw5?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Chotomów "
+  },
+  {
     "id": "b82a5f67-df46-4bae-a7a4-01381154260c",
     "title": "Super Mario 3D All-Stars",
     "price": "400",
@@ -1540,16 +1550,6 @@
     "city": "Kutno"
   },
   {
-    "id": "87b2e6a6-7a9c-47c5-af28-7c0cab342e88",
-    "title": "Super Mario Maker 2",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e55dd/38f7913c49e0a692303ab9effb7c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-hyd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "68c4a9fb-713c-4c87-b4b4-511e3a8e0907",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "145",
@@ -2178,6 +2178,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "092aad5b-a782-4e1b-b263-3e2e8e0672b3",
+    "title": "Shin Megami Tensei V 5 Vengeance Switch EN",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1ee464/d11b550a47a7a331abcd7c3601a9",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-5-vengeance-switch-en?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mielec, Smoczka I"
+  },
+  {
+    "id": "62fbaaa2-f9cc-4015-ba33-e039a1235e4d",
+    "title": "Zelda Tears of the Kingdom gra Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e1799/84c4dff2479a9bb0216318371509",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-gra-switch-tud?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mielec, Smoczka I"
+  },
+  {
+    "id": "c8e725ca-5a0a-4dce-9c2a-0d20a3b3c629",
+    "title": "The Legend of Zelda: Tears of the Kingdom Nintendo Switch",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e1e40/662c301e4aadabfefae6b055869f",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-63t?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kwidzyn"
   },
   {
     "id": "1230e2f1-6d0f-4c13-ba75-371449ab4b91",
@@ -3600,16 +3630,6 @@
     "city": "Bysław"
   },
   {
-    "id": "b3e55d92-a2cb-424b-b69c-5a4b8e640229",
-    "title": "Minecraft Dungeons Hero Edition",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e0ee2/eae0a30740638aa5167a27a9b4bf",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-djy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "2f66d43b-5b4a-4f00-ab62-48ab7a355bf0",
     "title": "The Legend of Zelda Skyward Sword HD",
     "price": "179",
@@ -4195,6 +4215,16 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e5bda/916931644cbeb87d192a3d690883",
     "url": "https://allegrolokalnie.pl//oferta/unravel-2-nintendo-switch-rw4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "b7e0a9d6-ee56-4c01-a5ac-90d181901337",
+    "title": "Minecraft - Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1e1f1a/870ec8c84a4485e2c92786f0ce4a",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-gcy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
@@ -5110,6 +5140,16 @@
     "city": "Bysław"
   },
   {
+    "id": "87b2e6a6-7a9c-47c5-af28-7c0cab342e88",
+    "title": "Super Mario Maker 2",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e55dd/38f7913c49e0a692303ab9effb7c",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-hyd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "d507a6d4-5cd5-471c-9740-12b06f8d47b1",
     "title": "Fitness Boxing 2 Rhythm & Exercise",
     "price": "150",
@@ -5385,16 +5425,6 @@
     "price": "117",
     "img": "https://a.allegroimg.com/s180x180/1e1a19/8feec3a048d18c04a5d911701339",
     "url": "https://allegrolokalnie.pl//oferta/live-a-live-nintendo-switch-japanese-version?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
-    "title": "Dragon Quest Treasures Nintendo Switch JP version",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
@@ -5968,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
-  },
-  {
-    "id": "c5a9850e-94f9-4fbb-8e21-722eed19808c",
-    "title": "Zelda Breath of The Wild eng",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e2fad/d0f93a4f4ee8a10941df583261cc",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-zelda-4tt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łaziska Górne"
-  },
-  {
-    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
-    "title": "Ultra Age - Switch (Nowa)",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
-  },
-  {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   }
 ]
