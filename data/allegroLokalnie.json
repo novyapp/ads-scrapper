@@ -1200,6 +1200,16 @@
     "city": "Kobyłka"
   },
   {
+    "id": "c418c426-cffd-48f7-b0b6-ee8b582da8bd",
+    "title": "Gra Rabbids Party of Legends Nintendo Switch",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s180x180/1eeed3/96d3eef54008b6370376274fa454",
+    "url": "https://allegrolokalnie.pl//oferta/gra-rabbids-party-of-legends-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Kobyłka"
+  },
+  {
     "id": "4f142556-277f-4828-a71b-a535b59a2393",
     "title": "SHIN MEGAMI TENSEI V na Nintendo Switch",
     "price": "180",
@@ -2990,16 +3000,6 @@
     "city": "Nowy Targ"
   },
   {
-    "id": "4e275e2f-699e-4140-adf7-909895bd5f51",
-    "title": "Mario Strikers Battle League Football Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e2fb7/1062045c460b816d66bb4e0c2ac0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mfn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "129387a1-9412-4d25-be65-898a57bd0c49",
     "title": "Crash Bandicoot  N Sane Trilogy Nintendo Switch",
     "price": "109",
@@ -3590,6 +3590,16 @@
     "city": "Warszawa, Wola"
   },
   {
+    "id": "b3e55d92-a2cb-424b-b69c-5a4b8e640229",
+    "title": "Minecraft Dungeons Hero Edition",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1e0ee2/eae0a30740638aa5167a27a9b4bf",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-djy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "2f66d43b-5b4a-4f00-ab62-48ab7a355bf0",
     "title": "The Legend of Zelda Skyward Sword HD",
     "price": "179",
@@ -4175,16 +4185,6 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e5bda/916931644cbeb87d192a3d690883",
     "url": "https://allegrolokalnie.pl//oferta/unravel-2-nintendo-switch-rw4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
-    "id": "b7e0a9d6-ee56-4c01-a5ac-90d181901337",
-    "title": "Minecraft - Nintendo Switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e1f1a/870ec8c84a4485e2c92786f0ce4a",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-gcy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
@@ -4790,14 +4790,14 @@
     "city": "Radomsko"
   },
   {
-    "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
-    "title": "Nintendo Switch Mario De lux",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e7c0f/a7faafb04b1e914cece20e29a33d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-de-lux?navCategoryId=256922",
+    "id": "0bfd2bff-7c5f-4ab8-9bf3-5bf162a415e1",
+    "title": "Super Mario Odyssey Nintendo Switch",
+    "price": "164",
+    "img": "https://a.allegroimg.com/s180x180/1e92ab/18c5ffba462eaecb19f1c4329d1a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-5dn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Radomsko"
+    "city": "Węgrzce Wielkie"
   },
   {
     "id": "0bfd2bff-7c5f-4ab8-9bf3-5bf162a415e1",
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   }
 ]
