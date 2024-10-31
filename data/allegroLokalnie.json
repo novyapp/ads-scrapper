@@ -2190,6 +2190,26 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "1230e2f1-6d0f-4c13-ba75-371449ab4b91",
+    "title": "NS Persona 5 Strikers",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e705b/6c04c49941de9e650e6eb7cd67f5",
+    "url": "https://allegrolokalnie.pl//oferta/ns-persona-5-strikers?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "f807d65b-eae1-43b6-9b1c-132fb5d3c4ef",
+    "title": "NS Super Mario Bros. Wonder",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ee4c8/968569ae4431b0322731bc32560d",
+    "url": "https://allegrolokalnie.pl//oferta/ns-super-mario-bros-wonder?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "438baf05-5ebc-4bdb-9ce5-d9d29e851dac",
     "title": "Hogwart Legacy Nintendo Switch",
     "price": "120",
@@ -2378,26 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
-  },
-  {
-    "id": "c04e162c-5be0-4eba-8cc6-0b8957f84313",
-    "title": "Gra snipperclips switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e8b8f/27a7db1740a88fe4a2e5a05c1320",
-    "url": "https://allegrolokalnie.pl//oferta/gra-snipperclips-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łazy"
-  },
-  {
-    "id": "ea5a5723-6de8-414f-aac2-5c53b853d59c",
-    "title": "Grand theft Auto The Trilogy (GTA) Nintendo Switch bez opakowania",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e0ee7/5a752ea640f892e37b64e2583baa",
-    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-the-trilogy-gta-nintendo-switch-bez-opakowania?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "03429162-0e9b-440e-9563-25281c46f7ee",
@@ -4200,6 +4200,26 @@
     "city": "Roźwienica"
   },
   {
+    "id": "356a66a1-3f1a-4d23-a221-2bd55f95ead3",
+    "title": "Gra Super Smash Bros na Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee6cc/8c539fef4d1190e391b1a62781f9",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-smash-bros-na-nintendo-switch-lca?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzyżów"
+  },
+  {
+    "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
+    "title": "Pokemon: Let's go, Eevee",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Roźwienica"
+  },
+  {
     "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
     "title": "Pokemon Shield + Expansion Pass",
     "price": "600",
@@ -5380,16 +5400,6 @@
     "city": "Gdańsk Wrzeszcz"
   },
   {
-    "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
-    "title": "Super smash Bros Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e55ec/f08636314747ba6285b20f79b8f6",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-t6v?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk Wrzeszcz"
-  },
-  {
     "id": "4846e9bc-6cec-4fec-b873-70e644ac5652",
     "title": "Nintendo Switch Sports gra + słuchawki Hori Gaming Earbuds PRO",
     "price": "269",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łaziska Górne"
-  },
-  {
-    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
-    "title": "Ultra Age - Switch (Nowa)",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wilczyce"
   }
 ]
