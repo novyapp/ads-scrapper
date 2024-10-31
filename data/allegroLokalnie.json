@@ -1800,6 +1800,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "28ad8a85-b48c-4284-ae37-5c54d9bd0bb0",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska (Gra NS)",
+    "price": "499",
+    "img": "https://a.allegroimg.com/s180x180/119d57/59bcc3fa4637b6195088bf17585a",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-gra-ns?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Wrocław"
+  },
+  {
     "id": "9888e1d6-1c94-44b6-b1df-1938677c7f17",
     "title": "Grandia HD Collection Switch ANG",
     "price": "299",
@@ -2400,16 +2410,6 @@
     "city": "Poznań"
   },
   {
-    "id": "03429162-0e9b-440e-9563-25281c46f7ee",
-    "title": "POKEMON LET'S GO EEVEE / POKEMONY / GRA NINTENDO SWITCH NA KARTRIDŻU",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e53bd/8fdff3664f4489ded8981fcbd3f2",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-pokemony-gra-nintendo-switch-na-kartridzu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "21147447-f6ab-439b-bbcf-d1a2be843d47",
     "title": "Mario 3D world + Bowser's Fury + Steelbook + naklejki + magnesy - NS",
     "price": "249",
@@ -2781,8 +2781,8 @@
   },
   {
     "id": "38072b91-6f44-4503-8b9c-95496fc92ea9",
-    "title": "Splatoon 2 switch",
-    "price": "99",
+    "title": "Gra Splatoon 2, Nintendo Switch",
+    "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1e5289/e15f85514e5d9c59e8237b8da7eb",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-switch-qm4?navCategoryId=256922",
     "promoted": false,
@@ -2791,8 +2791,8 @@
   },
   {
     "id": "68bc4008-cf94-4ed2-a06d-a1017e535d88",
-    "title": "Super Mario Maker 2 Switch",
-    "price": "165",
+    "title": "Gra Super Mario Maker 2, Nintendo Switch",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e7427/2fb5200a4520b9ae579034883525",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-switch-xuk?navCategoryId=256922",
     "promoted": false,
@@ -2801,8 +2801,8 @@
   },
   {
     "id": "dc8316ea-2c12-498f-98ef-c54a04201424",
-    "title": "Zelda breath of the wild",
-    "price": "155",
+    "title": "Gra Zelda breath of the wild, Nintendo Switch",
+    "price": "145",
     "img": "https://a.allegroimg.com/s180x180/1e1cf3/7ad0e70642ac92d7af4b245e0435",
     "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-z77?navCategoryId=256922",
     "promoted": false,
@@ -2995,16 +2995,6 @@
     "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e97d5/6e2204dc432892118f9ec63d17a9",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-nintendo-switch-wkr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "4e275e2f-699e-4140-adf7-909895bd5f51",
-    "title": "Mario Strikers Battle League Football Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e2fb7/1062045c460b816d66bb4e0c2ac0",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mfn?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   }
 ]
