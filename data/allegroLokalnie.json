@@ -1790,16 +1790,6 @@
     "city": "Białystok"
   },
   {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "102",
-    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
     "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
     "price": "475",
@@ -2988,6 +2978,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siemianowice Śląskie"
+  },
+  {
+    "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
+    "title": "Kangurek Kao Nintendo switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1ec7a0/d4942ea04cb7884393c895035127",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-nintendo-switch-rux?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ostrow Mazowiecka"
   },
   {
     "id": "df3737dd-1502-4573-bc5f-04811e39a815",
@@ -5602,7 +5602,7 @@
   {
     "id": "1f185108-a51c-41f0-b10f-ca57d88ed98b",
     "title": "Minecraft / PL / Switch",
-    "price": "105",
+    "price": "95",
     "img": "https://a.allegroimg.com/s180x180/1ee237/7980735d44588c4b6960c7e110fc",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-ril?navCategoryId=256922",
     "promoted": false,
