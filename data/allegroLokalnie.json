@@ -1202,7 +1202,7 @@
   {
     "id": "0360ff8e-ba54-46dc-bc9d-1ad3649d21fd",
     "title": "Gimmick! 2 klucz na Nintendo Switch",
-    "price": "52",
+    "price": "48",
     "img": "https://a.allegroimg.com/s180x180/1ee786/07eeae4d44659585c1ed6ed85dd9",
     "url": "https://allegrolokalnie.pl//oferta/gimmick-2-klucz-na-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -3000,16 +3000,6 @@
     "city": "Nowy Targ"
   },
   {
-    "id": "353d2bb0-4783-43a1-af8e-b8aed2f748b3",
-    "title": "Minecraft Dungeons Ultimate Edition Nintendo Switch",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1ecc13/059c975540228cc7bc30beb296e8",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-ultimate-edition-nintendo-switch-spj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "bc8983c6-c581-45d2-a3d4-d247c69d3ed0",
     "title": "Minecraft Nintendo Switch",
     "price": "89",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "c865edf3-db50-46af-b736-e0077d0dcd34",
+    "title": "Fifa19 nintendo switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e6c9b/504223874f3f89fb2a153328d622",
+    "url": "https://allegrolokalnie.pl//oferta/fifa19-nintendo-switch-o5z?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Chodzież"
   },
   {
     "id": "adaf3540-eb4d-481e-a58a-54a215a7d36c",
@@ -4800,16 +4800,6 @@
     "city": "Radomsko"
   },
   {
-    "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
-    "title": "Nintendo Switch Mario De lux",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e7c0f/a7faafb04b1e914cece20e29a33d",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-de-lux?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Radomsko"
-  },
-  {
     "id": "0bfd2bff-7c5f-4ab8-9bf3-5bf162a415e1",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "164",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łaziska Górne"
+  },
+  {
+    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
+    "title": "Ultra Age - Switch (Nowa)",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
   }
 ]
