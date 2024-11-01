@@ -836,7 +836,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eab73/d89eaca94888a413f2790db65afc",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-part-superstars?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Białogard"
   },
   {
@@ -2400,6 +2400,26 @@
     "city": "Chorzów"
   },
   {
+    "id": "98047943-a32b-4345-980f-e2ba2e1d7bef",
+    "title": "The Legend of Zelda: Breath of the Wild SWITCH",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1ec58d/3fcf24214f119d576d8015399693",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-zv2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Debrzno"
+  },
+  {
+    "id": "4b863cdb-1449-4277-aab6-36f879e2873d",
+    "title": "Illusion Island Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e0b47/9c768ca342b598d647e6a8492a74",
+    "url": "https://allegrolokalnie.pl//oferta/illusion-island-nintendo-switch-c7b?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
+  },
+  {
     "id": "8a1fd806-67e2-4055-9b22-f69dc7d8bf54",
     "title": "Mario Party Superstars Switch",
     "price": "160",
@@ -2978,26 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "671f833c-b474-46e4-96bc-21992c0c7b5b",
-    "title": "No more heroes 3",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e0382/9c11caa1454f80a7596c18907969",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-wkg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "a3b9b5ea-7aa3-4938-ac8c-2b486c8c4388",
-    "title": "Prince of persja Nintendo switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1efe59/51dc75ee43efb3b3028952b23157",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persja-nintendo-switch-fkq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
   },
   {
     "id": "ed2c92c0-1c49-422e-b1d5-ad92fae9edb3",
@@ -3600,26 +3600,6 @@
     "city": "Biały Bór"
   },
   {
-    "id": "36a059ae-10ce-4fcd-8ddb-d7d4f1deba1a",
-    "title": "Gra Nintendo Switch Dead or Alive Xtreme 3 Scarlet",
-    "price": "400",
-    "img": "https://a.allegroimg.com/s180x180/1e4ee4/b9c04a924476bc9bde97a339e5cc",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-or-alive-xtreme-3-scarlet?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "f6e40f68-5794-4b37-b095-79d75ffc3ac6",
-    "title": "TRUCK DRIVER SYMULATOR CIĘŻARÓWKI TIRA Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e4e3a/69aebeef42539cf34b1a1d66b32b",
-    "url": "https://allegrolokalnie.pl//oferta/truck-driver-symulator-ciezarowki-tira-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Biały Bór"
-  },
-  {
     "id": "23e145cd-b85d-4c31-a37b-d66a73caf244",
     "title": "Pikmin 4 Nintendo Switch",
     "price": "185",
@@ -4200,6 +4180,26 @@
     "city": "Bytom"
   },
   {
+    "id": "a8edeabb-9a0e-4e8c-86b5-e86ac3d89f0d",
+    "title": "Super Mario Bros Wonder Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e4da6/3098cb98490a84c88f78a8739bda",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-obd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "feb00ca7-5bc9-4f3a-9f6d-353c33882f33",
+    "title": "Fire Emblem Three Houses",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e7ea3/6c27e78a4a35acd6c003da0d5136",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-jua?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Żory"
+  },
+  {
     "id": "fba95df5-33a6-4c99-87fe-0435d8845cfb",
     "title": "Mario Party Superstars",
     "price": "139",
@@ -4778,26 +4778,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "8ae6b322-c03d-4884-9d4e-efe83392ccb8",
-    "title": "Eastward Collector's Edition",
-    "price": "330",
-    "img": "https://a.allegroimg.com/s180x180/1ef8af/c90b8d4c41c7a734d77dc0ea66dd",
-    "url": "https://allegrolokalnie.pl//oferta/eastward-collectors-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
-    "id": "0a638634-9ad6-477c-b488-cb42b835a36a",
-    "title": "Okami Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e08c8/bad332db4e099820413be7cf739f",
-    "url": "https://allegrolokalnie.pl//oferta/okami-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
   },
   {
     "id": "8ae6b322-c03d-4884-9d4e-efe83392ccb8",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
+  },
+  {
+    "id": "7226a084-1d3a-486a-9da5-e45fe7c15b7c",
+    "title": "Elder Scrolls V Skyrim na Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e29ff/4ce740bf475f82a7cb9b90629032",
+    "url": "https://allegrolokalnie.pl//oferta/elder-scrolls-v-skyrim-na-nintendo-switch-tnj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "9350f425-583b-4b79-b632-d1f81a3e8537",
+    "title": "MONSTER HUNTER RISE edycja kolekcjonerska",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s180x180/1eecac/7b397cfd418b955f9d5f6356c375",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-edycja-kolekcjonerska-czu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Przemyśl"
   }
 ]
