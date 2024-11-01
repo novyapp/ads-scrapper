@@ -1440,36 +1440,6 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "0989992c-b4d5-44e1-a48d-9c5c9ebfc537",
-    "title": "7th Sector Nintendo Switch Edycja Kolekcjonerska Stricly Limited",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e667c/72db3f194eab85f374dd5678a26a",
-    "url": "https://allegrolokalnie.pl//oferta/7th-sector-nintendo-switch-edycja-kolekcjonerska-stricly-limited?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "a9a51306-0410-453f-afd5-5bc2593e2bf4",
-    "title": "Unmetal Nintendo Switch- Edycja kolekcjonerska Unikat jak Limited Run",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ea84d/d70094fc408585b3699316f16188",
-    "url": "https://allegrolokalnie.pl//oferta/unmetal-nintendo-switch-edycja-kolekcjonerska-unikat-jak-limited-run?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "f91b7827-bd6a-4445-975e-6049bbc673d8",
-    "title": "The Wine gra Nintendo Switch LIMITED RUN GAMES Unikat",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e9ebf/c2845dfe4bf099be7310e613d003",
-    "url": "https://allegrolokalnie.pl//oferta/the-wine-gra-nintendo-switch-limited-run-games-unikat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bydgoszcz"
-  },
-  {
     "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
     "title": "Warioware get it together",
     "price": "90",
@@ -4040,16 +4010,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "b802bba6-ee44-41a1-bf24-b5bea724de43",
-    "title": "FIFA22 Nintendo switch edycja legacy",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1e66a8/30d2d0ae4df4b0e372561a713d5e",
-    "url": "https://allegrolokalnie.pl//oferta/fifa22-nintendo-switch-edycja-legacy-lek?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Łagiewniki-Borek Fałęcki"
-  },
-  {
     "id": "9f7a0995-5204-41ed-a93b-61590a7fc66e",
     "title": "Gra Metroid Dread Nintendo Switch",
     "price": "97",
@@ -5642,7 +5602,7 @@
   {
     "id": "faf64c59-a332-47b2-87ac-e7e56091709f",
     "title": "Charons staircase switch - horror",
-    "price": "100",
+    "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1e9b78/ff5bbf2f4d32b47febe89a147805",
     "url": "https://allegrolokalnie.pl//oferta/charons-staircase-switch?navCategoryId=256922",
     "promoted": false,
@@ -5652,7 +5612,7 @@
   {
     "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
     "title": "Ikai switch horror",
-    "price": "80",
+    "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1efd77/9bd101d7467a8a9ebc7cd8c3ddbe",
     "url": "https://allegrolokalnie.pl//oferta/ikai-switch-horror?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5958,45 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
+  },
+  {
+    "id": "9350f425-583b-4b79-b632-d1f81a3e8537",
+    "title": "MONSTER HUNTER RISE edycja kolekcjonerska",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s180x180/1eecac/7b397cfd418b955f9d5f6356c375",
+    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-edycja-kolekcjonerska-czu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Przemyśl"
+  },
+  {
+    "id": "1f22dd6a-c3e4-4a56-b01c-4f0cca48de18",
+    "title": "LAYTON’S MYSTERY JOURNEY – Deluxe Edition Nintendo Switch super PROMOCJA",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1e20c2/dc5e155644fba500adef5e427f60",
+    "url": "https://allegrolokalnie.pl//oferta/laytons-mystery-journey-deluxe-edition-nintendo-switch-super-promocja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
+    "id": "96ec843f-56b7-4388-ba6a-5f0298636df6",
+    "title": "NS WARIOWARE GET IT TOGETHER ! NOWA Switch + dodatki",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1ea7ff/2afa7ee14a6598ce7dfb27580d4e",
+    "url": "https://allegrolokalnie.pl//oferta/ns-warioware-get-it-together-nowa-switch-dodatki?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gostynin"
+  },
+  {
+    "id": "8eab4521-08e8-49e1-9209-961d04078914",
+    "title": "Cult of the lamb",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ee691/f0b30eb84e7c9a577db492013a2d",
+    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Wola"
   }
 ]
