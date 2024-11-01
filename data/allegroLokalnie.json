@@ -1450,16 +1450,6 @@
     "city": "Stargard"
   },
   {
-    "id": "530d8767-fb56-4af1-b847-1bae23c2ec56",
-    "title": "Mario + Rabbids Sparks of Hope Gold Edition Switch - Folia",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s180x180/1e2278/e5200a484ffdbc4c3694b1509fcb",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-gold-edition-switch-folia?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bytom, Szombierki"
-  },
-  {
     "id": "68c4a9fb-713c-4c87-b4b4-511e3a8e0907",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "145",
@@ -1798,6 +1788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "530d8767-fb56-4af1-b847-1bae23c2ec56",
+    "title": "Mario + Rabbids Sparks of Hope Gold Edition Switch - Folia",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1e2278/e5200a484ffdbc4c3694b1509fcb",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-sparks-of-hope-gold-edition-switch-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bytom, Szombierki"
   },
   {
     "id": "3deb5eaf-4697-4c59-ae32-5bbc92250bba",
@@ -3166,7 +3166,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eda8f/293052e247a8bacd4bec4b4b9cbb",
     "url": "https://allegrolokalnie.pl//oferta/gra-legend-of-zelda-breath-of-the-wild-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Pruszcz Gdański"
   },
   {
@@ -3176,7 +3176,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea657/03c883764e12a5097c8c28636f57",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-gra?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Pruszcz Gdański"
   },
   {
@@ -4000,16 +4000,6 @@
     "city": "Dębica"
   },
   {
-    "id": "750b0c0a-7df3-4bdb-8e37-9da495a3b112",
-    "title": "Super Mario 3d World Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9849/10b172dc451ab38e2bdc2249fbec",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-nintendo-switch-ks7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "b2cb6168-4244-410a-88f9-82f8b1df125b",
     "title": "[Switch] Splatoon 3",
     "price": "149",
@@ -4392,7 +4382,7 @@
   {
     "id": "b74c95e5-497c-4cd3-b12e-6e1aec4ede1a",
     "title": "STAR OCEAN THE SECOND STORY R  (SWITCH) + SOUNDTRACK",
-    "price": "479",
+    "price": "499",
     "img": "https://a.allegroimg.com/s180x180/1eb94b/0a1e989b4c0184ddbb8d25fa8694",
     "url": "https://allegrolokalnie.pl//oferta/star-ocean-the-second-story-r-switch-soundtrack?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Nowy Sącz"
+  },
+  {
+    "id": "2779ce0b-21cc-42c8-b44d-a315d0075b95",
+    "title": "Fire Emblem Three Houses Limited Edition",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s180x180/1eec2b/e3246f8747bb9b673a2a62e6453f",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-limited-edition-ou3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
   }
 ]
