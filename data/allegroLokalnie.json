@@ -1900,16 +1900,6 @@
     "city": "Białystok"
   },
   {
-    "id": "2b1c4dfe-27a8-40d7-ac2d-05793fd83c30",
-    "title": "Bloodstained Ritual of the Night gra Switch",
-    "price": "128",
-    "img": "https://a.allegroimg.com/s180x180/1edb63/3d2f955c445fb46c34fec7a9075a",
-    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-gra-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "2d98845f-ac51-40cd-b6e5-79e765ce8e05",
     "title": "Naruto Shippuden Ultimate Ninja 4 Nintendo Switch",
     "price": "119",
@@ -1928,6 +1918,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "2b1c4dfe-27a8-40d7-ac2d-05793fd83c30",
+    "title": "Bloodstained Ritual of the Night gra Switch",
+    "price": "128",
+    "img": "https://a.allegroimg.com/s180x180/1edb63/3d2f955c445fb46c34fec7a9075a",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-of-the-night-gra-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
   },
   {
     "id": "744510f0-af36-44ce-af48-176ba559455a",
@@ -1998,16 +1998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
-  },
-  {
-    "id": "f2ffd9d7-eb2a-4633-8bf4-49749c0c5552",
-    "title": "Mario vs Donkey Kong",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1ef395/c347bb104cf8a362f9d1798a7292",
-    "url": "https://allegrolokalnie.pl//oferta/mario-vs-donkey-kong-cxr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów, Rzeszów"
   },
   {
     "id": "1f51c53e-1b96-4fdc-9b3f-28eda85fc7f6",
@@ -2395,16 +2385,6 @@
     "price": "120",
     "img": "https://a.allegroimg.com/s180x180/1eaf48/cc0302d647278eecb0015d824df3",
     "url": "https://allegrolokalnie.pl//oferta/hogwart-legacy-nintendo-switch-dp2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chorzów"
-  },
-  {
-    "id": "2be1d295-7f85-4522-8dd7-ed64d41bd383",
-    "title": "Witcher 3 Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e605b/a51a8df34571ba7328b7b6094072",
-    "url": "https://allegrolokalnie.pl//oferta/witcher-3-nintendo-switch-ovc?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
@@ -3610,6 +3590,16 @@
     "city": "Czeladź"
   },
   {
+    "id": "0e939af0-2dc8-4b4e-8c39-387b10ac0d63",
+    "title": "Super Mario Bros Wonder Nintendo Switch",
+    "price": "142",
+    "img": "https://a.allegroimg.com/s180x180/1e4a3b/1bb03f0b49738c4091da84e82398",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-xis?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Czeladź"
+  },
+  {
     "id": "3207c4eb-9016-4466-b818-067cacf24bc5",
     "title": "Virche Evermore - error:salvation nintendo switch",
     "price": "250",
@@ -4198,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "e161a1bc-620a-4145-9d3d-bb3d90cdfc87",
-    "title": "Pokemon Let's Go Eevee Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e726d/0fad81fb4b2fb13927bc61ae8930",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nintendo-switch-cwl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
@@ -5398,6 +5378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tarnowskie Góry"
+  },
+  {
+    "id": "6c3df4ef-7126-496d-b4f6-d425807255fb",
+    "title": "The Legend of Zelda Tears of The Kingdom Edycja Kolekcjonerska Switch",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s180x180/1eb71f/bf35dc594caebc628446855f768d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zabrze"
   },
   {
     "id": "6c3df4ef-7126-496d-b4f6-d425807255fb",
