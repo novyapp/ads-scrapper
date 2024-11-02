@@ -530,16 +530,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "d10bff5c-2e42-4aac-9fab-7af0efcae5e5",
-    "title": "Sonic Frontiers Nintendo Switch nowa",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e83cd/8af0650c4bf08e78072105aac479",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-switch-nowa-wbt?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "db6a5376-247c-4564-b4b7-cff8f4a6ee05",
     "title": "Super Mario Party Nintendo Switch",
     "price": "159",
@@ -792,7 +782,7 @@
   {
     "id": "0446bc59-8359-4ed1-aed4-a38888399983",
     "title": "Pokemon Shield Nintendo Switch",
-    "price": "149",
+    "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1ea299/956eec8044a8a3c4eee60bbdb9ed",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-ro5?navCategoryId=256922",
     "promoted": true,
@@ -2011,7 +2001,7 @@
   },
   {
     "id": "dc8b7dc7-cc55-4c17-9eb5-4c1da1684da2",
-    "title": "Nintendo Switch Howgart's Legacy NOWA W FOLII",
+    "title": "Nintendo Switch Howgarts Legacy NOWA W FOLII",
     "price": "149",
     "img": "https://a.allegroimg.com/s180x180/1e3bba/6b5b9cfb4def93f5d4c815c5e4f5",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-howgarts-legacy-nowa-w-folii?navCategoryId=256922",
@@ -2398,6 +2388,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "a1349d21-f2fa-4e9a-af2c-e456f8143a74",
+    "title": "Xenoblade Chronicles 3 jak Nówka",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e6972/2c50f2374a77ac987cfb42920a64",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-jak-nowka-xek?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "a1349d21-f2fa-4e9a-af2c-e456f8143a74",
+    "title": "Xenoblade Chronicles 3 jak Nówka",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e6972/2c50f2374a77ac987cfb42920a64",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-jak-nowka-xek?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
   },
   {
     "id": "fbe8e4e6-8af3-48f1-8316-e41066ba4c98",
@@ -2985,16 +2995,6 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e350d/380b33174f86aca02e7ca7b17b8b",
     "url": "https://allegrolokalnie.pl//oferta/deamon-x-machina?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "671f833c-b474-46e4-96bc-21992c0c7b5b",
-    "title": "No more heroes 3",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e0382/9c11caa1454f80a7596c18907969",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-wkg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Psie Pole"
@@ -4200,6 +4200,26 @@
     "city": "Żory"
   },
   {
+    "id": "5b22facd-ae84-4bfb-ae5f-a5ea4a27f07a",
+    "title": "Super Mario 3D World + Bowser's Fury",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e5932/a882e89b49d0b38ad8d37b41160d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-vm5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Żory"
+  },
+  {
+    "id": "412b41f0-51c6-40b1-876d-d709bcb915ba",
+    "title": "THE LEGEND OF ZELDA TEARS OF THE KINGDOM , NINTENDO SWITCH",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e1077/a0cb9f0d402eadac62de94f6efc4",
+    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-tears-of-the-kingdom-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "d750af4a-e904-4d57-bc3a-7a4fc9f3f47c",
     "title": "The Legend of Zelda Echoes of Wisdom Nintendo Switch",
     "price": "189",
@@ -5378,26 +5398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "be87b06e-eb62-4099-98b9-9a45406960f8",
-    "title": "Tactics Ogre Reborn - Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ee705/c1733d224d86af28cf006dcd5eee",
-    "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-nintendo-switch-blw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gorzów Wielkopolski"
-  },
-  {
-    "id": "42a84011-c390-4c21-84a6-32209e9d9f10",
-    "title": "METROID PRIME REMASTERED - NINTENDO SWITCH - STAN IDEALNY",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e168e/c51f85aa4e3bb7bfcdbecb415b72",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-nintendo-switch-stan-idealny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Bemowo"
   },
   {
     "id": "be87b06e-eb62-4099-98b9-9a45406960f8",
