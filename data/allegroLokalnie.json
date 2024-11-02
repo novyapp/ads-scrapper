@@ -1930,6 +1930,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "1cf80b2c-e906-4b59-a4a8-5dd007225cf1",
+    "title": "The Legend of Zelda: Echoes of Wisdom",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e1e12/ad8ffe59417ab890da9c678bc17d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-pse?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Czyżyny"
+  },
+  {
     "id": "bd507e4b-200d-4c8c-98cc-ec5b6fb3fac5",
     "title": "Pokemon Scarlet z dlc",
     "price": "230",
@@ -2398,6 +2408,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kwidzyn"
+  },
+  {
+    "id": "1230e2f1-6d0f-4c13-ba75-371449ab4b91",
+    "title": "NS Persona 5 Strikers",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e705b/6c04c49941de9e650e6eb7cd67f5",
+    "url": "https://allegrolokalnie.pl//oferta/ns-persona-5-strikers?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "f807d65b-eae1-43b6-9b1c-132fb5d3c4ef",
@@ -3000,16 +3020,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "dc5e9a8e-efe2-4bfa-8f27-d85cff434023",
-    "title": "Luigi's Mansion 3 Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1edf56/8b78a35c4a8a829f89dbac980cd4",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-fdm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "158e698c-a1e0-4a19-8862-45ad297291ea",
     "title": "Deamon x machina",
     "price": "110",
@@ -3588,16 +3598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tczew"
-  },
-  {
-    "id": "52da7a1e-9579-4e0b-8eb8-0fc251f9471e",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "188",
-    "img": "https://a.allegroimg.com/s180x180/1e76e2/c492578c407e8c1cdfe4787929ce",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-wew?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "52da7a1e-9579-4e0b-8eb8-0fc251f9471e",
@@ -5400,6 +5400,16 @@
     "city": "Kraków"
   },
   {
+    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
+    "title": "Dragon Quest Treasures Nintendo Switch JP version",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
     "id": "efba7924-e867-4d04-b2fe-35ff4dc1eb64",
     "title": "Astral chain Nintendo",
     "price": "145",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wilczyce"
-  },
-  {
-    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
-    "title": "Mario kart 8 deluxe",
-    "price": "215",
-    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   }
 ]
