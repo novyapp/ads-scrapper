@@ -1740,26 +1740,6 @@
     "city": "Białystok"
   },
   {
-    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
-    "title": "Super Mario RPG Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
-    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
-    "title": "Kangurek Kao Switch PL",
-    "price": "102",
-    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
     "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
     "price": "475",
@@ -1798,6 +1778,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "JAWORZE"
+  },
+  {
+    "id": "1fa9959b-2f69-4078-ba70-b198d9de8241",
+    "title": "Super Mario RPG Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e1b54/3021f9344950ba68a9570b216e9a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-asw?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "8e80c2fc-e27b-4f95-b639-244b4914230c",
+    "title": "Kangurek Kao Switch PL",
+    "price": "102",
+    "img": "https://a.allegroimg.com/s180x180/1ea811/dd6dffbe41e19f128531eb721fde",
+    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-switch-pl-vjn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "eee4cd8d-950f-4c6f-aae5-0ba77e985021",
@@ -2552,7 +2552,7 @@
   {
     "id": "309f9da2-41da-4411-aded-b970e5bf226d",
     "title": "Souldiers Nintendo Switch",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e4f7d/76e4182c4169b220554b54eff0cd",
     "url": "https://allegrolokalnie.pl//oferta/souldiers-nintendo-switch-jrt?navCategoryId=256922",
     "promoted": false,
