@@ -3000,26 +3000,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "ebbc4be8-73c4-4976-9e73-d02aead94882",
-    "title": "Mario Party Superstars Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1eb5fa/2f10d1d64b1ea68a8b8e7c9ce086",
-    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstarsnintendo-switch-gbp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "9fa4a3d0-874e-4534-900b-fd04ef35e3cc",
-    "title": "Minecraft Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1efd1f/06ef759f4dd0b1e0034536b0c033",
-    "url": "https://allegrolokalnie.pl//oferta/minecraftnintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "dc5e9a8e-efe2-4bfa-8f27-d85cff434023",
     "title": "Luigi's Mansion 3 Nintendo Switch",
     "price": "175",
@@ -3620,6 +3600,26 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "a338ef60-d77e-4648-a369-f4da10244201",
+    "title": "Gra Lego worlds na Nintendo Switch",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1e72b6/4e609e9e4447aa36ee5992c38428",
+    "url": "https://allegrolokalnie.pl//oferta/gra-lego-worlds-na-nintendo-switch-euj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
+    "id": "52da7a1e-9579-4e0b-8eb8-0fc251f9471e",
+    "title": "Mario Kart 8 Deluxe Nintendo Switch",
+    "price": "188",
+    "img": "https://a.allegroimg.com/s180x180/1e76e2/c492578c407e8c1cdfe4787929ce",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-wew?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "c865edf3-db50-46af-b736-e0077d0dcd34",
     "title": "Fifa19 nintendo switch",
     "price": "100",
@@ -4198,26 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lubin"
-  },
-  {
-    "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
-    "title": "Pokemon: Let's go, Eevee",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Roźwienica"
-  },
-  {
-    "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
-    "title": "Pokemon Shield + Expansion Pass",
-    "price": "600",
-    "img": "https://a.allegroimg.com/s180x180/1e54db/c1e0c2f34efeae9347ef8c21caac",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-expansion-pass-qut?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Roźwienica"
   },
   {
     "id": "19c5a20c-4501-46ae-8006-fe8e93098000",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "c5a9850e-94f9-4fbb-8e21-722eed19808c",
+    "title": "Zelda Breath of The Wild eng",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e2fad/d0f93a4f4ee8a10941df583261cc",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-zelda-4tt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łaziska Górne"
+  },
+  {
+    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
+    "title": "Ultra Age - Switch (Nowa)",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
+    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
   }
 ]
