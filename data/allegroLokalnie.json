@@ -1,5 +1,15 @@
 [
   {
+    "id": "affa18cd-7a35-4d58-8442-3bfe3e2ed31d",
+    "title": "Mario Tennis Aces (Nintendo Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e5646/5de544ed41ce951846639f78d16b",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-fjb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Młynów"
+  },
+  {
     "id": "fbe84e31-db5d-46f1-87dc-ab93f2012eb9",
     "title": "The Legend of Zelda Echoes of Wisdom",
     "price": "195",
@@ -532,7 +542,7 @@
   {
     "id": "2d2827c3-6ab0-4507-a903-ee4d90e1ddf3",
     "title": "-== Rune Factory 5 NOWA - Switch - Wawa ==-",
-    "price": "95",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1efa84/6982b9f444db9cf8dda7a0503cdf",
     "url": "https://allegrolokalnie.pl//oferta/rune-factory-5-nowa-switch-wawa?navCategoryId=256922",
     "promoted": true,
@@ -542,7 +552,7 @@
   {
     "id": "dfab5a6e-ae56-4d88-b242-77d8ab14cbee",
     "title": "-== Shin Megami Tensei V - Switch - Wawa ==-",
-    "price": "89",
+    "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1e6a17/23c92e1f48a0a0f761941fa3c1ab",
     "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-wawa?navCategoryId=256922",
     "promoted": true,
@@ -588,16 +598,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Łódź"
-  },
-  {
-    "id": "f9c7aef3-52b3-4429-9490-083b8eb2b479",
-    "title": "Gra Pokémon Scarlet Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e1884/9e813ea84f05b64ae1500287e683",
-    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-scarlet-nintendo-switch-nrm?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kobyłka"
   },
   {
     "id": "f9c7aef3-52b3-4429-9490-083b8eb2b479",
@@ -1800,6 +1800,16 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "f044d067-1bf9-4f79-9eb4-666ea09d7d53",
+    "title": "MARIO PATRY SUPERSTARS Switch Nowa",
+    "price": "208",
+    "img": "https://a.allegroimg.com/s180x180/117add/338a4666404896e9431d51f76819",
+    "url": "https://allegrolokalnie.pl//oferta/mario-patry-superstars-switch-nowa?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Wałbrzych"
+  },
+  {
     "id": "93c020ee-e1e1-4e6b-a844-6ccc22c1b4cf",
     "title": "The Smurfs 2:The Prisoner of the Green Stone Switch / LES SCHTROUMPFS 2",
     "price": "149",
@@ -1950,16 +1960,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "1a846a12-f9ac-4489-b61d-35c80c243163",
-    "title": "The Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ede59/efd445cc4db6a805c9771a7eabfe",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-jyy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "3470d6b9-9e96-4053-858b-c2d4eaebe718",
     "title": "Mario Kart 8 Deluxe Nintendo Switch",
     "price": "195",
@@ -2088,16 +2088,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Jaworzno"
-  },
-  {
-    "id": "c70f83d5-b876-45f4-bbed-9123e565f6c2",
-    "title": "PAPER MARIO THE THOUSAND YEAR DOOR UŻYWANA SWITCH",
-    "price": "163",
-    "img": "https://a.allegroimg.com/s180x180/1e8d91/b5ba46f14b90ab839c76ba7b6bd2",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-uzywana-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "2ef3e4ae-a5ba-4e0b-b792-a0020e989b12",
@@ -2980,6 +2970,16 @@
     "city": "Sanniki"
   },
   {
+    "id": "ed2c92c0-1c49-422e-b1d5-ad92fae9edb3",
+    "title": "Luigis mansion 3 gra Nintendo switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e60ef/97f829cb46289965db323dc67984",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-gra-nintendo-switch-dvn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siemianowice Śląskie"
+  },
+  {
     "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
     "title": "Kangurek Kao Nintendo switch",
     "price": "75",
@@ -3342,7 +3342,7 @@
   {
     "id": "6976d394-d7f9-482c-9547-5dfd9c9d0a23",
     "title": "The Legend of Zelda Skyward Sword HD",
-    "price": "155",
+    "price": "145",
     "img": "https://a.allegroimg.com/s180x180/1edf57/1bc7badb442abb5258a3a4317301",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-7sw?navCategoryId=256922",
     "promoted": false,
@@ -3568,16 +3568,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Karolina"
-  },
-  {
-    "id": "e22059d9-63ff-4aaa-81a4-1322dd114aa7",
-    "title": "Pokemon Mystery Dungeon Rescue Team DX",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e83b6/be9a9f78486097fdc12e1dd401ce",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-mystery-dungeon-rescue-team-dx-fja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
   },
   {
     "id": "e22059d9-63ff-4aaa-81a4-1322dd114aa7",
@@ -3882,7 +3872,7 @@
   {
     "id": "eac56d6f-4146-42bc-b0ba-44c013fa1362",
     "title": "-== Little Witch Nobeta - Switch - sam kartridż - Wawa ==-",
-    "price": "89",
+    "price": "84",
     "img": "https://a.allegroimg.com/s180x180/1eba23/6fee5c29454083f02956a470d08b",
     "url": "https://allegrolokalnie.pl//oferta/little-witch-nobeta-switch-sam-kartridz-wawa?navCategoryId=256922",
     "promoted": false,
@@ -4178,6 +4168,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
+  },
+  {
+    "id": "ee9f5e80-d187-497e-9744-27487bf12c7e",
+    "title": "The Legend of Zelda: Echoes of Wisdom Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ead3e/07cb42cd49a1961d2573dc081500",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-nintendo-switch-qih?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
   },
   {
     "id": "8d856fbb-e546-4364-a6d1-a0ddbb7b22cd",
@@ -5380,16 +5380,6 @@
     "city": "Radzymin, Radzymin"
   },
   {
-    "id": "852811ee-3c96-437f-8f77-9bcb4f31f535",
-    "title": "Mariokart deluxe",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e177a/ff21309c4bd2a6843c221e362759",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-t4z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
-  },
-  {
     "id": "1c9a8f89-6846-4fd9-ae46-c072b609d10c",
     "title": "Sonic frointiens",
     "price": "90",
@@ -5978,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Włocławek"
+  },
+  {
+    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
+    "title": "Road 96 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "a271a1df-a16a-4412-8716-19e373600031",
+    "title": "Wreckfest Nintendo Switch NS",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
+    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
   }
 ]
