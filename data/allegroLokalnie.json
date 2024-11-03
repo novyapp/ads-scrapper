@@ -1370,16 +1370,6 @@
     "city": "Zakopane"
   },
   {
-    "id": "2063350a-8983-4e90-8b01-26cc11f746ae",
-    "title": "G-Darius HD - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e56c7/628ade4d45279713d9201f253159",
-    "url": "https://allegrolokalnie.pl//oferta/gdarius-hd-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
-  },
-  {
     "id": "68c4a9fb-713c-4c87-b4b4-511e3a8e0907",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "145",
@@ -3600,16 +3590,6 @@
     "city": "Karolina"
   },
   {
-    "id": "3207c4eb-9016-4466-b818-067cacf24bc5",
-    "title": "Virche Evermore - error:salvation nintendo switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1ee2fe/c56ecbb341ccbbc6e6288be4d735",
-    "url": "https://allegrolokalnie.pl//oferta/virche-evermore-errorsalvation-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Karolina"
-  },
-  {
     "id": "e22059d9-63ff-4aaa-81a4-1322dd114aa7",
     "title": "Pokemon Mystery Dungeon Rescue Team DX",
     "price": "200",
@@ -4910,6 +4890,16 @@
     "city": "Olsztyn"
   },
   {
+    "id": "2063350a-8983-4e90-8b01-26cc11f746ae",
+    "title": "G-Darius HD - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e56c7/628ade4d45279713d9201f253159",
+    "url": "https://allegrolokalnie.pl//oferta/gdarius-hd-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krakow, Swoszowice"
+  },
+  {
     "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
     "title": "Nintendo switch sports",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Włocławek"
+  },
+  {
+    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
+    "title": "Road 96 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
   }
 ]
