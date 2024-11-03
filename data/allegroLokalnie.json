@@ -42,7 +42,7 @@
   {
     "id": "cd74ba24-8b34-42ba-9c6b-142ec940f2b2",
     "title": "LEGO Harry Potter Collection",
-    "price": "75",
+    "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1eb95c/acf7acdb43e9a5cfe9d3cbdc52fc",
     "url": "https://allegrolokalnie.pl//oferta/lego-harry-potter-collection-qw5?navCategoryId=256922",
     "promoted": true,
@@ -1868,6 +1868,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "b47301db-1f54-4524-891a-a8dfbfe98796",
+    "title": "-== Dark Souls Remastered - Switch - WaWa ==-",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e5f90/987747b34ee88303dd311e9626f3",
+    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-switch-wawa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "b78ee4f3-1a15-4fce-a345-51ccacf8f345",
+    "title": "-== Pokemon Mystery Dungeon Rescue Team DX - Switch - WaWa ==-",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e64fd/4befdcab492cad404c66d9a805db",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-mystery-dungeon-rescue-team-dx-switch-wawa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
   },
   {
     "id": "de5a39dc-95fd-4474-9087-ed1caad9d435",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wilczyce"
-  },
-  {
-    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
-    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
-    "price": "172",
-    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
-    "id": "a271a1df-a16a-4412-8716-19e373600031",
-    "title": "Wreckfest Nintendo Switch NS",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
-    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
   }
 ]
