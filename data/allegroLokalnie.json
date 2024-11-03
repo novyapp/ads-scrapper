@@ -1930,16 +1930,6 @@
     "city": "Kraków, Czyżyny"
   },
   {
-    "id": "bd507e4b-200d-4c8c-98cc-ec5b6fb3fac5",
-    "title": "Pokemon Scarlet z dlc",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s180x180/1ef7cb/933038fd4155b8a14f8813be82cd",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-z-dlc-mf6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "f39f9a1c-96cb-4db9-8608-f8879a3924a6",
     "title": "FIFA 22 PL Nintendo Switch",
     "price": "50",
@@ -2388,6 +2378,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "438baf05-5ebc-4bdb-9ce5-d9d29e851dac",
+    "title": "Hogwart Legacy Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1eaf48/cc0302d647278eecb0015d824df3",
+    "url": "https://allegrolokalnie.pl//oferta/hogwart-legacy-nintendo-switch-dp2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
+  },
+  {
+    "id": "438baf05-5ebc-4bdb-9ce5-d9d29e851dac",
+    "title": "Hogwart Legacy Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1eaf48/cc0302d647278eecb0015d824df3",
+    "url": "https://allegrolokalnie.pl//oferta/hogwart-legacy-nintendo-switch-dp2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chorzów"
   },
   {
     "id": "2be1d295-7f85-4522-8dd7-ed64d41bd383",
@@ -2975,16 +2985,6 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e350d/380b33174f86aca02e7ca7b17b8b",
     "url": "https://allegrolokalnie.pl//oferta/deamon-x-machina?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
-    "id": "671f833c-b474-46e4-96bc-21992c0c7b5b",
-    "title": "No more heroes 3",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e0382/9c11caa1454f80a7596c18907969",
-    "url": "https://allegrolokalnie.pl//oferta/no-more-heroes-3-wkg?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Psie Pole"
@@ -3578,16 +3578,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Sobowo"
-  },
-  {
-    "id": "0e939af0-2dc8-4b4e-8c39-387b10ac0d63",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "142",
-    "img": "https://a.allegroimg.com/s180x180/1e4a3b/1bb03f0b49738c4091da84e82398",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-xis?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Czeladź"
   },
   {
     "id": "0e939af0-2dc8-4b4e-8c39-387b10ac0d63",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Ostrów Mazowiecka"
+  },
+  {
+    "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
+    "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e98cf/67a02e414fb397fa130bf99c5c4f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-kartridz-octopath-traveler-eng-nintendo-switch-przepiekna-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włocławek"
   }
 ]
