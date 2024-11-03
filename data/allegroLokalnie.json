@@ -1412,7 +1412,7 @@
   {
     "id": "e26cedcd-862d-4e8c-a116-00d999b70432",
     "title": "Super Mario 3D All Stars",
-    "price": "569",
+    "price": "549",
     "img": "https://a.allegroimg.com/s180x180/1e01ea/809524c741ea9c4876ace9dd1906",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-mrt?navCategoryId=256922",
     "promoted": true,
@@ -1502,7 +1502,7 @@
   {
     "id": "21ea2598-33c0-4613-89ef-5c0ca5bd2ca4",
     "title": "No Man's Sky Switch",
-    "price": "192",
+    "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1eb78a/d89e4f2549628d7c8f05c1125ba6",
     "url": "https://allegrolokalnie.pl//oferta/no-mans-sky-switch-x7h?navCategoryId=256922",
     "promoted": true,
@@ -2398,6 +2398,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "9fd28715-96e1-4edd-a09d-68c72e5986e8",
+    "title": "Wargroove 1+2 Nintendo Switch ANG",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s180x180/1ec43d/9e550760454e9018bb79f67214e0",
+    "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-nintendo-switch-ang?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "58ea1410-5109-4f87-9cc6-f20afb8503c7",
@@ -4200,16 +4210,6 @@
     "city": "Roźwienica"
   },
   {
-    "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
-    "title": "Pokemon: Let's go, Eevee",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Roźwienica"
-  },
-  {
     "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
     "title": "Pokemon Shield + Expansion Pass",
     "price": "600",
@@ -4800,6 +4800,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
+    "title": "Nintendo Switch Mario De lux",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e7c0f/a7faafb04b1e914cece20e29a33d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-mario-de-lux?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radomsko"
+  },
+  {
     "id": "0bfd2bff-7c5f-4ab8-9bf3-5bf162a415e1",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "164",
@@ -5385,16 +5395,6 @@
     "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1e100f/2a85e49e469a8377738def930a3e",
     "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-q4s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk Wrzeszcz"
-  },
-  {
-    "id": "589fa895-c7e0-49ec-9e2e-0183bc245270",
-    "title": "Super smash Bros Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e55ec/f08636314747ba6285b20f79b8f6",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-nintendo-switch-t6v?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gdańsk Wrzeszcz"
