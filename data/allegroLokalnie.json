@@ -220,16 +220,6 @@
     "city": "Białystok"
   },
   {
-    "id": "62c19cbf-96e1-44e3-81c6-d634e24ea87e",
-    "title": "The Legend of Zelda Link's Awakening",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e43d9/5617d67b4fffac0d957f5dd70d0c",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-abg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "e342e89d-805e-4dc7-9894-dcc5cd966f61",
     "title": "Oddworld Soulstorm Switch",
     "price": "120",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
+    "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e06a1/0292e2d54bd18edf3665bfc243e9",
+    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-the-winds-of-anthos-nintendo-switch-nowa-w-folii-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz"
   }
 ]
