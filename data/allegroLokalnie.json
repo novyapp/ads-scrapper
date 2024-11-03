@@ -2100,16 +2100,6 @@
     "city": "Radom, Glinice"
   },
   {
-    "id": "2c69c7ff-5be7-40d6-83cb-bbd0344b4700",
-    "title": "The Legend of Zelda: Link's Awakening Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e44c8/11f6cfb946b1ab0f20a4097be309",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-nintendo-switch-wqm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "3470d6b9-9e96-4053-858b-c2d4eaebe718",
     "title": "Mario Kart 8 Deluxe Nintendo Switch",
     "price": "195",
@@ -2142,7 +2132,7 @@
   {
     "id": "6fa269a9-6bed-49d7-ba53-6d7f71750452",
     "title": "Sonic frontiers switch",
-    "price": "99",
+    "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1e8732/3c8a90884241864484ad456ff06a",
     "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-switch-sl7?navCategoryId=256922",
     "promoted": false,
@@ -4080,16 +4070,6 @@
     "city": "Międzychód"
   },
   {
-    "id": "2f353624-f0fe-46ec-9a1e-c74f5daca3b9",
-    "title": "Dark Souls Remastered Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e5263/fa731caf455a889a6d379c1ab501",
-    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-nintendo-switch-7wo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rzeszów"
-  },
-  {
     "id": "2a95539c-f7d9-4dd4-b6ab-430962518cdf",
     "title": "Radiant Silvergun Nintendo Switch",
     "price": "300",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Wola"
+  },
+  {
+    "id": "b66ed90b-b3d8-41c7-adf6-e20b865b02fa",
+    "title": "Harvest Moon The Winds of Anthos Nintendo Switch / Nowa w Folii / ANG",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e06a1/0292e2d54bd18edf3665bfc243e9",
+    "url": "https://allegrolokalnie.pl//oferta/harvest-moon-the-winds-of-anthos-nintendo-switch-nowa-w-folii-3xa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowy Sącz"
+  },
+  {
+    "id": "2779ce0b-21cc-42c8-b44d-a315d0075b95",
+    "title": "Fire Emblem Three Houses Limited Edition",
+    "price": "600",
+    "img": "https://a.allegroimg.com/s180x180/1eec2b/e3246f8747bb9b673a2a62e6453f",
+    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-limited-edition-ou3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
   }
 ]
