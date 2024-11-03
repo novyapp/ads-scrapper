@@ -2350,16 +2350,6 @@
     "city": "Lędziny"
   },
   {
-    "id": "bbf4e67a-e637-4e34-9b0d-c4cb089b3278",
-    "title": "Pokemon Scarlet + The Hidden Treasure of Area Zero DLC",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ecaf2/9c095fcd44878ae4ba99c16de58a",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-the-hidden-treasure-of-area-zero-dlc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "cf92d388-f56e-40aa-be7b-35263db94209",
     "title": "Luigi's mansion 2 HD switch",
     "price": "179",
@@ -2395,6 +2385,16 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s180x180/1e705b/6c04c49941de9e650e6eb7cd67f5",
     "url": "https://allegrolokalnie.pl//oferta/ns-persona-5-strikers?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "f807d65b-eae1-43b6-9b1c-132fb5d3c4ef",
+    "title": "NS Super Mario Bros. Wonder",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ee4c8/968569ae4431b0322731bc32560d",
+    "url": "https://allegrolokalnie.pl//oferta/ns-super-mario-bros-wonder?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
@@ -3362,7 +3362,7 @@
   {
     "id": "e2ebef0d-87e2-4e2b-9a9f-f66cf9688219",
     "title": "Pokémon Arceus Nintendo Switch",
-    "price": "155",
+    "price": "300",
     "img": "https://a.allegroimg.com/s180x180/1eadee/b57c29d24ac0b988d8f6950769ad",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-arceus-nintendo-switch-4k5?navCategoryId=256922",
     "promoted": false,
@@ -3598,16 +3598,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Chodzież"
-  },
-  {
-    "id": "adaf3540-eb4d-481e-a58a-54a215a7d36c",
-    "title": "Nintendo Ring Fit Adventure - Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e70c9/af54889f429e9e2b53eaba2e0b6a",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-ring-fit-adventure-nintendo-switch-spr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sobowo"
   },
   {
     "id": "5923b8cb-42c5-4f03-b839-4d30c9463906",
@@ -4195,6 +4185,16 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e5bda/916931644cbeb87d192a3d690883",
     "url": "https://allegrolokalnie.pl//oferta/unravel-2-nintendo-switch-rw4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "b7e0a9d6-ee56-4c01-a5ac-90d181901337",
+    "title": "Minecraft - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e1f1a/870ec8c84a4485e2c92786f0ce4a",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-gcy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wilczyce"
+  },
+  {
+    "id": "c9b1952a-37b2-45a6-85d5-d76d3229cd37",
+    "title": "Mario kart 8 deluxe",
+    "price": "215",
+    "img": "https://a.allegroimg.com/s180x180/1ea9c8/73470b984c7fa7848dc0c0325c8f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-uqf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   }
 ]
