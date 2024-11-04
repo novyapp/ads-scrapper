@@ -252,7 +252,7 @@
   {
     "id": "62de4c9a-f48a-4870-ae60-c23710bd680f",
     "title": "Red Dead Redemption PL",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e064a/9a023954434391218e27aba76b6a",
     "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-na-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -1750,6 +1750,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "3997b5c5-6d80-4f0b-9308-3926d6d12c9f",
+    "title": "Disgaea 7 Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e4d08/a330005141bf8f84b7f09b301ca2",
+    "url": "https://allegrolokalnie.pl//oferta/disgaea-7-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
+  },
+  {
     "id": "fb8d95ba-3dfc-47c3-9ee3-0b356e0df952",
     "title": "LEGO City Undercover",
     "price": "55",
@@ -2388,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "ab121d1f-6a50-4028-8137-0ced091ffcbd",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ede62/f74da4604a98bc905e98344337c3",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-jqy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   },
   {
     "id": "ab121d1f-6a50-4028-8137-0ced091ffcbd",
@@ -5400,6 +5400,16 @@
     "city": "Chorzów"
   },
   {
+    "id": "fc55f300-75da-41e4-b5a8-c58c26a3ebad",
+    "title": "SPLATOON 2 na Nintendo Switch.",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1ef5fd/71a09df54a35a1674e6b3208b43f",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-l2r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Chorzów"
+  },
+  {
     "id": "54b9ce30-ddd6-4c12-b358-285f0ef75ffb",
     "title": "DYING LIGHT Platinum Edition na Nintendo Switch",
     "price": "169",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
-    "title": "mario golf super rush nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e028e/86c6428b42648070d5ea0cfad2ca",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
   }
 ]
