@@ -702,7 +702,7 @@
   {
     "id": "0446bc59-8359-4ed1-aed4-a38888399983",
     "title": "Pokemon Shield Nintendo Switch",
-    "price": "139",
+    "price": "129",
     "img": "https://a.allegroimg.com/s180x180/1ea299/956eec8044a8a3c4eee60bbdb9ed",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-ro5?navCategoryId=256922",
     "promoted": true,
@@ -1178,26 +1178,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Rypin"
-  },
-  {
-    "id": "490bddf8-afa2-4092-8847-2a27e5d5fe33",
-    "title": "Super Mario Party (Nintendo Switch) - wersja koreańska",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ee01b/c252ab8445738f1f4fba7787c0c6",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-wersja-koreanska?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Rypin"
-  },
-  {
-    "id": "f5b79e6f-67c1-4d93-8c39-16ea092c2d02",
-    "title": "Pokémon Brilliant Diamond Nintendo Switch",
-    "price": "124",
-    "img": "https://a.allegroimg.com/s180x180/1edf36/7a1aff354cee8fa5d1829b82ac98",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-ksk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chrząstowice"
   },
   {
     "id": "490bddf8-afa2-4092-8847-2a27e5d5fe33",
@@ -1770,6 +1750,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "fb8d95ba-3dfc-47c3-9ee3-0b356e0df952",
+    "title": "LEGO City Undercover",
+    "price": "55",
+    "img": "https://a.allegroimg.com/s180x180/1e1d4d/8d4f6e2e415faac164d214ad7134",
+    "url": "https://allegrolokalnie.pl//oferta/lego-city-undercover-p6s?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jarosław"
+  },
+  {
     "id": "137c0d6d-7ae0-4aa5-b141-82506c9a445b",
     "title": "Gra Nintendo Switch Let’s Sing 2024 + 2 mikrofony",
     "price": "220",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "6d84f1da-d9bd-486f-a1ff-7f98069aa035",
+    "title": "Bloodstained Curse of The moon Chronicles Nintendo Switch Ideał ver Jap",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ec508/d582b92c4f4c968aabf9999c3000",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-curse-of-the-moon-chronicles-nintendo-switch-ideal-ver-jap?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gorzów Wlkp."
   },
   {
     "id": "964b8146-245e-4dae-a910-77042f34949f",
@@ -1838,16 +1838,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gorzów Wlkp."
-  },
-  {
-    "id": "59bd5233-9166-497c-ad4e-a74ca8277c44",
-    "title": "Gothic I i II nintendo PL dialogi",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ede87/b7f945f24afd92ea846fd83f90a0",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-i-i-ii-nintendo-pl-dubbing?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Adamowice"
   },
   {
     "id": "b64712e8-f6ff-46fb-ae90-5255df22695a",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "ab121d1f-6a50-4028-8137-0ced091ffcbd",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ede62/f74da4604a98bc905e98344337c3",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-jqy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   },
   {
     "id": "ab121d1f-6a50-4028-8137-0ced091ffcbd",
@@ -5400,16 +5400,6 @@
     "city": "Chorzów"
   },
   {
-    "id": "fc55f300-75da-41e4-b5a8-c58c26a3ebad",
-    "title": "SPLATOON 2 na Nintendo Switch.",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1ef5fd/71a09df54a35a1674e6b3208b43f",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-l2r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chorzów"
-  },
-  {
     "id": "54b9ce30-ddd6-4c12-b358-285f0ef75ffb",
     "title": "DYING LIGHT Platinum Edition na Nintendo Switch",
     "price": "169",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
+    "title": "mario golf super rush nintendo switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e028e/86c6428b42648070d5ea0cfad2ca",
+    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "zgorzelec"
   }
 ]
