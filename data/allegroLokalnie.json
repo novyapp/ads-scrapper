@@ -580,26 +580,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "7d7ae88f-5e01-4647-9317-e688124fc432",
-    "title": "Nintendo Switch The Legend of Zelda: Skyward Sword HD",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1ec73b/bb914805428cb2013bb798ff8e03",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-skyward-sword-hd?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "b5877b3b-fd70-488d-be06-4f8e541425d8",
-    "title": "Hard West PL Nintendo Switch NOWA UNIKAT",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s180x180/1e9817/67b9f6614e42b1d9e2563243a764",
-    "url": "https://allegrolokalnie.pl//oferta/hard-west-pl-nintendo-switch-nowa-unikat?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Świdnica"
-  },
-  {
     "id": "cc02e1f4-e9ad-4f4b-8b84-2c5f92c81fe4",
     "title": "Timespinner Limted Run Games (LRG) Nintendo Switch",
     "price": "150",
@@ -1178,6 +1158,26 @@
     "promoted": true,
     "smartPost": false,
     "city": "Bartniczka"
+  },
+  {
+    "id": "94442cfe-3407-44f5-893d-1c43ed75b7e7",
+    "title": "Super Smash Bros Ultimate Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e5602/cf59e27a434dbd9536a40ed5b752",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-xgp-fr6?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "df52151c-b026-4f8b-8037-16e77ba7231e",
+    "title": "Unicorn Overlord Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1eccec/a8cbf62b40f8bd73808db60b7f70",
+    "url": "https://allegrolokalnie.pl//oferta/unicorn-overlord-nintendo-switch-5sm?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Otwock"
   },
   {
     "id": "94442cfe-3407-44f5-893d-1c43ed75b7e7",
@@ -4180,16 +4180,6 @@
     "city": "Lublin"
   },
   {
-    "id": "ee9f5e80-d187-497e-9744-27487bf12c7e",
-    "title": "The Legend of Zelda: Echoes of Wisdom Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ead3e/07cb42cd49a1961d2573dc081500",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-nintendo-switch-qih?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "8d856fbb-e546-4364-a6d1-a0ddbb7b22cd",
     "title": "Immortals Fenyx Rising | Nintendo Switch",
     "price": "95",
@@ -4780,6 +4770,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
+    "title": "Super Mario 3D All-Stars | Nowa | Switch",
+    "price": "499",
+    "img": "https://a.allegroimg.com/s180x180/1e82f3/25efe59f4b0c87e0c9db25339a8d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-or-nowa-or-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdynia"
+  },
+  {
     "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
     "title": "Farming Simulator Nintendo Switch Edition",
     "price": "200",
@@ -5365,16 +5365,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e177a/ff21309c4bd2a6843c221e362759",
     "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-t4z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
-  },
-  {
-    "id": "1c9a8f89-6846-4fd9-ae46-c072b609d10c",
-    "title": "Sonic frointiens",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e198f/81474ba14c01a206349961545e13",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-frointiens?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Radzymin, Radzymin"
@@ -5978,5 +5968,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wilczyce"
+  },
+  {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
   }
 ]
