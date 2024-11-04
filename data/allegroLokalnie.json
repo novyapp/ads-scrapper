@@ -1100,16 +1100,6 @@
     "city": "Lublin"
   },
   {
-    "id": "4fcd3918-ebc4-4e45-b933-2f5b6f3d5ac4",
-    "title": "Persona 5 Royal Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e4c9e/70e885304791b012b0c6c11a4ff3",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-switch-2mf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Reda"
-  },
-  {
     "id": "0360ff8e-ba54-46dc-bc9d-1ad3649d21fd",
     "title": "Gimmick! 2 klucz na Nintendo Switch",
     "price": "48",
@@ -1542,7 +1532,7 @@
   {
     "id": "671ef329-787a-4a48-aa8c-657a4a3a7f28",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "105",
+    "price": "104",
     "img": "https://a.allegroimg.com/s180x180/1e2bce/7cc273814336a398650528998804",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-th6?navCategoryId=256922",
     "promoted": true,
@@ -1552,7 +1542,7 @@
   {
     "id": "d2ce0f9b-de02-4a9a-9783-a7db84631e11",
     "title": "Crash Bandicoot 4 - Its about time Switch PL",
-    "price": "115",
+    "price": "114",
     "img": "https://a.allegroimg.com/s180x180/1e98e5/8dd02287490e9e3bef109cf68aef",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-its-about-time-switch-pl-ka4?navCategoryId=256922",
     "promoted": true,
@@ -1562,7 +1552,7 @@
   {
     "id": "c6c88fce-f448-4057-bcb9-cef1c6b2e1bb",
     "title": "Crash Bandicoot 4 - Najwyższy czas Switch PL",
-    "price": "115",
+    "price": "114",
     "img": "https://a.allegroimg.com/s180x180/1eb0a7/06fe3feb412b9ee118be6c3084e2",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-najwyzszy-czas-switch-pl-22f?navCategoryId=256922",
     "promoted": true,
@@ -1602,7 +1592,7 @@
   {
     "id": "8c738b8c-8c76-4877-8e84-551d754574ab",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "106",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e2a51/26f569c247e69b18505bb6b499ec",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-ore?navCategoryId=256922",
     "promoted": true,
@@ -1612,7 +1602,7 @@
   {
     "id": "3deb5eaf-4697-4c59-ae32-5bbc92250bba",
     "title": "Mario + Rabbids: Kingdom Battle Switch",
-    "price": "112",
+    "price": "111",
     "img": "https://a.allegroimg.com/s180x180/1ed578/d9549b6347ec98926a7678ad0ca9",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-vbn?navCategoryId=256922",
     "promoted": true,
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń"
+  },
+  {
+    "id": "23f1c88b-7766-46c1-8563-baeb6030e077",
+    "title": "The Lego movie2  Nintendo Switch + puste pudelka",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e8f0b/1b2cf6df4d47a0363bef1a182d55",
+    "url": "https://allegrolokalnie.pl//oferta/the-lego-movie2-nintendo-switch-puste-pudelka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa, Mokotów"
   },
   {
     "id": "23f1c88b-7766-46c1-8563-baeb6030e077",
@@ -2400,16 +2400,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "97628640-dfc0-4e26-9607-a99583c70a30",
-    "title": "GOTHIC II COMPLETE CLASSIC Nintendo Switch NOWA",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1ed34f/72dc37c34c78b4f7f5c56fdaf241",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-ii-complete-classic-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Bemowo"
-  },
-  {
     "id": "64225d57-cd4e-442e-8594-7617e648aa94",
     "title": "Switch Gothic PL pudełko NOWA",
     "price": "121",
@@ -2995,6 +2985,16 @@
     "price": "79",
     "img": "https://a.allegroimg.com/s180x180/1e5289/e15f85514e5d9c59e8237b8da7eb",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-switch-qm4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Grzegórzki"
+  },
+  {
+    "id": "68bc4008-cf94-4ed2-a06d-a1017e535d88",
+    "title": "Gra Super Mario Maker 2, Nintendo Switch",
+    "price": "145",
+    "img": "https://a.allegroimg.com/s180x180/1e7427/2fb5200a4520b9ae579034883525",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-switch-xuk?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Grzegórzki"
@@ -4200,16 +4200,6 @@
     "city": "Warszawa, Mokotów"
   },
   {
-    "id": "d39bacf3-31dd-400e-b1d3-53d4da708b13",
-    "title": "Cult of the lamb switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e3ff8/42ddf38b44c9b0059155f48bc48c",
-    "url": "https://allegrolokalnie.pl//oferta/cult-of-the-lamb-switch-ibv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wadowice"
-  },
-  {
     "id": "230989fd-647e-4127-81b5-20f9d5446779",
     "title": "Princess peach showtime!",
     "price": "150",
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Elbląg"
+  },
+  {
+    "id": "7087dadc-0b07-4cf6-994a-63ef4b2bb2a9",
+    "title": "Ender Lilies collectors edition limited run switch",
+    "price": "950",
+    "img": "https://a.allegroimg.com/s180x180/1eef33/de7314a44d81b25e6973369948e5",
+    "url": "https://allegrolokalnie.pl//oferta/ender-lilies-collectors-edition-limited-run-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   },
   {
     "id": "7087dadc-0b07-4cf6-994a-63ef4b2bb2a9",
@@ -5400,16 +5400,6 @@
     "city": "Radzymin, Radzymin"
   },
   {
-    "id": "02dd6165-4e08-4369-8437-4bd2a1e61de3",
-    "title": "Marvel super heroes",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1ece77/cf40deaf49f78184c26bbc0b4a0d",
-    "url": "https://allegrolokalnie.pl//oferta/marvel-super-heroes-txu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
-  },
-  {
     "id": "c443a9f3-be61-42f7-bc3c-477aae74a590",
     "title": "Sonic mania Nintendo switch",
     "price": "80",
@@ -5995,6 +5985,16 @@
     "price": "129",
     "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
     "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "63acd8f1-8d57-47ca-8c32-5f143380b6f3",
+    "title": "Mario Kart 8 Deluxe + Booster Course Pass Nintendo Switch NS",
+    "price": "440",
+    "img": "https://a.allegroimg.com/s180x180/1efe3f/aaa5bfe04dbca50d509c10fd05df",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-booster-course-pass-switch-ns?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
