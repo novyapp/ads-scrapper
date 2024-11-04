@@ -662,7 +662,7 @@
   {
     "id": "907d8130-5093-4025-b16a-31f9d24c8781",
     "title": "The Legend of Zelda Link's Awakening",
-    "price": "204",
+    "price": "203",
     "img": "https://a.allegroimg.com/s180x180/1eefa3/43e65b104a61b4afb4c4d3955956",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-bdi?navCategoryId=256922",
     "promoted": true,
@@ -1642,7 +1642,7 @@
   {
     "id": "83320671-4922-47e1-8800-da470c51e673",
     "title": "Minecraft PL Switch",
-    "price": "98",
+    "price": "97",
     "img": "https://a.allegroimg.com/s180x180/1e49b6/7ca168fd4ad8b28cd9248ed9aaf5",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-nvd?navCategoryId=256922",
     "promoted": true,
@@ -1798,16 +1798,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "d6d2503f-5828-4cfd-91cb-91bbbf0dbe40",
-    "title": "the legend of zelda breath of the wild switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ebcf3/08ca134344608fcd31f0bd9a6782",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-w74?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Katowice"
   },
   {
     "id": "6d84f1da-d9bd-486f-a1ff-7f98069aa035",
@@ -3900,31 +3890,11 @@
     "city": "Łazy"
   },
   {
-    "id": "9a6c63b3-46e1-43f4-b035-fb5eb8ca1cb9",
-    "title": "Pokemon Legends Arceus - Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1eb3aa/cfc43f21437f878dbc5d48f25561",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-nintendo-switch-hxh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "187758c7-ded3-4072-b28c-4402bd1e0ace",
     "title": "Pokemon Shield - Nintendo Switch",
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1ed131/898658c34f23b21cd8caadd4629f",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-nbs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "332c70df-aefc-4249-887c-3d2305d09041",
-    "title": "Minecraft - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1eebe5/ff78b9fc49cd97975565f918a868",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-all?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Sosnowiec"
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": false,
     "city": "Ostrów Mazowiecka"
+  },
+  {
+    "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
+    "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e98cf/67a02e414fb397fa130bf99c5c4f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-kartridz-octopath-traveler-eng-nintendo-switch-przepiekna-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włocławek"
+  },
+  {
+    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
+    "title": "Road 96 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
   }
 ]
