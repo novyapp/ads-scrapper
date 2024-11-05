@@ -1280,16 +1280,6 @@
     "city": "Oleśnica"
   },
   {
-    "id": "1ecd724f-52d2-4a5b-b15f-e789c15950e8",
-    "title": "Stojak na gry do Nintendo Switch",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s180x180/1e9d11/f44dd8d44d3699dfb0d685ea5812",
-    "url": "https://allegrolokalnie.pl//oferta/stojak-na-gry-do-nintendo-switch-khi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Krzyków"
-  },
-  {
     "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
     "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
     "price": "163",
@@ -1886,7 +1876,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ee960/fd8567684eee8d87298364f6cf4c",
     "url": "https://allegrolokalnie.pl//oferta/gra-the-legend-of-zelda-breath-of-the-wild-botw-nintendo-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Toruń, Bydgoskie Przedmieście"
   },
   {
@@ -4758,6 +4748,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Targówek"
+  },
+  {
+    "id": "1ecd724f-52d2-4a5b-b15f-e789c15950e8",
+    "title": "Stojak na gry do Nintendo Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1e9d11/f44dd8d44d3699dfb0d685ea5812",
+    "url": "https://allegrolokalnie.pl//oferta/stojak-na-gry-do-nintendo-switch-khi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Krzyków"
   },
   {
     "id": "a688187f-6095-4c9f-a385-66774120f026",
