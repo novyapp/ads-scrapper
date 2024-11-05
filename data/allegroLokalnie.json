@@ -1230,16 +1230,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
-    "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1efbd6/c296ba6642e9b6bb1484ca636ec7",
-    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-optimized-edition-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Żyrardów"
-  },
-  {
     "id": "49f135aa-4938-4d6d-a3c6-81c657bbfe43",
     "title": "EA SPORTS FC 25 dlc| NINTENDO SWITCH | Nintendo Store Key",
     "price": "100",
@@ -1730,6 +1720,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "637965c5-7259-4707-8cfe-aef6f7aafb89",
+    "title": "Shin Megami Tensei V 5 Vengeance Switch EN",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e70d7/bb3cd73f4794b649c02cb1c4ef8c",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-5-vengeance-switch-en-2im?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mielec, Smoczka I"
+  },
+  {
     "id": "b83eb947-e445-4083-88a7-d77ab6e97f99",
     "title": "Sonic Frontiers Nintendo Switch",
     "price": "80",
@@ -1798,6 +1798,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Toruń, Bydgoskie Przedmieście"
+  },
+  {
+    "id": "8aef8c95-e1ad-41c9-915b-2d5b9c5d0a0f",
+    "title": "Yoshi Crafted World",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e5355/002b7a824225b225920d89b8fca8",
+    "url": "https://allegrolokalnie.pl//oferta/yoshi-crafted-world-foy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Wrocław"
+  },
+  {
+    "id": "3997b5c5-6d80-4f0b-9308-3926d6d12c9f",
+    "title": "Disgaea 7 Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e4d08/a330005141bf8f84b7f09b301ca2",
+    "url": "https://allegrolokalnie.pl//oferta/disgaea-7-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
   },
   {
     "id": "fb8d95ba-3dfc-47c3-9ee3-0b356e0df952",
@@ -3600,26 +3620,6 @@
     "city": "Bysław"
   },
   {
-    "id": "e22059d9-63ff-4aaa-81a4-1322dd114aa7",
-    "title": "Pokemon Mystery Dungeon Rescue Team DX",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e83b6/be9a9f78486097fdc12e1dd401ce",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-mystery-dungeon-rescue-team-dx-fja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Wola"
-  },
-  {
-    "id": "b3e55d92-a2cb-424b-b69c-5a4b8e640229",
-    "title": "Minecraft Dungeons Hero Edition",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e0ee2/eae0a30740638aa5167a27a9b4bf",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-dungeons-hero-edition-djy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "2f66d43b-5b4a-4f00-ab62-48ab7a355bf0",
     "title": "The Legend of Zelda Skyward Sword HD",
     "price": "179",
@@ -4730,6 +4730,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
+    "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1efbd6/c296ba6642e9b6bb1484ca636ec7",
+    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-optimized-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żyrardów"
+  },
+  {
     "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
     "title": "Super Mario 3D All-Stars | Nowa | Switch",
     "price": "499",
@@ -4790,11 +4800,21 @@
     "city": "Gorzów Wielkopolski"
   },
   {
-    "id": "2655f357-d8c7-4715-8a6f-5ddb094a2f62",
-    "title": "Tokyo 2020 Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e37df/3bbb86da40a8ada19fbde21876ca",
-    "url": "https://allegrolokalnie.pl//oferta/tokyo-2020-nintendo-switch?navCategoryId=256922",
+    "id": "5bd94b5e-cbf0-4e13-a675-bcc59bfc209d",
+    "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
+    "price": "96",
+    "img": "https://a.allegroimg.com/s180x180/1e1a98/f0a7b2524c2d92d315340ad79230",
+    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-gold-edition-nintendo-switch-oad?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "add61df0-0068-4712-be6e-1d5790c40294",
+    "title": "Super Mario 3d All Stars Nintendo Switch",
+    "price": "370",
+    "img": "https://a.allegroimg.com/s180x180/1e7ea7/83bb49a44c94b6b10573a2244a76",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-nintendo-switch-moq-yri?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Olsztyn"
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Milicz"
-  },
-  {
-    "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
-    "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/11d4ef/998113f24d628ccc8fb25fbe1115",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-pokken-tournament-dx-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "2cbde618-139e-4e0d-b7e5-11c6309ff3d5",
-    "title": "mario golf super rush nintendo switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e028e/86c6428b42648070d5ea0cfad2ca",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-gr4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "zgorzelec"
   }
 ]
