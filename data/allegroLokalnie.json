@@ -1280,16 +1280,6 @@
     "city": "Chrząstowice"
   },
   {
-    "id": "5f64c788-3188-4ac0-8691-9d7bdcfb2c64",
-    "title": "Super Mario 3D ALL STARS",
-    "price": "650",
-    "img": "https://a.allegroimg.com/s180x180/1ee01a/d74e865d4de1b29eb0b7f72b4fd2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-fdo?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Oleśnica"
-  },
-  {
     "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
     "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
     "price": "163",
@@ -1720,6 +1710,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "5f64c788-3188-4ac0-8691-9d7bdcfb2c64",
+    "title": "Super Mario 3D ALL STARS",
+    "price": "650",
+    "img": "https://a.allegroimg.com/s180x180/1ee01a/d74e865d4de1b29eb0b7f72b4fd2",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-fdo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Oleśnica"
+  },
+  {
     "id": "5e24afe6-193b-476a-acb4-437a431e2469",
     "title": "Fifa 25 nitendo kartiż",
     "price": "159",
@@ -1878,16 +1878,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "WROCŁAW, Fabryczna"
-  },
-  {
-    "id": "b9bd236f-b8fa-446d-87bf-ad89ad570b11",
-    "title": "The Legend of Zelda Breath of Thr Wild",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ef34f/50e55a1b4bee91128492aaafa0c0",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-thr-wild-drh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Toruń"
   },
   {
     "id": "23f1c88b-7766-46c1-8563-baeb6030e077",
@@ -3900,16 +3890,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "02a68e8e-4ff4-49e2-80ad-eed1ea4f5026",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ea515/00e54ce947f188f462b45c1dd2d3",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-uvh?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Międzychód"
-  },
-  {
     "id": "2a95539c-f7d9-4dd4-b6ab-430962518cdf",
     "title": "Radiant Silvergun Nintendo Switch",
     "price": "300",
@@ -4195,6 +4175,26 @@
     "price": "499",
     "img": "https://a.allegroimg.com/s180x180/1e08b2/9328d3564edeb729317680e2152c",
     "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-egz-nowy-wyd-kolekcjonerskie-pqo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "04f4ecc3-225d-4d26-bd66-61388651266a",
+    "title": "SCHiM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
+    "price": "286",
+    "img": "https://a.allegroimg.com/s180x180/1e13c8/f3de509f4a9e898eae0957e800d5",
+    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-kolekcjonerskie-egz-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "04f4ecc3-225d-4d26-bd66-61388651266a",
+    "title": "SCHiM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
+    "price": "286",
+    "img": "https://a.allegroimg.com/s180x180/1e13c8/f3de509f4a9e898eae0957e800d5",
+    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-kolekcjonerskie-egz-nowy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
@@ -5385,16 +5385,6 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1ef5fd/71a09df54a35a1674e6b3208b43f",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-l2r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chorzów"
-  },
-  {
-    "id": "54b9ce30-ddd6-4c12-b358-285f0ef75ffb",
-    "title": "DYING LIGHT Platinum Edition na Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e4ec1/2201cc90487e9a3a10dcf5099f3d",
-    "url": "https://allegrolokalnie.pl//oferta/dying-light-platinum-edition-na-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Chorzów"
