@@ -1690,16 +1690,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "f27c0fcc-f5b5-40f3-8a7d-d7cf8001bc38",
-    "title": "Nintendo switch pierwsza edycja zestaw",
-    "price": "540",
-    "img": "https://a.allegroimg.com/s180x180/1e2308/3779ae064bf5b4f005c77967e493",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-pierwsza-edycja-zestaw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
-  },
-  {
     "id": "6ce4a424-be8b-4f54-beb3-1cabddf773d7",
     "title": "Gra Luigis Mansion 3",
     "price": "159",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
+  },
+  {
+    "id": "309f5658-7d67-40ae-acf6-1a0e680d8306",
+    "title": "Metroid Dread Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e201e/c588efe34378a73de9b805388c9c",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-5d4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Grzegórzki"
   },
   {
     "id": "309f5658-7d67-40ae-acf6-1a0e680d8306",
@@ -2400,16 +2400,6 @@
     "city": "Lędziny"
   },
   {
-    "id": "976d4546-01fd-4b06-a0e8-5d6e4df8e753",
-    "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna Nintendo Switch",
-    "price": "349",
-    "img": "https://a.allegroimg.com/s180x180/1e310b/16c5898e4ea9bf4c49278dc7892d",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-nintendo-switch-5jd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kęty"
-  },
-  {
     "id": "1230e2f1-6d0f-4c13-ba75-371449ab4b91",
     "title": "NS Persona 5 Strikers",
     "price": "119",
@@ -2992,9 +2982,19 @@
   {
     "id": "785d6d6c-e0f5-4fd6-a454-f59ee84963df",
     "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
-    "price": "189",
+    "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ead11/c7774832437a94ade59f3d4ae77c",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-ety?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Targ"
+  },
+  {
+    "id": "bc8983c6-c581-45d2-a3d4-d247c69d3ed0",
+    "title": "Minecraft Nintendo Switch",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e2f24/dd030102426faf6dd6d52efdd4bc",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-jsu?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -3072,7 +3072,7 @@
   {
     "id": "129387a1-9412-4d25-be65-898a57bd0c49",
     "title": "Crash Bandicoot  N Sane Trilogy Nintendo Switch",
-    "price": "109",
+    "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e7a10/180fe85a484db0703574bafbfb35",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-n-sane-trilogy-nintendo-switch-rpy?navCategoryId=256922",
     "promoted": false,
@@ -3082,7 +3082,7 @@
   {
     "id": "1afbfd74-df78-4f42-90b3-c077a56e46bd",
     "title": "Super Mario RPG Nintendo Switch",
-    "price": "139",
+    "price": "129",
     "img": "https://a.allegroimg.com/s180x180/1ed179/c85acf4f4340be2942d8f366806f",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-a44?navCategoryId=256922",
     "promoted": false,
@@ -4800,16 +4800,6 @@
     "city": "Kraków"
   },
   {
-    "id": "094f1ec2-8305-452c-84a4-c03e2336f81d",
-    "title": "Eldest Souls Switch limited Run",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1e60b3/c9619616402596c88740ae210fdc",
-    "url": "https://allegrolokalnie.pl//oferta/eldest-souls-switch-limited-run-w2y?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "4e7e20fe-7d1b-47e2-a6e4-6d03283e0949",
     "title": "Dark Devotion Switch limited Run",
     "price": "370",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
+  },
+  {
+    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
+    "title": "Pokemon Shining Pearl Dodatki",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e59bf/a1995f8a48f0be25636be9dd73b4",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
   }
 ]
