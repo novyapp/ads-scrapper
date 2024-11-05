@@ -2390,21 +2390,21 @@
     "city": "Gdańsk"
   },
   {
-    "id": "c14b22fd-cbc1-41d1-80f5-3024fa41ac16",
-    "title": "Metroid Prime Remastered",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e9493/1eea756c40a2b3e6a556df48d263",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-bcx?navCategoryId=256922",
+    "id": "ab121d1f-6a50-4028-8137-0ced091ffcbd",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ede62/f74da4604a98bc905e98344337c3",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-jqy?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
   },
   {
-    "id": "b8682a07-1658-47a0-a0fc-5e310e68dd51",
-    "title": "Kirby and the Forgotten Land",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e686e/e602b3bf42d1bfe6a58dbad85f7f",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-cfb?navCategoryId=256922",
+    "id": "c14b22fd-cbc1-41d1-80f5-3024fa41ac16",
+    "title": "Metroid Prime Remastered",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e9493/1eea756c40a2b3e6a556df48d263",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-bcx?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -2978,16 +2978,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siemianowice Śląskie"
-  },
-  {
-    "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
-    "title": "Kangurek Kao Nintendo switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1ec7a0/d4942ea04cb7884393c895035127",
-    "url": "https://allegrolokalnie.pl//oferta/kangurek-kao-nintendo-switch-rux?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrow Mazowiecka"
   },
   {
     "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
@@ -4200,16 +4190,6 @@
     "city": "Gostynin"
   },
   {
-    "id": "88f5f444-462b-4424-97d8-746129ac870c",
-    "title": "SUPER MARIO 3D WORLD + BOWSER'S FURY SWITCH",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e97b3/20b490e442bf820671dda9b214fb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-yq3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "6753617a-efeb-47a5-809a-13cd9c51f242",
     "title": "The Diofield Chronicle na Nintendo Switch stan idealny",
     "price": "150",
@@ -4788,6 +4768,26 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
+    "title": "Warioware get it together",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e0e56/a5806f7d4fa780cf3de003c44dd6",
+    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-6xs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Stargard"
+  },
+  {
+    "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
+    "title": "RingFit Adventure nintendo switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ef56c/32de2ca44a2d9988232106643c4d",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-adventure-nintendo-switch-6qd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
@@ -5390,16 +5390,6 @@
     "city": "Toruń, Rudak"
   },
   {
-    "id": "eae377db-c276-4275-a5dd-c58d6ce7cde0",
-    "title": "THE WITCHER 3: WILD HUNT / WIEDŹMIN 3: DZIKI GON / SWITCH",
-    "price": "104",
-    "img": "https://a.allegroimg.com/s180x180/1e9a25/e35e82b6460e96cb79631565622a",
-    "url": "https://allegrolokalnie.pl//oferta/the-witcher-3-wild-hunt-wiedzmin-3-dziki-gon-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Jeżyce"
-  },
-  {
     "id": "7b7c4bde-5f81-4580-9686-6311b497dabc",
     "title": "Remnant From The Ashes - Nintendo Switch",
     "price": "90",
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
