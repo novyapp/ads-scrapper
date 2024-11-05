@@ -6,7 +6,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e34d1/91128fdf4bf9929d8e2db0574b56",
     "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-gra-nintendo-switch-pwv?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -16,7 +16,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed812/f643c2b147d98afd7a80160df661",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-gra-nintendo-switch-pti?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -26,7 +26,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e557c/53c2b807498ea608a11157c0c096",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-gra-nintendo-switch-7nw?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -36,7 +36,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ef86a/e31677e44057a7c2a2595849bff6",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-gra-nintendo-switch-vm7?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -46,7 +46,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed655/d8d772994de395085ee3d417fd08",
     "url": "https://allegrolokalnie.pl//oferta/ben10-power-trip-gra-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -56,7 +56,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e29ef/5b1c8448407a8f8b1fcc409b609b",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-gra-nintendo-switch-oah?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -66,7 +66,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e7f25/b30ee01140d7816c7e1554b65063",
     "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-gra-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -76,7 +76,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e2613/61314d0c49bbb06505291ce5d580",
     "url": "https://allegrolokalnie.pl//oferta/spyro-reignited-trilogy-gra-nintendo-switch-szg?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -86,7 +86,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ef891/83742daf4b7094969f197ae1a480",
     "url": "https://allegrolokalnie.pl//oferta/mariokart8-deluxe-gra-nintendo-switch?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -96,7 +96,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e5e8b/a6e87bbd45fe92e59fa1da1df31d",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-gra-nintendo-switch-t7l?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Lublin"
   },
   {
@@ -1800,6 +1800,66 @@
     "city": "Białystok"
   },
   {
+    "id": "2d98845f-ac51-40cd-b6e5-79e765ce8e05",
+    "title": "Naruto Shippuden Ultimate Ninja 4 Nintendo Switch",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1ed154/52efa4e544f5a545fc8a44bf6401",
+    "url": "https://allegrolokalnie.pl//oferta/naruto-shippuden-ultimate-ninja-storm-4-boruto?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
+    "id": "cbb184b4-ae97-452b-a063-346eb4f509c1",
+    "title": "Bayonetta 3 Trinity Masquerade Edition",
+    "price": "749",
+    "img": "https://a.allegroimg.com/s180x180/1e0511/e201e5914270b0f16c9cfceb2ec6",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "d6e0c927-f0d9-49aa-bc9c-9244612de871",
+    "title": "Shin Megami Tensei V SWITCH",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e9cbd/907f90e84d19ae137c983936874e",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-switch-e22?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tychy"
+  },
+  {
+    "id": "3626c0c9-9894-4e76-aa1e-efe2b462aa38",
+    "title": "Bayonetta 3 Nintendo switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e3717/f245b3f24b76a146a6677fa92720",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-owc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kamienna Gora"
+  },
+  {
+    "id": "637965c5-7259-4707-8cfe-aef6f7aafb89",
+    "title": "Shin Megami Tensei V 5 Vengeance Switch EN",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e70d7/bb3cd73f4794b649c02cb1c4ef8c",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-5-vengeance-switch-en-2im?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mielec, Smoczka I"
+  },
+  {
+    "id": "b83eb947-e445-4083-88a7-d77ab6e97f99",
+    "title": "Sonic Frontiers Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e1c53/5082859847729ba6010ab9968b40",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-pgy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łowicz"
+  },
+  {
     "id": "a6eb0b1d-515e-46b2-a7ac-bafcbce160ea",
     "title": "The Legend of Zelda: Breath of the Wild BOTW gra na Nintendo Switch",
     "price": "160",
@@ -2338,56 +2398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzyżów"
-  },
-  {
-    "id": "514b773d-4cc2-47fa-9278-581e8546534a",
-    "title": "Gra Mario Odyssey na Nintendo Switch Okazja!",
-    "price": "161",
-    "img": "https://a.allegroimg.com/s180x180/1e928b/48be76ad4b2a9beb67d8f258b124",
-    "url": "https://allegrolokalnie.pl//oferta/gra-mario-odyssey-na-nintendo-switch-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
-  },
-  {
-    "id": "628b3832-d3c7-4b77-bfc6-d4dd113bf05c",
-    "title": "Gra Animal Crossing na Nintendo Switch Okazja!",
-    "price": "151",
-    "img": "https://a.allegroimg.com/s180x180/1e2f8d/049398d340e3b8cab9ec785c7179",
-    "url": "https://allegrolokalnie.pl//oferta/gra-animal-crossing-na-nintendo-switch-okazja-jpt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
-  },
-  {
-    "id": "5b27c879-7947-49bb-9858-8bb619ce6359",
-    "title": "Gra Super Mario 3D World Okazja!",
-    "price": "161",
-    "img": "https://a.allegroimg.com/s180x180/1e6cf2/2a52089b4e87bcab4d63a26dfb73",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-3d-world-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
-  },
-  {
-    "id": "0d362eb5-742a-46ca-b037-e167bc2a249d",
-    "title": "Bayonetta 2 Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e3472/bcabf4104e39ad30eb0933505377",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nintendo-switch-cha?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
-  },
-  {
-    "id": "ff315973-9eff-4080-b0f7-133aa9c2ed14",
-    "title": "Blade Assault Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e4fe2/fbb00a2542018feb1b58347b9a89",
-    "url": "https://allegrolokalnie.pl//oferta/blade-assault-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
   },
   {
     "id": "628b3832-d3c7-4b77-bfc6-d4dd113bf05c",
@@ -3575,6 +3585,16 @@
     "price": "180",
     "img": "https://a.allegroimg.com/s180x180/1eb89b/979975ab4977a4ff568e3b104ff4",
     "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-kizuna-ai-touch-the-beat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "36a059ae-10ce-4fcd-8ddb-d7d4f1deba1a",
+    "title": "Gra Nintendo Switch Dead or Alive Xtreme 3 Scarlet",
+    "price": "400",
+    "img": "https://a.allegroimg.com/s180x180/1e4ee4/b9c04a924476bc9bde97a339e5cc",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-dead-or-alive-xtreme-3-scarlet?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
@@ -5978,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łaziska Górne"
-  },
-  {
-    "id": "16f1de0c-19fe-4b92-8064-82870689249c",
-    "title": "Ultra Age - Switch (Nowa)",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
-    "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wilczyce"
   }
 ]
