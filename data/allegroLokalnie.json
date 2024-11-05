@@ -1,5 +1,25 @@
 [
   {
+    "id": "9fc5d126-9624-4e1e-a9ac-6b03e058e943",
+    "title": "prince of persia the lost crown",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s180x180/1e7b41/65e2252d46159488eb07b224e36e",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-c7i?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "handzlówka"
+  },
+  {
+    "id": "cc88bc25-a8d6-4725-9042-79a4f277f488",
+    "title": "zelda echoes of wisdom",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e21aa/a1db19714d1e870e3c7e90c4b035",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-echoes-of-wisdom?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "handzlówka"
+  },
+  {
     "id": "00221278-2418-4279-aba1-0062d6bb828c",
     "title": "POKEMON SHINING PEARL - Gra Nintendo Switch",
     "price": "179",
@@ -4180,16 +4200,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "04f4ecc3-225d-4d26-bd66-61388651266a",
-    "title": "SCHiM (SWITCH) WYD KOLEKCJONERSKIE, EGZ NOWY",
-    "price": "286",
-    "img": "https://a.allegroimg.com/s180x180/1e13c8/f3de509f4a9e898eae0957e800d5",
-    "url": "https://allegrolokalnie.pl//oferta/schim-switch-wyd-kolekcjonerskie-egz-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "5c1b95c2-9d67-4498-900b-9edf23c52386",
     "title": "KANKEN SMART TAISAKU (SWITCH) + TOUCHPEN HAC-041",
     "price": "389",
@@ -4800,16 +4810,6 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "2063350a-8983-4e90-8b01-26cc11f746ae",
-    "title": "G-Darius HD - Nintendo Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e56c7/628ade4d45279713d9201f253159",
-    "url": "https://allegrolokalnie.pl//oferta/gdarius-hd-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krakow, Swoszowice"
-  },
-  {
     "id": "4ac4aaff-ddbd-45ed-9c7e-4cdbdf378a05",
     "title": "Nintendo switch sports",
     "price": "150",
@@ -5395,6 +5395,16 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e4ec1/2201cc90487e9a3a10dcf5099f3d",
     "url": "https://allegrolokalnie.pl//oferta/dying-light-platinum-edition-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Chorzów"
+  },
+  {
+    "id": "82bee230-7328-4016-b5a8-1ca9533383c8",
+    "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna na Nintendo Switch",
+    "price": "269",
+    "img": "https://a.allegroimg.com/s180x180/1e9142/0505b91f4bd1930aa2af18cd057b",
+    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-na-nintendo-switch-po6?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Chorzów"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "zgorzelec"
-  },
-  {
-    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
-    "title": "Switch Splatoon 2 ... OKAZJA",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e18b5/8af26a3847f588978a95e6af8c35",
-    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź, Górna"
   }
 ]
