@@ -1270,16 +1270,6 @@
     "city": "Rypin"
   },
   {
-    "id": "f5b79e6f-67c1-4d93-8c39-16ea092c2d02",
-    "title": "Pokémon Brilliant Diamond Nintendo Switch",
-    "price": "124",
-    "img": "https://a.allegroimg.com/s180x180/1edf36/7a1aff354cee8fa5d1829b82ac98",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-ksk?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Chrząstowice"
-  },
-  {
     "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
     "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
     "price": "163",
@@ -1658,6 +1648,36 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "f5b79e6f-67c1-4d93-8c39-16ea092c2d02",
+    "title": "Pokémon Brilliant Diamond Nintendo Switch",
+    "price": "124",
+    "img": "https://a.allegroimg.com/s180x180/1edf36/7a1aff354cee8fa5d1829b82ac98",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-ksk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chrząstowice"
+  },
+  {
+    "id": "2e11c78d-0a19-45ca-8fa5-6ad411553ef8",
+    "title": "Pokemon Scarlet z dlc",
+    "price": "230",
+    "img": "https://a.allegroimg.com/s180x180/1e6e8d/e1d532dc4486b613737efb762c67",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-z-dlc-jpz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona Góra"
+  },
+  {
+    "id": "439bc321-ee02-47bb-bf9b-25c40dde1065",
+    "title": "The legend od Zelda tears of the kingdom",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e36e5/1f59668c44eeb87fedc56f86e006",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-tears-of-the-kingdom-yx3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zielona Góra"
   },
   {
     "id": "16d13825-ae21-443a-aadd-6ac06811af7c",
@@ -3600,26 +3620,6 @@
     "city": "Warszawa, Wesoła"
   },
   {
-    "id": "616bf44c-4f5a-4567-9ba2-fb3d4769ca7d",
-    "title": "Mario Strikers: Battle League Football Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ee7fd/0c4d83974b3fb20108741b75a073",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-kuz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łaniewo"
-  },
-  {
-    "id": "8d540d79-385f-484d-88e3-705a871d37a6",
-    "title": "prince of persia the lost crown switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1ed8c7/1a039ee3433093e409ef41306ab1",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-switch-in3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Wesoła"
-  },
-  {
     "id": "355d2632-b79a-44a5-b6ea-984b1e9f8ac4",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "160",
@@ -4200,6 +4200,16 @@
     "city": "Jasienica"
   },
   {
+    "id": "140e61e3-8ec3-4c99-9557-33a3724af9a7",
+    "title": "Zestaw gier Nintendo Switch 6sztuk",
+    "price": "440",
+    "img": "https://a.allegroimg.com/s180x180/1e4f94/319fa021462eabe8f3361384135f",
+    "url": "https://allegrolokalnie.pl//oferta/zestaw-gier-nintendo-switch-6sztuk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "8a710c99-d70b-4e64-a393-fbc1d3e3ff61",
     "title": "Zestaw gier Nintendo Switch 2 sztuki",
     "price": "125",
@@ -4468,6 +4478,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Książenice"
+  },
+  {
+    "id": "f5b79e6f-67c1-4d93-8c39-16ea092c2d02",
+    "title": "Pokémon Brilliant Diamond Nintendo Switch",
+    "price": "124",
+    "img": "https://a.allegroimg.com/s180x180/1edf36/7a1aff354cee8fa5d1829b82ac98",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-ksk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Chrząstowice"
   },
   {
     "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
-  },
-  {
-    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
-    "title": "RealMyst switch nowa Limited run",
-    "price": "280",
-    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
-    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
-    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
-    "title": "Pokemon Shining Pearl Dodatki",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e59bf/a1995f8a48f0be25636be9dd73b4",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "KOBIERZYCE"
   }
 ]
