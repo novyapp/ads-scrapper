@@ -1790,6 +1790,16 @@
     "city": "Tychy"
   },
   {
+    "id": "3626c0c9-9894-4e76-aa1e-efe2b462aa38",
+    "title": "Bayonetta 3 Nintendo switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e3717/f245b3f24b76a146a6677fa92720",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-owc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kamienna Gora"
+  },
+  {
     "id": "a6eb0b1d-515e-46b2-a7ac-bafcbce160ea",
     "title": "The Legend of Zelda: Breath of the Wild BOTW gra na Nintendo Switch",
     "price": "160",
@@ -2375,16 +2385,6 @@
     "price": "279",
     "img": "https://a.allegroimg.com/s180x180/1ec43d/9e550760454e9018bb79f67214e0",
     "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-nintendo-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "58ea1410-5109-4f87-9cc6-f20afb8503c7",
-    "title": "The Legend of Zelda Tears of the Kingdom Switch",
-    "price": "235",
-    "img": "https://a.allegroimg.com/s180x180/1e564e/22f116f54074b797964321702fd1",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-switch-qdb?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
