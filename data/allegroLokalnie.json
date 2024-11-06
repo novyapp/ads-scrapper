@@ -1570,16 +1570,6 @@
     "city": "Zielona Góra"
   },
   {
-    "id": "439bc321-ee02-47bb-bf9b-25c40dde1065",
-    "title": "The legend od Zelda tears of the kingdom",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e36e5/1f59668c44eeb87fedc56f86e006",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-od-zelda-tears-of-the-kingdom-yx3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "16d13825-ae21-443a-aadd-6ac06811af7c",
     "title": "Xenonlade chronicles definitive edition Nintendo switch (nowa zafoliowana)",
     "price": "170",
@@ -1795,16 +1785,6 @@
     "price": "119",
     "img": "https://a.allegroimg.com/s180x180/1e6f03/fb66f30c4c18afd8cc33c348cd1f",
     "url": "https://allegrolokalnie.pl//oferta/a-space-for-the-unbound-nintendo-switch-stan-idealny-ver-jap?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gorzów Wlkp."
-  },
-  {
-    "id": "25d9cb2c-2198-4d09-b673-02edf1044771",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch Stan BDB",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e377d/a7575b5c41858f8c27ee2e6b41aa",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-stan-bdb-voq?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Gorzów Wlkp."
@@ -2398,6 +2378,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Debrzno"
+  },
+  {
+    "id": "8a1fd806-67e2-4055-9b22-f69dc7d8bf54",
+    "title": "Mario Party Superstars Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ea983/902f05a24049ac07bea6bb2f266e",
+    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-switch-sog?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
   },
   {
     "id": "8a1fd806-67e2-4055-9b22-f69dc7d8bf54",
@@ -3595,16 +3585,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e8fb8/db1b0bc44bae8dfecc265806ffb0",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowers-fury?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jablonna k Warszawy "
-  },
-  {
-    "id": "480f6add-2d36-4b37-bae8-124fa6286721",
-    "title": "Splatoon 3 Nintendo Switch",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1edadf/c0abbe3148c082ef5efbd8344934",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-q5p?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Jablonna k Warszawy "
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Nowe Miasto"
+  },
+  {
+    "id": "18611ece-2f7f-4878-8a07-432fc4463046",
+    "title": "Super Mario 3DWorld + Bowser's Fury Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e2425/94bce9df430491137146f5d9f2ce",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3dworld-bowsers-fury-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bielsko-Biała"
   }
 ]
