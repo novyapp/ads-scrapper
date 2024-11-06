@@ -266,7 +266,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e86cf/9b37d8a14e9d9e4d5ef0a7894d9c",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-myw?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -276,7 +276,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e92a2/b6675a7641898ad640ba5b174559",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-switch-bzt?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -286,7 +286,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e34f3/476bf9fa4b0da36170876552fecf",
     "url": "https://allegrolokalnie.pl//oferta/dziedzictwo-hogwartu-switch-pl?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -316,7 +316,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea117/a23dc6c74a5bb013280834835b94",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-switch-cj2?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -726,7 +726,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e387f/af77bdc848f695270671f6fc273e",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-hje?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -736,7 +736,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e9400/241715844ac4be14c80d60cd5981",
     "url": "https://allegrolokalnie.pl//oferta/ctr-crash-team-racing-nitro-fueled-switch-o5d?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -746,7 +746,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eefa3/43e65b104a61b4afb4c4d3955956",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-bdi?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -756,7 +756,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e3462/9128dc3d432e918e2025a813e148",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-switch-kwr?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -1396,7 +1396,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ec063/c13e7710418485e3d955526e76dc",
     "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-switch-kxo?navCategoryId=256922",
     "promoted": true,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Białystok"
   },
   {
@@ -4200,6 +4200,16 @@
     "city": "Grabiny-Zameczek"
   },
   {
+    "id": "edc2828b-707d-40da-a485-c0d5be6a2457",
+    "title": "Super Mario Party",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e827f/7c0953e84fdcb4b6530ccbfcfef8",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-dmp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grabiny-Zameczek"
+  },
+  {
     "id": "9916f5b0-5004-41e4-936e-8eeca84f485b",
     "title": "Mario Kart 8 Deluxe",
     "price": "180",
@@ -5262,7 +5272,7 @@
   {
     "id": "eae377db-c276-4275-a5dd-c58d6ce7cde0",
     "title": "THE WITCHER 3: WILD HUNT / WIEDŹMIN 3: DZIKI GON / SWITCH",
-    "price": "104",
+    "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e9a25/e35e82b6460e96cb79631565622a",
     "url": "https://allegrolokalnie.pl//oferta/the-witcher-3-wild-hunt-wiedzmin-3-dziki-gon-switch?navCategoryId=256922",
     "promoted": false,
@@ -5385,16 +5395,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1ef118/81ed8d5242c394937329f3448f1f",
     "url": "https://allegrolokalnie.pl//oferta/raiden-iv-x-mikado-remix-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
-  },
-  {
-    "id": "36f2c46b-274e-4698-bd4b-f6873c1ffadd",
-    "title": "Lego Gwiezdne Wojny Saga Skywalkerów - Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1ea107/e88bb2ec438d82135ffcc52c77a5",
-    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-ezo?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Sosnowiec"
