@@ -1200,16 +1200,6 @@
     "city": "Bartniczka"
   },
   {
-    "id": "a88294fa-b1a3-46e6-a16e-4904be42bd24",
-    "title": "..:: Super Mario 3D All Stars ::..",
-    "price": "329",
-    "img": "https://a.allegroimg.com/s180x180/1e0b9f/84cd85134c4d88eeed11dc3f2a0e",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-2aa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bartniczka"
-  },
-  {
     "id": "94442cfe-3407-44f5-893d-1c43ed75b7e7",
     "title": "Super Smash Bros Ultimate Nintendo Switch",
     "price": "190",
@@ -2400,6 +2390,16 @@
     "city": "Kozienice"
   },
   {
+    "id": "98047943-a32b-4345-980f-e2ba2e1d7bef",
+    "title": "The Legend of Zelda: Breath of the Wild SWITCH",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1ec58d/3fcf24214f119d576d8015399693",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-zv2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Debrzno"
+  },
+  {
     "id": "8a1fd806-67e2-4055-9b22-f69dc7d8bf54",
     "title": "Mario Party Superstars Switch",
     "price": "160",
@@ -3000,16 +3000,6 @@
     "city": "Nowy Targ"
   },
   {
-    "id": "1afbfd74-df78-4f42-90b3-c077a56e46bd",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ed179/c85acf4f4340be2942d8f366806f",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-a44?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "024cabca-cd89-4ddc-aac6-3df48c1fccc2",
     "title": "Mario Tennis Aces Nintendo Switch",
     "price": "139",
@@ -3595,6 +3585,16 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e8fb8/db1b0bc44bae8dfecc265806ffb0",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowers-fury?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jablonna k Warszawy "
+  },
+  {
+    "id": "480f6add-2d36-4b37-bae8-124fa6286721",
+    "title": "Splatoon 3 Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1edadf/c0abbe3148c082ef5efbd8344934",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-q5p?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Jablonna k Warszawy "
@@ -4340,16 +4340,6 @@
     "city": "Książenice"
   },
   {
-    "id": "2faec496-aa4c-42d4-9af6-734781086be5",
-    "title": "Baldur’s Gate & Baldur’s Gate 2 : Enhanced Edition",
-    "price": "315",
-    "img": "https://a.allegroimg.com/s180x180/1e341c/dc17dea04c8aadacdecc30c883f8",
-    "url": "https://allegrolokalnie.pl//oferta/baldurs-gate-baldurs-gate-2-enhanced-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
     "id": "8de689c7-f4f2-4bcb-99c3-8299091f5b8e",
     "title": "Fire Emblem Three houses Limited Edition",
     "price": "850",
@@ -4795,16 +4785,6 @@
     "price": "145",
     "img": "https://a.allegroimg.com/s180x180/1efc26/6beff53b4359bbe03d76098b7c7b",
     "url": "https://allegrolokalnie.pl//oferta/captain-toad-treasure-tracker-iu5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "87b2e6a6-7a9c-47c5-af28-7c0cab342e88",
-    "title": "Super Mario Maker 2",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e55dd/38f7913c49e0a692303ab9effb7c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-hyd?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bielsko-Biała"
+  },
+  {
+    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
+    "title": "Gra Asterix i Obelix Slap Them All Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kraków, Dębniki"
   }
 ]
