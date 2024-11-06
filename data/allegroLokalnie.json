@@ -1480,16 +1480,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "a096798a-9a6c-4ac1-a3fb-839376306326",
-    "title": "[Gra Switch] Cuphead Superdeluxe Edition [edycja japońska]",
-    "price": "239",
-    "img": "https://a.allegroimg.com/s180x180/1e69d7/d2038f54458685ebf3990309dd72",
-    "url": "https://allegrolokalnie.pl//oferta/gra-switch-cuphead-superdeluxe-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Gdańsk"
-  },
-  {
     "id": "86af36d3-e63e-4657-b915-e3a9452c5af2",
     "title": "No More Heroes 3 gra na Nintendo Switch",
     "price": "89",
@@ -1518,6 +1508,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "21891637-c8de-49ac-aca8-119591f9e279",
+    "title": "Pokemon Let's Go Evee",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1ec86f/823d44854004a154969fb45e970d",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-evee-hhk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bystrzyca Kłodzka"
   },
   {
     "id": "d6e243f4-0fcf-4de7-8721-83c2d736794a",
@@ -4022,7 +4022,7 @@
   {
     "id": "8b58cfd4-3d5a-4c4f-8004-5d3815baef76",
     "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
-    "price": "241",
+    "price": "243",
     "img": "https://a.allegroimg.com/s180x180/1e1c32/0bc76c9a41b89b0f672381a27c13",
     "url": "https://allegrolokalnie.pl//oferta/el-shaddai-ascension-of-the-metatron-hd-switch-egz-nowy-ljt?navCategoryId=256922",
     "promoted": false,
@@ -4185,6 +4185,16 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e827f/7c0953e84fdcb4b6530ccbfcfef8",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-dmp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Grabiny-Zameczek"
+  },
+  {
+    "id": "9916f5b0-5004-41e4-936e-8eeca84f485b",
+    "title": "Mario Kart 8 Deluxe",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ebf94/851c3dd846568fa5b6b3ca1a2677",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-pib?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Grabiny-Zameczek"
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bielsko-Biała"
-  },
-  {
-    "id": "70edad81-2137-4f8b-80c6-ebeab595d32b",
-    "title": "Gra Asterix i Obelix Slap Them All Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e75e7/e1a5f61849c39fc6e1cbc4d2c36d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-asterix-i-obelix-slap-them-all-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków, Dębniki"
   }
 ]
