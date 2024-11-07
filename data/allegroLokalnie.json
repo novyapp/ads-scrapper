@@ -20,6 +20,16 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
+    "id": "f6ddfdc4-4527-42c5-b36d-ee1f00170662",
+    "title": "Pokemon Scarlet + dodatek",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1eebf2/f245b66342bbb00c796d1f8eb656",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-dodatek?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": false,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "9fc5d126-9624-4e1e-a9ac-6b03e058e943",
     "title": "prince of persia the lost crown",
     "price": "220",
@@ -1162,7 +1172,7 @@
   {
     "id": "9500f501-24dd-4949-912d-9eb6d36ff8fe",
     "title": "Star Ocean Second Story R Nintendo Switch ANG",
-    "price": "259",
+    "price": "249",
     "img": "https://a.allegroimg.com/s180x180/1efcc0/8cafd4fe4dcf88371f1888dd2aed",
     "url": "https://allegrolokalnie.pl//oferta/star-ocean-second-story-r-nintendo-switch-ang?navCategoryId=256922",
     "promoted": true,
@@ -1480,14 +1490,14 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "f6ddfdc4-4527-42c5-b36d-ee1f00170662",
-    "title": "Pokemon Scarlet + dodatek",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1eebf2/f245b66342bbb00c796d1f8eb656",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-dodatek?navCategoryId=256922",
+    "id": "e53ead3b-9857-42b0-a245-510b0ed8f851",
+    "title": "Super Mario RPG Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1ea162/64c89f204d8d85b6baa266b2ae05",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-vun?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
-    "city": "Sosnowiec"
+    "smartPost": true,
+    "city": "Olsztyn"
   },
   {
     "id": "92ab2275-a8c0-4b31-a79c-45ec667aba5d",
@@ -4800,16 +4810,6 @@
     "city": "Stargard"
   },
   {
-    "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
-    "title": "Warioware get it together",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e0e56/a5806f7d4fa780cf3de003c44dd6",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-6xs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Stargard"
-  },
-  {
     "id": "275e242d-c3fc-4e68-91bf-8c95a8e3ca4a",
     "title": "RingFit Adventure nintendo switch",
     "price": "200",
@@ -5400,6 +5400,16 @@
     "city": "Toruń, Rudak"
   },
   {
+    "id": "eae377db-c276-4275-a5dd-c58d6ce7cde0",
+    "title": "THE WITCHER 3: WILD HUNT / WIEDŹMIN 3: DZIKI GON / SWITCH",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e9a25/e35e82b6460e96cb79631565622a",
+    "url": "https://allegrolokalnie.pl//oferta/the-witcher-3-wild-hunt-wiedzmin-3-dziki-gon-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
+  },
+  {
     "id": "7b7c4bde-5f81-4580-9686-6311b497dabc",
     "title": "Remnant From The Ashes - Nintendo Switch",
     "price": "90",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
-    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa"
   }
 ]
