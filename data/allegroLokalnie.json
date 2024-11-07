@@ -600,6 +600,16 @@
     "city": "Łódź, Widzew"
   },
   {
+    "id": "db6a5376-247c-4564-b4b7-cff8f4a6ee05",
+    "title": "Super Mario Party Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e270a/20ef940c44b09c0dfe296cf4c693",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-b76?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
     "id": "3b5a5afa-ff87-4b24-90fc-fe2d8387f010",
     "title": "Kirby Star Allies",
     "price": "179",
@@ -3590,16 +3600,6 @@
     "city": "Bysław"
   },
   {
-    "id": "2f66d43b-5b4a-4f00-ab62-48ab7a355bf0",
-    "title": "The Legend of Zelda Skyward Sword HD",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ebb3e/3e2d7a354525baac45ec491a57e5",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-syj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
     "id": "206e3a6c-de77-4f8b-b164-7f1d9061f68d",
     "title": "Luigi's Mansion 3",
     "price": "185",
@@ -4185,6 +4185,16 @@
     "price": "389",
     "img": "https://a.allegroimg.com/s180x180/1ec994/25c55c27401f9f4d458cc1983e19",
     "url": "https://allegrolokalnie.pl//oferta/kanken-smart-taisaku-switch-touchpen-hac041-xiy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "86565361-38ae-464e-b441-70d297a9b38d",
+    "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
+    "price": "369",
+    "img": "https://a.allegroimg.com/s180x180/1e9a6b/a9d28bb24900ae0a0d4998f2943d",
+    "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-v6k?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "DOBRZANY"
@@ -4788,16 +4798,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
-  },
-  {
-    "id": "f0763ab0-0c7b-40ee-861d-a32c5d01206e",
-    "title": "Lets Sing Abba! + mikrofony Nintendo Switch Okazja! Ideał!",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s180x180/1e1eea/8c73099546a785c7d15423aa9255",
-    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-mikrofony-nintendo-switch-okazja-ideal?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gorzów Wielkopolski"
   },
   {
     "id": "2655f357-d8c7-4715-8a6f-5ddb094a2f62",
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
+    "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
+    "price": "183",
+    "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
+    "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "7aada744-88e8-4a17-82c4-fb5f58c704aa",
+    "title": "Switch Minecraft - Kartridź Folia PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
