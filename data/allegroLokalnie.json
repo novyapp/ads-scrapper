@@ -1180,16 +1180,6 @@
     "city": "RADZYŃ PODLASKI"
   },
   {
-    "id": "a88294fa-b1a3-46e6-a16e-4904be42bd24",
-    "title": "..:: Super Mario 3D All Stars ::..",
-    "price": "329",
-    "img": "https://a.allegroimg.com/s180x180/1e0b9f/84cd85134c4d88eeed11dc3f2a0e",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-2aa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Bartniczka"
-  },
-  {
     "id": "86ee1252-6199-4a25-bd4e-8b53ccf3c077",
     "title": "Fifa 18 Polskie Wydanie z Dodatkiem World Cup",
     "price": "163",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "a88294fa-b1a3-46e6-a16e-4904be42bd24",
+    "title": "..:: Super Mario 3D All Stars ::..",
+    "price": "329",
+    "img": "https://a.allegroimg.com/s180x180/1e0b9f/84cd85134c4d88eeed11dc3f2a0e",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-2aa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Bartniczka"
   },
   {
     "id": "12d5fc82-2ad7-45fe-939f-cc17d2e82fec",
@@ -1438,6 +1438,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "32bc5442-b4d5-4111-8847-dc90f45e78b4",
+    "title": "Zelda Tears of the Kingdom gra Switch",
+    "price": "185",
+    "img": "https://a.allegroimg.com/s180x180/1e9198/8c30ae7643b38a23bbb62bed1a92",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-gra-switch-6op?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Mielec, Smoczka I"
   },
   {
     "id": "279c5989-5638-410c-8f7b-fc8bbdb40005",
@@ -1790,14 +1800,14 @@
     "city": "Wrocław, Borek"
   },
   {
-    "id": "2205ccfc-3cf8-4111-a83a-042a81b5f79a",
-    "title": "Super Mario Bros Wonder super cena",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ebbd5/f0fd455a46179c57d597e9b896f9",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-super-cena?navCategoryId=256922",
+    "id": "ad57862d-428f-4bd6-8efc-74fd681c523b",
+    "title": "Gra pokemon let's go Nintendo switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e0c89/8d2a7d93455bb552c1a3d945d586",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-lets-go-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
-    "city": "Radziechowy"
+    "city": "Wrocław, Borek"
   },
   {
     "id": "2205ccfc-3cf8-4111-a83a-042a81b5f79a",
@@ -2390,11 +2400,11 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "bc322015-5b5a-4ad9-9444-ba31bbf3d7fc",
-    "title": "OCTOPATH TRAVELER II Nintendo Switch NOWA",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e9f61/d3cba88c4621b856ac4c4dfe5373",
-    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-ii-nintendo-switch-nowa?navCategoryId=256922",
+    "id": "94e38a57-988d-458a-bbcb-205b438d20fa",
+    "title": "Octopath Traveler NOWA",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e95d0/196a43e0455a87fac891ab4a8a54",
+    "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-nowa-t2b?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
@@ -3600,16 +3610,6 @@
     "city": "Łaniewo"
   },
   {
-    "id": "78f2c721-51b0-4c0b-a6f8-92c3e54eb050",
-    "title": "New Pokemon Snap",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ecb60/4dfda7fa4f3dbf95105597046b84",
-    "url": "https://allegrolokalnie.pl//oferta/new-pokemon-snap-w4b?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łaniewo"
-  },
-  {
     "id": "616bf44c-4f5a-4567-9ba2-fb3d4769ca7d",
     "title": "Mario Strikers: Battle League Football Nintendo Switch",
     "price": "150",
@@ -4198,6 +4198,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jasienica"
+  },
+  {
+    "id": "86b47340-b50a-4e21-948c-5c591b509332",
+    "title": "Gra Nintendo Switch Pokemon Let's go Pikachu",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1eedc7/7ab0323a4581880345a3fe8cbb81",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-lets-go-pikachu-fp5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Radzewo"
   },
   {
     "id": "140e61e3-8ec3-4c99-9557-33a3724af9a7",
@@ -4790,14 +4800,24 @@
     "city": "Lędziny"
   },
   {
-    "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
-    "title": "Warioware get it together",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e0e56/a5806f7d4fa780cf3de003c44dd6",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-6xs?navCategoryId=256922",
+    "id": "25188c0b-56c4-4c19-a3ed-633fd65e63b8",
+    "title": "Splatoon 2 Nintendo switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1ee298/fd2cfd574fc88c5da8cd75bf1c1d",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-gyz?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
-    "city": "Stargard"
+    "city": "Bydgoszcz"
+  },
+  {
+    "id": "f518894b-4cd7-4342-9c02-c73c3c5e7e5b",
+    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e1baf/4cc6fc4b4844a1b0927760daa613",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-tv4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   },
   {
     "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
@@ -5380,24 +5400,14 @@
     "city": "Zakopane"
   },
   {
-    "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
-    "title": "Ikai switch horror",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1efd77/9bd101d7467a8a9ebc7cd8c3ddbe",
-    "url": "https://allegrolokalnie.pl//oferta/ikai-switch-horror?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
-    "id": "1f185108-a51c-41f0-b10f-ca57d88ed98b",
-    "title": "Minecraft / PL / Switch",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1ee237/7980735d44588c4b6960c7e110fc",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-pl-switch-ril?navCategoryId=256922",
+    "id": "eae377db-c276-4275-a5dd-c58d6ce7cde0",
+    "title": "THE WITCHER 3: WILD HUNT / WIEDŹMIN 3: DZIKI GON / SWITCH",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e9a25/e35e82b6460e96cb79631565622a",
+    "url": "https://allegrolokalnie.pl//oferta/the-witcher-3-wild-hunt-wiedzmin-3-dziki-gon-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Toruń, Rudak"
+    "city": "Poznań, Jeżyce"
   },
   {
     "id": "7b7c4bde-5f81-4580-9686-6311b497dabc",
@@ -5985,16 +5995,6 @@
     "price": "175",
     "img": "https://a.allegroimg.com/s180x180/11a322/b0e356604394ab9e0a4ae2a7c2bb",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-fcd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "1034f3b0-ef51-4060-a346-6444a2a6aee9",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/117792/ef09ee7f4905aa005c77e93bb983",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-oaw?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
