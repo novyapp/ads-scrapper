@@ -1195,7 +1195,7 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1e5602/cf59e27a434dbd9536a40ed5b752",
     "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-xgp-fr6?navCategoryId=256922",
-    "promoted": true,
+    "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
   },
@@ -4200,16 +4200,6 @@
     "city": "Gostynin"
   },
   {
-    "id": "88f5f444-462b-4424-97d8-746129ac870c",
-    "title": "SUPER MARIO 3D WORLD + BOWSER'S FURY SWITCH",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e97b3/20b490e442bf820671dda9b214fb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-yq3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "6753617a-efeb-47a5-809a-13cd9c51f242",
     "title": "The Diofield Chronicle na Nintendo Switch stan idealny",
     "price": "150",
@@ -4428,6 +4418,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bielkówko"
+  },
+  {
+    "id": "94442cfe-3407-44f5-893d-1c43ed75b7e7",
+    "title": "Super Smash Bros Ultimate Nintendo Switch",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1e5602/cf59e27a434dbd9536a40ed5b752",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-xgp-fr6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "8eb9d02d-851c-4f8d-96b6-9de77a0af6e1",
