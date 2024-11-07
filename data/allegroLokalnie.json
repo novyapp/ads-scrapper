@@ -1800,16 +1800,6 @@
     "city": "Nowa Sól"
   },
   {
-    "id": "38107d38-b43f-46c7-93f7-1823258cfc0a",
-    "title": "Disney Illusion Island",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1ecad7/5d0e576d44ab8662ca963884f552",
-    "url": "https://allegrolokalnie.pl//oferta/disney-illusion-island-egn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowa Sól"
-  },
-  {
     "id": "3fcb95e1-c1bc-4b69-9846-00e541c805f8",
     "title": "Kirby's Return to DreamLand Deluxe",
     "price": "180",
@@ -2395,6 +2385,16 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1e95d0/196a43e0455a87fac891ab4a8a54",
     "url": "https://allegrolokalnie.pl//oferta/octopath-traveler-nowa-t2b?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "41a5e1f0-80bf-421a-b05e-27ded280ce1a",
+    "title": "[Nintendo Switch] Triangle Strategy NOWA",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ed98d/bdbcfca34052a1363abd81447b54",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-triangle-strategy-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
@@ -3000,16 +3000,6 @@
     "city": "Siemianowice Śląskie"
   },
   {
-    "id": "ed2c92c0-1c49-422e-b1d5-ad92fae9edb3",
-    "title": "Luigis mansion 3 gra Nintendo switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e60ef/97f829cb46289965db323dc67984",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-gra-nintendo-switch-dvn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Siemianowice Śląskie"
-  },
-  {
     "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
     "title": "Kangurek Kao Nintendo switch",
     "price": "75",
@@ -3600,6 +3590,16 @@
     "city": "Bysław"
   },
   {
+    "id": "f64adbf3-9065-4021-bd0d-056633c6d81d",
+    "title": "Diablo 3 Eternal Collection",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e1dc4/bf1072ba494cbbe4ed30d8669d24",
+    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-3p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
     "id": "78f2c721-51b0-4c0b-a6f8-92c3e54eb050",
     "title": "New Pokemon Snap",
     "price": "140",
@@ -3645,16 +3645,6 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "db78617d-33e1-4591-bc95-949fa05927dc",
-    "title": "Pokemon Sword Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e9877/5537f4374e5aad2d38cb6596871f",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-b2u?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
