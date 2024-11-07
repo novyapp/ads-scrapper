@@ -212,7 +212,7 @@
   {
     "id": "41490140-be87-409e-8d7c-8a6d60630b9a",
     "title": "Tactics Ogre Reborn Switch",
-    "price": "109",
+    "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e9de1/04177bc44e13a06130ae48c72ae5",
     "url": "https://allegrolokalnie.pl//oferta/tactics-ogre-reborn-switch-55v?navCategoryId=256922",
     "promoted": true,
@@ -222,7 +222,7 @@
   {
     "id": "04d686eb-9319-4b3a-9379-88afea46487f",
     "title": "Dark Souls Remastered Switch",
-    "price": "99",
+    "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1ee825/e0beff5440cf8155afc253a40456",
     "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-switch-3kx?navCategoryId=256922",
     "promoted": true,
@@ -358,26 +358,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Poznań"
-  },
-  {
-    "id": "85e962a6-3b82-4a88-8a7f-3be8cd9bfe91",
-    "title": "Dark Souls Remastered",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e99fb/098e075e40d58525119535f082aa",
-    "url": "https://allegrolokalnie.pl//oferta/dark-souls-remastered-na-nintendo-switch-x5d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
-    "id": "62de4c9a-f48a-4870-ae60-c23710bd680f",
-    "title": "Red Dead Redemption PL",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e064a/9a023954434391218e27aba76b6a",
-    "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin"
   },
   {
     "id": "43c440ad-ac5d-48c1-ac6e-e631bdff818d",
@@ -588,16 +568,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Łódź, Widzew"
-  },
-  {
-    "id": "3b5a5afa-ff87-4b24-90fc-fe2d8387f010",
-    "title": "Kirby Star Allies",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ebc2c/2c4c7ff84f8ebe02d9cf55201af1",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-star-allies-i5d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
   },
   {
     "id": "3b5a5afa-ff87-4b24-90fc-fe2d8387f010",
@@ -4200,6 +4170,16 @@
     "city": "Węgrzce Wielkie"
   },
   {
+    "id": "6753617a-efeb-47a5-809a-13cd9c51f242",
+    "title": "The Diofield Chronicle na Nintendo Switch stan idealny",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ece99/385569574f2a95888d5cd9aaf713",
+    "url": "https://allegrolokalnie.pl//oferta/the-diofield-chronicle-na-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
+  },
+  {
     "id": "86b47340-b50a-4e21-948c-5c591b509332",
     "title": "Gra Nintendo Switch Pokemon Let's go Pikachu",
     "price": "199",
@@ -4788,16 +4768,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
-    "title": "Warioware get it together",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e0e56/a5806f7d4fa780cf3de003c44dd6",
-    "url": "https://allegrolokalnie.pl//oferta/warioware-get-it-together-6xs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Stargard"
   },
   {
     "id": "d07b6e5d-634e-42df-b3b8-7a607f331099",
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
+    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/11655f/c6a25f81443f87e3ba4e80d6f1ce",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
