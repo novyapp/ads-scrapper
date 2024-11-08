@@ -102,7 +102,7 @@
   {
     "id": "9fc5d126-9624-4e1e-a9ac-6b03e058e943",
     "title": "prince of persia the lost crown",
-    "price": "220",
+    "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e7b41/65e2252d46159488eb07b224e36e",
     "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-c7i?navCategoryId=256922",
     "promoted": true,
@@ -112,7 +112,7 @@
   {
     "id": "cc88bc25-a8d6-4725-9042-79a4f277f488",
     "title": "zelda echoes of wisdom",
-    "price": "185",
+    "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e21aa/a1db19714d1e870e3c7e90c4b035",
     "url": "https://allegrolokalnie.pl//oferta/zelda-echoes-of-wisdom?navCategoryId=256922",
     "promoted": true,
@@ -1188,6 +1188,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Kielce"
+  },
+  {
+    "id": "92864b6a-91ee-412a-b50b-079dd6e38ffe",
+    "title": "Ringfit Ring Fit Nintendo Switch KOMPLET",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e9a0e/aef20c224e17a95eebab68550faa",
+    "url": "https://allegrolokalnie.pl//oferta/ringfit-ring-fit-nintendo-switch-komplet?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "9500f501-24dd-4949-912d-9eb6d36ff8fe",
@@ -4780,26 +4790,6 @@
     "city": "Żyrardów"
   },
   {
-    "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
-    "title": "Super Mario 3D All-Stars | Nowa | Switch",
-    "price": "479",
-    "img": "https://a.allegroimg.com/s180x180/1e82f3/25efe59f4b0c87e0c9db25339a8d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-or-nowa-or-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
-    "id": "612e30fc-8477-4aa9-9a4c-14bb4f2e4192",
-    "title": "Super Mario 3D All-Stars | Nowa | Switch",
-    "price": "479",
-    "img": "https://a.allegroimg.com/s180x180/1e82f3/25efe59f4b0c87e0c9db25339a8d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-or-nowa-or-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
     "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
     "title": "Farming Simulator Nintendo Switch Edition",
     "price": "200",
@@ -5385,6 +5375,16 @@
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e177a/ff21309c4bd2a6843c221e362759",
     "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-t4z?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Radzymin, Radzymin"
+  },
+  {
+    "id": "1c9a8f89-6846-4fd9-ae46-c072b609d10c",
+    "title": "Sonic frointiens",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e198f/81474ba14c01a206349961545e13",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-frointiens?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Radzymin, Radzymin"
