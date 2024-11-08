@@ -3600,16 +3600,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "23e145cd-b85d-4c31-a37b-d66a73caf244",
-    "title": "Pikmin 4 Nintendo Switch",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1e9394/8094ba8e4165ab15c6733ac6b350",
-    "url": "https://allegrolokalnie.pl//oferta/pikmin-4-nintendo-switch-rgr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "9db8223b-5a13-4327-9367-4c2e5356a3d4",
     "title": "Animal Crossing Nintendo switch",
     "price": "179",
@@ -4188,6 +4178,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
+  },
+  {
+    "id": "80969f41-e1d0-4dc9-9bc9-1541053f0ccc",
+    "title": "Gra Iniemamocni z Niemiecką Okładką",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1ea81a/ff795d9a4796b60e4a6d2ee6a842",
+    "url": "https://allegrolokalnie.pl//oferta/gra-iniemamocni-z-niemiecka-okladka?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzyżów"
   },
   {
     "id": "869944a1-2e00-4715-99f7-4f2df4a7c1e3",
@@ -4790,16 +4790,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "a688187f-6095-4c9f-a385-66774120f026",
-    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
-    "price": "375",
-    "img": "https://a.allegroimg.com/s180x180/1eb822/f79e8a6b45208d4e4313acbb43ac",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-edycja-kolekcjonerska-mhc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
     "id": "ebf9e1c6-b3e6-40f7-bae9-267c175aa4a1",
     "title": "Asterix & Obelix Slap them All! Limited Edition na Nintendo Switch",
     "price": "139",
@@ -5390,6 +5380,16 @@
     "city": "Tarnowskie Góry"
   },
   {
+    "id": "6c3df4ef-7126-496d-b4f6-d425807255fb",
+    "title": "The Legend of Zelda Tears of The Kingdom Edycja Kolekcjonerska Switch",
+    "price": "350",
+    "img": "https://a.allegroimg.com/s180x180/1eb71f/bf35dc594caebc628446855f768d",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zabrze"
+  },
+  {
     "id": "51a2b4f8-299c-47bc-810c-d70fc5d8f432",
     "title": "Code: Realize ~Guardian of the Rebrith~ SWITCH",
     "price": "150",
@@ -5958,5 +5958,45 @@
     "promoted": false,
     "smartPost": false,
     "city": "Ostrów Mazowiecka"
+  },
+  {
+    "id": "0bb8ca7d-0389-4210-9144-fced9609e631",
+    "title": "Gra kartridż Octopath Traveler Eng Nintendo Switch - przepiękna gra",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e98cf/67a02e414fb397fa130bf99c5c4f",
+    "url": "https://allegrolokalnie.pl//oferta/gra-kartridz-octopath-traveler-eng-nintendo-switch-przepiekna-gra?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Włocławek"
+  },
+  {
+    "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
+    "title": "Road 96 - Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
+    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilczyce"
+  },
+  {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "a271a1df-a16a-4412-8716-19e373600031",
+    "title": "Wreckfest Nintendo Switch NS",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
+    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
   }
 ]
