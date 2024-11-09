@@ -350,16 +350,6 @@
     "city": "Opole"
   },
   {
-    "id": "3af3b754-013e-4ae1-9577-8d282987a9c1",
-    "title": "Splatoon 3 - Nintendo Switch NS",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e0b42/32076e2e470791821b0db588cf12",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-nintendo-switch-ns-k7s?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Poznań"
-  },
-  {
     "id": "43c440ad-ac5d-48c1-ac6e-e631bdff818d",
     "title": "Pokémon: Let’s Go, Pikachu! + Poké Ball Plus Nintendo Switch",
     "price": "499",
@@ -1195,16 +1185,6 @@
     "price": "278",
     "img": "https://a.allegroimg.com/s180x180/1ec165/a37854f24908977bf5ac392fcff6",
     "url": "https://allegrolokalnie.pl//oferta/flashback-25th-anniversary-nowa-folia-qdg?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczebrzeszyn"
-  },
-  {
-    "id": "1fdd59c4-e7a1-4084-8123-082b3086e173",
-    "title": "Spirit of the North Kartridż jak Nowa",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1ee3e5/866ea9034d2fa289ac6ac9f6104c",
-    "url": "https://allegrolokalnie.pl//oferta/spirit-of-the-north-kartridz-jak-nowa-ysb?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
@@ -2272,7 +2252,7 @@
   {
     "id": "0d69eab5-d23f-482c-b49e-f5de6cd5a2a7",
     "title": "Animal Crossing Nintendo Switch",
-    "price": "160",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1ecdab/32f401e74acab107ea9bdb050330",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-azm?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "9bf9e7a0-568b-4305-9edb-e85c79b5ee32",
+    "title": "Switch Splatoon 2 ... OKAZJA",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e18b5/8af26a3847f588978a95e6af8c35",
+    "url": "https://allegrolokalnie.pl//oferta/switch-splatoon-2-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
