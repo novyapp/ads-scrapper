@@ -1366,7 +1366,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ef30b/e64948244763a7a8e6f0a0fbd27d",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-3-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -2056,7 +2056,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e4e82/eb48da8a4a4c9c62a83586cea3ce",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-gadzety-switch-yyr?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
+  },
+  {
+    "id": "29eab46d-e9a3-4a55-bd57-c5c41eb16f7c",
+    "title": "Gigantamax gengar / pokemon go / Trade",
+    "price": "30",
+    "img": "https://a.allegroimg.com/s180x180/1ead5e/f312da824d9dad2579dc5a0c8042",
+    "url": "https://allegrolokalnie.pl//oferta/gigantamax-gengar-pokemon-go-trade?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź"
   },
   {
     "id": "1f51c53e-1b96-4fdc-9b3f-28eda85fc7f6",
@@ -3426,7 +3436,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e53e3/afce67a94cd0b1f94697f93b1ef4",
     "url": "https://allegrolokalnie.pl//oferta/mario-party-jamboree-gadzety-switch?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -3578,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Śródmieście"
-  },
-  {
-    "id": "790f6d49-9bc3-4d35-9a71-7f627b696187",
-    "title": "Crisis core final fantasy vii reunion",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1ef7b5/e52f132e4a80aac4757368afcabd",
-    "url": "https://allegrolokalnie.pl//oferta/crisis-core-final-fantasy-vii-reunion-ssu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Niedzica"
   },
   {
     "id": "790f6d49-9bc3-4d35-9a71-7f627b696187",
@@ -4556,7 +4556,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e8a16/bdd8c26c40b290fec4d548c801ce",
     "url": "https://allegrolokalnie.pl//oferta/detective-pikachu-returns-brelok-vh2?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -4566,7 +4566,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e2cfe/7af6910b490d89bb48da33a359e8",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousand-year-door-gadzety-switch-h53?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -5978,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
+    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ed33e/f38086794917816a29f2e6e7ca2d",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Milicz"
+  },
+  {
+    "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
+    "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/11d4ef/998113f24d628ccc8fb25fbe1115",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-pokken-tournament-dx-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   }
 ]
