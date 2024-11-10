@@ -1550,16 +1550,6 @@
     "city": "Ostrow Mazowiecka"
   },
   {
-    "id": "9630328e-bd29-4a42-9e3d-a7df3a62d851",
-    "title": "The Legend of Zelda Tears of The Kingdom",
-    "price": "185",
-    "img": "https://a.allegroimg.com/s180x180/1ecb71/87ccfac3480b8df13624cff9d25b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-ljx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "S"
-  },
-  {
     "id": "711fa316-ac15-4f08-931e-6a0d1a3b3e73",
     "title": "Zelda Breath Of The Wild",
     "price": "175",
@@ -5390,6 +5380,16 @@
     "city": "Radzymin, Radzymin"
   },
   {
+    "id": "c443a9f3-be61-42f7-bc3c-477aae74a590",
+    "title": "Sonic mania Nintendo switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e0e0f/0104b1114174a0a8549f670d4c72",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-mania-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Radzymin, Radzymin"
+  },
+  {
     "id": "4bf4d8a7-d43d-4fb1-a36b-1b841594e0f9",
     "title": "MINECRAFT na Nintendo Switch.",
     "price": "82",
@@ -5978,15 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Milicz"
-  },
-  {
-    "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
-    "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/11d4ef/998113f24d628ccc8fb25fbe1115",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-pokken-tournament-dx-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   }
 ]
