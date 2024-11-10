@@ -4200,16 +4200,6 @@
     "city": "DOBRZANY"
   },
   {
-    "id": "86565361-38ae-464e-b441-70d297a9b38d",
-    "title": "SLAY THE SPIRE (SWITCH) EGZ NOWY, W FOLII",
-    "price": "369",
-    "img": "https://a.allegroimg.com/s180x180/1e9a6b/a9d28bb24900ae0a0d4998f2943d",
-    "url": "https://allegrolokalnie.pl//oferta/slay-the-spire-switch-egz-nowy-w-folii-v6k?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
-  },
-  {
     "id": "8b58cfd4-3d5a-4c4f-8004-5d3815baef76",
     "title": "EL SHADDAI: ASCENSION OF THE METATRON HD (SWITCH) EGZ NOWY",
     "price": "243",
@@ -4798,6 +4788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "WARSZAWA"
+  },
+  {
+    "id": "7087dadc-0b07-4cf6-994a-63ef4b2bb2a9",
+    "title": "Ender Lilies collectors edition limited run switch",
+    "price": "950",
+    "img": "https://a.allegroimg.com/s180x180/1eef33/de7314a44d81b25e6973369948e5",
+    "url": "https://allegrolokalnie.pl//oferta/ender-lilies-collectors-edition-limited-run-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   },
   {
     "id": "6fb91f8f-c6d6-4f23-b62c-c7da921d21b2",
@@ -5852,11 +5852,11 @@
   {
     "id": "16f1de0c-19fe-4b92-8064-82870689249c",
     "title": "Ultra Age - Switch (Nowa)",
-    "price": "119",
+    "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1eb0f7/afba7fe7407483e0f33ac0a70e31",
     "url": "https://allegrolokalnie.pl//oferta/ultra-age-switch-nowa-7ny?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wilczyce"
   },
   {
@@ -5902,11 +5902,11 @@
   {
     "id": "1d483867-6fcf-4c74-b02f-e03f00ea620a",
     "title": "Road 96 - Nintendo Switch",
-    "price": "129",
+    "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1ef4aa/72b422bb4620bf3077a9d2ca79ba",
     "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-lng?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wilczyce"
   },
   {
