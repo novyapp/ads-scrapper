@@ -1,15 +1,5 @@
 [
   {
-    "id": "ae9512ae-0597-4589-b55a-d0948db45741",
-    "title": "Metroid Prime Remastered [Folia]",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6ff2/36d6eb2545719a7f84a0886a663a",
-    "url": "https://allegrolokalnie.pl//oferta/metroid-prime-remastered-folia-dsz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "1709e4b6-c22f-4170-9fe6-82af85c70f55",
     "title": "MARVEL ULTIMATE ALLIANCE 3: THE BLACK ORDER - SWITCH",
     "price": "190",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Orły"
+  },
+  {
+    "id": "8de3aefc-5870-444e-8324-61061c869d04",
+    "title": "Super Mario RPG Nintendo",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1eadc3/8f8e0fe54966b8897571b30cb4f7",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Łódź"
   },
   {
     "id": "8de3aefc-5870-444e-8324-61061c869d04",
@@ -4800,16 +4800,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "801499f1-35a6-4715-8b39-bbfbc7b32a0d",
-    "title": "Lego Gwiezdne Wojny Saga Skywalkera",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e287a/38ddd8f4455f8675c17e6aea0a8d",
-    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkera?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
     "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
     "price": "115",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
+    "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
+    "price": "183",
+    "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
+    "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
