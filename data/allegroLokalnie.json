@@ -5400,16 +5400,6 @@
     "city": "Zakopane"
   },
   {
-    "id": "faf64c59-a332-47b2-87ac-e7e56091709f",
-    "title": "Charons staircase switch - horror",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e9b78/ff5bbf2f4d32b47febe89a147805",
-    "url": "https://allegrolokalnie.pl//oferta/charons-staircase-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
     "title": "Ikai switch horror",
     "price": "70",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
