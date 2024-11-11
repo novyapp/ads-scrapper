@@ -1270,6 +1270,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "5bd3096f-e86b-4f66-8394-fd65cfe645d5",
+    "title": "Hello Neighbor 2 Deluxe - Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e4c38/871515cb4cb5a50117a1b5a7d5d5",
+    "url": "https://allegrolokalnie.pl//oferta/hello-neighbor-2-deluxe-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krystyna"
+  },
+  {
     "id": "e8d65c60-6454-4c46-9b86-0cfb4f7c16fe",
     "title": "Radiant Tale gra otome switch",
     "price": "120",
@@ -1785,16 +1795,6 @@
     "price": "110",
     "img": "https://a.allegroimg.com/s180x180/1e3fa5/325c07764150aaf53b621911d0d1",
     "url": "https://allegrolokalnie.pl//oferta/new-super-luckys-tale-nintendo-switch-z5s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrow Mazowiecka"
-  },
-  {
-    "id": "257791d1-cbbd-4d87-a9a3-650a9add5528",
-    "title": "Super Mario 3d World + Browsers Fury",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e045c/bdeb12324e0c96c59603b155fd91",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-browsers-fury-qbd?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ostrow Mazowiecka"
@@ -3000,6 +3000,16 @@
     "city": "Poznań"
   },
   {
+    "id": "21147447-f6ab-439b-bbcf-d1a2be843d47",
+    "title": "Mario 3D world + Bowser's Fury + Steelbook + naklejki + magnesy - NS",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1eee55/33302f214ffc81200a305ce41f77",
+    "url": "https://allegrolokalnie.pl//oferta/mario-3d-world-bowsers-fury-steelbook-naklejki-magnesy-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wilczyce"
+  },
+  {
     "id": "52ab1592-a4f5-46e8-b65a-ac7a0f395847",
     "title": "CRYSIS REMASTERED NINTENDO SWITCH JAK NOWA!!! PL",
     "price": "100",
@@ -4188,16 +4198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
-    "title": "Ac komplet switch",
-    "price": "250",
-    "img": "https://a.allegroimg.com/s180x180/1ed97c/7760988746f7b23cec2e032a4e45",
-    "url": "https://allegrolokalnie.pl//oferta/ac-komplet-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "f391cc10-a088-4ab9-b4f3-dcbb00437515",
@@ -5400,46 +5400,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
-    "title": "Dragon Quest Treasures Nintendo Switch JP version",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
-    "id": "efba7924-e867-4d04-b2fe-35ff4dc1eb64",
-    "title": "Astral chain Nintendo",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ed8e7/aeadc1e54cb89942df5169b10bb4",
-    "url": "https://allegrolokalnie.pl//oferta/astral-chain-nintendo-ogj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tarnowskie Góry"
-  },
-  {
-    "id": "6c3df4ef-7126-496d-b4f6-d425807255fb",
-    "title": "The Legend of Zelda Tears of The Kingdom Edycja Kolekcjonerska Switch",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1eb71f/bf35dc594caebc628446855f768d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zabrze"
-  },
-  {
-    "id": "51a2b4f8-299c-47bc-810c-d70fc5d8f432",
-    "title": "Code: Realize ~Guardian of the Rebrith~ SWITCH",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e638b/811ab6a94c08a27880a67ada0c46",
-    "url": "https://allegrolokalnie.pl//oferta/code-realize-guardian-of-the-rebrith-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "6eb99395-46f7-41c7-87f0-ee8c3bbb84e4",
     "title": "Little Nightmares I+II Bundle - [Nintendo Switch] NOWE zafoliowane",
     "price": "219",
@@ -5998,5 +5958,45 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "a271a1df-a16a-4412-8716-19e373600031",
+    "title": "Wreckfest Nintendo Switch NS",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
+    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "63acd8f1-8d57-47ca-8c32-5f143380b6f3",
+    "title": "Mario Kart 8 Deluxe + Booster Course Pass Nintendo Switch NS",
+    "price": "440",
+    "img": "https://a.allegroimg.com/s180x180/1efe3f/aaa5bfe04dbca50d509c10fd05df",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-booster-course-pass-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
+    "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
+    "price": "183",
+    "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
+    "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "7aada744-88e8-4a17-82c4-fb5f58c704aa",
+    "title": "Switch Minecraft - Kartridź Folia PL",
+    "price": "104",
+    "img": "https://a.allegroimg.com/s180x180/1e41c1/aab6776e4ec4b936b513869286e5",
+    "url": "https://allegrolokalnie.pl//oferta/switch-minecraft-kartridz-folia-pl-hij?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
