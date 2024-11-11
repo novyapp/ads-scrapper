@@ -60,16 +60,6 @@
     "city": "Warszawa, Wola"
   },
   {
-    "id": "7b3fb3c6-6a6f-4f51-ba3d-8193a9e13149",
-    "title": "Tomb Raider 1, 2, 3 Remastered Nintendo Switch -PL-",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1ea53d/a8483d3d46829636612cf01342d1",
-    "url": "https://allegrolokalnie.pl//oferta/tomb-raider-1-2-3-remastered-nintendo-switch-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Jastrzębie-Zdrój"
-  },
-  {
     "id": "634ff06f-6187-48cf-ba6f-643bb3d8f24b",
     "title": "Go Vacation Nintendo Switch - stan idealny",
     "price": "90",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Orły"
+  },
+  {
+    "id": "8de3aefc-5870-444e-8324-61061c869d04",
+    "title": "Super Mario RPG Nintendo",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1eadc3/8f8e0fe54966b8897571b30cb4f7",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Łódź"
   },
   {
     "id": "8de3aefc-5870-444e-8324-61061c869d04",
@@ -1200,16 +1200,6 @@
     "city": "Wrocław, Wroclaw"
   },
   {
-    "id": "fa435842-cd58-4908-a817-67c8d8797be0",
-    "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1ee25d/8f3e191c4a54841858fa880c52ce",
-    "url": "https://allegrolokalnie.pl//oferta/atelier-lydie-suelle-the-alchemists-and-the-mysterious-paintings?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Sosnowiec"
-  },
-  {
     "id": "b6028dad-c307-427c-b6a4-dd2a84126328",
     "title": "Nintendo Switch Sports + Opaska stan BdB",
     "price": "168",
@@ -1278,6 +1268,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "73f33fed-019d-4190-9559-08fb94be5c27",
+    "title": "Gra Just Dance 2022 Nintendo switch",
+    "price": "50",
+    "img": "https://a.allegroimg.com/s180x180/1e859d/c546ad704425895dc7f7c3419bf6",
+    "url": "https://allegrolokalnie.pl//oferta/gra-just-dance-2022-nintendo-switch-ft6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków"
   },
   {
     "id": "c554e385-0d25-411a-ba90-036fbe90581c",
@@ -1432,7 +1432,7 @@
   {
     "id": "be79434b-459f-468c-8f51-28fe02484900",
     "title": "LUIGI'S MANSION 3",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e9fe9/fd3723484d96a020ce8138f0195a",
     "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-hhj?navCategoryId=256922",
     "promoted": false,
@@ -4092,7 +4092,7 @@
   {
     "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
     "title": "Pokemon Shield + Expansion Pass",
-    "price": "600",
+    "price": "570",
     "img": "https://a.allegroimg.com/s180x180/1e54db/c1e0c2f34efeae9347ef8c21caac",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-expansion-pass-qut?navCategoryId=256922",
     "promoted": false,
@@ -4188,16 +4188,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wadowice"
-  },
-  {
-    "id": "b8c324c4-7d87-4288-be7e-7996563061d9",
-    "title": "Super Mario Bros. Wonder Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e901f/4ffd88e84a94ae643a48bc6f515d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-iza?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "b8c324c4-7d87-4288-be7e-7996563061d9",
@@ -4800,6 +4790,26 @@
     "city": "Krzyków"
   },
   {
+    "id": "a688187f-6095-4c9f-a385-66774120f026",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
+    "price": "375",
+    "img": "https://a.allegroimg.com/s180x180/1eb822/f79e8a6b45208d4e4313acbb43ac",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-edycja-kolekcjonerska-mhc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "a688187f-6095-4c9f-a385-66774120f026",
+    "title": "The Legend of Zelda Tears of the Kingdom Edycja Kolekcjonerska",
+    "price": "375",
+    "img": "https://a.allegroimg.com/s180x180/1eb822/f79e8a6b45208d4e4313acbb43ac",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-edycja-kolekcjonerska-mhc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczebrzeszyn"
+  },
+  {
     "id": "ebf9e1c6-b3e6-40f7-bae9-267c175aa4a1",
     "title": "Asterix & Obelix Slap them All! Limited Edition na Nintendo Switch",
     "price": "139",
@@ -5388,16 +5398,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gostynin"
-  },
-  {
-    "id": "852811ee-3c96-437f-8f77-9bcb4f31f535",
-    "title": "Mariokart deluxe",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e177a/ff21309c4bd2a6843c221e362759",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-t4z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
   },
   {
     "id": "1c9a8f89-6846-4fd9-ae46-c072b609d10c",
