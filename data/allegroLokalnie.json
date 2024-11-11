@@ -1280,6 +1280,26 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "6fbe507a-4475-4544-9a68-e116b7bec8e7",
+    "title": "PRINCE OF PERSIA THE LOST CROWN PL NINTENDO SWITCH",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e251b/8462fe2d41528c1e6a226e9df3a1",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-pl-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Widzew"
+  },
+  {
+    "id": "68d8cbe4-a353-4ac3-ae4d-941027c05d63",
+    "title": "Gra Nintendo Switch Pokémon Scarlet + Area Zero DLC",
+    "price": "225",
+    "img": "https://a.allegroimg.com/s180x180/1ee628/303630154978b2414d7263da0d74",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-pokemon-scarlet-area-zero-dlc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kielce"
+  },
+  {
     "id": "11ea5951-2f92-4073-894b-fffd9e6b7194",
     "title": "Hogwarts Legacy - Switch (Nowa)",
     "price": "139",
@@ -1780,26 +1800,6 @@
     "city": "Jeżów Sudecki"
   },
   {
-    "id": "1be70f20-2ef0-4013-baa9-db89423d48ac",
-    "title": "Super Mario RPG Nintendo Switch",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1efa46/41a8c6e24d35955c13f57c39ebf6",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-dod?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
-    "id": "9fb3eda7-895f-45ab-b5bb-c5060c4095fa",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e0e01/dee6f0454d3884bca2e4481ef5ea",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-lw3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Myszyniec"
-  },
-  {
     "id": "9fb3eda7-895f-45ab-b5bb-c5060c4095fa",
     "title": "Mario Kart 8 Deluxe Nintendo Switch",
     "price": "159",
@@ -1822,7 +1822,7 @@
   {
     "id": "279c5989-5638-410c-8f7b-fc8bbdb40005",
     "title": "The Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1e9c4c/187dbfd7412c84a8480337257462",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-hf2?navCategoryId=256922",
     "promoted": false,
@@ -1832,7 +1832,7 @@
   {
     "id": "5937b331-064d-45d1-8b3e-e94e03710104",
     "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
-    "price": "155",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e52db/8a02f45d4feca6a6b70fe5628bab",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-7gt?navCategoryId=256922",
     "promoted": false,
@@ -2388,6 +2388,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tychy"
+  },
+  {
+    "id": "f8873734-f522-4267-8330-a929e18d70e1",
+    "title": "NS The Legend of Zelda: Breath of the Wild",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e4abe/f68ca8924c1eb262b729f0fe4c90",
+    "url": "https://allegrolokalnie.pl//oferta/ns-the-legend-of-zelda-breath-of-the-wild-zhf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "f8873734-f522-4267-8330-a929e18d70e1",
@@ -3590,16 +3600,6 @@
     "city": "Tczew"
   },
   {
-    "id": "c865edf3-db50-46af-b736-e0077d0dcd34",
-    "title": "Fifa19 nintendo switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e6c9b/504223874f3f89fb2a153328d622",
-    "url": "https://allegrolokalnie.pl//oferta/fifa19-nintendo-switch-o5z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chodzież"
-  },
-  {
     "id": "3207c4eb-9016-4466-b818-067cacf24bc5",
     "title": "Virche Evermore - error:salvation nintendo switch",
     "price": "220",
@@ -4800,6 +4800,16 @@
     "city": "Olsztyn"
   },
   {
+    "id": "2655f357-d8c7-4715-8a6f-5ddb094a2f62",
+    "title": "Tokyo 2020 Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e37df/3bbb86da40a8ada19fbde21876ca",
+    "url": "https://allegrolokalnie.pl//oferta/tokyo-2020-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
     "id": "5bd94b5e-cbf0-4e13-a675-bcc59bfc209d",
     "title": "Mario + Rabbids Kingdom Battle Gold Edition Nintendo Switch",
     "price": "96",
@@ -5385,16 +5395,6 @@
     "price": "169",
     "img": "https://a.allegroimg.com/s180x180/1e4ec1/2201cc90487e9a3a10dcf5099f3d",
     "url": "https://allegrolokalnie.pl//oferta/dying-light-platinum-edition-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chorzów"
-  },
-  {
-    "id": "82bee230-7328-4016-b5a8-1ca9533383c8",
-    "title": "Wiedźmin 3 Dziki Gon Edycja Kompletna na Nintendo Switch",
-    "price": "269",
-    "img": "https://a.allegroimg.com/s180x180/1e9142/0505b91f4bd1930aa2af18cd057b",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-dziki-gon-edycja-kompletna-na-nintendo-switch-po6?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Chorzów"
