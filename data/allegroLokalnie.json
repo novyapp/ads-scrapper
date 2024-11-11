@@ -2400,6 +2400,16 @@
     "city": "Rzeszów"
   },
   {
+    "id": "f8873734-f522-4267-8330-a929e18d70e1",
+    "title": "NS The Legend of Zelda: Breath of the Wild",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1e4abe/f68ca8924c1eb262b729f0fe4c90",
+    "url": "https://allegrolokalnie.pl//oferta/ns-the-legend-of-zelda-breath-of-the-wild-zhf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
+  },
+  {
     "id": "6fa269a9-6bed-49d7-ba53-6d7f71750452",
     "title": "Sonic frontiers switch",
     "price": "69",
@@ -2988,16 +2998,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
-  },
-  {
-    "id": "1b5e70c5-b9c2-496b-a0d9-acd4ad7b09fc",
-    "title": "SpongeBob Cosmic Shake Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e32d7/1cc012774c08ac17929e40e0cf81",
-    "url": "https://allegrolokalnie.pl//oferta/spongebob-cosmic-shake-nintendo-switch-vj3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Borne Sulinowo"
   },
   {
     "id": "670982b2-823f-4001-92e1-d8b9deee06c1",
@@ -5400,16 +5400,6 @@
     "city": "Chorzów"
   },
   {
-    "id": "a79e0082-97eb-4330-b788-878a734f9e75",
-    "title": "Midnight Fight Express Limited Run #232",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1efced/4c7a292d4ebf91db2483737dc321",
-    "url": "https://allegrolokalnie.pl//oferta/midnight-fight-express-limited-run-232?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "faf64c59-a332-47b2-87ac-e7e56091709f",
     "title": "Charons staircase switch - horror",
     "price": "80",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "02a95a93-132a-4bb2-ba12-c5039a743fea",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/11ff1b/fc48e29a48729718e39e85f894ed",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-5dm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
+  },
+  {
+    "id": "e8c21f90-037d-4386-a90d-eea8749ea092",
+    "title": "Advance Wars 1+2: Re-Boot Camp Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/11655f/c6a25f81443f87e3ba4e80d6f1ce",
+    "url": "https://allegrolokalnie.pl//oferta/advance-wars-1-2-reboot-camp-nintendo-switch-3xh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Warszawa"
   }
 ]
