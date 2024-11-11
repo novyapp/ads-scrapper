@@ -1990,23 +1990,13 @@
     "city": "Mielec, Smoczka I"
   },
   {
-    "id": "279c5989-5638-410c-8f7b-fc8bbdb40005",
-    "title": "The Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e9c4c/187dbfd7412c84a8480337257462",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-hf2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "5937b331-064d-45d1-8b3e-e94e03710104",
     "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
     "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e52db/8a02f45d4feca6a6b70fe5628bab",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-7gt?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Kraków"
   },
   {
@@ -2625,16 +2615,6 @@
     "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1e56cd/acddd90b4b719fd2f0e3287a20d9",
     "url": "https://allegrolokalnie.pl//oferta/blasphemous-2-nintendo-switch-urj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chorzów"
-  },
-  {
-    "id": "bf348edb-fb0f-480d-8cc0-8643b5092144",
-    "title": "Road 96 Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e9bae/9fa9b4ab407e8179540b8ffcfaf4",
-    "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-2bo?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "63acd8f1-8d57-47ca-8c32-5f143380b6f3",
+    "title": "Mario Kart 8 Deluxe + Booster Course Pass Nintendo Switch NS",
+    "price": "440",
+    "img": "https://a.allegroimg.com/s180x180/1efe3f/aaa5bfe04dbca50d509c10fd05df",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-booster-course-pass-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
+    "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
+    "price": "183",
+    "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
+    "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
