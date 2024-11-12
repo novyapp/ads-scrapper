@@ -1010,16 +1010,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "eb304431-3116-4044-96d9-efe642fcc1b4",
-    "title": "Legend of Legacy wyd. amerykańskie",
-    "price": "212",
-    "img": "https://a.allegroimg.com/s180x180/1e3ffa/e8492f204d2489c18327192f9ec1",
-    "url": "https://allegrolokalnie.pl//oferta/legend-of-legacy-wyd-amerykanskie?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Dąbrowa Tarnowska"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -1188,6 +1178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Wałbrzych"
+  },
+  {
+    "id": "eb304431-3116-4044-96d9-efe642fcc1b4",
+    "title": "Legend of Legacy wyd. amerykańskie",
+    "price": "212",
+    "img": "https://a.allegroimg.com/s180x180/1e3ffa/e8492f204d2489c18327192f9ec1",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-legacy-wyd-amerykanskie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dąbrowa Tarnowska"
   },
   {
     "id": "6e65443f-45e7-474f-8bd4-b14f7eee0510",
