@@ -1030,16 +1030,6 @@
     "city": "Dąbrowa Tarnowska"
   },
   {
-    "id": "157725c2-e501-4945-b70a-b85b094884fb",
-    "title": "Gra Splatoon 3 Nintendo Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1eb54b/f11deee540d78b75788ae222319d",
-    "url": "https://allegrolokalnie.pl//oferta/gra-splatoon-3-nintendo-switch-baa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kobyłka"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -1198,6 +1188,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "157725c2-e501-4945-b70a-b85b094884fb",
+    "title": "Gra Splatoon 3 Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eb54b/f11deee540d78b75788ae222319d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-splatoon-3-nintendo-switch-baa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kobyłka"
   },
   {
     "id": "f044d067-1bf9-4f79-9eb4-666ea09d7d53",
@@ -4200,16 +4200,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "feb00ca7-5bc9-4f3a-9f6d-353c33882f33",
-    "title": "Fire Emblem Three Houses",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e7ea3/6c27e78a4a35acd6c003da0d5136",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emblem-three-houses-jua?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Żory"
-  },
-  {
     "id": "5b22facd-ae84-4bfb-ae5f-a5ea4a27f07a",
     "title": "Super Mario 3D World + Bowser's Fury",
     "price": "149",
@@ -4508,6 +4498,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
+  },
+  {
+    "id": "157725c2-e501-4945-b70a-b85b094884fb",
+    "title": "Gra Splatoon 3 Nintendo Switch",
+    "price": "159",
+    "img": "https://a.allegroimg.com/s180x180/1eb54b/f11deee540d78b75788ae222319d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-splatoon-3-nintendo-switch-baa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kobyłka"
   },
   {
     "id": "6753617a-efeb-47a5-809a-13cd9c51f242",
