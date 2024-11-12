@@ -1040,16 +1040,6 @@
     "city": "Kobyłka"
   },
   {
-    "id": "4f142556-277f-4828-a71b-a535b59a2393",
-    "title": "SHIN MEGAMI TENSEI V na Nintendo Switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e233f/5415149d41b5b4e158f71c7b42f8",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-na-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Jasienica"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -1268,6 +1258,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "284a547e-5c0c-4ec1-8110-944de6804b90",
+    "title": "Super Mario Odyssey",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e9585/7f9ebfe14944bfa6cee5eb22b4b3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-kcs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "44c98235-de43-4b3b-94c6-777df32a02f6",
@@ -1930,16 +1930,6 @@
     "city": "Ostrow Mazowiecka"
   },
   {
-    "id": "58c73d61-dabf-431e-b70b-57e2acfb8525",
-    "title": "Animal Crossing New Horizons Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ee933/30b41efe4fc8976d44c972abfe1f",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-nintendo-switch-uc6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrow Mazowiecka"
-  },
-  {
     "id": "7c429a45-c913-4d16-80b3-ab5a35e99ffd",
     "title": "New Super Luckys Tale Nintendo Switch",
     "price": "110",
@@ -2362,7 +2352,7 @@
   {
     "id": "d6e243f4-0fcf-4de7-8721-83c2d736794a",
     "title": "Ni No Kuni Wrath Of The White Witch Nintendo Switch ANG",
-    "price": "299",
+    "price": "349",
     "img": "https://a.allegroimg.com/s180x180/1e3d55/bbb2b4b2414f90af93f88f894b96",
     "url": "https://allegrolokalnie.pl//oferta/ni-no-kuni-wrath-of-the-white-witch-nintendo-switch-ang?navCategoryId=256922",
     "promoted": false,
@@ -4530,6 +4520,16 @@
     "city": "Jasienica"
   },
   {
+    "id": "4f142556-277f-4828-a71b-a535b59a2393",
+    "title": "SHIN MEGAMI TENSEI V na Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e233f/5415149d41b5b4e158f71c7b42f8",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasienica"
+  },
+  {
     "id": "86b47340-b50a-4e21-948c-5c591b509332",
     "title": "Gra Nintendo Switch Pokemon Let's go Pikachu",
     "price": "199",
@@ -4682,7 +4682,7 @@
   {
     "id": "9500f501-24dd-4949-912d-9eb6d36ff8fe",
     "title": "Star Ocean Second Story R Nintendo Switch ANG",
-    "price": "249",
+    "price": "259",
     "img": "https://a.allegroimg.com/s180x180/1efcc0/8cafd4fe4dcf88371f1888dd2aed",
     "url": "https://allegrolokalnie.pl//oferta/star-ocean-second-story-r-nintendo-switch-ang?navCategoryId=256922",
     "promoted": false,
