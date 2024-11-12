@@ -1270,6 +1270,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "5825ab51-d321-4a8f-8802-2ef75a726981",
+    "title": "Super Mario Odyssey",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ea693/bc4772d648008e9e2d56cdd4167a",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-xrg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec"
+  },
+  {
     "id": "97509624-3468-4c8c-927a-eff5633fdedb",
     "title": "Captain Toad Treasure Tracker - NS",
     "price": "80",
@@ -1308,16 +1318,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
-  },
-  {
-    "id": "44dd34ff-0908-403a-b425-1047c2656e2f",
-    "title": "METRO REDUX SWITCH BDB PL (NAPISY)",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1ef6ec/ac4ca2404886b94b7bc74a0e69d4",
-    "url": "https://allegrolokalnie.pl//oferta/metro-redux-switch-bdb-pl-napisy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "5bd3096f-e86b-4f66-8394-fd65cfe645d5",
@@ -1798,6 +1798,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "0b61b269-934c-47b4-9460-41688a172c98",
+    "title": "SUPER MARIO 3D WORLD + BOWSER'S FURY - SWITCH",
+    "price": "164",
+    "img": "https://a.allegroimg.com/s180x180/1e3c26/68ee20214203883559bf305a3e29",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-switch-gry?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
   },
   {
     "id": "ef238f70-12ad-4efc-b4a6-a35b72a2b0c7",
@@ -2380,14 +2390,14 @@
     "city": "Będzin"
   },
   {
-    "id": "3997b5c5-6d80-4f0b-9308-3926d6d12c9f",
-    "title": "Disgaea 7 Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e4d08/a330005141bf8f84b7f09b301ca2",
-    "url": "https://allegrolokalnie.pl//oferta/disgaea-7-nintendo-switch?navCategoryId=256922",
+    "id": "67ee63b9-f8a5-4bcf-82cd-fe8a557b717c",
+    "title": "Let's sing Abba Nintendo switch zestaw gra nintendo nowa",
+    "price": "88",
+    "img": "https://a.allegroimg.com/s180x180/1e0b41/5053084447e69ef99366fb62975f",
+    "url": "https://allegrolokalnie.pl//oferta/lets-sing-abba-nintendo-switch-zestaw-gra-nintendo-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
-    "city": "Warszawa, Bemowo"
+    "city": "Będzin"
   },
   {
     "id": "3997b5c5-6d80-4f0b-9308-3926d6d12c9f",
@@ -2975,16 +2985,6 @@
     "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e4f7d/76e4182c4169b220554b54eff0cd",
     "url": "https://allegrolokalnie.pl//oferta/souldiers-nintendo-switch-jrt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
-    "id": "89558bdb-d228-4efa-ac7b-d07fb95d35f8",
-    "title": "Bo: Path of the Teal Lotus  Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e6f2b/8e73cf66473288350e495f531873",
-    "url": "https://allegrolokalnie.pl//oferta/bo-path-of-the-teal-lotus-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Sanniki"
@@ -4185,6 +4185,26 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Roźwienica"
+  },
+  {
+    "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
+    "title": "Pokemon: Let's go, Eevee",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1eb7fa/e2d6e4c94461895d9cfff73bd6ee",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-nwq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Roźwienica"
+  },
+  {
+    "id": "77dcecd6-be14-495b-927c-8208ce3a573c",
+    "title": "Pokemon Shield + Expansion Pass",
+    "price": "570",
+    "img": "https://a.allegroimg.com/s180x180/1e54db/c1e0c2f34efeae9347ef8c21caac",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-expansion-pass-qut?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Roźwienica"
@@ -5965,26 +5985,6 @@
     "price": "172",
     "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
-    "id": "a271a1df-a16a-4412-8716-19e373600031",
-    "title": "Wreckfest Nintendo Switch NS",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ed40f/c3c98ef340b5ab93ef44a12cebcc",
-    "url": "https://allegrolokalnie.pl//oferta/wreckfest-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
-    "id": "63acd8f1-8d57-47ca-8c32-5f143380b6f3",
-    "title": "Mario Kart 8 Deluxe + Booster Course Pass Nintendo Switch NS",
-    "price": "440",
-    "img": "https://a.allegroimg.com/s180x180/1efe3f/aaa5bfe04dbca50d509c10fd05df",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-booster-course-pass-switch-ns?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
