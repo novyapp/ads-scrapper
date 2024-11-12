@@ -3670,16 +3670,6 @@
     "city": "Lędziny"
   },
   {
-    "id": "b2888800-4c89-4ecc-92c7-62458fdd89f4",
-    "title": "Neversong Nowa!!",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e5603/d0ee27fe44aeaa8299fab863dbe5",
-    "url": "https://allegrolokalnie.pl//oferta/neversong-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "989191f4-9c37-4bcd-8a3c-7e36c8e2f039",
     "title": "Beyond a Steel Sky: Utopia Edition",
     "price": "180",
@@ -4798,16 +4788,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "5f64c788-3188-4ac0-8691-9d7bdcfb2c64",
-    "title": "Super Mario 3D ALL STARS",
-    "price": "600",
-    "img": "https://a.allegroimg.com/s180x180/1ee01a/d74e865d4de1b29eb0b7f72b4fd2",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-fdo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Oleśnica"
   },
   {
     "id": "29a53ede-da57-4725-827b-bd23af643081",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wilczyce"
+  },
+  {
+    "id": "98e81603-0f6b-4009-b80e-b2309330f957",
+    "title": "Pikmin 1 + 2 Nowa Folia Nintendo Switch NS",
+    "price": "172",
+    "img": "https://a.allegroimg.com/s180x180/1e62ba/071c40f848f096405801ffbb2ee0",
+    "url": "https://allegrolokalnie.pl//oferta/pikmin-1-2-nowa-folia-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
   }
 ]
