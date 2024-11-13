@@ -590,6 +590,16 @@
     "city": "Świdnica"
   },
   {
+    "id": "a78e7129-cce0-4cdc-be75-945d94871f46",
+    "title": "Bayonetta 3 Trinity Masquerade Edition NOWA NSW",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s180x180/1e2548/786023c74e00b4d9e14c5d73262a",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-nsw?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Gliwice"
+  },
+  {
     "id": "335ecc19-a853-45b3-b15b-4d01953658bb",
     "title": "Star Wars Dark Forces Limited Run #244",
     "price": "360",
@@ -1190,6 +1200,16 @@
     "city": "Kraków, Stare Miasto"
   },
   {
+    "id": "ebe38e1a-6b44-4b37-a883-07f5a4a7744d",
+    "title": "The Legend of Zelda: Breath of the Wild gra Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e24ff/7322e4fd4a358b6174753515c050",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-gra-nintendo-switch-bxt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Stare Miasto"
+  },
+  {
     "id": "5022c28a-6062-4ec9-a403-bfd90c8d02c7",
     "title": "Super Mario oryssey Nintendo switch gra",
     "price": "289",
@@ -1770,46 +1790,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "9fb3eda7-895f-45ab-b5bb-c5060c4095fa",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e0e01/dee6f0454d3884bca2e4481ef5ea",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-lw3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Myszyniec"
-  },
-  {
-    "id": "5937b331-064d-45d1-8b3e-e94e03710104",
-    "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e52db/8a02f45d4feca6a6b70fe5628bab",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-7gt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
-    "id": "9fb3eda7-895f-45ab-b5bb-c5060c4095fa",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e0e01/dee6f0454d3884bca2e4481ef5ea",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-lw3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Myszyniec"
-  },
-  {
-    "id": "5937b331-064d-45d1-8b3e-e94e03710104",
-    "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e52db/8a02f45d4feca6a6b70fe5628bab",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-7gt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Kraków"
-  },
-  {
     "id": "1a9981b1-7dcc-4222-9b51-2d32063c2957",
     "title": "Princess Peach Showtime Nintendo Switch",
     "price": "170",
@@ -2388,6 +2368,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Chorzów"
+  },
+  {
+    "id": "9d23eb1a-30c5-4120-934e-e2079baad502",
+    "title": "Gra Splatoon 3 na Nintendo Switch Okazja!",
+    "price": "157",
+    "img": "https://a.allegroimg.com/s180x180/1e6648/7e504b7947dbbd09026f57ba0d2a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-splatoon-3-na-nintendo-switch-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzyżów"
+  },
+  {
+    "id": "514b773d-4cc2-47fa-9278-581e8546534a",
+    "title": "Gra Mario Odyssey na Nintendo Switch Okazja!",
+    "price": "161",
+    "img": "https://a.allegroimg.com/s180x180/1e928b/48be76ad4b2a9beb67d8f258b124",
+    "url": "https://allegrolokalnie.pl//oferta/gra-mario-odyssey-na-nintendo-switch-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Strzyżów"
   },
   {
     "id": "5b27c879-7947-49bb-9858-8bb619ce6359",
@@ -3590,26 +3590,6 @@
     "city": "Szczecin"
   },
   {
-    "id": "f7a711d6-277b-4904-8d9b-c94803e7a204",
-    "title": "Pokemon Shield Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
-  },
-  {
-    "id": "989191f4-9c37-4bcd-8a3c-7e36c8e2f039",
-    "title": "Beyond a Steel Sky: Utopia Edition",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1ea7d2/2316429b4e30832f9a0d869490a1",
-    "url": "https://allegrolokalnie.pl//oferta/beyond-a-steel-sky-utopia-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "f480683a-9c3d-413d-ae4f-d4b14d26a2d0",
     "title": "Super Mario Odyssey Nintendo Switch",
     "price": "150",
@@ -4790,6 +4770,46 @@
     "city": "Warszawa"
   },
   {
+    "id": "801499f1-35a6-4715-8b39-bbfbc7b32a0d",
+    "title": "Lego Gwiezdne Wojny Saga Skywalkera",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e287a/38ddd8f4455f8675c17e6aea0a8d",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkera?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
+    "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1efbd6/c296ba6642e9b6bb1484ca636ec7",
+    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-optimized-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żyrardów"
+  },
+  {
+    "id": "801499f1-35a6-4715-8b39-bbfbc7b32a0d",
+    "title": "Lego Gwiezdne Wojny Saga Skywalkera",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e287a/38ddd8f4455f8675c17e6aea0a8d",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkera?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
+    "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1efbd6/c296ba6642e9b6bb1484ca636ec7",
+    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-optimized-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żyrardów"
+  },
+  {
     "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
     "title": "Farming Simulator Nintendo Switch Edition",
     "price": "200",
@@ -5280,16 +5300,6 @@
     "city": "Wejherowo"
   },
   {
-    "id": "33fe8bc6-8307-41c1-85fe-7d6aa9d91281",
-    "title": "Dragon Quest Treasures Nintendo Switch JP version",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1eacd7/4a1e98c647ccb520574f5a70901a",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-treasures-nintendo-switch-jp-version?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "efba7924-e867-4d04-b2fe-35ff4dc1eb64",
     "title": "Astral chain Nintendo",
     "price": "145",
@@ -5368,16 +5378,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Radzymin, Radzymin"
-  },
-  {
-    "id": "4bf4d8a7-d43d-4fb1-a36b-1b841594e0f9",
-    "title": "MINECRAFT na Nintendo Switch.",
-    "price": "82",
-    "img": "https://a.allegroimg.com/s180x180/1e790d/afa1f5c342a09492822f90d70e15",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-na-nintendo-switch-f6j?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chorzów"
   },
   {
     "id": "07f07851-af55-4178-942e-c43a7e3b8ee5",
@@ -5978,15 +5978,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
-    "title": "Luigi's Mansion 3",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ea4da/c2842bb24ccf9acf221a2348b9b8",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   }
 ]
