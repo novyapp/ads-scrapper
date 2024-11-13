@@ -1,5 +1,15 @@
 [
   {
+    "id": "06f7f91f-4ef4-4a12-8203-4d9d74f89acf",
+    "title": "Mig Switch V2 + karta microSD 256GB",
+    "price": "330",
+    "img": "https://a.allegroimg.com/s180x180/1e027f/26df5cb34bbea87d0122cd4ce836",
+    "url": "https://allegrolokalnie.pl//oferta/mig-switch-v2-karta-microsd-256gb?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Rybnik"
+  },
+  {
     "id": "856bb7b0-029e-45d3-9072-6581af7c5ced",
     "title": "Gra Pokemon Sword Nintendo Switch",
     "price": "150",
@@ -885,16 +895,6 @@
     "price": "84",
     "img": "https://a.allegroimg.com/s180x180/1e8fff/663a33c742698f8c94c784b6ccbd",
     "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-upn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
-    "id": "507b6668-888f-48d8-a00b-91afdb926024",
-    "title": "Super Smash Bros Ultimate Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e5002/c9d2f1ca41119df6ac51637322b9",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-nintendo-switch-lle?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdynia"
@@ -3590,16 +3590,6 @@
     "city": "Łaniewo"
   },
   {
-    "id": "8d540d79-385f-484d-88e3-705a871d37a6",
-    "title": "prince of persia the lost crown switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1ed8c7/1a039ee3433093e409ef41306ab1",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-switch-in3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Wesoła"
-  },
-  {
     "id": "355d2632-b79a-44a5-b6ea-984b1e9f8ac4",
     "title": "Pokemon Shield Nintendo Switch",
     "price": "160",
@@ -5400,6 +5390,16 @@
     "city": "Chorzów"
   },
   {
+    "id": "07f07851-af55-4178-942e-c43a7e3b8ee5",
+    "title": "LEGO WORLDS na Nintendo Switch.",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1e494c/26b0e5094289b510b41656adb996",
+    "url": "https://allegrolokalnie.pl//oferta/lego-worlds-na-nintendo-switch-m45?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Chorzów"
+  },
+  {
     "id": "fc55f300-75da-41e4-b5a8-c58c26a3ebad",
     "title": "SPLATOON 2 na Nintendo Switch.",
     "price": "109",
@@ -5988,15 +5988,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
-  },
-  {
-    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
-    "title": "Luigi's Mansion 3",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1ea4da/c2842bb24ccf9acf221a2348b9b8",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lędziny"
   }
 ]
