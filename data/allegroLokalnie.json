@@ -290,16 +290,6 @@
     "city": "Grodzisk Mazowiecki"
   },
   {
-    "id": "affa18cd-7a35-4d58-8442-3bfe3e2ed31d",
-    "title": "Mario Tennis Aces (Nintendo Switch)",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e5646/5de544ed41ce951846639f78d16b",
-    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-fjb?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa, Młynów"
-  },
-  {
     "id": "cd74ba24-8b34-42ba-9c6b-142ec940f2b2",
     "title": "LEGO Harry Potter Collection",
     "price": "70",
@@ -322,7 +312,7 @@
   {
     "id": "7d4ec96d-2a8c-47f3-9ea6-4750aca5567d",
     "title": "POKEMON Scarlet & Violet DUAL PACK Steelbook Edition",
-    "price": "400",
+    "price": "370",
     "img": "https://a.allegroimg.com/s180x180/1ed9d2/5ca0571e45f4bd11ef7b6d0f4d70",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-violet-dual-pack-steelbook-edition?navCategoryId=256922",
     "promoted": true,
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Łódź"
+  },
+  {
+    "id": "769256b1-773d-4664-9157-69a1b38b2e3e",
+    "title": "Pokemon Let's Go Pikachu Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e27f7/c385f68942119fe104ed3e6d480c",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-switch-q5j?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Lublin"
   },
   {
     "id": "769256b1-773d-4664-9157-69a1b38b2e3e",
@@ -1800,16 +1800,6 @@
     "city": "Jeżów Sudecki"
   },
   {
-    "id": "2e8cb490-614c-4db8-85db-b42db63c736c",
-    "title": "Mario Strikers Battle League FootBall",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1e13ae/f78e5c68414093ec10afb431c0dc",
-    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-iss?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Jeżów Sudecki"
-  },
-  {
     "id": "1be70f20-2ef0-4013-baa9-db89423d48ac",
     "title": "Super Mario RPG Nintendo Switch",
     "price": "130",
@@ -2268,6 +2258,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "affa18cd-7a35-4d58-8442-3bfe3e2ed31d",
+    "title": "Mario Tennis Aces (Nintendo Switch)",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e5646/5de544ed41ce951846639f78d16b",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-fjb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Młynów"
   },
   {
     "id": "a47a340f-df91-40a6-b193-fe20e8304f42",
