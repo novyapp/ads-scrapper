@@ -700,16 +700,6 @@
     "city": "Białogard"
   },
   {
-    "id": "752ede7e-74f8-4eb0-b817-9fe2212dcdb8",
-    "title": "GRID Legends Sony PlayStation 5 PS5 nowy Folia PL",
-    "price": "73",
-    "img": "https://a.allegroimg.com/s180x180/1eecd1/fefd99264131b6a16463ec1fbf6f",
-    "url": "https://allegrolokalnie.pl//oferta/grid-legends-sony-playstation-5-ps5-nowy-folia-pl?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -878,6 +868,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "68bf0c2a-ff94-42e4-a9f7-5f308059b934",
+    "title": "The Legend of Zelda Echoes of Wisdom",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1ec1fa/63c400814588b132543f24f3c588",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-gbk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Limanowa"
   },
   {
     "id": "d5091619-6ebd-481b-9c5b-b07f06a9048e",
@@ -1492,7 +1492,7 @@
   {
     "id": "08a3236f-b311-4367-9728-32499f224c4a",
     "title": "Sonic Frontiers Nintendo Switch",
-    "price": "100",
+    "price": "95",
     "img": "https://a.allegroimg.com/s180x180/1e84fd/98dfd59b489cacbe1c8f4a3a1686",
     "url": "https://allegrolokalnie.pl//oferta/sonic-frontiers-nintendo-switch-wcs?navCategoryId=256922",
     "promoted": false,
@@ -1502,7 +1502,7 @@
   {
     "id": "656d4a9e-d715-4db9-a8d0-00b917787398",
     "title": "Sakuna: Of Rice and Ruin Nintendo Switch",
-    "price": "100",
+    "price": "95",
     "img": "https://a.allegroimg.com/s180x180/1e22e9/408084a54193859d90f4f5b0be60",
     "url": "https://allegrolokalnie.pl//oferta/sakuna-of-rice-and-ruin-nintendo-switch-cu6?navCategoryId=256922",
     "promoted": false,
@@ -1512,7 +1512,7 @@
   {
     "id": "a3120b93-2cab-4291-9e27-04aec51aea26",
     "title": "Harvestella Nintendo Switch",
-    "price": "105",
+    "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1ef2eb/a3243f784b2c9df88114e549bd7a",
     "url": "https://allegrolokalnie.pl//oferta/harvestella-nintendo-switch-it2?navCategoryId=256922",
     "promoted": false,
@@ -1522,7 +1522,7 @@
   {
     "id": "86588d8c-5d4b-4aaa-ac7e-6552e40faac9",
     "title": "Bravely Default II Nintendo Switch",
-    "price": "105",
+    "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e8fb0/39c2aee14adb90c193e9577b3405",
     "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-nintendo-switch-pvv?navCategoryId=256922",
     "promoted": false,
@@ -1688,16 +1688,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
-  },
-  {
-    "id": "f5e0937c-b73d-454e-bcc4-3d08c5401833",
-    "title": "Paper Mario The Thousand-Year Door Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1eb86a/1fd24c5e40a482814552f268ae45",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-nintendo-switch-ppu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Aleksandrów Łódzki"
   },
   {
     "id": "d0bb2b72-06c1-4b63-ab5c-deb4c56ba55d",
@@ -3978,6 +3968,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzyżów"
+  },
+  {
+    "id": "752ede7e-74f8-4eb0-b817-9fe2212dcdb8",
+    "title": "GRID Legends Sony PlayStation 5 PS5 nowy Folia PL",
+    "price": "73",
+    "img": "https://a.allegroimg.com/s180x180/1eecd1/fefd99264131b6a16463ec1fbf6f",
+    "url": "https://allegrolokalnie.pl//oferta/grid-legends-sony-playstation-5-ps5-nowy-folia-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lublin"
   },
   {
     "id": "e737983f-9e4b-43a0-b961-08e60c52d7e9",
