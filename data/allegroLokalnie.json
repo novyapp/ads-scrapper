@@ -710,16 +710,6 @@
     "city": "Lublin"
   },
   {
-    "id": "e737983f-9e4b-43a0-b961-08e60c52d7e9",
-    "title": "Front Mission 1st Limited Edition",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e132e/21b8b8f844948fcf365ad79b9aab",
-    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-limited-edition-ihc?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -1702,7 +1692,7 @@
   {
     "id": "f5e0937c-b73d-454e-bcc4-3d08c5401833",
     "title": "Paper Mario The Thousand-Year Door Nintendo Switch",
-    "price": "180",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1eb86a/1fd24c5e40a482814552f268ae45",
     "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-nintendo-switch-ppu?navCategoryId=256922",
     "promoted": false,
@@ -2048,16 +2038,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
-  },
-  {
-    "id": "2205ccfc-3cf8-4111-a83a-042a81b5f79a",
-    "title": "Super Mario Bros Wonder super cena",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ebbd5/f0fd455a46179c57d597e9b896f9",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-super-cena?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radziechowy"
   },
   {
     "id": "6ce4a424-be8b-4f54-beb3-1cabddf773d7",
@@ -3998,6 +3978,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzyżów"
+  },
+  {
+    "id": "e737983f-9e4b-43a0-b961-08e60c52d7e9",
+    "title": "Front Mission 1st Limited Edition",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s180x180/1e132e/21b8b8f844948fcf365ad79b9aab",
+    "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-limited-edition-ihc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Psie Pole"
   },
   {
     "id": "b74c95e5-497c-4cd3-b12e-6e1aec4ede1a",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Milicz"
+  },
+  {
+    "id": "0b38f293-46b6-46d7-8b73-ebe7afdc01b0",
+    "title": "Nintendo Pokken Tournament Dx (Nintendo Switch)",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/11d4ef/998113f24d628ccc8fb25fbe1115",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-pokken-tournament-dx-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   }
 ]
