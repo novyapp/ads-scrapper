@@ -20,16 +20,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "6799a836-6ff6-4321-8f67-db3a394deaeb",
-    "title": "Super Mario Bros Wonder Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e464a/67cb27f94c2bab94e33d5ed3f48d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-32j?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "59a5c9dd-cbe8-4452-b303-6d8f72ce0c81",
     "title": "Super Mario Bros Deluxe Nintendo Switch",
     "price": "140",
@@ -858,6 +848,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "d8aef4df-e614-4a1e-8943-337ae72d2d9c",
+    "title": "Minecraft Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e23af/ac09e50749bab0b7cf34d2087560",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-u6s?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "5e1de60f-e453-44e1-b95e-01202d93cff5",
@@ -2980,26 +2980,6 @@
     "city": "Wrocław, Psie Pole"
   },
   {
-    "id": "a3b9b5ea-7aa3-4938-ac8c-2b486c8c4388",
-    "title": "Prince of persja Nintendo switch",
-    "price": "75",
-    "img": "https://a.allegroimg.com/s180x180/1efe59/51dc75ee43efb3b3028952b23157",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persja-nintendo-switch-fkq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
-    "id": "ed2c92c0-1c49-422e-b1d5-ad92fae9edb3",
-    "title": "Luigis mansion 3 gra Nintendo switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e60ef/97f829cb46289965db323dc67984",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-gra-nintendo-switch-dvn?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Siemianowice Śląskie"
-  },
-  {
     "id": "c33f1f51-6d73-4830-bf01-455bc8cb1421",
     "title": "Kangurek Kao Nintendo switch",
     "price": "60",
@@ -4175,6 +4155,26 @@
     "price": "135",
     "img": "https://a.allegroimg.com/s180x180/115c51/a82ce0504ff4b08ac1e889ef17d5",
     "url": "https://allegrolokalnie.pl//oferta/samba-de-amigo-party-central-switch-nowa-cl7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
+  },
+  {
+    "id": "dd62c4e6-d08c-45d6-8886-14099c76e8f5",
+    "title": "POKEMON DIAMANT ETINCELANT Switch Nowa Polecam!",
+    "price": "188",
+    "img": "https://a.allegroimg.com/s180x180/117c3e/76ae5c1c4a24adcdb9a2453093bb",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-diamant-etincelant-switch-nowa-polecam?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wałbrzych"
+  },
+  {
+    "id": "1ce7bacf-ffaa-4098-8ab7-1084329b40cc",
+    "title": "Noob The Factionless Nintendo Switch Nowa zafoliowana",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/1147ef/f453ee2d4e3d820456dc1304c8d4",
+    "url": "https://allegrolokalnie.pl//oferta/noob-the-factionless-nintendo-switch-nowa-zafoliowana?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
