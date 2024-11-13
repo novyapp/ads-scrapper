@@ -5400,16 +5400,6 @@
     "city": "Chorzów"
   },
   {
-    "id": "07f07851-af55-4178-942e-c43a7e3b8ee5",
-    "title": "LEGO WORLDS na Nintendo Switch.",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1e494c/26b0e5094289b510b41656adb996",
-    "url": "https://allegrolokalnie.pl//oferta/lego-worlds-na-nintendo-switch-m45?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chorzów"
-  },
-  {
     "id": "fc55f300-75da-41e4-b5a8-c58c26a3ebad",
     "title": "SPLATOON 2 na Nintendo Switch.",
     "price": "109",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "4545177b-a1f6-4523-8c08-43d0e74457aa",
+    "title": "Luigi's Mansion 3",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ea4da/c2842bb24ccf9acf221a2348b9b8",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-lhs?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   }
 ]
