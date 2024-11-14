@@ -32,7 +32,7 @@
   {
     "id": "6d35fb90-a591-48bb-805b-8c17fcca2e2a",
     "title": "Super Mario 3D World + Bowser's Fury Switch",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e4f6e/78aa668843b0b808fa2e69b22c77",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-furry-switch?navCategoryId=256922",
     "promoted": true,
@@ -2400,16 +2400,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "d7cdb27e-493c-4220-ab76-94a43d2acf4a",
-    "title": "Ring Fit Adventure na Nintendo Switch (nowa)",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1e1645/07a1548749849924f7ca18b75e87",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-na-nintendo-switch-nowa-m2s?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "548fe7f6-4998-4195-969c-7a66b2795953",
     "title": "Nintendo SWITCH LIVE A LIVE NOWA",
     "price": "189",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Jablonna k Warszawy "
+  },
+  {
+    "id": "5107b4fe-1120-40fe-b118-fe41d8643ebf",
+    "title": "Gra Snipperclips Nintendo switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1eae88/58fcda1f4235a29634654b212b5a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-snipperclips-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łazy"
   },
   {
     "id": "9dddea3d-1205-4ea8-b848-885b26be19aa",
@@ -5400,16 +5400,6 @@
     "city": "Zakopane"
   },
   {
-    "id": "03397d0a-2969-4346-a226-bfd08cc507d3",
-    "title": "Ikai switch horror",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1efd77/9bd101d7467a8a9ebc7cd8c3ddbe",
-    "url": "https://allegrolokalnie.pl//oferta/ikai-switch-horror?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
-  },
-  {
     "id": "1f185108-a51c-41f0-b10f-ca57d88ed98b",
     "title": "Minecraft / PL / Switch",
     "price": "95",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
+  },
+  {
+    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
+    "title": "Pokemon Shining Pearl Dodatki",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e59bf/a1995f8a48f0be25636be9dd73b4",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
   }
 ]
