@@ -1200,6 +1200,16 @@
     "city": "Wrocław"
   },
   {
+    "id": "5bd3096f-e86b-4f66-8394-fd65cfe645d5",
+    "title": "Hello Neighbor 2 Deluxe - Nintendo Switch",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1e4c38/871515cb4cb5a50117a1b5a7d5d5",
+    "url": "https://allegrolokalnie.pl//oferta/hello-neighbor-2-deluxe-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Krystyna"
+  },
+  {
     "id": "e8d65c60-6454-4c46-9b86-0cfb4f7c16fe",
     "title": "Radiant Tale gra otome switch",
     "price": "120",
@@ -2400,16 +2410,6 @@
     "city": "Bytom"
   },
   {
-    "id": "0d362eb5-742a-46ca-b037-e167bc2a249d",
-    "title": "Bayonetta 2 Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e3472/bcabf4104e39ad30eb0933505377",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-nintendo-switch-cha?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bytom"
-  },
-  {
     "id": "ff315973-9eff-4080-b0f7-133aa9c2ed14",
     "title": "Blade Assault Nintendo Switch",
     "price": "130",
@@ -3598,6 +3598,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "38568d53-8d8c-45e1-8df5-c8646e64d672",
+    "title": "Metroid Dread Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e5bfd/1b68625b459e8ded71969e9f2aca",
+    "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-ort?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jablonna k Warszawy "
   },
   {
     "id": "9b82b6c0-04d7-4744-9a06-7a8712b0779f",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
-    "title": "Bravely Default II (Switch)",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
-    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
   }
 ]
