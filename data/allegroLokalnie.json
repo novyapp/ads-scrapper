@@ -30,16 +30,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "9c9f6053-eb8c-42ce-9876-400a3a09d898",
-    "title": "The Legend of Zelda Echoes of Wisdom",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e1e79/30c5bc6444f6af8471ccd6fcf48c",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-the-wisdom?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "6d35fb90-a591-48bb-805b-8c17fcca2e2a",
     "title": "Super Mario 3D World + Bowser's Fury Switch",
     "price": "150",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   }
 ]
