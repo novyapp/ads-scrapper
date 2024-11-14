@@ -2990,16 +2990,6 @@
     "city": "Jasło"
   },
   {
-    "id": "785d6d6c-e0f5-4fd6-a454-f59ee84963df",
-    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ead11/c7774832437a94ade59f3d4ae77c",
-    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-ety?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "bc8983c6-c581-45d2-a3d4-d247c69d3ed0",
     "title": "Minecraft Nintendo Switch",
     "price": "89",
@@ -3600,6 +3590,16 @@
     "city": "Jablonna k Warszawy "
   },
   {
+    "id": "9b82b6c0-04d7-4744-9a06-7a8712b0779f",
+    "title": "SUPER MARIO 3D WORLD + BOWER'S FURY",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e8fb8/db1b0bc44bae8dfecc265806ffb0",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowers-fury?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jablonna k Warszawy "
+  },
+  {
     "id": "149850c2-c711-440f-bae8-138705184b40",
     "title": "Splatoon 2 Nintendo Switch",
     "price": "100",
@@ -4185,16 +4185,6 @@
     "price": "190",
     "img": "https://a.allegroimg.com/s180x180/11f0b6/ab4e38b54db3a4cb9fc8950dd0e0",
     "url": "https://allegrolokalnie.pl//oferta/pikmin-4-switch-nintendo-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
-    "id": "27c06d79-7855-4b73-81a1-7aeeb2531e1f",
-    "title": "Bayonetta 3 Nintendo Switch Nowa Folia",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1145f2/aea5c11a499ab64f09ad963fbb56",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-nowa-folia-w7i?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wałbrzych"
@@ -5988,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
