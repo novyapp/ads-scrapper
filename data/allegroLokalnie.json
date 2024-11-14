@@ -1770,16 +1770,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "9fb3eda7-895f-45ab-b5bb-c5060c4095fa",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1e0e01/dee6f0454d3884bca2e4481ef5ea",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-lw3?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Myszyniec"
-  },
-  {
     "id": "5937b331-064d-45d1-8b3e-e94e03710104",
     "title": "The Legend of Zelda Breath of the Wild Nintendo Switch",
     "price": "140",
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Śródmieście"
+  },
+  {
+    "id": "ea2d50aa-1f19-4f74-8fa9-42c5b88b20eb",
+    "title": "Nintendo Switch gra Harry Potter Collection",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1ee723/d6068f164d53a07281d1cefdb4d1",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-gra-harry-potter-collection?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Leszno"
   },
   {
     "id": "ea2d50aa-1f19-4f74-8fa9-42c5b88b20eb",
@@ -2400,6 +2400,16 @@
     "city": "Białystok"
   },
   {
+    "id": "89dfd882-f50a-4685-ac3e-5cf98b9d7521",
+    "title": "Super Smash Bros. Ultimate na Nintendo Switch",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1ea599/bfe1912146a2bd041564e35ade6f",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-na-nintendo-switch-o6c?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
+  },
+  {
     "id": "18b9d15a-a631-4e8a-9cd5-b452f597a92b",
     "title": "Gry Nintendo Switch Okazja!",
     "price": "74",
@@ -2985,16 +2995,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1ead11/c7774832437a94ade59f3d4ae77c",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-ety?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "bc8983c6-c581-45d2-a3d4-d247c69d3ed0",
-    "title": "Minecraft Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e2f24/dd030102426faf6dd6d52efdd4bc",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-jsu?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -5988,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
+  },
+  {
+    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
+    "title": "Bravely Default II (Switch)",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
+    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Reda"
   }
 ]
