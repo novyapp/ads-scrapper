@@ -590,16 +590,6 @@
     "city": "Sosnowiec"
   },
   {
-    "id": "9fc5d126-9624-4e1e-a9ac-6b03e058e943",
-    "title": "prince of persia the lost crown",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e7b41/65e2252d46159488eb07b224e36e",
-    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-c7i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "handzlówka"
-  },
-  {
     "id": "b5877b3b-fd70-488d-be06-4f8e541425d8",
     "title": "Hard West PL Nintendo Switch NOWA UNIKAT",
     "price": "230",
@@ -818,6 +808,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "e0625aa5-a0f4-4110-9223-825d29b38570",
+    "title": "Final Fantasy X oraz X2 na kartridżu.",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1ebd98/5be6eb894fea939d10ab8f647918",
+    "url": "https://allegrolokalnie.pl//oferta/final-fantasy-x-oraz-x2-na-kartridzu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bochnia"
+  },
+  {
+    "id": "98557d8b-3ef8-4b7b-96a1-9f4e3d6e7358",
+    "title": "Xenoblade Chronicles 3 NS",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ef84b/4e53d6fb41bf9962786762ed6009",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-ns-xcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bochnia"
   },
   {
     "id": "d9bf5b8c-3e57-4e55-82b9-62b3afced10c",
@@ -2098,6 +2108,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Nowa Sól"
+  },
+  {
+    "id": "9fc5d126-9624-4e1e-a9ac-6b03e058e943",
+    "title": "prince of persia the lost crown",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e7b41/65e2252d46159488eb07b224e36e",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-c7i?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "handzlówka"
   },
   {
     "id": "0e3265ac-6eac-4e62-a4e6-846f321589fe",
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa"
-  },
-  {
-    "id": "0a52fde0-550e-4e76-88df-92aff478c26f",
-    "title": "Bravely Default II (Switch)",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1eac79/eb85df85449dbfff034753d2909c",
-    "url": "https://allegrolokalnie.pl//oferta/bravely-default-ii-switch-7p2?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Reda"
-  },
-  {
-    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
-    "title": "RealMyst switch nowa Limited run",
-    "price": "280",
-    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
-    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zakopane"
   }
 ]
