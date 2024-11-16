@@ -790,16 +790,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "a52fd5f5-a05c-4696-8d08-ed7df99561fd",
-    "title": "Super Mario Odyssey",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e2b3a/d671d67f4e318a9e3e49b28022c3",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-f7z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "e15d30c0-4a09-4cdf-a25f-e3cf18505c07",
     "title": "SpongeBob bikini bottom gra Nintendo Switch",
     "price": "100",
@@ -1198,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Pszczyna"
+  },
+  {
+    "id": "d14c73a4-d796-4f85-9395-d5d81e96414d",
+    "title": "NS Catherine Fullbody",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ed049/a00c5b22424186704594644c1dbb",
+    "url": "https://allegrolokalnie.pl//oferta/ns-catherine-fullbody?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rzeszów"
   },
   {
     "id": "d14c73a4-d796-4f85-9395-d5d81e96414d",
@@ -2398,16 +2398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów, Rzeszów"
-  },
-  {
-    "id": "0b4d25b8-b1f4-45ec-8cb6-61cf17d70fbb",
-    "title": "The Legend of Zelda Link’s Awakening",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s180x180/1e31ee/9a8586ca4419ab337e4c64296af0",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-fmx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Warszawa, Ursynów"
   },
   {
     "id": "dc8b7dc7-cc55-4c17-9eb5-4c1da1684da2",
@@ -3818,6 +3808,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lubin"
+  },
+  {
+    "id": "a52fd5f5-a05c-4696-8d08-ed7df99561fd",
+    "title": "Super Mario Odyssey",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e2b3a/d671d67f4e318a9e3e49b28022c3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-f7z?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "46791935-4ff2-4083-9efc-f3ca77b4d09c",
