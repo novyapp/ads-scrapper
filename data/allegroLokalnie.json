@@ -660,16 +660,6 @@
     "city": "Warszawa"
   },
   {
-    "id": "a52fd5f5-a05c-4696-8d08-ed7df99561fd",
-    "title": "Super Mario Odyssey",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e2b3a/d671d67f4e318a9e3e49b28022c3",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-f7z?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -798,6 +788,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "a52fd5f5-a05c-4696-8d08-ed7df99561fd",
+    "title": "Super Mario Odyssey",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e2b3a/d671d67f4e318a9e3e49b28022c3",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-f7z?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
   },
   {
     "id": "e15d30c0-4a09-4cdf-a25f-e3cf18505c07",
