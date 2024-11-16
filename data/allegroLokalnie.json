@@ -620,16 +620,6 @@
     "city": "Białystok"
   },
   {
-    "id": "907d8130-5093-4025-b16a-31f9d24c8781",
-    "title": "The Legend of Zelda Link's Awakening",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1eefa3/43e65b104a61b4afb4c4d3955956",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-bdi?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Białystok"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -3788,6 +3778,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "907d8130-5093-4025-b16a-31f9d24c8781",
+    "title": "The Legend of Zelda Link's Awakening",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1eefa3/43e65b104a61b4afb4c4d3955956",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-links-awakening-bdi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "5568a477-b26b-4ea2-a4a6-6d92d303534a",
