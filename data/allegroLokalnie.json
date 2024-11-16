@@ -700,16 +700,6 @@
     "city": "Szczebrzeszyn"
   },
   {
-    "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
-    "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
-    "price": "475",
-    "img": "https://a.allegroimg.com/s180x180/1e54d1/9961bc2243c198dffb04d95d4f60",
-    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-rain-code-mysteriful-limited-edition-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "73f905ff-f0ab-40de-8638-f816d748dd4f",
     "title": "Gra Nintendo Switch Bendy and the ink Machine - kardridż RARYTAS",
     "price": "155",
@@ -758,6 +748,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
+  },
+  {
+    "id": "60c74bc8-4651-4d97-ad7b-740d257db3c3",
+    "title": "Master Detective Archives: Rain Code Mysteriful Limited Edition, NOWA",
+    "price": "475",
+    "img": "https://a.allegroimg.com/s180x180/1e54d1/9961bc2243c198dffb04d95d4f60",
+    "url": "https://allegrolokalnie.pl//oferta/master-detective-archives-rain-code-mysteriful-limited-edition-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Poznań, Stare Miasto"
   },
   {
     "id": "924802cc-3bb8-4bf9-9f7d-db7e6aecd19d",
@@ -1805,16 +1805,6 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1e25ac/f23d0dde403294348d34ef07245a",
     "url": "https://allegrolokalnie.pl//oferta/prince-od-persia-the-lost-crown-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ostrow Mazowiecka"
-  },
-  {
-    "id": "e0d2aad5-6ae3-43fe-b8d4-ffd0337949a9",
-    "title": "Super Mario Odyssey Nintendo Switch",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e01a4/8d84a90c4f86a6c091e293aa8c43",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-uhu?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Ostrow Mazowiecka"
