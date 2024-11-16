@@ -3000,16 +3000,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "dc5e9a8e-efe2-4bfa-8f27-d85cff434023",
-    "title": "Luigi's Mansion 3 Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1edf56/8b78a35c4a8a829f89dbac980cd4",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-nintendo-switch-fdm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "158e698c-a1e0-4a19-8862-45ad297291ea",
     "title": "Deamon x machina",
     "price": "100",
@@ -3595,6 +3585,16 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1eb7da/9f3cde8e4b55b898fe0dc77830ef",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-47r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "f7a711d6-277b-4904-8d9b-c94803e7a204",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
@@ -4200,16 +4200,6 @@
     "city": "Wałbrzych"
   },
   {
-    "id": "7b2e7724-cd5a-4eee-9057-49ce6af89353",
-    "title": "Samba de Amigo Party Central Switch Nowa !",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/115c51/a82ce0504ff4b08ac1e889ef17d5",
-    "url": "https://allegrolokalnie.pl//oferta/samba-de-amigo-party-central-switch-nowa-cl7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wałbrzych"
-  },
-  {
     "id": "dd62c4e6-d08c-45d6-8886-14099c76e8f5",
     "title": "POKEMON DIAMANT ETINCELANT Switch Nowa Polecam!",
     "price": "188",
@@ -4800,6 +4790,16 @@
     "city": "Warszawa"
   },
   {
+    "id": "54bc4fdd-2548-4a44-bc62-0708d0b3e268",
+    "title": "Oddworld Soulstorm Limited Oddition Optimized Edition Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1efbd6/c296ba6642e9b6bb1484ca636ec7",
+    "url": "https://allegrolokalnie.pl//oferta/oddworld-soulstorm-limited-oddition-optimized-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Żyrardów"
+  },
+  {
     "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
     "title": "Farming Simulator Nintendo Switch Edition",
     "price": "200",
@@ -5385,16 +5385,6 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1ef5fd/71a09df54a35a1674e6b3208b43f",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-l2r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Chorzów"
-  },
-  {
-    "id": "54b9ce30-ddd6-4c12-b358-285f0ef75ffb",
-    "title": "DYING LIGHT Platinum Edition na Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e4ec1/2201cc90487e9a3a10dcf5099f3d",
-    "url": "https://allegrolokalnie.pl//oferta/dying-light-platinum-edition-na-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
     "city": "Chorzów"
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Reda"
+  },
+  {
+    "id": "2166d453-c3dc-4391-9570-e36c36c82c3d",
+    "title": "RealMyst switch nowa Limited run",
+    "price": "280",
+    "img": "https://a.allegroimg.com/s180x180/1e3f72/f9a2d3444d6184b5de78cd45ba35",
+    "url": "https://allegrolokalnie.pl//oferta/realmyst-switch-nowa-limited-run?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   }
 ]
