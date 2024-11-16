@@ -850,16 +850,6 @@
     "city": "Wrocław, Śródmieście"
   },
   {
-    "id": "026e7be8-972a-4c04-8759-669d24d34d85",
-    "title": "Super Mario Odyssey",
-    "price": "130",
-    "img": "https://a.allegroimg.com/s180x180/1e5dc5/53edd2a54b75a411b02e99476247",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-5nk-27f?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "27c0441c-045e-4fa2-b861-194edd15f742",
     "title": "Donkey Kong Country: Tropical Freeze",
     "price": "150",
@@ -1198,6 +1188,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
+  },
+  {
+    "id": "8ecce585-6e63-4531-9320-d970c81b7768",
+    "title": "Zombie Army Trilogy Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e5956/3fa4ad7b4d0f9800fc32b4112dee",
+    "url": "https://allegrolokalnie.pl//oferta/zombie-army-trilogy-nintendo-switch-bqo?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Dziekanów Leśny"
   },
   {
     "id": "8ecce585-6e63-4531-9320-d970c81b7768",
@@ -1800,16 +1800,6 @@
     "city": "Bielawa"
   },
   {
-    "id": "1d48913e-df4b-42ac-b35b-70fa2813a38c",
-    "title": "Super Mario Odyssey",
-    "price": "188",
-    "img": "https://a.allegroimg.com/s180x180/1e31f1/8d7044c44ec09aee190f11b8099a",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-qze?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
     "id": "20baa206-fab1-44f3-8baa-87689e3649bd",
     "title": "Everybody 1 2 Switch",
     "price": "57",
@@ -2398,6 +2388,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "dc8b7dc7-cc55-4c17-9eb5-4c1da1684da2",
+    "title": "Nintendo Switch Howgarts Legacy NOWA W FOLII",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e3bba/6b5b9cfb4def93f5d4c815c5e4f5",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-howgarts-legacy-nowa-w-folii?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Ruda Śląska"
   },
   {
     "id": "dc8b7dc7-cc55-4c17-9eb5-4c1da1684da2",
@@ -3000,16 +3000,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "158e698c-a1e0-4a19-8862-45ad297291ea",
-    "title": "Deamon x machina",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e350d/380b33174f86aca02e7ca7b17b8b",
-    "url": "https://allegrolokalnie.pl//oferta/deamon-x-machina?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "671f833c-b474-46e4-96bc-21992c0c7b5b",
     "title": "No more heroes 3",
     "price": "90",
@@ -3598,6 +3588,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Lędziny"
+  },
+  {
+    "id": "989191f4-9c37-4bcd-8a3c-7e36c8e2f039",
+    "title": "Beyond a Steel Sky: Utopia Edition",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1ea7d2/2316429b4e30832f9a0d869490a1",
+    "url": "https://allegrolokalnie.pl//oferta/beyond-a-steel-sky-utopia-edition?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Szczecin"
   },
   {
     "id": "989191f4-9c37-4bcd-8a3c-7e36c8e2f039",
@@ -4800,16 +4800,6 @@
     "city": "Żyrardów"
   },
   {
-    "id": "18ca1671-e963-4c75-bc3d-76e3e48a87e1",
-    "title": "Farming Simulator Nintendo Switch Edition",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e245f/cb5b0b064931b22671c6e1bdc14d",
-    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-nintendo-switch-edition-l4a?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "WARSZAWA"
-  },
-  {
     "id": "7087dadc-0b07-4cf6-994a-63ef4b2bb2a9",
     "title": "Ender Lilies collectors edition limited run switch",
     "price": "950",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Zakopane"
+  },
+  {
+    "id": "d3bae4e6-6642-448f-bfa6-bb5583df6815",
+    "title": "Pokemon Shining Pearl Dodatki",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1e59bf/a1995f8a48f0be25636be9dd73b4",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-wqz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
   }
 ]
