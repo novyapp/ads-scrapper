@@ -70,16 +70,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "59a5c9dd-cbe8-4452-b303-6d8f72ce0c81",
-    "title": "Super Mario Bros Deluxe Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1e649b/257d021d40c0846da8901687d6b5",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-deluxe-nintendo-switch-43y?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "73ce0248-d560-4659-8658-245bfd4e671a",
     "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
     "price": "165",
@@ -708,16 +698,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "f21f0f9a-a3f7-4c68-a20d-f57f37b847ff",
-    "title": "CTR Crash Team Racing Nitro Fueled Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e9400/241715844ac4be14c80d60cd5981",
-    "url": "https://allegrolokalnie.pl//oferta/ctr-crash-team-racing-nitro-fueled-switch-o5d?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok"
   },
   {
     "id": "63a07d3f-c030-4047-9bb2-1525505a6c30",
@@ -1795,26 +1775,6 @@
     "price": "57",
     "img": "https://a.allegroimg.com/s180x180/1e9e4e/8f110ace4fc680ca85c8cdd61011",
     "url": "https://allegrolokalnie.pl//oferta/everybody-1-2-switch-2hb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "2c5276f0-3bbf-402b-9507-d6870f6cd9e3",
-    "title": "Mariokart Deluxe 8 Nintendo Switch",
-    "price": "166",
-    "img": "https://a.allegroimg.com/s180x180/1e2a54/2406aa5d40988f3377ad0fead119",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-8-nintendo-switch-3h5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wieliczka"
-  },
-  {
-    "id": "1fed2756-c5a4-4fe5-94cd-9399f394aade",
-    "title": "Minecraft Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e8986/1e3c8fa64c4584fa695a86c43145",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-u7s?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wieliczka"
@@ -3020,6 +2980,26 @@
     "city": "Nowy Targ"
   },
   {
+    "id": "df3737dd-1502-4573-bc5f-04811e39a815",
+    "title": "Gra Super Mario Party Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e57b8/87fa9f5843afa9b548c4723cb148",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-party-nintendo-switch-lcd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jasło"
+  },
+  {
+    "id": "785d6d6c-e0f5-4fd6-a454-f59ee84963df",
+    "title": "Donkey Kong Country Tropical Freeze Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ead11/c7774832437a94ade59f3d4ae77c",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-switch-ety?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Nowy Targ"
+  },
+  {
     "id": "bc8983c6-c581-45d2-a3d4-d247c69d3ed0",
     "title": "Minecraft Nintendo Switch",
     "price": "89",
@@ -3698,6 +3678,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Żory"
+  },
+  {
+    "id": "f21f0f9a-a3f7-4c68-a20d-f57f37b847ff",
+    "title": "CTR Crash Team Racing Nitro Fueled Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e9400/241715844ac4be14c80d60cd5981",
+    "url": "https://allegrolokalnie.pl//oferta/ctr-crash-team-racing-nitro-fueled-switch-o5d?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Białystok"
   },
   {
     "id": "9f63fa3e-eb7d-4c89-acdf-8c7aee4884ae",
@@ -5378,6 +5368,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Świdnica"
+  },
+  {
+    "id": "936ab8d4-635a-4b18-aca1-f55d8db33d34",
+    "title": "My Riding Stables Nintendo Switch",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1e3591/ad1f0883482182cf4c78a249201f",
+    "url": "https://allegrolokalnie.pl//oferta/my-riding-stables-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kończyce Wielkie"
   },
   {
     "id": "4e40a5fe-d28c-43bd-b768-6b08b0b3f741",
