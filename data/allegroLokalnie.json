@@ -3130,16 +3130,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "158e698c-a1e0-4a19-8862-45ad297291ea",
-    "title": "Deamon x machina",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e350d/380b33174f86aca02e7ca7b17b8b",
-    "url": "https://allegrolokalnie.pl//oferta/deamon-x-machina?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Psie Pole"
-  },
-  {
     "id": "671f833c-b474-46e4-96bc-21992c0c7b5b",
     "title": "No more heroes 3",
     "price": "80",
@@ -4800,16 +4790,6 @@
     "city": "Książenice"
   },
   {
-    "id": "72c22d86-f289-488c-ad8d-ed5a2264f6cd",
-    "title": "Super Mario Party",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e4a22/719cf51946e98c1eb85d799cefd9",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-3lq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Książenice"
-  },
-  {
     "id": "24d18905-960f-4916-a56d-a2a55c953d1c",
     "title": "Nintendo Switch Mario De lux",
     "price": "150",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "45e79d3d-4768-4477-b7ba-30909161c51b",
+    "title": "Switch Super Mario 3d World+Bowser's Fury - OKAZJA",
+    "price": "183",
+    "img": "https://a.allegroimg.com/s180x180/1ed2c5/10cbdce246e08718e52ca2d29765",
+    "url": "https://allegrolokalnie.pl//oferta/switch-super-mario-3d-world-bowsers-fury-okazja?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   }
 ]
