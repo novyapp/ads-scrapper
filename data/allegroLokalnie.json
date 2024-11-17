@@ -100,16 +100,6 @@
     "city": "LÓDŹ"
   },
   {
-    "id": "b22fbeea-111e-45a1-ba5a-78f5c09659da",
-    "title": "Bayonetta 2 - Switch - ideał",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e1305/744f44ee45d08cc2b6212ec152c1",
-    "url": "https://allegrolokalnie.pl//oferta/bayonetta-2-switch-ideal?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "5b0fc229-ae6a-40e7-ac36-057d4411cd33",
     "title": "Monster Hunter Stories 2 - Switch - ideał",
     "price": "100",
@@ -598,6 +588,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Warszawa, Bemowo"
+  },
+  {
+    "id": "2000fee9-49ef-4aa6-b85a-c5565d4490af",
+    "title": "Do sprzedania mam grę spyro na Nintendo Switch",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e7397/357085584aca91d838bec7e2972b",
+    "url": "https://allegrolokalnie.pl//oferta/do-sprzedania-mam-gre-spyro-na-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Orły"
   },
   {
     "id": "2000fee9-49ef-4aa6-b85a-c5565d4490af",
@@ -3000,16 +3000,6 @@
     "city": "Siedlce"
   },
   {
-    "id": "6c914753-cec1-4c47-8060-79fe578f4038",
-    "title": "Cereza and the Lost Demon Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e9ada/5469d153447491b24d0f9f8cdc81",
-    "url": "https://allegrolokalnie.pl//oferta/cereza-and-the-lost-demon-nintendo-switch-vh5?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szpital"
-  },
-  {
     "id": "56764ecd-6b5f-4882-9732-e3e83a3f0b95",
     "title": "Zelda Tears of The kingdom kolekcjonerka + bonus",
     "price": "599",
@@ -3595,6 +3585,16 @@
     "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e9b58/fdd33d59435294c8e76e1749564c",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-party-dgc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bysław"
+  },
+  {
+    "id": "87ae6e81-bb54-46b7-8d0c-5fd8ab1b85ae",
+    "title": "Mario Tennis Aces",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1ee871/f1ab45be4adc965a229ad0ce78bb",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-cjv?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
@@ -4800,16 +4800,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "38bdcb01-0abf-4c71-a346-e99e58ab47c4",
-    "title": "Super Mario RPG Switch",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1ef11c/4142ee2043858f43d5faf94c434c",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-switch-zwd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "5f64c788-3188-4ac0-8691-9d7bdcfb2c64",
     "title": "Super Mario 3D ALL STARS",
     "price": "600",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Górna"
+  },
+  {
+    "id": "6a07eb4d-8525-4ba0-8a04-1376457fd874",
+    "title": "Xenoblade Chronicles 2: Torna - The Golden Country | Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ed33e/f38086794917816a29f2e6e7ca2d",
+    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-or-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Milicz"
   }
 ]
