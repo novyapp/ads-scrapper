@@ -590,16 +590,6 @@
     "city": "Gliwice"
   },
   {
-    "id": "335ecc19-a853-45b3-b15b-4d01953658bb",
-    "title": "Star Wars Dark Forces Limited Run #244",
-    "price": "360",
-    "img": "https://a.allegroimg.com/s180x180/1e336c/e99c0fb94aa2b6f1e340d8bca554",
-    "url": "https://allegrolokalnie.pl//oferta/star-wars-dark-forces-limited-run-244?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "afda0ba5-1ce1-450e-98cd-78a8b77c2cf4",
     "title": "Mario + Rabbids Kingdom Battle Nintendo Switch",
     "price": "105",
@@ -3768,6 +3758,16 @@
     "promoted": false,
     "smartPost": false,
     "city": "Żory"
+  },
+  {
+    "id": "335ecc19-a853-45b3-b15b-4d01953658bb",
+    "title": "Star Wars Dark Forces Limited Run #244",
+    "price": "360",
+    "img": "https://a.allegroimg.com/s180x180/1e336c/e99c0fb94aa2b6f1e340d8bca554",
+    "url": "https://allegrolokalnie.pl//oferta/star-wars-dark-forces-limited-run-244?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "9c5bf927-f5fa-4e12-ac81-8d3a16fc3bf5",
