@@ -1,15 +1,5 @@
 [
   {
-    "id": "5f7efba4-033d-494d-afd2-e1ee8a40cb5d",
-    "title": "Mig Switch V2 + karta microSD 256GB",
-    "price": "330",
-    "img": "https://a.allegroimg.com/s180x180/1e0497/65ab914e403d8a8a4f2d69edd101",
-    "url": "https://allegrolokalnie.pl//oferta/mig-switch-v2-karta-microsd-256gb-i4t?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Rybnik"
-  },
-  {
     "id": "fcce09b6-351d-4fe1-a0db-709ce797bde8",
     "title": "Lego City undercover Nintendo Switch",
     "price": "80",
@@ -610,16 +600,6 @@
     "city": "Białystok"
   },
   {
-    "id": "ebe38b64-0171-4a18-a1a0-ad02a6661dfc",
-    "title": "Switch Slave Zero X: Calamity Edition FOLIA",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1ef33e/477a6240440b8e699663ff24cbfa",
-    "url": "https://allegrolokalnie.pl//oferta/switch-slave-zero-x-calamity-edition?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "b329bd10-1425-4839-b56d-65a853e0ddf0",
     "title": "Super Mario Odyssey Switch",
     "price": "175",
@@ -1110,6 +1090,86 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "ef7e8bd3-bfce-41fb-beac-236127134b7c",
+    "title": "Pokémon Scarlet gra",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e90ca/1b934415486cb5c6d088533135a9",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-gra-w2v?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Garbatka-Letnisko"
+  },
+  {
+    "id": "41dbe963-c78a-4ab2-a5cc-4ad75c570766",
+    "title": "Gra SUPER MARIO ODYSSEY na Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e97e3/025c58b74eff929048957a06234b",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-na-nintendo-switch-22f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mikołów"
+  },
+  {
+    "id": "e0cf0ca3-0382-4c9d-a254-0c4c33300909",
+    "title": "Gra MARIOKART 8 DELUXE na Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1efea2/80c5bccb4b1ab10e45e9909d3cfc",
+    "url": "https://allegrolokalnie.pl//oferta/gra-mariokart-8-deluxe-na-nintendo-switch-txq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mikołów"
+  },
+  {
+    "id": "c846dfec-a4c3-442a-bf01-c6143320932e",
+    "title": "Minecraft Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e0fe5/22cf2cae4ec291ad70d1c8754266",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-swq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mikołów"
+  },
+  {
+    "id": "a6f5dcd0-87ce-4e09-a239-86f64eaffabf",
+    "title": "Super Mario Odyssey Nintendo Switch",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1ee70e/9cb59d6741fe8390c0ffe9eabd90",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-nintendo-switch-uoq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Toruń, Toruń"
+  },
+  {
+    "id": "e0ff39f8-e871-4f75-9b1f-8471baf63722",
+    "title": "Pokemon Let's go Pikachu + Nintendo Pokeball Plus",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s180x180/1ecddb/cb30657b4ea586491d07b65ddcf3",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-pokeball-plus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Opole"
+  },
+  {
+    "id": "8984fb13-c9ed-4ece-bcff-bd735d5cb70e",
+    "title": "Pokemon Sword + Expansion Pass Nintendo Switch",
+    "price": "399",
+    "img": "https://a.allegroimg.com/s180x180/1e1de4/8dd865dc48f59b309acef6794104",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-expansion-pass-nintendo-switch-r7k?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Opole"
+  },
+  {
+    "id": "9c2fab9e-81f9-4795-b642-1dc81ecadf90",
+    "title": "Super Mario 3D World + Bowser's Fury Nintendo Switch",
+    "price": "173",
+    "img": "https://a.allegroimg.com/s180x180/1ece21/54c5e048451685dcd9d8bb5c1ac8",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-nintendo-switch-v6f?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Węgrzce Wielkie"
+  },
+  {
     "id": "5db1a9d4-1c77-4331-8644-34c4a23d7aeb",
     "title": "Luigi's Mansion 3 Nintendo Switch",
     "price": "185",
@@ -1312,7 +1372,7 @@
   {
     "id": "56acb241-6302-4d75-84be-ad63a00d8e0c",
     "title": "Atari 50: The Anniversary Celebration - Expanded Steelbook Edition Nintendo",
-    "price": "170",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e8f79/e8da55e0404286f76cf538d5cfde",
     "url": "https://allegrolokalnie.pl//oferta/atari-50-the-anniversary-celebration-expanded-steelbook-edition-or-nsw?navCategoryId=256922",
     "promoted": false,
@@ -4200,16 +4260,6 @@
     "city": "Strzelin"
   },
   {
-    "id": "587543cc-4530-4ec6-ae3d-adc32e56e001",
-    "title": "Mario + Rabbids Kingdom Battle Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e585c/ec5fef304abc8c274c42d31914b9",
-    "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-switch-fhw?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzelin"
-  },
-  {
     "id": "a6621c5e-91ab-4918-9f97-f752da94c603",
     "title": "Zombie Army 4: Dead War Switch",
     "price": "120",
@@ -4672,7 +4722,7 @@
   {
     "id": "a78e7129-cce0-4cdc-be75-945d94871f46",
     "title": "Bayonetta 3 Trinity Masquerade Edition NOWA NSW",
-    "price": "349",
+    "price": "300",
     "img": "https://a.allegroimg.com/s180x180/1e2548/786023c74e00b4d9e14c5d73262a",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nowa-nsw?navCategoryId=256922",
     "promoted": false,
@@ -5948,55 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tarnowskie Góry"
-  },
-  {
-    "id": "6c3df4ef-7126-496d-b4f6-d425807255fb",
-    "title": "The Legend of Zelda Tears of The Kingdom Edycja Kolekcjonerska Switch",
-    "price": "350",
-    "img": "https://a.allegroimg.com/s180x180/1eb71f/bf35dc594caebc628446855f768d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-edycja-kolekcjonerska-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Zabrze"
-  },
-  {
-    "id": "6eb99395-46f7-41c7-87f0-ee8c3bbb84e4",
-    "title": "Little Nightmares I+II Bundle - [Nintendo Switch] NOWE zafoliowane",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1e998a/fe9e95014e6889145b02e9926efe",
-    "url": "https://allegrolokalnie.pl//oferta/little-nightmares-i-ii-bundle-nintendo-switch-nowe-zafoliowane?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gostynin"
-  },
-  {
-    "id": "852811ee-3c96-437f-8f77-9bcb4f31f535",
-    "title": "Mariokart deluxe",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e177a/ff21309c4bd2a6843c221e362759",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-deluxe-t4z?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
-  },
-  {
-    "id": "1c9a8f89-6846-4fd9-ae46-c072b609d10c",
-    "title": "Sonic frointiens",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e198f/81474ba14c01a206349961545e13",
-    "url": "https://allegrolokalnie.pl//oferta/sonic-frointiens?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
-  },
-  {
-    "id": "02dd6165-4e08-4369-8437-4bd2a1e61de3",
-    "title": "Marvel super heroes",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1ece77/cf40deaf49f78184c26bbc0b4a0d",
-    "url": "https://allegrolokalnie.pl//oferta/marvel-super-heroes-txu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Radzymin, Radzymin"
   }
 ]
