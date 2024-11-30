@@ -1020,16 +1020,6 @@
     "city": "Kraków"
   },
   {
-    "id": "0a76f5db-fe6d-4878-afa6-b98f84e58374",
-    "title": "Pokemon Violet ( Nintendo Switch )",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e74cf/5932aec94cd3bdea9e6dc5f87325",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-nintendo-switch-4et?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Strzelce Opolskie"
-  },
-  {
     "id": "83adb16c-9437-4a27-a075-2653e8773e8a",
     "title": "Gra Minecraft Nintendo switch",
     "price": "90",
@@ -1168,16 +1158,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Gdów"
-  },
-  {
-    "id": "87f4064f-44ef-410e-8020-25d7383ddaef",
-    "title": "Gra Ring Fit Adventure Nintendo Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1edc1f/034f0a2242c0845ddb0e70449b2f",
-    "url": "https://allegrolokalnie.pl//oferta/gra-ring-fit-adventure-nintendo-switch-gzk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lwówek Śląski "
   },
   {
     "id": "c8cd0ab4-df78-420d-9c35-64418ad93ea2",
@@ -2602,7 +2582,7 @@
   {
     "id": "2324598e-7abc-464c-b99c-68d59f758965",
     "title": "Zelda Skyward Sword  HD Nintendo Switch",
-    "price": "159",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1e2e61/2936150f40d1a9337ec4d1d9f2bf",
     "url": "https://allegrolokalnie.pl//oferta/zelda-skyward-sword-hd-nintendo-switch-xv7?navCategoryId=256922",
     "promoted": false,
@@ -5380,16 +5360,6 @@
     "city": "Strzyżów"
   },
   {
-    "id": "869944a1-2e00-4715-99f7-4f2df4a7c1e3",
-    "title": "Gra Plants VS Zombies na Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1e9a98/45df6c234006a8669eb2786ed21b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-plants-vs-zombies-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
-  },
-  {
     "id": "5611fc93-445f-4500-88d5-4951c74f824e",
     "title": "Nintendo Switch Mario Part Superstars",
     "price": "160",
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": false,
     "city": "Kraków"
+  },
+  {
+    "id": "094f1ec2-8305-452c-84a4-c03e2336f81d",
+    "title": "Eldest Souls Switch limited Run",
+    "price": "399",
+    "img": "https://a.allegroimg.com/s180x180/1e60b3/c9619616402596c88740ae210fdc",
+    "url": "https://allegrolokalnie.pl//oferta/eldest-souls-switch-limited-run-w2y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
+    "id": "4e7e20fe-7d1b-47e2-a6e4-6d03283e0949",
+    "title": "Dark Devotion Switch limited Run",
+    "price": "370",
+    "img": "https://a.allegroimg.com/s180x180/1ec27b/6efbf90645c78a8ee057a6a8a1b0",
+    "url": "https://allegrolokalnie.pl//oferta/dark-devotion-switch-limited-run-zcm?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
+  },
+  {
+    "id": "88ee2481-6ea3-48a1-b6c6-1832c1180662",
+    "title": "Source of Madness Switch Super Rare",
+    "price": "380",
+    "img": "https://a.allegroimg.com/s180x180/1e6c3c/b5c8b72f4a8dad3a29990752f805",
+    "url": "https://allegrolokalnie.pl//oferta/source-of-madness-switch-super-rare?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Zakopane"
   }
 ]
