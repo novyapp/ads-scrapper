@@ -160,16 +160,6 @@
     "city": "Bydgoszcz"
   },
   {
-    "id": "51c237ee-d96d-460b-9825-c03fe066fcf1",
-    "title": "Podstawka stojak na gry Nintendo ProQuality Studio druk 3D",
-    "price": "30",
-    "img": "https://a.allegroimg.com/s180x180/1e6ae2/44be60d2418b957f005a036b69e2",
-    "url": "https://allegrolokalnie.pl//oferta/podstawka-stojak-na-gry-nintendo-proquality-studio-druk-3d?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Piątkowo"
-  },
-  {
     "id": "cd1709b5-8a47-4916-bd2d-d720adf6f338",
     "title": "Pokken Tournament DX –Nintendo Switch pudełko jak nowa",
     "price": "189",
@@ -188,6 +178,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Krakow, Swoszowice"
+  },
+  {
+    "id": "04ae83bc-4dff-4821-b1b0-e5cdcedb3bfc",
+    "title": "BAKUGAN CHAMPIONS OF VESTROIA GRA NINTENDO SWITCH",
+    "price": "299",
+    "img": "https://a.allegroimg.com/s180x180/1e9a20/424666a8408986c6e5848b448a97",
+    "url": "https://allegrolokalnie.pl//oferta/bakugan-champions-of-vestroia-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Olsztyn, Podgrodzie"
   },
   {
     "id": "0684c2d7-fda5-446c-992b-6e83926acb3b",
@@ -332,7 +332,7 @@
   {
     "id": "da1b0abd-e317-4552-8c5b-13a32350b3e0",
     "title": "Bayonetta 3 Trinity Masquerade Edition switch",
-    "price": "380",
+    "price": "422",
     "img": "https://a.allegroimg.com/s180x180/1e1f47/aa2888214764ae68cf15eaaadd60",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nintendo?navCategoryId=256922",
     "promoted": true,
@@ -348,16 +348,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "fb542e16-426b-4811-8b59-cf489c0f355a",
-    "title": "Gal gun returns Nintendo switch",
-    "price": "50",
-    "img": "https://a.allegroimg.com/s180x180/1e8663/6d618cdc4cdb82ca6df2a3903d80",
-    "url": "https://allegrolokalnie.pl//oferta/gal-gun-returns-nintendo-switch-hjp?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Częstochowa, Wrzosowiak"
   },
   {
     "id": "e1581359-d474-426a-934a-70867f17bc3b",
@@ -730,16 +720,6 @@
     "city": "Krupski Młyn"
   },
   {
-    "id": "d7ec501f-9bb5-431b-a863-6297b26c3492",
-    "title": "Mario Golf Super Rush Nintendo Switch NOWA folia",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1e3ad6/fb90b0184886b56eafe6de38a9c9",
-    "url": "https://allegrolokalnie.pl//oferta/mario-golf-super-rush-nintendo-switch-nowa-folia-kzk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Białystok, Nowe Miasto"
-  },
-  {
     "id": "b0fa06ad-ea2f-4e2b-adb8-b6fa53612913",
     "title": "Mario odyssey na Nintendo Switch Okazja",
     "price": "159",
@@ -1105,16 +1085,6 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1e818b/8100c4e34e99889f14b8dc78d33d",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-gra-nintendo-switch-pudelkowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "263f7790-8b89-4764-8c02-6d4cc2240be8",
-    "title": "Pokémon Let’s Go Eevee! - Gra Nintendo Switch - Pudełkowa",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1e7eeb/6803f56b417881e66bdbdb2e6ece",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-gra-nintendo-switch-pudelkowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
@@ -1638,16 +1608,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Mokotów"
-  },
-  {
-    "id": "04ae83bc-4dff-4821-b1b0-e5cdcedb3bfc",
-    "title": "BAKUGAN CHAMPIONS OF VESTROIA GRA NINTENDO SWITCH",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1e9a20/424666a8408986c6e5848b448a97",
-    "url": "https://allegrolokalnie.pl//oferta/bakugan-champions-of-vestroia-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn, Podgrodzie"
   },
   {
     "id": "f71682b3-416c-4d98-adb5-bfaf66e7eae9",
@@ -3132,7 +3092,7 @@
   {
     "id": "616ee39e-c91b-4ed8-a616-3715d2427120",
     "title": "Gra John Wick Hex Nintendo Switch",
-    "price": "149",
+    "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1ec155/c38838bb456ab5e1d68aca60c258",
     "url": "https://allegrolokalnie.pl//oferta/gra-john-wick-hex-nintendo-switch-v5j?navCategoryId=256922",
     "promoted": false,
@@ -4168,16 +4128,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "eac56d6f-4146-42bc-b0ba-44c013fa1362",
-    "title": "-== Little Witch Nobeta - Switch - sam kartridż - Wawa ==-",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1eba23/6fee5c29454083f02956a470d08b",
-    "url": "https://allegrolokalnie.pl//oferta/little-witch-nobeta-switch-sam-kartridz-wawa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Ursynów"
   },
   {
     "id": "2000fee9-49ef-4aa6-b85a-c5565d4490af",
@@ -5998,5 +5948,45 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
+  },
+  {
+    "id": "0865906d-ec00-4a21-8efa-852d4c02c5cf",
+    "title": "SONIC ORIGINS PLUS SWITCH NOWA W FOLII 16 GIER",
+    "price": "114",
+    "img": "https://a.allegroimg.com/s180x180/1e5f31/396171134449a615a501da21da01",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-origins-plus-switch-nowa-w-folii-16-gier?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "28e72b12-1665-45db-8954-d07c09326914",
+    "title": "Overcooked 2 Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1ef88e/c5953f154f5b8b2688f2466552bb",
+    "url": "https://allegrolokalnie.pl//oferta/overcooked-2-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
+    "id": "e8d7c405-7227-4042-8cae-cfafe326c32d",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/116b8a/23054c774741a7afacbed9a274a5",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lng?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "31d74350-c679-4b4d-a46e-73250ba44a12",
+    "title": "New Pokemon Snap Nintendo Switch",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/11e1d0/1794f03f48e7ae89dfe42d613e60",
+    "url": "https://allegrolokalnie.pl//oferta/new-pokemon-snap-nintendo-switch-3wl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   }
 ]
