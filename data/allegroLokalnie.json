@@ -52,7 +52,7 @@
   {
     "id": "4793cb47-e6dc-406f-8b75-cd69eed7c66c",
     "title": "Crash Bandicoot 4 Nintendo Switch",
-    "price": "115",
+    "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1e9986/ec57736b49e8b851649602bdf66a",
     "url": "https://allegrolokalnie.pl//oferta/crash-bandicoot-4-nintendo-switch-3ck?navCategoryId=256922",
     "promoted": true,
@@ -88,16 +88,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Bydgoszcz"
-  },
-  {
-    "id": "d61e5310-e69a-4cb4-a5fe-86eeb0e762e0",
-    "title": "The Legend of Zelda Tears of the Kingdom nintendo switch",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e06ad/ab157ae840259ab26bc96d98ab8d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-b6c?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków, Podgórze"
   },
   {
     "id": "e16e7156-3f8e-4dfb-be51-f52643818fb2",
@@ -290,6 +280,16 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "a47aaaac-795a-41b5-a15a-2a69ee2909b9",
+    "title": "Pokemon Lets go Pikachu",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e53fe/1129a1c54b49b713070c736d8e40",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-7ht?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Pruszków"
+  },
+  {
     "id": "39a5746b-6f0e-4bca-b5ca-83235f90c552",
     "title": "Okami Nintendo Switch ANG",
     "price": "229",
@@ -398,16 +398,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Karczewice"
-  },
-  {
-    "id": "45700df4-53c6-42eb-8962-45fc6509145a",
-    "title": "Axiom Verge na Nintendo Switch - stan bdb!",
-    "price": "120",
-    "img": "https://a.allegroimg.com/s180x180/1ee883/b64c55a7414ab018e883e903dfc6",
-    "url": "https://allegrolokalnie.pl//oferta/axiom-verge-na-nintendo-switch-stan-bdb-tmz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Dębniki"
   },
   {
     "id": "c6a54be2-5edc-4e39-9b5b-25b79484ebd5",
@@ -2488,16 +2478,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "26b775b3-17c2-4a0f-869b-db0fe4c8e761",
-    "title": "Arsene Lupin Nintendo switch",
-    "price": "115",
-    "img": "https://a.allegroimg.com/s180x180/1ef671/2329e8964603bc41839d87a502a0",
-    "url": "https://allegrolokalnie.pl//oferta/arsene-lupin-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Sanniki"
   },
   {
     "id": "c4725758-af67-4459-978c-d2cdba9ad903",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław"
+  },
+  {
+    "id": "dbde7197-3954-4ae4-b0cf-e3db555530a5",
+    "title": "BUS SIMULATOR CITY RIDE NOWA PL",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e38c2/f25fbf6c40d9bae32eb5115f527d",
+    "url": "https://allegrolokalnie.pl//oferta/bus-simulator-city-ride-nowa-pl?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
+  },
+  {
+    "id": "8075b0c4-e21d-4db2-b312-249509f9d598",
+    "title": "ZELDA TEARS OF THE KINGDOM ANG",
+    "price": "449",
+    "img": "https://a.allegroimg.com/s180x180/1e5234/f1948d23421a8355d0df7cbe3fef",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-ang-ejh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabrze"
   }
 ]
