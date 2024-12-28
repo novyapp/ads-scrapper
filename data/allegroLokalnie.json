@@ -22,7 +22,7 @@
   {
     "id": "fd3a62f9-2c4a-4f05-b91e-0a711b01b946",
     "title": "Mario&Luigi Brothership Nintendo Switch",
-    "price": "190",
+    "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1e8a86/c547a257405ea50222ef876ea9bf",
     "url": "https://allegrolokalnie.pl//oferta/marioluigi-brothership-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -82,7 +82,7 @@
   {
     "id": "ed56fe3a-b5c5-48fb-8828-7a4a2f314e67",
     "title": "LEGO Horizon Adventures",
-    "price": "170",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e6ab4/1a3394f24d809a6584f1681b1f69",
     "url": "https://allegrolokalnie.pl//oferta/lego-horizon-adventures-oyz?navCategoryId=256922",
     "promoted": true,
@@ -290,6 +290,76 @@
     "city": "Bydgoszcz"
   },
   {
+    "id": "2d71531f-dc6a-41ce-a555-f4b15672652a",
+    "title": "Rockman 11 (Megaman 11) Nintendo Switch NS",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e9c38/cc280fbe4e0aa48ba65ffae74412",
+    "url": "https://allegrolokalnie.pl//oferta/rockman-11-megaman-11-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "79e8aa8b-ff96-4a88-821f-7579296fe1ea",
+    "title": "Lego Horizon Adventures/PL/Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1eff17/f9c7446841e79e1bc2ffac9f8cc6",
+    "url": "https://allegrolokalnie.pl//oferta/lego-horizon-adventuresplnintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Mirsk"
+  },
+  {
+    "id": "57215bcc-cffb-47e4-abf0-ce386b745a20",
+    "title": "Darksiders 3 Nintendo Switch NS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e5fd5/09f847404dfdb2b0963e2016a923",
+    "url": "https://allegrolokalnie.pl//oferta/darksiders-3-nintendo-switch-ns-les?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "2c481434-c2ab-4652-8618-5a3e94f59cd9",
+    "title": "Saints Row IV: Re-Elected Nintendo Switch NS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e26de/cb75a3f442d08da5dbdfc3be4bae",
+    "url": "https://allegrolokalnie.pl//oferta/saints-row-iv-reelected-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "7079de50-95ab-4d6f-9a89-592aed3ad5a1",
+    "title": "Smerfy: Misja Złoliść Nintendo Switch NS",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1eb46d/d570569f45bc9df77f1dbc19bcd8",
+    "url": "https://allegrolokalnie.pl//oferta/smerfy-misja-zlolisc-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "8928aabc-b8e7-4489-8103-a09b4ba1cdc8",
+    "title": "Splatoon 3 + Season Pass + NSO 3msc Nintendo Switch NS",
+    "price": "209",
+    "img": "https://a.allegroimg.com/s180x180/1e5991/ebcb7c704f17800dd6ac7abd8193",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-season-pass-nso-3msc-nintendo-switch-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Rumia"
+  },
+  {
+    "id": "bc9d99a4-5425-496d-9eff-38c786b4abe7",
+    "title": "Switch / South Park The Fractured But Whole / Polskie Wydanie",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1e8b52/be058d054a94ab5951adcd74ceb5",
+    "url": "https://allegrolokalnie.pl//oferta/switch-south-park-the-fractured-but-whole-polskie-wydanie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
     "id": "fa190532-0054-466b-92fd-7ef852501ae2",
     "title": "Cartoon Network: Battle Crashers Nintendo Switch NS",
     "price": "99",
@@ -390,16 +460,6 @@
     "city": "Karczewice"
   },
   {
-    "id": "33dafc91-8a63-47f2-bf9a-18ae31823aef",
-    "title": "Super smash bros ultimate",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e038d/59ff5a0543b9b3f5244319c043d9",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-7ei?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Świątniki Górne"
-  },
-  {
     "id": "f07b1fc9-34cb-4aa4-98d8-7e2e29d8c26c",
     "title": "Captain Tsubasa Rise of New Champions Steelbook Switch",
     "price": "169",
@@ -428,16 +488,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Brenna"
-  },
-  {
-    "id": "689c4b3b-e6f0-483d-9aed-95c9ab9b2f7f",
-    "title": "Super Smash Bros Ultimate",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e7989/be44f97f4ed698325823b332fb08",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-ultimate-d7w?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Łagiewniki-Borek Fałęcki"
   },
   {
     "id": "3074665c-2893-4d21-b3f1-eccf54a53ed5",
@@ -498,16 +548,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bolesławiec"
-  },
-  {
-    "id": "e4902352-cd25-4bb4-984d-9f7eff074dd9",
-    "title": "POKÉMON LEGENDS ARCEUS , NINTENDO SWITCH",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e9cf3/08a5a6b34819aaaf98e6c698ab80",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-nintendo-switch-v3g?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "6c919042-43e1-465b-b3dd-b9b5cedcb876",
@@ -700,16 +740,6 @@
     "city": "Legnica"
   },
   {
-    "id": "8cad72f4-9363-456f-a901-f0102e61dc5c",
-    "title": "Super Mario Bros wonder",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e72b2/6872e81540d3ae0494b6283e1126",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-2wu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Myślenice"
-  },
-  {
     "id": "35b36167-43a7-4684-bc12-4247c0e05355",
     "title": "2 Gry Ori The Collection Nintendo Switch Soundtrack Arty w folii",
     "price": "180",
@@ -880,16 +910,6 @@
     "city": "Przemyśl"
   },
   {
-    "id": "dbad9989-bef2-404e-8157-9417329bb627",
-    "title": "Pokemon Scarlet",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e303c/9623d2fc495c8a16e1c049a46d84",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-jyc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Otwock"
-  },
-  {
     "id": "e1581359-d474-426a-934a-70867f17bc3b",
     "title": "The Legend of Zelda Tears of the Kingdom Collectors Edition",
     "price": "400",
@@ -1000,16 +1020,6 @@
     "city": "Węgrzce Wielkie"
   },
   {
-    "id": "ab26c819-6a59-425b-bf5d-c8d6af378dd2",
-    "title": "Super Mario Party Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e7ba9/9317add247928c6f1ef229002cbb",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-nintendo-switch-b34?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
     "id": "f202bc0e-b963-451b-839c-380f8fd96ee2",
     "title": "Pokemon Brilliant Diamond Nintendo Switch",
     "price": "160",
@@ -1075,16 +1085,6 @@
     "price": "280",
     "img": "https://a.allegroimg.com/s180x180/1eb363/345bc2f846ffa3c84bf80caa991d",
     "url": "https://allegrolokalnie.pl//oferta/star-ocean-second-story-r-switch-nowa-gratis?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bielsko-Biała"
-  },
-  {
-    "id": "e2039b55-53bb-472b-b902-0c6422c43cf3",
-    "title": "Toy Soldiers HD (Switch) +GRATIS",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e2ae4/e010e1c14cd6bbb07a908f3f4ae8",
-    "url": "https://allegrolokalnie.pl//oferta/toy-soldiers-hd-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bielsko-Biała"
@@ -1255,16 +1255,6 @@
     "price": "220",
     "img": "https://a.allegroimg.com/s180x180/1ece1a/20b39b00485485c0b32f7c7ec960",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-violet-kqa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
-    "id": "9dca0193-5431-4eda-946e-878939220f34",
-    "title": "Pokemon SHIELD + Pokemon shield expansion pass",
-    "price": "430",
-    "img": "https://a.allegroimg.com/s180x180/1e3629/7816e13748baa8e28ce2a2f474b7",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-pokemon-shield-expansion-pass-4rd?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Zielona Góra"
@@ -2426,7 +2416,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e1b6b/4227efc84b3b91e4852e964f03bc",
     "url": "https://allegrolokalnie.pl//oferta/gry-na-nintendo-switch-8-sztuk-mario-sonic-lego-hogwart-hcm?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Stargard"
   },
   {
@@ -2890,16 +2880,6 @@
     "city": "Twardogóra"
   },
   {
-    "id": "210d268d-d986-42f3-b639-ac15cf9873e7",
-    "title": "Gra Super Smash Bros Ultimate na Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ed3b9/0af9b4b44d36afeec10436f2cbcb",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-smash-bros-ultimate-na-nintendo-switch-rvk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "sędziszów młp"
-  },
-  {
     "id": "d3783472-6f01-42c0-9ed0-6a120e3336a9",
     "title": "Game Builder Garage [Sam Cart] Nintendo Switch",
     "price": "85",
@@ -3215,16 +3195,6 @@
     "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1e8d23/9dfca0214e7a89d88fe59fdede04",
     "url": "https://allegrolokalnie.pl//oferta/immortals-fenyx-rising-na-nintendo-switch-pl-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
-    "id": "2151ceb0-ab9c-4ee5-a2a4-dbaa19b97f39",
-    "title": "The Legend of Zelda: Skyward Sword HD na Nintendo Switch",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1e600c/61433cef4cc6bae6be4ecef1771d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-skyward-sword-hd-na-nintendo-switch?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Poznań, Stare Miasto"
@@ -3855,16 +3825,6 @@
     "price": "79",
     "img": "https://a.allegroimg.com/s180x180/1e2a18/4659ecd040e3a4f514e732964028",
     "url": "https://allegrolokalnie.pl//oferta/scribblenauts-showdown-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
-    "id": "c4631a92-0d19-41fc-86e7-af70c9760a97",
-    "title": "Darksiders 3 Nintendo Switch NS",
-    "price": "109",
-    "img": "https://a.allegroimg.com/s180x180/1ef2c2/900a79404a14959ba52f0c12e7d9",
-    "url": "https://allegrolokalnie.pl//oferta/darksiders-3-nintendo-switch-ns?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
@@ -5998,5 +5958,45 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "cda52cae-bd39-4f80-93d9-390a748356ed",
+    "title": "Nintendo Switch Trails of Cold Steel IV 4",
+    "price": "275",
+    "img": "https://a.allegroimg.com/s180x180/1e790b/43b0196843329a6887ac637d0565",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-trails-of-cold-steel-iv-4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "95988eb0-d339-4cfb-98bc-8ba17676dafa",
+    "title": "Nintendo Switch Nightmare Reaper - Super Rare Games",
+    "price": "480",
+    "img": "https://a.allegroimg.com/s180x180/1e65ba/4175b3814156a57edc310d20bcea",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-nightmare-reaper-super-rare-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "86b6d0ce-046f-468f-b2be-2daeb47a7641",
+    "title": "Nintendo Switch Crowns and Pawns - Super Rare Games",
+    "price": "250",
+    "img": "https://a.allegroimg.com/s180x180/1eebbe/e871dd694f03931cf9a45eb14786",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-crowns-and-pawns-super-rare-games?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Ursynów"
+  },
+  {
+    "id": "ca38d795-20bc-49d6-b2e4-e6fcaa2bfa58",
+    "title": "Shin Megami Tensei V",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1ea9a6/c61a842a44389634fe0ceb459d17",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-x3y?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
   }
 ]
