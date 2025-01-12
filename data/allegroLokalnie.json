@@ -1,5 +1,15 @@
 [
   {
+    "id": "88333cb9-cfca-4ecc-93c7-a086d9f8fc43",
+    "title": "Gra Nintendo Switch Just Dance 2020",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1eaaee/374b6ae34795b03b446aea4bde07",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-just-dance-2020?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Warszawa, Ursus"
+  },
+  {
     "id": "f2f20662-a74c-4558-88c4-7fd5eb627c4d",
     "title": "Ring Fit Adventure",
     "price": "200",
@@ -15,16 +25,6 @@
     "price": "60",
     "img": "https://a.allegroimg.com/s180x180/1ea1b1/9a448e284b17a4f2b2d04c560d91",
     "url": "https://allegrolokalnie.pl//oferta/redout-2-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Brzeziny"
-  },
-  {
-    "id": "04a36ca4-9f6b-4aee-ae9f-1c2312150970",
-    "title": "Super Mario Odyssey",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e0512/67724e0046d0bed29ab0aafb031d",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-t4q?navCategoryId=256922",
     "promoted": true,
     "smartPost": true,
     "city": "Brzeziny"
@@ -530,26 +530,6 @@
     "city": "Wadowice"
   },
   {
-    "id": "ed838480-f275-4c28-aefe-b904e2b84eff",
-    "title": "Farming Simulator Kids PL Polska Wersja Językowa Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e7794/2f522c5a482592815cd48a26eca5",
-    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-kids-pl-polska-wersja-jezykowa-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Bydgoszcz"
-  },
-  {
-    "id": "04ae83bc-4dff-4821-b1b0-e5cdcedb3bfc",
-    "title": "BAKUGAN CHAMPIONS OF VESTROIA GRA NINTENDO SWITCH",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e9a20/424666a8408986c6e5848b448a97",
-    "url": "https://allegrolokalnie.pl//oferta/bakugan-champions-of-vestroia-gra-nintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Olsztyn, Podgrodzie"
-  },
-  {
     "id": "0b4f7bcb-355d-4b2d-ad12-8090a82a4d94",
     "title": "Pikmin 4 nintendo switch",
     "price": "125",
@@ -578,6 +558,76 @@
     "promoted": true,
     "smartPost": true,
     "city": "Siedlce"
+  },
+  {
+    "id": "a92555dd-c671-43ff-9c8e-d8c4fb6de8e4",
+    "title": "The Legend of Zelda Echoes of Wisdom",
+    "price": "170",
+    "img": "https://a.allegroimg.com/s180x180/1e8842/3ec199ac493b97d7d8c248c4ada3",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-zxa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa, Praga-Południe"
+  },
+  {
+    "id": "d2b5310b-2bfc-459e-afe6-0bdba5e601a6",
+    "title": "Grand Theft Auto Trilogy na Nintendo Switch - stan idealny!",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/1e3dc2/335907b44b9b8fba21d58a38afeb",
+    "url": "https://allegrolokalnie.pl//oferta/grand-theft-auto-trilogy-na-nintendo-switch-stan-idealny-z4c?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "8fed58ee-c532-4101-826e-cd40d366c907",
+    "title": "Live a Live / Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ed90b/86622a24422e899c6ae3a387efc0",
+    "url": "https://allegrolokalnie.pl//oferta/live-a-live-nintendo-switch-c2x?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jawor"
+  },
+  {
+    "id": "186d1d3d-67c1-4718-845e-5a52fb380b39",
+    "title": "Tales of Symphonia Remastered Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e750f/4dbe42a645bea30a8b9857b49b77",
+    "url": "https://allegrolokalnie.pl//oferta/tales-of-symphonia-remastered-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Jawor"
+  },
+  {
+    "id": "02ec504d-52cd-4a03-9422-2636b0e21a08",
+    "title": "Shin Megami Tensei V - Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1e2e7d/fca936ae498599963a6515b9be7e",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-nintendo-switch-5or?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław"
+  },
+  {
+    "id": "36c0ea9a-e39a-40b0-b51d-0d98d6152176",
+    "title": "Triangle Strategy - Nintendo Switch",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eb21d/f1c3eb7e4999862c5d28ce741e0e",
+    "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-nintendo-switch-vrp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław"
+  },
+  {
+    "id": "ccead3e8-16fd-4e46-a083-23662104dec3",
+    "title": "Gra Nintedno Switch „ Let’s go pikachu”",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e0b3c/918f5f2141b590e5b5602580ec4d",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintedno-switch-lets-go-pikachu?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Tarnowskie Góry"
   },
   {
     "id": "3786cc7a-d6b3-45fe-9532-159fcbed9171",
@@ -868,16 +918,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Twardogóra"
-  },
-  {
-    "id": "8812d49f-dc99-4ad5-abb0-d0de829b1d63",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1ecf6b/1e0297854525a48a8fdd309dd2e6",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-3tq?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
   },
   {
     "id": "8a91c4be-1c4d-47c0-8e0b-d15799521181",
@@ -1410,16 +1450,6 @@
     "city": "Poznań"
   },
   {
-    "id": "71da07ed-efe9-49f7-ada6-462e1a75c0ad",
-    "title": "Team Sonic Racing na konsolę Nintendo Switch Gra w idealnym stanie",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s180x180/1ef2e6/e766378341b2ae1d75070448675a",
-    "url": "https://allegrolokalnie.pl//oferta/team-sonic-racing-na-konsole-nintendo-switch-gra-w-idealnym-stanie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "27990de7-addd-4830-bd5c-07dd3a9c6047",
     "title": "Saints Row IV: Re-Elected na Nintendo Switch Używana B. Dobry Stan",
     "price": "79",
@@ -1671,8 +1701,8 @@
   },
   {
     "id": "726008b4-ee16-45e7-9c67-a7d92a8b504f",
-    "title": "Pokemon Shining Pearl Nintendo Switch",
-    "price": "109",
+    "title": "Pokemon Shining Pearl Nintendo Switch-Idealna",
+    "price": "100",
     "img": "https://a.allegroimg.com/s180x180/1edb0e/d7564ec149e2a20d3ba352ac63ee",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-sxa?navCategoryId=256922",
     "promoted": false,
@@ -2270,16 +2300,6 @@
     "city": "Janikowo"
   },
   {
-    "id": "a9bf24c2-3791-4530-826e-bb1bfcc25fe2",
-    "title": "PERSONA 5 Strikers",
-    "price": "95",
-    "img": "https://a.allegroimg.com/s180x180/1e9455/69e62564494f9e8d424a297c1bcf",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-strikers-3vo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Przemyśl"
-  },
-  {
     "id": "b0dc852d-3606-491a-9b2f-0880831ccd38",
     "title": "Plakat Pokemon Legends Arceus",
     "price": "30",
@@ -2598,16 +2618,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Otwock"
-  },
-  {
-    "id": "001ad483-16fa-4d0d-9e1c-2cce49302c8a",
-    "title": "LEGO: Ninjago Movie Videogame Nintendo Switch NS",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1ea5d3/c56ef94f43f580015e862f438908",
-    "url": "https://allegrolokalnie.pl//oferta/lego-ninjago-movie-videogame-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
   },
   {
     "id": "e2266b50-c7c9-4d41-b7be-0777b1afd735",
@@ -2998,16 +3008,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Skarżysko-Kamienna"
-  },
-  {
-    "id": "a9973e0d-1ada-4e0c-b834-c1c4e69f72a6",
-    "title": "Smerfy Smerfne Marzenia",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1eb4db/7d8aa3b544ef8e09191efe0e8450",
-    "url": "https://allegrolokalnie.pl//oferta/smerfy-smerfne-marzenia-k3h?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wiewiórczyn"
   },
   {
     "id": "f13aef19-6eab-4a60-8213-2732f0ced4ae",
@@ -3722,7 +3722,7 @@
   {
     "id": "dd41c8a2-0f8b-4cb1-ac76-985a563d46fc",
     "title": "Road 96 Nintendo Switch",
-    "price": "149",
+    "price": "119",
     "img": "https://a.allegroimg.com/s180x180/1ee79f/2e36901d49ca90bbb89b61d485a1",
     "url": "https://allegrolokalnie.pl//oferta/road-96-nintendo-switch-wvk?navCategoryId=256922",
     "promoted": false,
@@ -3890,16 +3890,6 @@
     "city": "Wrocław, Fabryczna"
   },
   {
-    "id": "2fe41770-00ac-4085-a0f4-040a8a503391",
-    "title": "Saint's Row IV Nintendo Switch w folii",
-    "price": "69",
-    "img": "https://a.allegroimg.com/s180x180/1e1bcd/5ae19f494fa4a49d32a2c0f2a4b0",
-    "url": "https://allegrolokalnie.pl//oferta/saints-row-iv-nintendo-switch-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
-  },
-  {
     "id": "bdd7784f-89b2-433e-b99a-8830ab337063",
     "title": "Sifu Vengeance Edition Nintendo Switch",
     "price": "90",
@@ -3998,6 +3988,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Białystok"
+  },
+  {
+    "id": "ed838480-f275-4c28-aefe-b904e2b84eff",
+    "title": "Farming Simulator Kids PL Polska Wersja Językowa Nintendo Switch",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e7794/2f522c5a482592815cd48a26eca5",
+    "url": "https://allegrolokalnie.pl//oferta/farming-simulator-kids-pl-polska-wersja-jezykowa-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bydgoszcz"
   },
   {
     "id": "8332aee2-8951-487a-92c5-ae1fd49405c1",
@@ -4248,6 +4248,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Mokotów"
+  },
+  {
+    "id": "04ae83bc-4dff-4821-b1b0-e5cdcedb3bfc",
+    "title": "BAKUGAN CHAMPIONS OF VESTROIA GRA NINTENDO SWITCH",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1e9a20/424666a8408986c6e5848b448a97",
+    "url": "https://allegrolokalnie.pl//oferta/bakugan-champions-of-vestroia-gra-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn, Podgrodzie"
   },
   {
     "id": "f71682b3-416c-4d98-adb5-bfaf66e7eae9",
@@ -4582,7 +4592,7 @@
   {
     "id": "effeb5bf-db0c-4c4c-b01f-9ca3f9745b1e",
     "title": "ASTALON Tears of the Earth Nintendo Switch LIMITED RUN Limitowana Edycja",
-    "price": "379",
+    "price": "369",
     "img": "https://a.allegroimg.com/s180x180/1e2f09/145f81ea4cfeae172807386bdda3",
     "url": "https://allegrolokalnie.pl//oferta/astalon-tears-of-the-earth-nintendo-switch-limited-run-limitowana-edycja?navCategoryId=256922",
     "promoted": false,
@@ -5312,7 +5322,7 @@
   {
     "id": "045a70a1-5eec-4fbe-8739-b76123a1aacb",
     "title": "Splatoon 2 Nintendo Switch",
-    "price": "123",
+    "price": "120",
     "img": "https://a.allegroimg.com/s180x180/1ea092/8399dfd94b9791889a24009e34b2",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-cyz?navCategoryId=256922",
     "promoted": false,
@@ -5985,16 +5995,6 @@
     "price": "185",
     "img": "https://a.allegroimg.com/s180x180/1ea73b/3e58976542dc8abf92cbf7b1905c",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-eevee-7ai?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bysław"
-  },
-  {
-    "id": "f64adbf3-9065-4021-bd0d-056633c6d81d",
-    "title": "Diablo 3 Eternal Collection",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e1dc4/bf1072ba494cbbe4ed30d8669d24",
-    "url": "https://allegrolokalnie.pl//oferta/diablo-3-eternal-collection-3p2?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
