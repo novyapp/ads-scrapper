@@ -260,16 +260,6 @@
     "city": "Łódź, Górna"
   },
   {
-    "id": "b1ffadf1-5a52-4aad-8bba-84ac1bca3f33",
-    "title": "The Legend of Zelda: Tears of the Kingdom Nintendo Switch NOWA",
-    "price": "225",
-    "img": "https://a.allegroimg.com/s180x180/1e6816/d31415d442e695c74ddd9f217996",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "1882b503-a7e9-4464-b1cc-5b4f0f9cbc2d",
     "title": "Metroid Dread Nintendo Switch",
     "price": "228",
@@ -460,16 +450,6 @@
     "city": "Zbąszynek"
   },
   {
-    "id": "4415934f-2ca5-4653-8cb1-79badcdebadc",
-    "title": "Wolfenstein II: The New Colossus Nintendo Switch",
-    "price": "129",
-    "img": "https://a.allegroimg.com/s180x180/1ef04c/245ceac841baa7fada33c3e97fa0",
-    "url": "https://allegrolokalnie.pl//oferta/wolfenstein-ii-the-new-colossus-nintendo-switch-kh4?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Siechnice"
-  },
-  {
     "id": "a5af7bd2-123b-419c-92cc-3aa31d798b9b",
     "title": "Ring fit adventure",
     "price": "179",
@@ -478,16 +458,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Biedrusko, Stare Miasto"
-  },
-  {
-    "id": "1c50bd64-b555-4607-b023-110897acba73",
-    "title": "WRC 9 Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1ec582/0c6b198e45148279e31d152d9f59",
-    "url": "https://allegrolokalnie.pl//oferta/wrc-9-nintendo-switch-nec?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Siechnice"
   },
   {
     "id": "fe9b81b1-42c7-418c-8274-4b8eb1d1c2dc",
@@ -520,9 +490,59 @@
     "city": "Tczew"
   },
   {
+    "id": "aa3bf26b-a652-4cc3-995d-dd8873a5ca2d",
+    "title": "Gra NS - Triangle Strategy",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1eea54/5f5199774f8b92d826aacbdfa0a0",
+    "url": "https://allegrolokalnie.pl//oferta/gra-ns-triangle-strategy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław, Fabryczna"
+  },
+  {
+    "id": "51b863ff-658b-4ea2-b9c4-d603fc624c62",
+    "title": "COMMANDOS 2-3 Dual Pack Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ed79c/ceb702614e4f9cac46df0f8e3f1f",
+    "url": "https://allegrolokalnie.pl//oferta/commandos-23-dual-pack-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "KOBIERZYCE"
+  },
+  {
+    "id": "d0bcefae-50c1-41d1-9b8d-db6aef53ba8d",
+    "title": "Ring Fit Adventure / zestaw",
+    "price": "260",
+    "img": "https://a.allegroimg.com/s180x180/1e6670/303de73843f59befba918a9ec487",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-zestaw-bia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Skawina"
+  },
+  {
+    "id": "c29b986d-d16b-4dcd-8a02-4f1546e24d24",
+    "title": "SPLATOON 3 + EXPANSION PASS DLC + 3 MSC. NINTENDO ONLINE | NINTENDO SWITCH",
+    "price": "219",
+    "img": "https://a.allegroimg.com/s180x180/1e68ed/e957b9884474846e52d0d4ad9a87",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-3-expansion-pass-dlc-3-msc-nintendo-online-or-nintendo-switch-bqi?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Kąty Wrocławskie"
+  },
+  {
+    "id": "dd3f0abf-7bf3-4231-8527-de2f9c118c23",
+    "title": "Mario Kart 8 Deluxe Nintendo SWITCH",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1eca6c/b871304040779ecff300e04be11f",
+    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-kvp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Oleśnica"
+  },
+  {
     "id": "1858f58e-f473-45b1-8fb1-f4ae5b211439",
     "title": "Metroid Dread / Nintendo Switch",
-    "price": "170",
+    "price": "166",
     "img": "https://a.allegroimg.com/s180x180/1e879c/74c1100c402881a549b7321cc058",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-rbp?navCategoryId=256922",
     "promoted": false,
@@ -532,7 +552,7 @@
   {
     "id": "7405aaef-b342-47e2-befd-8bf3cc744935",
     "title": "Fire Emblem Engage",
-    "price": "145",
+    "price": "138",
     "img": "https://a.allegroimg.com/s180x180/1e8f2a/c38023f542418d4797bad9b25d17",
     "url": "https://allegrolokalnie.pl//oferta/fire-emblem-engage-afl?navCategoryId=256922",
     "promoted": false,
@@ -998,16 +1018,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rąbień"
-  },
-  {
-    "id": "dade7afb-bbb1-45a0-ab0c-4861162de78b",
-    "title": "Gra Luigi Mansion 3 na Nintendo Switch Okazja",
-    "price": "164",
-    "img": "https://a.allegroimg.com/s180x180/1e4e4d/906eaa4c438fb916cde777d37e18",
-    "url": "https://allegrolokalnie.pl//oferta/gra-luigi-mansion-3-na-nintendo-switch-okazja-o5p?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
   },
   {
     "id": "3d5167f0-50fa-4bb3-abb4-8d1c75951aac",
@@ -2200,6 +2210,16 @@
     "city": "Kraków"
   },
   {
+    "id": "4415934f-2ca5-4653-8cb1-79badcdebadc",
+    "title": "Wolfenstein II: The New Colossus Nintendo Switch",
+    "price": "129",
+    "img": "https://a.allegroimg.com/s180x180/1ef04c/245ceac841baa7fada33c3e97fa0",
+    "url": "https://allegrolokalnie.pl//oferta/wolfenstein-ii-the-new-colossus-nintendo-switch-kh4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siechnice"
+  },
+  {
     "id": "76858992-57ea-49ed-b4a7-59d34ad7c600",
     "title": "Paper Mario The Origami King",
     "price": "189",
@@ -2220,6 +2240,16 @@
     "city": "Janikowo"
   },
   {
+    "id": "1c50bd64-b555-4607-b023-110897acba73",
+    "title": "WRC 9 Nintendo Switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ec582/0c6b198e45148279e31d152d9f59",
+    "url": "https://allegrolokalnie.pl//oferta/wrc-9-nintendo-switch-nec?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Siechnice"
+  },
+  {
     "id": "9c0f196a-76e5-4ddc-91d6-49c8b55b9c43",
     "title": "Crash Bandicoot gra Nintendo Switch",
     "price": "120",
@@ -2228,16 +2258,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaski"
-  },
-  {
-    "id": "38e5f52e-5914-41c2-b699-cbfee9959f18",
-    "title": "Super Mario 3D World + Bowser's Fury",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e4aaf/d5d34bde48509c75f7077a204486",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-bowsers-fury-lmd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Janikowo"
   },
   {
     "id": "c757ae71-6b37-4991-a9c7-12cf382e7d1b",
@@ -2618,16 +2638,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Elbląg"
-  },
-  {
-    "id": "16d000d3-78a9-471b-8567-ae265abd80c0",
-    "title": "Mario & Luigi Brothership Nintendo Switch",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e2f8f/abde530e4573bb9b0022fb4ab6fb",
-    "url": "https://allegrolokalnie.pl//oferta/mario-luigi-brothership-nintendo-switch-hbl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Braniewo"
   },
   {
     "id": "1b6b3411-fde0-4518-9117-06911378ec94",
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "158b7b74-4c43-4b7e-8973-61a84d0de2e3",
-    "title": "Xenoblade Chronicles 3 Nintendo Switch",
-    "price": "158",
-    "img": "https://a.allegroimg.com/s180x180/1e2b5c/be97eeb44c7994fdc4a36f4ea091",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-iau?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   }
 ]
