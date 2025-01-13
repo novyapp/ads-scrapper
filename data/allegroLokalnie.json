@@ -10,16 +10,6 @@
     "city": "Warszawa, Ursus"
   },
   {
-    "id": "f2f20662-a74c-4558-88c4-7fd5eb627c4d",
-    "title": "Ring Fit Adventure",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1eef2e/4d30d67e49348ad75dc40275091a",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-qvz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Brzeziny"
-  },
-  {
     "id": "01323c54-da0a-443e-8b94-67a5f1de3135",
     "title": "REDOUT 2 Nintendo Switch",
     "price": "60",
@@ -432,7 +422,7 @@
   {
     "id": "385b84c5-dfeb-4d42-8242-25cd15b79468",
     "title": "FC 24 Nintendo Switch",
-    "price": "150",
+    "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e8f6e/c12c2913438a8615cfd47a382547",
     "url": "https://allegrolokalnie.pl//oferta/fc-24-nintendo-switch-px5?navCategoryId=256922",
     "promoted": true,
@@ -480,6 +470,56 @@
     "city": "Tczew"
   },
   {
+    "id": "2658c164-9d14-4fa4-89f1-3ea1cddcc954",
+    "title": "Kirby and the forgotten land",
+    "price": "135",
+    "img": "https://a.allegroimg.com/s180x180/1e47ab/d0d1dc344f1abe1fede8a466b6f8",
+    "url": "https://allegrolokalnie.pl//oferta/kirby-and-the-forgotten-land-gwa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Poznań"
+  },
+  {
+    "id": "12fed877-827a-4302-ae90-f9ea356c16a3",
+    "title": "Super Mario Odyssey",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1ee164/38b1debb4386b171da319baedc7f",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-odyssey-owg?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
+    "id": "4692b01b-6180-4f4d-be28-26b2f5b4d82d",
+    "title": "Bayonetta 3 Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e35a5/03cbd52646d2a5382db418129182",
+    "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-nintendo-switch-jiv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
+  },
+  {
+    "id": "f0305186-ce8b-4d9a-b8a0-3fbada83b2d9",
+    "title": "Sonic Superstars (Gra NS)",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e302f/048e0dda416fa7b0446f96e9e9a8",
+    "url": "https://allegrolokalnie.pl//oferta/sonic-superstars-gra-ns?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sosnowiec, Kazimierz Górniczy"
+  },
+  {
+    "id": "52ce8776-26a7-494d-8cdb-5cb7d1769249",
+    "title": "Super Mario 3D World + Browser’s Fury",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1eb3e4/3fdb3e954954963d297d2d0faabb",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-world-browsers-fury-n3p?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Katowice"
+  },
+  {
     "id": "aa3bf26b-a652-4cc3-995d-dd8873a5ca2d",
     "title": "Gra NS - Triangle Strategy",
     "price": "189",
@@ -502,7 +542,7 @@
   {
     "id": "d0bcefae-50c1-41d1-9b8d-db6aef53ba8d",
     "title": "Ring Fit Adventure / zestaw",
-    "price": "220",
+    "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1e6670/303de73843f59befba918a9ec487",
     "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-zestaw-bia?navCategoryId=256922",
     "promoted": false,
@@ -522,7 +562,7 @@
   {
     "id": "dd3f0abf-7bf3-4231-8527-de2f9c118c23",
     "title": "Mario Kart 8 Deluxe Nintendo SWITCH",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1eca6c/b871304040779ecff300e04be11f",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-kvp?navCategoryId=256922",
     "promoted": false,
@@ -558,16 +598,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Radom"
-  },
-  {
-    "id": "000588ea-2917-4aab-8a80-493c4849ebca",
-    "title": "Zelda totk Nintendo switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e337a/56e1d2a34a39a92803494a27af8e",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-totk-nintendo-switch-z6x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wyczechy"
   },
   {
     "id": "8f7ae428-9bfd-422d-8094-98351c093656",
@@ -912,7 +942,7 @@
   {
     "id": "05eda990-7dbc-42bf-8c59-ec8d165824d2",
     "title": "SURVIVING: THE AFTERMATH PL | NOWA | NINTENDO SWITCH | PO POLSKU",
-    "price": "49",
+    "price": "48",
     "img": "https://a.allegroimg.com/s180x180/1e3529/a17667d04eb8bc61031f835a75cb",
     "url": "https://allegrolokalnie.pl//oferta/surviving-the-aftermath-pl-or-nowa-or-nintendo-switch-or-po-polsku?navCategoryId=256922",
     "promoted": false,
@@ -2082,7 +2112,7 @@
   {
     "id": "9f0aba43-ca20-4bbe-8e15-d79c4a6a9efb",
     "title": "OTHERCIDE LIMITED RUN GAMES",
-    "price": "249",
+    "price": "239",
     "img": "https://a.allegroimg.com/s180x180/1e083d/5f8b2e74450e8fc04c4f63fd632c",
     "url": "https://allegrolokalnie.pl//oferta/othercide-limited-run-games?navCategoryId=256922",
     "promoted": false,
@@ -2312,7 +2342,7 @@
   {
     "id": "19b41472-9a9e-4a4d-9f36-95fd5435fc46",
     "title": "LOOP 8 Edycja kolekcjonerska Switch",
-    "price": "249",
+    "price": "239",
     "img": "https://a.allegroimg.com/s180x180/1eef63/009d92a64c24be595a4c5f72cb42",
     "url": "https://allegrolokalnie.pl//oferta/loop-8-edycja-kolekcjonerska-switch?navCategoryId=256922",
     "promoted": false,
@@ -2328,16 +2358,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bytom"
-  },
-  {
-    "id": "cfb393a8-59f3-4686-80e2-bf2b6a713777",
-    "title": "Emio The Smiling Man Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1ea8f0/3506ac9e42b2b9b683310b5bdf4a",
-    "url": "https://allegrolokalnie.pl//oferta/emio-the-smiling-man-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Januszkowice"
   },
   {
     "id": "ac42625c-e211-41f1-b3b2-39753b9d770a",
@@ -2478,16 +2498,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Śródmieście"
-  },
-  {
-    "id": "09e1ecce-388d-4503-b20a-797c5feaaab9",
-    "title": "Persona 5 Royal Nintendo Switch",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1eb364/e25e9fb54fdeb7be2de78a59e4a7",
-    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-nintendo-switch-yyf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Pruszków"
   },
   {
     "id": "009ebac6-7221-493e-a88a-e01a35078599",
@@ -3090,16 +3100,6 @@
     "city": "Brenna"
   },
   {
-    "id": "b2058d25-33a4-4db1-9530-3f3f8bf13409",
-    "title": "Dragon Quest XI Definitive Edition Switch",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e980c/cb8682224ff0bef127162422986b",
-    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-xi-definitive-edition-switch-4nr?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Łagiewniki-Borek Fałęcki"
-  },
-  {
     "id": "fc7dc772-609d-430f-92f9-056fa399f4d4",
     "title": "Pokemon Shield nintendo switch",
     "price": "150",
@@ -3362,7 +3362,7 @@
   {
     "id": "c6a54be2-5edc-4e39-9b5b-25b79484ebd5",
     "title": "BESIEGE KULTOWA STRATEGIA W WERSJI NA SWITCHA",
-    "price": "179",
+    "price": "149",
     "img": "https://a.allegroimg.com/s180x180/1e17d9/14daeccf48d3b71e30b7469da940",
     "url": "https://allegrolokalnie.pl//oferta/besiege-kultowa-strategia-w-wersji-na-switcha?navCategoryId=256922",
     "promoted": false,
