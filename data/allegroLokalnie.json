@@ -350,26 +350,6 @@
     "city": "Koszalin"
   },
   {
-    "id": "2ad86a06-c931-4b81-a1ba-dca969a6a3fd",
-    "title": "The legend of Zelda Tears of the Kingdom",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e7cd5/1fb2eae140879ac5b843b8f8aa8b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wc4?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Przytoczna"
-  },
-  {
-    "id": "8c5a72fc-a2a7-411f-8bcf-6b63a4ba4b08",
-    "title": "Super Smash Bros",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1e9f29/f631f84a4547945829477aba1137",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-u64?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Przytoczna"
-  },
-  {
     "id": "8130334c-04f7-492f-b6c2-60a1a219bbb0",
     "title": "Mario Strikers Battle League Football Nintendo Switch",
     "price": "185",
@@ -448,6 +428,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Tczew"
+  },
+  {
+    "id": "c2b1fbb6-326a-4982-a7eb-1f3bca064ae5",
+    "title": "Gothic 2: Noc Kruka [Nintendo Switch]",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1eec71/b16614f0474aa11c784158c334fe",
+    "url": "https://allegrolokalnie.pl//oferta/gothic-2-noc-kruka-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
   },
   {
     "id": "c5065135-6644-450c-ad74-7c4748f05cc4",
@@ -618,36 +608,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "231f6e66-c2dd-4f84-90c1-e7510b6e6bc1",
-    "title": "Animal crossing nintendo switch Nowa Folia",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e3e0e/4cf43f3646b08a8f29e793bc007a",
-    "url": "https://allegrolokalnie.pl//oferta/animal-crossing-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "doluje"
-  },
-  {
-    "id": "27a5521f-f1c2-4209-8d75-ea98f88b44b0",
-    "title": "SUPER MARIO RPG - NOWA GRA  FOLIA- Nintendo Switch - Kartridż",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1ea716/70fbf31541f5890c68c8dacf4926",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nowa-gra-folia-nintendo-switch-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "doluje"
-  },
-  {
-    "id": "5adb14b0-d219-4c9c-808a-c16011a555ad",
-    "title": "Super Mario Bros. Wonder Nintendo Switch Nowa Folia",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e504e/9116f41546d4a98facade533e2c7",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "doluje"
   },
   {
     "id": "0f3d7702-6adf-49a5-95e9-d415674666d8",
@@ -1948,6 +1908,26 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków"
+  },
+  {
+    "id": "2ad86a06-c931-4b81-a1ba-dca969a6a3fd",
+    "title": "The legend of Zelda Tears of the Kingdom",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e7cd5/1fb2eae140879ac5b843b8f8aa8b",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wc4?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Przytoczna"
+  },
+  {
+    "id": "8c5a72fc-a2a7-411f-8bcf-6b63a4ba4b08",
+    "title": "Super Smash Bros",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e9f29/f631f84a4547945829477aba1137",
+    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-u64?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Przytoczna"
   },
   {
     "id": "0fc4f00c-0764-4952-9f41-954434f95af9",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Bysław"
+  },
+  {
+    "id": "355d2632-b79a-44a5-b6ea-984b1e9f8ac4",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1eb7da/9f3cde8e4b55b898fe0dc77830ef",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-47r?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
+  },
+  {
+    "id": "f7a711d6-277b-4904-8d9b-c94803e7a204",
+    "title": "Pokemon Shield Nintendo Switch",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e10be/b85390564b8eb03cd7de850d7ecc",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-lyf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Lędziny"
   }
 ]
