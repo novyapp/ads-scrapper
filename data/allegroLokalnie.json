@@ -210,36 +210,6 @@
     "city": "Kielce"
   },
   {
-    "id": "a2944e9b-74d3-4bd6-9781-78859c5178a9",
-    "title": "MARIOKART 8 DELUX + dwie oryginalnekierownice",
-    "price": "229",
-    "img": "https://a.allegroimg.com/s180x180/1ef560/46c8e7424425a7a2af66abf3357d",
-    "url": "https://allegrolokalnie.pl//oferta/mariokart-8-delux-dwie-oryginalnekierownice?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "7761dfad-68f9-477d-814d-9688a80c64c0",
-    "title": "Luigis Mansion 3",
-    "price": "199",
-    "img": "https://a.allegroimg.com/s180x180/1e7ec3/f878e081433b85d6fc226daf5ba2",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-4lf?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
-    "id": "2a9b772b-a6e7-4e79-bf44-fed55c1dbb89",
-    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e799e/e085808147dab6d8404a3efb68ae",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-m2g?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "1882b503-a7e9-4464-b1cc-5b4f0f9cbc2d",
     "title": "Metroid Dread Nintendo Switch",
     "price": "228",
@@ -1192,7 +1162,7 @@
   {
     "id": "464860b4-80be-49a8-8c0f-b52760fb2156",
     "title": "Mario Party Superstars Nintendo Switch ... Okazja !",
-    "price": "180",
+    "price": "187",
     "img": "https://a.allegroimg.com/s180x180/1efa41/8446501c4789904f7a5811573930",
     "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-nintendo-switch-okazja-m2d?navCategoryId=256922",
     "promoted": false,
@@ -1638,6 +1608,36 @@
     "promoted": false,
     "smartPost": true,
     "city": "Świebodzice"
+  },
+  {
+    "id": "a2944e9b-74d3-4bd6-9781-78859c5178a9",
+    "title": "MARIOKART 8 DELUX + dwie oryginalnekierownice",
+    "price": "229",
+    "img": "https://a.allegroimg.com/s180x180/1ef560/46c8e7424425a7a2af66abf3357d",
+    "url": "https://allegrolokalnie.pl//oferta/mariokart-8-delux-dwie-oryginalnekierownice?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "7761dfad-68f9-477d-814d-9688a80c64c0",
+    "title": "Luigis Mansion 3",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1e7ec3/f878e081433b85d6fc226daf5ba2",
+    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-3-4lf?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź, Górna"
+  },
+  {
+    "id": "2a9b772b-a6e7-4e79-bf44-fed55c1dbb89",
+    "title": "The Legend of Zelda: Breath of the Wild Nintendo Switch",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1e799e/e085808147dab6d8404a3efb68ae",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-m2g?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łódź, Górna"
   },
   {
     "id": "83a51166-3b55-4e1a-a11e-c6ede3d58d28",
