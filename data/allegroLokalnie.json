@@ -1,5 +1,15 @@
 [
   {
+    "id": "17586e20-ccfc-4116-81c0-50bbc229aef5",
+    "title": "The Legend of Zelda Tears of the Kingdom",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1ee64f/9ca04a744bfbb40887b62c920d49",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-wgs?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Szczecin"
+  },
+  {
     "id": "1ccb2514-63d9-472a-9133-1b66e92460c6",
     "title": "Baldo The Guardian Owls The Three Fairies Edition",
     "price": "180",
@@ -318,6 +328,26 @@
     "promoted": true,
     "smartPost": true,
     "city": "Tczew"
+  },
+  {
+    "id": "48a5a716-a6bb-4598-9658-1f5c8148b28a",
+    "title": "Tetris Effect: Connected (Limited Run Games) - Nintendo Switch",
+    "price": "245",
+    "img": "https://a.allegroimg.com/s180x180/1eeebc/d39fcdd04b4dbe57c911a67bba71",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-effect-connected-limited-run-games-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Warszawa"
+  },
+  {
+    "id": "1a14042b-4ccb-4a34-897a-01fd2a515b67",
+    "title": "Super Mario 3D All Stars na Nintendo Switch",
+    "price": "349",
+    "img": "https://a.allegroimg.com/s180x180/1e6dbe/dbe1089946e39cd00b973bdbb449",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-all-stars-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Elbląg"
   },
   {
     "id": "71573587-6d9d-45d6-85c3-5e1ca8ab448e",
@@ -3390,16 +3420,6 @@
     "city": "Kraków, Łagiewniki-Borek Fałęcki"
   },
   {
-    "id": "7ef9244a-25a2-494b-ae7c-bcf13a74300d",
-    "title": "Zelda Tears of The Kingdom",
-    "price": "230",
-    "img": "https://a.allegroimg.com/s180x180/1e1112/e2bf4857492eae4a1c300bd7a265",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-okl?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bolesławiec"
-  },
-  {
     "id": "5dc36e14-366f-420d-86b7-b889691e1944",
     "title": "Blade Assault Nintendo Switch Nowa",
     "price": "110",
@@ -5510,16 +5530,6 @@
     "city": "Warszawa, Bemowo"
   },
   {
-    "id": "9fd28715-96e1-4edd-a09d-68c72e5986e8",
-    "title": "Wargroove 1+2 Nintendo Switch ANG",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1ec43d/9e550760454e9018bb79f67214e0",
-    "url": "https://allegrolokalnie.pl//oferta/wargroove-1-2-nintendo-switch-ang?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "1230e2f1-6d0f-4c13-ba75-371449ab4b91",
     "title": "NS Persona 5 Strikers",
     "price": "119",
@@ -5987,16 +5997,6 @@
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-na-nintendo-switch-nowa?navCategoryId=256922",
     "promoted": false,
     "smartPost": false,
-    "city": "Mielec"
-  },
-  {
-    "id": "7361767f-5759-404e-9531-fc010ed09d2d",
-    "title": "Mario Party Superstars na Nintendo Switch. Nowa!",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1eac60/c310e254489b89e886a75606f8ed",
-    "url": "https://allegrolokalnie.pl//oferta/mario-party-superstars-na-nintendo-switch-nowa-zyv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
     "city": "Mielec"
   }
 ]
