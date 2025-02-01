@@ -210,6 +210,16 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "1ad80b85-3ab5-4ab3-a554-71ed2e1e56d7",
+    "title": "The Legend of Zelda Breath of the Wild dla Nintendo Switch",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e5a02/9d1afff74c398ff9b623b18ea0f4",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-dla-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bieńczyce"
+  },
+  {
     "id": "2241be1f-0025-4bbb-bec1-3d530be7ccd8",
     "title": "BALATRO SPECIAL EDITION ( SWITCH / SWITCH2)",
     "price": "239",
@@ -325,16 +335,6 @@
     "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e4ab0/9eecba9040e09f0a8995cf4c847e",
     "url": "https://allegrolokalnie.pl//oferta/sonic-superstars-nintendo-switch-wki?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
-    "id": "5cd4de38-67d7-4283-9e44-c24f0307cebf",
-    "title": "Luigi's Mansion 2 HD Nintendo Switch",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1e44a8/149761cc45fe800e14c1e422b379",
-    "url": "https://allegrolokalnie.pl//oferta/luigis-mansion-2-hd-nintendo-switch-bxh?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Nowy Targ"
@@ -592,7 +592,7 @@
   {
     "id": "3e938538-bbc3-443d-b17f-cfada83c5575",
     "title": "Metroid dread Nintendo switch",
-    "price": "105",
+    "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1ea8d2/fbc8907c4557a6cf0088f6a591df",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-u7c?navCategoryId=256922",
     "promoted": false,
@@ -1060,16 +1060,6 @@
     "city": "Warszawa, Praga-Południe"
   },
   {
-    "id": "6636d9d8-2c8e-4201-8293-a48e6822b894",
-    "title": "Kirby Return to dream land Deluxe - Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1ea428/0dd8f9a248569e26bc45380ba86c",
-    "url": "https://allegrolokalnie.pl//oferta/kirby-return-to-dream-land-deluxe-switch-lev?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Łódź, Górna"
-  },
-  {
     "id": "2372fdb9-0d77-45fb-a9e2-749a01a8170a",
     "title": "Kirby Star Allies - Switch",
     "price": "145",
@@ -1172,7 +1162,7 @@
   {
     "id": "28fdb351-00e5-4591-b839-a3df05edcd4a",
     "title": "POKEMON SHIELD SWITCH",
-    "price": "145",
+    "price": "139",
     "img": "https://a.allegroimg.com/s180x180/1ecc5c/f0f6351f458f908d11ec11653e43",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-4a4?navCategoryId=256922",
     "promoted": false,
@@ -5400,16 +5390,6 @@
     "city": "Majdan"
   },
   {
-    "id": "354be6fd-7ad9-4c7c-8eba-879dcc6ec0f8",
-    "title": "Witch Spring R / Switch / Nowa / ENG",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1ec6a8/d06d37ee4485bfa33d4df2e48e23",
-    "url": "https://allegrolokalnie.pl//oferta/witch-spring-r-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
     "id": "14db5e38-1488-45cb-96cc-9d24e7f55660",
     "title": "Oaken Nintendo Switch",
     "price": "130",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Rzeszów"
+  },
+  {
+    "id": "e16f7b3f-a979-4098-b7bf-ad6a2d6b1a2d",
+    "title": "Ring Fit Adventure - Nintendo Switch",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s180x180/1e72a1/894adddd4b96acd40f42d1ca2374",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-rrq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Poznań, Grunwald"
   }
 ]
