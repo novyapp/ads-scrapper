@@ -90,16 +90,6 @@
     "city": "Kraków"
   },
   {
-    "id": "d4017c99-af42-4705-a36c-d8ea0c675e90",
-    "title": "The Legend of Zelda: Tears of the Kingdom",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1ee44f/099873574b50a69aeb6056dc774d",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-fp5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Nowa Sól"
-  },
-  {
     "id": "6f6fa5d0-be2f-4365-8f56-e306c1865bd9",
     "title": "Hades Nintendo Switch NSW, Nowa, Kraków, Odbiór/ Wysyłka",
     "price": "259",
@@ -208,6 +198,16 @@
     "promoted": true,
     "smartPost": false,
     "city": "Szczebrzeszyn"
+  },
+  {
+    "id": "1c437330-ee29-4e93-b3c0-f7fe028af98a",
+    "title": "Nintendo Switch The Legend of Zelda: Breath of the Wild",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1eba6f/9001ddb3453cad9ab84656dda1d8",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-legend-of-zelda-breath-of-the-wild?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Pszczyna"
   },
   {
     "id": "8710bb04-ba12-4eb1-9490-cb34813e68c9",
@@ -600,6 +600,16 @@
     "city": "Poznań, Śródka"
   },
   {
+    "id": "cff2236a-26ed-4bbf-bd85-fe8f9a1cf8eb",
+    "title": "Zelda Breath of the Wild Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1ec48f/31e292c94afcb1c00eb585540d98",
+    "url": "https://allegrolokalnie.pl//oferta/zelda-breath-of-the-wild-nintendo-switch-oyc?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Śródka"
+  },
+  {
     "id": "7ff1bc27-e866-41df-ba23-243565a1bc21",
     "title": "Luigi's Mansion 3 Switch",
     "price": "179",
@@ -902,7 +912,7 @@
   {
     "id": "adb4b918-3d1f-4144-9f7c-0e783f48255a",
     "title": "Donkey Kong Country Returns HD",
-    "price": "186",
+    "price": "179",
     "img": "https://a.allegroimg.com/s180x180/1e0984/299fbdac4ed8b834f377a0af91e4",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-returns-hd?navCategoryId=256922",
     "promoted": false,
@@ -1188,26 +1198,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Bieńczyce"
-  },
-  {
-    "id": "28fdb351-00e5-4591-b839-a3df05edcd4a",
-    "title": "POKEMON SHIELD SWITCH",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1ecc5c/f0f6351f458f908d11ec11653e43",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-4a4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
-    "id": "28fdb351-00e5-4591-b839-a3df05edcd4a",
-    "title": "POKEMON SHIELD SWITCH",
-    "price": "139",
-    "img": "https://a.allegroimg.com/s180x180/1ecc5c/f0f6351f458f908d11ec11653e43",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-switch-4a4?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   },
   {
     "id": "9d19433f-f682-456e-ba44-37fb9b1ff540",
@@ -1522,7 +1512,7 @@
   {
     "id": "4ec919dd-4832-48ee-8054-0c23ea6ba045",
     "title": "Risen PL Nintendo Switch",
-    "price": "90",
+    "price": "85",
     "img": "https://a.allegroimg.com/s180x180/1ed682/925ca31840178f8569d120fe0663",
     "url": "https://allegrolokalnie.pl//oferta/risen-pl-nintendo-switch-dp4?navCategoryId=256922",
     "promoted": false,
@@ -1798,6 +1788,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Praga-Północ"
+  },
+  {
+    "id": "a3988840-d80a-42c0-a497-d355d518be07",
+    "title": "Pokemon Scarlet Nintendo Switch ... jak nowy , kartridż",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e7e5c/893db6544cbda0d712cc30cc0715",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-jak-nowy-kartridz-sdn?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Górna"
   },
   {
     "id": "a873a623-ba28-4843-b224-4428e52fde35",
@@ -3590,6 +3590,16 @@
     "city": "Tarnów"
   },
   {
+    "id": "ccd60834-7910-4284-be33-ab0c8d47277b",
+    "title": "LEGO Gwiezdne Wojny: Saga Skywalkerów Nintendo Switch.",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e957e/39d0a99c421db6170cabc2752143",
+    "url": "https://allegrolokalnie.pl//oferta/lego-gwiezdne-wojny-saga-skywalkerow-nintendo-switch-33e?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rybnik"
+  },
+  {
     "id": "c4193ee5-ef4b-4c1e-b5f4-c1d03247302c",
     "title": "The Pathless na Nintendo Switch – nowa, zafoliowana",
     "price": "90",
@@ -4168,26 +4178,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Bielany"
-  },
-  {
-    "id": "bf5d9848-fe06-447c-a141-9e4a520aa6c4",
-    "title": "Pokemon Let's Go Pikachu",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e323a/0c48f4184147841005ff4f32d2b9",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-2li?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Przecław"
-  },
-  {
-    "id": "56b542ee-7b2a-4bf7-a5a9-f36deef50523",
-    "title": "MOMODORA REVERIE UNDER THE MOONLIGHT SWITCH (Limited Run)",
-    "price": "259",
-    "img": "https://a.allegroimg.com/s180x180/1ec21f/a0d9946b4f3bb10b0bb440e591f7",
-    "url": "https://allegrolokalnie.pl//oferta/momodora-reverie-under-the-moonlight-switch-limited-run?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Koszalin"
   },
   {
     "id": "bf5d9848-fe06-447c-a141-9e4a520aa6c4",
@@ -4790,6 +4780,26 @@
     "city": "Gdynia"
   },
   {
+    "id": "2fea13de-64a9-40b1-98ec-391d58c4a8a6",
+    "title": "Super Mario RPG NINTENDO SWITCH nowy",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1e7f47/91ae54524c09a7a2c85cffb28665",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-rpg-nintendo-switch-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań, Jeżyce"
+  },
+  {
+    "id": "bdd7784f-89b2-433e-b99a-8830ab337063",
+    "title": "Sifu Vengeance Edition Nintendo Switch",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e1b66/9a7e108245e292e518aefa1ad38b",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-vegnence-edition-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "LUBARTÓW"
+  },
+  {
     "id": "997df633-1095-442b-9bf6-dade508fe8bd",
     "title": "Hello Kitty kruisers with sanrio friends",
     "price": "90",
@@ -5390,26 +5400,6 @@
     "city": "Gdynia"
   },
   {
-    "id": "ac8d0eb0-a615-4a31-b020-75157e32b6be",
-    "title": "Splatoon 2 na Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1ef33e/5f3a248d48fda7d9ae20af93d4a9",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-na-nintendo-switch-xsb?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Majdan"
-  },
-  {
-    "id": "354be6fd-7ad9-4c7c-8eba-879dcc6ec0f8",
-    "title": "Witch Spring R / Switch / Nowa / ENG",
-    "price": "219",
-    "img": "https://a.allegroimg.com/s180x180/1ec6a8/d06d37ee4485bfa33d4df2e48e23",
-    "url": "https://allegrolokalnie.pl//oferta/witch-spring-r-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdynia"
-  },
-  {
     "id": "14db5e38-1488-45cb-96cc-9d24e7f55660",
     "title": "Oaken Nintendo Switch",
     "price": "130",
@@ -5988,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Gorzów Wlkp."
+  },
+  {
+    "id": "afbe693d-d7bc-45ef-b088-de7ba57e6958",
+    "title": "Hokko Life - Nintendo Switch",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s180x180/1eb22e/7cc312864529bd8d3a37c1bcdff6",
+    "url": "https://allegrolokalnie.pl//oferta/hokko-life-nintendo-switch-dla?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Rzeszów"
+  },
+  {
+    "id": "e16f7b3f-a979-4098-b7bf-ad6a2d6b1a2d",
+    "title": "Ring Fit Adventure - Nintendo Switch",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s180x180/1e72a1/894adddd4b96acd40f42d1ca2374",
+    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-nintendo-switch-rrq?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Poznań, Grunwald"
   }
 ]
