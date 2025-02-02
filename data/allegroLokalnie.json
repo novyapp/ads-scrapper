@@ -210,6 +210,16 @@
     "city": "Szczebrzeszyn"
   },
   {
+    "id": "50cc2bd2-ef9e-4455-b4d2-14ce742968ad",
+    "title": "Enter the Gungeon Nintendo Switch nowa w foli",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e8428/4da84be5494db80d86cac4143952",
+    "url": "https://allegrolokalnie.pl//oferta/enter-the-gungeon-nintendo-switch-nowa-w-foli?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Głogów Małopolski"
+  },
+  {
     "id": "237fdf44-ad84-42ac-85bd-f2101e9cd149",
     "title": "Prince of Persia The Lost Crown PL (nintendo switch)",
     "price": "77",
@@ -218,16 +228,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ławy"
-  },
-  {
-    "id": "f7476e62-3826-4eba-a067-aa1f6be89c72",
-    "title": "Ring Fit Adventure NS",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e9af5/006d050d481ba435c8366230e02f",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-adventure-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Wrocław, Stare Miasto"
   },
   {
     "id": "7abbdd29-d4c4-4ef5-839a-d9ddbce6318d",
@@ -1402,7 +1402,7 @@
   {
     "id": "d07a3157-b0e1-4c59-b436-9e5a607ee68d",
     "title": "Metroid Dread Nintendo Switch",
-    "price": "165",
+    "price": "160",
     "img": "https://a.allegroimg.com/s180x180/1eacae/3abc03b44ca69b654506e09fda83",
     "url": "https://allegrolokalnie.pl//oferta/metroid-dread-nintendo-switch-pvk?navCategoryId=256922",
     "promoted": false,
@@ -4200,16 +4200,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "e1b3be07-742e-4ae9-99f2-d0eefe44ac44",
-    "title": "Nintendo Switch / Baobabs Mausoleum / UNIKAT / Na Karcie!",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1eb820/ea2c1ae2402baebadc94dd3321e7",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-baobabs-mausoleum-unikat-na-karcie?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "f8f1505d-ae1d-4beb-8d1a-b7a9ed025fbb",
     "title": "Nintendo Switch / NEO The World Ends With You / UNIKAT / Na Karcie!",
     "price": "149",
@@ -4488,16 +4478,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Legnica"
-  },
-  {
-    "id": "83f50dda-00f1-42bb-8d1f-076b9c313990",
-    "title": "Shin Megami Tensei V",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e5c8a/b9a1e4b1434d97697d2dcae6f45b",
-    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-acc?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Piotrków Trybunalski"
   },
   {
     "id": "22d82aad-6420-4278-b1ab-a1d306ebd824",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
+  },
+  {
+    "id": "137c0d6d-7ae0-4aa5-b141-82506c9a445b",
+    "title": "Gra Nintendo Switch Let’s Sing 2024 + 2 mikrofony",
+    "price": "199",
+    "img": "https://a.allegroimg.com/s180x180/1edcb0/01538176427882dc25fe02c4efc5",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-lets-sing-2024-2-mikrofony-pmk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "WROCŁAW, Fabryczna"
+  },
+  {
+    "id": "964b8146-245e-4dae-a910-77042f34949f",
+    "title": "A Space For The Unbound Nintendo Switch Stan Idealny ver JAP",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1e6f03/fb66f30c4c18afd8cc33c348cd1f",
+    "url": "https://allegrolokalnie.pl//oferta/a-space-for-the-unbound-nintendo-switch-stan-idealny-ver-jap?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Gorzów Wlkp."
   }
 ]
