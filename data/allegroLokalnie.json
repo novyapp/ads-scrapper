@@ -100,19 +100,9 @@
     "city": "Bytom"
   },
   {
-    "id": "17b7a0d5-6908-478e-8f42-1bc6ad6ce6c7",
-    "title": "Paper Mario: The Thousand-Year Door NINTENDO SWITCH",
-    "price": "144",
-    "img": "https://a.allegroimg.com/s180x180/1e90b4/497e5c40462ebc84d1c747ed048d",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-nintendo-switch-4e5?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Poznań, Stare Miasto"
-  },
-  {
     "id": "bda7d2bf-5e2e-4bb6-bfc6-f2008b4aa1a0",
     "title": "Gry Nintendo Switch Mario Zelda Gothic Nier Age of  Calamity  XS Xenoblade",
-    "price": "1 600",
+    "price": "1 550",
     "img": "https://a.allegroimg.com/s180x180/1eee37/f902286746849a893a2685dda1ad",
     "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-mario-zelda-gothic-nier-age-of-calamity-xs-xenoblade?navCategoryId=256922",
     "promoted": true,
@@ -980,16 +970,6 @@
     "city": "Białystok"
   },
   {
-    "id": "e18a8de4-5032-4210-a454-031592a7abe9",
-    "title": "Zelda echoes od wisdom",
-    "price": "160",
-    "img": "https://a.allegroimg.com/s180x180/1e6fcf/4714853c4090949b8150117767ab",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-echoes-od-wisdom?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Limanowa"
-  },
-  {
     "id": "1fe4fbde-8bcb-4b11-8039-ab255f28eb7f",
     "title": "Pokemon Sword / gra nintendo switch bez opakowania",
     "price": "140",
@@ -1548,16 +1528,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łuków"
-  },
-  {
-    "id": "cf4ab787-25a7-4acd-91ad-fe3cc417ab7d",
-    "title": "Super Smash Bros",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1e59f6/6531bf0947c382a0de5d724e83d0",
-    "url": "https://allegrolokalnie.pl//oferta/super-smash-bros-4bu?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "7ccb4d0d-36d2-449c-bab4-2bce9b5274a4",
@@ -4560,16 +4530,6 @@
     "city": "Wrocław"
   },
   {
-    "id": "8a034b54-7125-48b4-9d27-2a47ecff3552",
-    "title": "Nintendo Switch / Fury Unleashed / Na karcie / Polska Wersja",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e3b8c/e8a0f5714a97827938d54c6d2926",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-fury-unleashed-na-karcie-polska-wersja?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
-  },
-  {
     "id": "3ecfc11a-57b2-4285-95ef-520234b3bc56",
     "title": "Nintendo Switch / Child of Light + Valiant Hearts / Na karcie",
     "price": "159",
@@ -5998,5 +5958,45 @@
     "promoted": false,
     "smartPost": false,
     "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "ae850fa4-65e8-4ced-866c-b12e8618afb9",
+    "title": "Paper Mario: The thousand-year door",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1eb380/104cc0314f76a0562554efe28c92",
+    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-thousandyear-door-x5e?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wrocław, Psie Pole"
+  },
+  {
+    "id": "f4b28cbb-5873-44ba-9b90-b7482b7aa1a4",
+    "title": "Super Mario Maker 2 Nintendo Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1edfb2/03e0412044e88778f9e74d73d837",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-nintendo-switch-r6c?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "fd190b6e-1890-4435-9b74-438ba87e4cf5",
+    "title": "Hyrule Warriors: Age of Calamity Switch",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e0995/891b71624652a727d280a44c3817",
+    "url": "https://allegrolokalnie.pl//oferta/hyrule-warriors-age-of-calamity-switch-3kh?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
+  },
+  {
+    "id": "1d4cd369-47f5-4ea3-8f54-b243fa09b7a8",
+    "title": "LEGEND OF ZELDA BREATH OF WILD",
+    "price": "220",
+    "img": "https://a.allegroimg.com/s180x180/1efbe3/040662e24c5fb2427a17d04873d5",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-breath-of-wild-cid?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Olsztyn"
   }
 ]
