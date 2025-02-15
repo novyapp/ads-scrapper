@@ -500,16 +500,6 @@
     "city": "Chojnów"
   },
   {
-    "id": "e421fc1f-cf70-4b0f-bdd7-8ad13fb9040d",
-    "title": "Red Dead Redemption nintendo switch",
-    "price": "155",
-    "img": "https://a.allegroimg.com/s180x180/1eb464/b091f3c6430db9ad2d4b55b9f477",
-    "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-nintendo-switch-ffj?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Chojnów"
-  },
-  {
     "id": "bd57236f-25cb-4d53-8f47-a696c40f81e0",
     "title": "Pikmin 4 Nintendo switch",
     "price": "160",
@@ -1190,16 +1180,6 @@
     "city": "Reda"
   },
   {
-    "id": "b853c7a4-b363-4477-838c-39f045c8b0e0",
-    "title": "Astral Chain (Switch)",
-    "price": "180",
-    "img": "https://a.allegroimg.com/s180x180/1e30c4/4e13540a4dd5a4bf087fc1348b93",
-    "url": "https://allegrolokalnie.pl//oferta/astral-chain-switch-mnm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Jaworzno"
-  },
-  {
     "id": "71fcf581-2054-4193-ba12-b9c61e18859b",
     "title": "Legend of Zelda: Breath of the Wild – unikalna wersja pudełkowa!",
     "price": "249",
@@ -1652,7 +1632,7 @@
   {
     "id": "ae146cfa-71ea-4ece-b844-c272546be0e4",
     "title": "Splatoon 2 Nintendo Switch",
-    "price": "111",
+    "price": "108",
     "img": "https://a.allegroimg.com/s180x180/1e91c5/33800d1e4e178410246739b2dfeb",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-glu?navCategoryId=256922",
     "promoted": false,
@@ -2582,7 +2562,7 @@
   {
     "id": "ae5dafa9-b528-448d-86f1-abfa8bc746b6",
     "title": "The Legend of Zelda - Breath of the Wild Switch",
-    "price": "189",
+    "price": "188",
     "img": "https://a.allegroimg.com/s180x180/1eb092/de9ea9ad4897a8dc84642e39a553",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breath-of-the-wild-switch-qt7?navCategoryId=256922",
     "promoted": false,
@@ -2592,7 +2572,7 @@
   {
     "id": "ddb38e77-c4cb-4975-8f42-2c1cce6893fc",
     "title": "Ori and the Will of the Wisps Switch",
-    "price": "133",
+    "price": "132",
     "img": "https://a.allegroimg.com/s180x180/1e9558/2f25636e40b7989bc11be529aa21",
     "url": "https://allegrolokalnie.pl//oferta/ori-and-the-will-of-the-wisps-switch-gck?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Strzelin"
+  },
+  {
+    "id": "b7ef4f86-63de-4c0f-96e2-17d4696e74dc",
+    "title": "Gearshifters Nintendo Switch",
+    "price": "95",
+    "img": "https://a.allegroimg.com/s180x180/1e4c22/a334dabc4fa08a997a9bb399caf4",
+    "url": "https://allegrolokalnie.pl//oferta/gearshifters-nintendo-switch-ubv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
+  },
+  {
+    "id": "5b9f1673-0c1c-433d-b8c7-44cba8f3c0d8",
+    "title": "Gra Nintendo Switch Kizuna AI - Touch the Beat!",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1eb89b/979975ab4977a4ff568e3b104ff4",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-kizuna-ai-touch-the-beat?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
   }
 ]
