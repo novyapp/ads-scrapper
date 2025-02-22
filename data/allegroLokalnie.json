@@ -190,16 +190,6 @@
     "city": "Krakow, Swoszowice"
   },
   {
-    "id": "6f6fa5d0-be2f-4365-8f56-e306c1865bd9",
-    "title": "Hades Nintendo Switch NSW, Nowa, Kraków, Odbiór/ Wysyłka",
-    "price": "259",
-    "img": "https://a.allegroimg.com/s180x180/1ec87c/42f1003a4eb68013145489486662",
-    "url": "https://allegrolokalnie.pl//oferta/hades-nintendo-switch-nsw-nowa-krakow-odbior-wysylka?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Kraków"
-  },
-  {
     "id": "5aa166e3-d1e2-4796-9179-0b1cb5aef410",
     "title": "Spongebob Squarepants: Battle for Bikini Bottom - Rehydrated",
     "price": "99",
@@ -390,16 +380,6 @@
     "city": "Karpicko"
   },
   {
-    "id": "a90d8a29-1cf8-4d00-9b8b-9af65b96c782",
-    "title": "Ninja Gaiden Master Collection Nintendo Switch nowa",
-    "price": "280",
-    "img": "https://a.allegroimg.com/s180x180/1e63b6/8ac19b064863b0755fed70954528",
-    "url": "https://allegrolokalnie.pl//oferta/ninja-gaiden-master-collection-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": false,
-    "city": "Grodzisk Mazowiecki"
-  },
-  {
     "id": "ed0b24e0-b6ac-46e9-b31d-5bdf62164547",
     "title": "MARIO GOLF SUPER RUSH NOWA NINTENDO SWITCH",
     "price": "171",
@@ -478,6 +458,26 @@
     "promoted": true,
     "smartPost": false,
     "city": "Ruszkowice"
+  },
+  {
+    "id": "c084365d-9168-48bb-bd0e-fb0c1d2e4e2a",
+    "title": "Super Mario 3D + Bowser’s Fury Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e9d8a/dea97e27410cb6614099e5fe4be6",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-bowsers-fury-nintendo-switch-5kt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Nowa Ruda "
+  },
+  {
+    "id": "06ca27eb-37d6-48d0-9ecd-9f540fcf842a",
+    "title": "Fifa 18 Pl Nintendo Switch stan idealny",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1eae4d/6f1f44cc4d46ae9ac85da808a9a6",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-18-pl-nintendo-switch-stan-idealny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Inowrocław"
   },
   {
     "id": "6c2877d8-827c-429e-9235-fce9a3acaf86",
@@ -732,7 +732,7 @@
   {
     "id": "cb789b6a-e578-4aa0-8d8f-f969f421e00b",
     "title": "Mario + Rabbids: Kingdom Battle",
-    "price": "70",
+    "price": "60",
     "img": "https://a.allegroimg.com/s180x180/1eec62/67b9e8eb4781b39778a3e70c44d2",
     "url": "https://allegrolokalnie.pl//oferta/mario-rabbids-kingdom-battle-5mu?navCategoryId=256922",
     "promoted": false,
@@ -1140,6 +1140,16 @@
     "city": "Reda"
   },
   {
+    "id": "082c5041-b5ec-411a-aaa8-b8cde355698d",
+    "title": "Legend of Zelda link's awakening edycja kolekcjonerska",
+    "price": "719",
+    "img": "https://a.allegroimg.com/s180x180/1e0710/5cc0dd774653933e672fbb192cb2",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-links-awakening-edycja-kolekcjonerska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Świdnica"
+  },
+  {
     "id": "87dbdc1f-454f-4c01-b7b6-7f5fc6555057",
     "title": "SUPER MARIO WONDER SWITCH",
     "price": "110",
@@ -1300,6 +1310,16 @@
     "city": "Kalisz"
   },
   {
+    "id": "c3a18d84-df94-417c-ac1a-87645be34394",
+    "title": "Gra Nintendo Switch Monster Hunter Wilds",
+    "price": "65",
+    "img": "https://a.allegroimg.com/s180x180/1e8c99/8820a92e4bedacaa8a6515121c8c",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-monster-hunter-wilds?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
     "id": "2ad31211-2116-4a05-80a6-c75cd4a09b28",
     "title": "Super Mario Bros Wonder",
     "price": "180",
@@ -1428,6 +1448,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Dębniki"
+  },
+  {
+    "id": "56aee60e-43c0-4bdf-bc83-8c06923479b0",
+    "title": "TETRIS (R) EFFECT: CONNECTED ( SWITCH / SWITCH2 )",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1e5a79/689dfeef4941a76487460c7f5581",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-switch2-6yz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
   },
   {
     "id": "30acdf7b-2d2d-4e87-9cd5-d17aa7160810",
@@ -1573,7 +1603,7 @@
     "id": "0c8bd4ad-d7a9-4b75-84f0-f6e22f8e6d32",
     "title": "INTERAKTYW ĆW PISMA JAPOŃSKIEGO \"KANKEN SMART TAISAKU\" (SWITCH / SWITCH2)",
     "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1e69a6/5af8c40847e881147d8a1ab55b7d",
+    "img": "https://a.allegroimg.com/s180x180/1e65c6/315b5aa64e02aa92755e89b448c2",
     "url": "https://allegrolokalnie.pl//oferta/kanken-smart-taisaku-switch-switch2-touchpen-hac041?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -1718,16 +1748,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Elbląg"
-  },
-  {
-    "id": "a470b6df-feac-432c-af60-34dcaa437857",
-    "title": "Gra Mario kart 8 Deluxe na Nintendo Switch Okazja..",
-    "price": "165",
-    "img": "https://a.allegroimg.com/s180x180/1e402b/259317074d94aafe66375f92aa5b",
-    "url": "https://allegrolokalnie.pl//oferta/gra-mario-kart-8-deluxe-na-nintendo-switch-okazja-als?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Strzyżów"
   },
   {
     "id": "38fbbb1d-bcbe-4e53-8a9c-9c2cb4b04ed0",
@@ -2150,16 +2170,6 @@
     "city": "Głogów Małopolski"
   },
   {
-    "id": "14be615e-85fd-4e74-9f95-3e4ad67be91e",
-    "title": "Final Vendetta Nintendo Switch nowa w folii",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e38bb/c5479b2142d39506f7bf2ea93901",
-    "url": "https://allegrolokalnie.pl//oferta/final-vendetta-nintendo-switch-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Głogów Małopolski"
-  },
-  {
     "id": "9bf96efa-8a83-4fba-86a7-90b5c0ef0ce1",
     "title": "Nintendo Labo Toy-Con 03 Vehicle Kit (rozłożony)",
     "price": "15",
@@ -2322,7 +2332,7 @@
   {
     "id": "ae146cfa-71ea-4ece-b844-c272546be0e4",
     "title": "Splatoon 2 Nintendo Switch",
-    "price": "108",
+    "price": "105",
     "img": "https://a.allegroimg.com/s180x180/1e91c5/33800d1e4e178410246739b2dfeb",
     "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-glu?navCategoryId=256922",
     "promoted": false,
@@ -4218,16 +4228,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Siechnice"
-  },
-  {
-    "id": "76858992-57ea-49ed-b4a7-59d34ad7c600",
-    "title": "Paper Mario The Origami King",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1e394b/b6980ee843149d57f288af5a87f9",
-    "url": "https://allegrolokalnie.pl//oferta/paper-mario-the-origami-king-wer?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Janikowo"
   },
   {
     "id": "7d50bfca-c8c7-458b-9cf8-9ac87b53e803",
