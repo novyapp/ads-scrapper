@@ -20,26 +20,6 @@
     "city": "Kościelisko"
   },
   {
-    "id": "27f4e9b8-cf01-421e-9331-4fd2283a6b8f",
-    "title": "Gra Nintendo Switch: Kosmopieski ratują Zatokę Przygód",
-    "price": "65",
-    "img": "https://a.allegroimg.com/s180x180/1e1478/b53c78c9439e8acef5d4d8fd3df8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-kosmopieski-ratuja-zatoke-przygod?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pilzno"
-  },
-  {
-    "id": "aff6512a-7bb6-4dc4-8daa-8c605e99bd02",
-    "title": "Gra Nintendo Switch: Psi Patrol- Miasto Przygód Wzywa",
-    "price": "79",
-    "img": "https://a.allegroimg.com/s180x180/1e1393/f21570a54e839363259ecbc39c0a",
-    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-psi-patrol-miasto-przygod-wzywa?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Pilzno"
-  },
-  {
     "id": "31937f6a-a3df-4eb1-ae29-d580b4a54c28",
     "title": "My sims cozy bundle Nintendo switch",
     "price": "140",
@@ -446,8 +426,68 @@
     "img": "https://a.allegroimg.com/s180x180/1e1f47/aa2888214764ae68cf15eaaadd60",
     "url": "https://allegrolokalnie.pl//oferta/bayonetta-3-trinity-masquerade-edition-nintendo?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Ruszkowice"
+  },
+  {
+    "id": "2f9f381c-86e8-4d70-a05b-3e3d8ab8dc2f",
+    "title": "TETRIS (R) EFFECT: CONNECTED ( SWITCH / SWITCH2 )",
+    "price": "249",
+    "img": "https://a.allegroimg.com/s180x180/1e9684/7a54d50942848987a1ab14a04164",
+    "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-switch-switch2-mup?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "b8ded2b8-b527-4b2c-b90c-ea7246b9b6d2",
+    "title": "MINECRAFT - Nintendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e62e5/0713fcc34697bb20507de4a4dc0f",
+    "url": "https://allegrolokalnie.pl//oferta/minecraft-nintendo-switch-i6g?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Wilkszyn"
+  },
+  {
+    "id": "4538e9e5-e549-4aec-95d9-83dfe09f7b91",
+    "title": "XIII Nintendo Switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1ec03e/fca53f8548fcadb44281fd6e0c71",
+    "url": "https://allegrolokalnie.pl//oferta/xiii-nintendo-switch-jqp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Objazda"
+  },
+  {
+    "id": "f2197650-5254-428f-8d1f-bc059265197f",
+    "title": "Persona 5 Royal Nintendo Switch",
+    "price": "115",
+    "img": "https://a.allegroimg.com/s180x180/1ee255/403ed95647c086ad9c426166e89f",
+    "url": "https://allegrolokalnie.pl//oferta/persona-5-royal-nintendo-switch-g42?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "3cfc157f-275c-47e7-b88b-b958b303bbdb",
+    "title": "Pokemon Sword Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e3eca/f01a73204c9fa2ff65c31c90d5ce",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-nintendo-switch-4c3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ustowo"
+  },
+  {
+    "id": "f573f167-3539-44ed-843d-f5f0f8135677",
+    "title": "POKEMON LET'S GO PIKACHU NINTENDO SWITCH",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ecbda/d90d2f06434d9f8e5295958bb516",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-switch-nj5?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ustowo"
   },
   {
     "id": "5bc71d70-bc6b-4e7c-ab00-7e10b2b8d10c",
@@ -468,16 +508,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Częstochowa, Wrzosowiak"
-  },
-  {
-    "id": "1c7f0bbc-e336-45dd-9fa6-2ec8b2068d98",
-    "title": "Pokemon Legends Arceus Nintendo Switch",
-    "price": "169",
-    "img": "https://a.allegroimg.com/s180x180/1ed4aa/6248f8774fa1aad5a073b293d18a",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-legends-arceus-nintendo-switch-ose?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań"
   },
   {
     "id": "68142900-4271-4801-8010-d2c0d5bce158",
@@ -542,7 +572,7 @@
   {
     "id": "e5c6262d-cd63-44cb-a4cf-41d6ffb7fd5d",
     "title": "Triangle Strategy + Tactics Ogre: Reborn",
-    "price": "240",
+    "price": "230",
     "img": "https://a.allegroimg.com/s180x180/1e6b7e/9521e1d741b182fbfd04cefccee0",
     "url": "https://allegrolokalnie.pl//oferta/triangle-strategy-tactics-ogre-reborn?navCategoryId=256922",
     "promoted": false,
@@ -552,7 +582,7 @@
   {
     "id": "9205dc00-2cdc-45fa-8133-89005ef1e98d",
     "title": "FRONT MISSION 1st: Remake - Limited Edition Switch",
-    "price": "250",
+    "price": "230",
     "img": "https://a.allegroimg.com/s180x180/1e3dab/2bb79f294458a17a08c892515c81",
     "url": "https://allegrolokalnie.pl//oferta/front-mission-1st-remake-limited-edition-switch-pco?navCategoryId=256922",
     "promoted": false,
@@ -622,8 +652,8 @@
   {
     "id": "d5560d7e-a1df-452e-9124-657fba7c70c0",
     "title": "TETRIS (R) EFFECT: CONNECTED ( PS5 PSVR2 ) EGZ NOWY, W FOLII",
-    "price": "300",
-    "img": "https://a.allegroimg.com/s180x180/1e20fd/f99aa901477f810d9ed24e01870c",
+    "price": "327",
+    "img": "https://a.allegroimg.com/s180x180/1e7c3e/80f1636d4781896771bf16e70108",
     "url": "https://allegrolokalnie.pl//oferta/tetris-r-effect-connected-ps5-psvr2-egz-nowy-w-folii?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -990,19 +1020,9 @@
     "city": "Kraków, Podgórze"
   },
   {
-    "id": "707ac3c9-67f6-4cf5-9a5d-4b9d84cdf6a8",
-    "title": "My sims cozy bundle",
-    "price": "85",
-    "img": "https://a.allegroimg.com/s180x180/1e8558/08fdd9b64539a22bdbb265b9c3a8",
-    "url": "https://allegrolokalnie.pl//oferta/my-sims-cozy-bundle?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "9fccc604-bfd1-440c-8629-0be6f4e1952e",
-    "title": "Kingdom come deliverance",
-    "price": "140",
+    "title": "Kingdom come deliverance Nintendo Switch",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1eda5b/aa83b06444f39b19989d0ef0b5e0",
     "url": "https://allegrolokalnie.pl//oferta/kingdom-come-deliverance-hxw?navCategoryId=256922",
     "promoted": false,
@@ -1152,8 +1172,8 @@
   {
     "id": "5e522e19-2886-470e-830a-6cd4d769fde6",
     "title": "SEA OF STARS (SWITCH / SWITCH2) EGZ NOWY, WYD KOLEKCJONERSKIE",
-    "price": "359",
-    "img": "https://a.allegroimg.com/s180x180/1ee9e4/b78aa35c4d20ac10b25d4993bbab",
+    "price": "499",
+    "img": "https://a.allegroimg.com/s180x180/1e5edb/e18c05604440994acfe2927f76a3",
     "url": "https://allegrolokalnie.pl//oferta/sea-of-stars-switch-switch2-egz-nowy-wyd-kolekcjonerskie?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -1163,7 +1183,7 @@
     "id": "1d605683-cbc8-4c88-95db-904d08de455c",
     "title": "SCHiM ( SWITCH / SWITCH2 ) WYD KOLEKCJONERSKIE, EGZ NOWY",
     "price": "249",
-    "img": "https://a.allegroimg.com/s180x180/1e53f5/22192e7f4005bbb7f3f8b1a942fd",
+    "img": "https://a.allegroimg.com/s180x180/1e9869/584e3dff499181495c202a15ba81",
     "url": "https://allegrolokalnie.pl//oferta/schim-switch-switch2-wyd-kolekcjonerskie-egz-nowy?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
@@ -1262,7 +1282,7 @@
   {
     "id": "e14fa6b9-9570-44da-936d-1c22ebf5e4ac",
     "title": "Donkey Kong Country Tropical Freeze Nintendo swittch",
-    "price": "160",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e8e74/85025c64482880a35757780dd7c2",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-swittch?navCategoryId=256922",
     "promoted": false,
@@ -1560,19 +1580,9 @@
     "city": "Łódź, Śródmieście"
   },
   {
-    "id": "694f8667-047f-4b5a-981b-430e3cc07dab",
-    "title": "Tomb raider I-III remastered deluxe edition",
-    "price": "140",
-    "img": "https://a.allegroimg.com/s180x180/1ececf/5b8a97e8409f98fb3421390cf46f",
-    "url": "https://allegrolokalnie.pl//oferta/tomb-raider-iiii-remastered-deluxe-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
     "id": "02a1235c-70c3-407e-bf44-4c722d973a0a",
     "title": "Samurai warriors 5 collector's edition",
-    "price": "210",
+    "price": "190",
     "img": "https://a.allegroimg.com/s180x180/1e3c86/34d58dff46e18429df491515e09b",
     "url": "https://allegrolokalnie.pl//oferta/samurai-warriors-5-collectors-edition?navCategoryId=256922",
     "promoted": false,
@@ -1582,7 +1592,7 @@
   {
     "id": "b6a01862-4497-4812-a4a0-8ff4ede6aade",
     "title": "Tales of Symphonia remastered the chosen edition",
-    "price": "100",
+    "price": "95",
     "img": "https://a.allegroimg.com/s180x180/1e47d0/d69b819a4bd39d606a14c3347485",
     "url": "https://allegrolokalnie.pl//oferta/tales-of-symphonia-remastered-the-chosen-edition?navCategoryId=256922",
     "promoted": false,
@@ -1628,6 +1638,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
+  },
+  {
+    "id": "1ce96579-b9c9-4af7-9f9a-f4a7a8e031d6",
+    "title": "Donkey Kong Country Tropical Freeze Nintendo swittch plus dodatek",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e1c96/3dda281a497195e8474fd48d4480",
+    "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-tropical-freeze-nintendo-swittch-plus-dodatek?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Myślenice"
   },
   {
     "id": "889cebd9-f0b3-4af4-b41d-a917b2753314",
@@ -1742,7 +1762,7 @@
   {
     "id": "4d01d2b2-9768-43ef-96c5-a7423824dbe2",
     "title": "ZELDA TEARS OF THE KINGDOM + NOWY PRO CONTROLLER + GADŻETY",
-    "price": "1 111",
+    "price": "1 055",
     "img": "https://a.allegroimg.com/s180x180/1ee6d8/b6e8009041ef9c9a5d2b1da24800",
     "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-nowy-pro-controller-gadzety?navCategoryId=256922",
     "promoted": false,
@@ -1812,7 +1832,7 @@
   {
     "id": "0c8bd4ad-d7a9-4b75-84f0-f6e22f8e6d32",
     "title": "INTERAKTYW ĆW PISMA JAPOŃSKIEGO \"KANKEN SMART TAISAKU\" (SWITCH / SWITCH2)",
-    "price": "399",
+    "price": "434",
     "img": "https://a.allegroimg.com/s180x180/1e65c6/315b5aa64e02aa92755e89b448c2",
     "url": "https://allegrolokalnie.pl//oferta/kanken-smart-taisaku-switch-switch2-touchpen-hac041?navCategoryId=256922",
     "promoted": false,
@@ -1822,7 +1842,7 @@
   {
     "id": "9c887184-0ab8-48e3-b49f-fcbeff003554",
     "title": "UNDERTALE (SWITCH / SWITCH2) + ARTBOOK // WYD US, EGZ NOWY",
-    "price": "499",
+    "price": "543",
     "img": "https://a.allegroimg.com/s180x180/1e467c/710b71d1431fb6c6cd85a0dc8630",
     "url": "https://allegrolokalnie.pl//oferta/undertale-switch-switch2-artbook-wyd-us-egz-nowy-walentynki-r3r?navCategoryId=256922",
     "promoted": false,
@@ -2328,16 +2348,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łuków"
-  },
-  {
-    "id": "7ccb4d0d-36d2-449c-bab4-2bce9b5274a4",
-    "title": "Snipperclips Nintendo Switch",
-    "price": "100",
-    "img": "https://a.allegroimg.com/s180x180/1e078f/7f245439446dad6d61806b466490",
-    "url": "https://allegrolokalnie.pl//oferta/snipperclips-nintendo-switch-2wk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
   },
   {
     "id": "39a14570-d532-4be1-a84c-bbfe27f96da6",
@@ -2958,16 +2968,6 @@
     "promoted": false,
     "smartPost": false,
     "city": "Brzozów"
-  },
-  {
-    "id": "55ce08c6-fc6b-4018-9040-db98b441c8cb",
-    "title": "Pokemon Tournament Nintendo Switch",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1e570c/20cac186417cbb15798144d13b0c",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-tournament-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kraków, Prądnik Czerwony"
   },
   {
     "id": "a3988840-d80a-42c0-a497-d355d518be07",
