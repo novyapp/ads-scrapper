@@ -36,7 +36,7 @@
     "img": "https://a.allegroimg.com/s180x180/1eee51/b54e0be54cadaa81f12811008952",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-bros-wonder-nintendo-switch-f3q?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wieliczka"
   },
   {
@@ -46,7 +46,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e23d0/2f1548404dfe810562f339178e7a",
     "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-72d?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Wieliczka"
   },
   {
@@ -2850,16 +2850,6 @@
     "city": "Szczecin"
   },
   {
-    "id": "38cb101a-a3d1-49f6-8299-8049a7c6ad8a",
-    "title": "Risen PL Nintendo Switch",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e7ccd/f1458bf649158330a2432f254980",
-    "url": "https://allegrolokalnie.pl//oferta/risen-pl-nintendo-switch-onk?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Szczecin"
-  },
-  {
     "id": "cc7f429a-d06f-4ea4-a2fc-31814e7da42f",
     "title": "Daemon X Machina Nintendo Switch",
     "price": "99",
@@ -5560,6 +5550,16 @@
     "city": "Izbica Kujawska"
   },
   {
+    "id": "dc07d2ad-03c3-434c-aee5-eca1bf3d6b7a",
+    "title": "Okami Nintendo Switch ANG",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1ed115/2ee265dc4766bc6e918fb81a40db",
+    "url": "https://allegrolokalnie.pl//oferta/okami-nintendo-switch-ang-glb?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
+  },
+  {
     "id": "7fd129f1-7ada-42cc-b036-3c27684cf53a",
     "title": "Nintendo switch  nowe gry razem lub osobno",
     "price": "1 300",
@@ -5985,6 +5985,16 @@
     "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1e7fd1/ade2e08b44a690f2afe31ffe49e0",
     "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-2-rhythm-exercise-bd2?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zielona Góra"
+  },
+  {
+    "id": "17fe8e02-9b8e-4002-8ff2-dc9e7c2999d2",
+    "title": "NEW SUPER MARIO BROS.U DELUXE",
+    "price": "165",
+    "img": "https://a.allegroimg.com/s180x180/1e4d15/6b44d66d4c50b6b7c973a6f6b35c",
+    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-brosu-deluxe-bbv?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Zielona Góra"
