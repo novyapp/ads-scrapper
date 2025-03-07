@@ -150,16 +150,6 @@
     "city": "Pyskowice"
   },
   {
-    "id": "7ea26144-dd75-4b02-82b6-0ae8c92c5c54",
-    "title": "The Legend of Zelda Breath of the Wild",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e4687/babe0a114eaba2ae1495d2c53abb",
-    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-breath-of-the-wild-bn2?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Odrano-Wola"
-  },
-  {
     "id": "d0e61d77-2845-40b7-b0a2-b9e8461369c5",
     "title": "Super Mario Maker 2",
     "price": "159",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
+  },
+  {
+    "id": "285d6d8b-cc92-4f03-846b-d178eb4c3f77",
+    "title": "Legend of Zelda Link’s Awakening",
+    "price": "179",
+    "img": "https://a.allegroimg.com/s180x180/1ee804/8a23ab094fbbbe681d0afb70d404",
+    "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-links-awakening-bdj?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Toszek"
   }
 ]
