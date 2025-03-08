@@ -80,16 +80,6 @@
     "city": "Mielec"
   },
   {
-    "id": "0f4f27ed-62a5-4f6e-b575-01a30bee86fe",
-    "title": "WIEDŹMIN 3 EDYCJA KOMPLETNA.DUBBING PL.NINTENDO SWITCH",
-    "price": "179",
-    "img": "https://a.allegroimg.com/s180x180/1ef6cc/d436b92a4dd59176cf1aec42d9b9",
-    "url": "https://allegrolokalnie.pl//oferta/wiedzmin-3-edycja-kompletnadubbing-plnintendo-switch?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Mielec"
-  },
-  {
     "id": "dafeaa05-a492-40dd-a73c-5f11761fd330",
     "title": "POKEMON LEGENDS ARCEUS KARTRIDŻ. NINTENDO SWITCH",
     "price": "129",
@@ -358,6 +348,16 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ruszkowice"
+  },
+  {
+    "id": "aed6a882-de05-4ece-8cc1-f1f7ec5a8d88",
+    "title": "Nintendo Switch - Super Mario Bros Wonder nowa folia",
+    "price": "190",
+    "img": "https://a.allegroimg.com/s180x180/1ec80f/9ad1711042ae8ed0018a0161a132",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-super-mario-bros-wonder-nowa-folia?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zamość"
   },
   {
     "id": "402868af-7c00-48a3-aa27-5ebe693af4db",
@@ -1390,16 +1390,6 @@
     "city": "Pruszków"
   },
   {
-    "id": "84365c25-7932-4fc1-b7bb-502c08ef1416",
-    "title": "Gra na Nintendo Switch Super Monkey Ball Banana Rumble nowa folia",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1ecefc/631bfa994a4484018a067232e2fa",
-    "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-super-monkey-ball-banana-rumble-nowa-folia?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Poznań, Nowe Miasto"
-  },
-  {
     "id": "9155d265-05eb-49bd-83a8-d61cf58b124b",
     "title": "The Legend of Zelda: Tears of the Kingdom",
     "price": "200",
@@ -2088,16 +2078,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wroclaw"
-  },
-  {
-    "id": "6dc1b826-1295-4e46-9e85-395abd6e6a48",
-    "title": "Nier: Automata: The End of YoRHa + Final Fantasy XII: The Zodiac Age",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e5ef6/c6ba6e4d422297218ddb462bf666",
-    "url": "https://allegrolokalnie.pl//oferta/nier-automata-the-end-of-yorha-final-fantasy-xii-the-zodiac-age-yxf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Myślachowice"
   },
   {
     "id": "f60a7282-330e-46d5-a242-9968b8dfe299",
@@ -2972,7 +2952,7 @@
   {
     "id": "f2b704a9-1884-4260-9ed2-426587a9bcda",
     "title": "Final Fantasy VII VIII Remastered Twin Pack Nintendo Switch",
-    "price": "100",
+    "price": "99",
     "img": "https://a.allegroimg.com/s180x180/1e6cb9/a2e98be84856a0156cbf4013b0f7",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-vii-viii-remastered-twin-pack-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -5476,7 +5456,7 @@
     "img": "https://a.allegroimg.com/s180x180/1efc40/853dbfb74b329cda93f5d22d8aa6",
     "url": "https://allegrolokalnie.pl//oferta/gra-na-nintendo-switch-princess-peach-showtime-lt7?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Poznań, Nowe Miasto"
   },
   {
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Legnica"
+  },
+  {
+    "id": "2131ab60-534d-4ed8-9c53-905694cd7abb",
+    "title": "Super Mario 3D All-Stars Nintendo Switch Angielska",
+    "price": "760",
+    "img": "https://a.allegroimg.com/s180x180/1e1b0d/79ebecc04f1381d462b95ab5c958",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-allstars-nintendo-switch-angielska?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zabierzów"
+  },
+  {
+    "id": "901a8090-c626-42af-9bcd-69581dabcb85",
+    "title": "MARIOKART DELUX 8",
+    "price": "200",
+    "img": "https://a.allegroimg.com/s180x180/1e7f5a/5410332845bdbbf4ae76cf5bd292",
+    "url": "https://allegrolokalnie.pl//oferta/mariokart-delux-8-qhd?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Izbica Kujawska"
   }
 ]
