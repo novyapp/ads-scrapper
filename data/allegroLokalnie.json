@@ -300,6 +300,26 @@
     "city": "Rzeszów "
   },
   {
+    "id": "e7c93c4b-af9a-4f83-ba55-16a32cc15288",
+    "title": "UNDERTALE ( SWITCH ) + ARTBOOK // WYD US, EGZ NOWE",
+    "price": "399",
+    "img": "https://a.allegroimg.com/s180x180/1e3c3f/d114b9e74e1182e939fbb89c21e2",
+    "url": "https://allegrolokalnie.pl//oferta/undertale-switch-artbook-wyd-us-egz-nowe-f3v?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
+    "id": "073b1a27-eb25-44d8-9c82-544aa3a2d187",
+    "title": "BALATRO SPECIAL EDITION ( SWITCH ) // EGZ NOWY, W FOLII",
+    "price": "153",
+    "img": "https://a.allegroimg.com/s180x180/1e9606/f6a6d54249f6a5647c698e3816fb",
+    "url": "https://allegrolokalnie.pl//oferta/balatro-special-edition-switch-egz-nowy-w-folii-igr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "DOBRZANY"
+  },
+  {
     "id": "808aa866-62a8-4932-8b14-5d3dab59b173",
     "title": "Captain Toad Treasure Tracker Nintendo Switch",
     "price": "99",
@@ -498,16 +518,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
-  },
-  {
-    "id": "4c33a67d-63c6-42b1-a7da-10fbd0734481",
-    "title": "UNDERTALE ( SWITCH ) + ARTBOOK // WYD US, EGZ NOWE",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1eaf06/45e14e6a4cccaf2827826c2430bb",
-    "url": "https://allegrolokalnie.pl//oferta/undertale-switch-artbook-wyd-us-egz-nowe-nok?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "DOBRZANY"
   },
   {
     "id": "247c60c4-cf80-4e62-a6b5-82b4f51fed57",
@@ -1156,7 +1166,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed954/e818b8ac42399fdba36467a131b3",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-ivi-pixel-remaster-collection-switch-ang?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Gdańsk"
   },
   {
@@ -1518,16 +1528,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Ostrow Mazowiecka"
-  },
-  {
-    "id": "fc2bc194-648b-4e29-9562-543bdbf777af",
-    "title": "Ringfit Nintendo Switch bez gry",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1edfb2/defdeaee490cbe6caca53e37bde4",
-    "url": "https://allegrolokalnie.pl//oferta/ringfit-nintendo-switch-bez-gry?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Suwałki"
   },
   {
     "id": "4a1b92d3-1162-43ff-a176-c9642f551964",
@@ -5996,7 +5996,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ed115/2ee265dc4766bc6e918fb81a40db",
     "url": "https://allegrolokalnie.pl//oferta/okami-nintendo-switch-ang-glb?navCategoryId=256922",
     "promoted": false,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Gdańsk"
   }
 ]
