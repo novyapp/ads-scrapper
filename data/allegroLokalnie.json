@@ -62,7 +62,7 @@
   {
     "id": "3bd0e6a4-6377-4a2e-9f6b-e5434bfb1432",
     "title": "Zelda Echos of wisdom",
-    "price": "149",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e33f6/dda152e24b35a46d71b8873dedde",
     "url": "https://allegrolokalnie.pl//oferta/zelda-echos-of-wisdom?navCategoryId=256922",
     "promoted": true,
@@ -370,16 +370,6 @@
     "city": "Warszawa, Ursynów"
   },
   {
-    "id": "eb85ba0a-9bc4-4c74-88db-1d39a05c838a",
-    "title": "Ori The Collection Nintendo Switch gra",
-    "price": "135",
-    "img": "https://a.allegroimg.com/s180x180/1edb36/d32810d147f8ba1339624cfb7b13",
-    "url": "https://allegrolokalnie.pl//oferta/ori-the-collection-nintendo-switch-gra?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krakow"
-  },
-  {
     "id": "c9a32eee-2b65-48c7-a34a-58562ff1d71e",
     "title": "Super Mario Bros u deluxe Nintendo Switch",
     "price": "165",
@@ -598,16 +588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Czyżyny"
-  },
-  {
-    "id": "d7f41073-ecf1-4759-83ab-ec377a378bcb",
-    "title": "NOWA gra Lode Runner Legacy Nintendo Switch Strictly Limited Games 2500 szt",
-    "price": "445",
-    "img": "https://a.allegroimg.com/s180x180/1e2e60/90f552f74ac3adc452397c8bbadf",
-    "url": "https://allegrolokalnie.pl//oferta/nowa-gra-lode-runner-legacy-nintendo-switch-strictly-limited-games-2500-szt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Lublewo Gdańskie"
   },
   {
     "id": "339aa0fd-7e9b-485d-aeaf-95e346ad1ea9",
@@ -1072,7 +1052,7 @@
   {
     "id": "a82793d2-7042-410d-a50c-692566e94942",
     "title": "zelda tears of the kingdom collectors edition Nintendo switch",
-    "price": "380",
+    "price": "360",
     "img": "https://a.allegroimg.com/s180x180/1e612b/1761170d41d3902bea0962d24b1f",
     "url": "https://allegrolokalnie.pl//oferta/zelda-tears-of-the-kingdom-collectors-edition-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -1562,7 +1542,7 @@
   {
     "id": "19b08046-1c98-4125-820a-8ce5548ce8a1",
     "title": "The Cruel King And The Great Hero Switch",
-    "price": "240",
+    "price": "230",
     "img": "https://a.allegroimg.com/s180x180/1eff28/45b2847143b0a6750b87d5f0115b",
     "url": "https://allegrolokalnie.pl//oferta/the-cruel-king-and-the-great-hero-switch?navCategoryId=256922",
     "promoted": false,
@@ -1572,7 +1552,7 @@
   {
     "id": "f8176d5e-5d92-4fbc-ab55-157f7e479867",
     "title": "Dead Cells Switch",
-    "price": "90",
+    "price": "80",
     "img": "https://a.allegroimg.com/s180x180/1e6d0f/52325dbc424e985161c88e554780",
     "url": "https://allegrolokalnie.pl//oferta/dead-cells-switch-e3o?navCategoryId=256922",
     "promoted": false,
@@ -1582,7 +1562,7 @@
   {
     "id": "b81d4c9d-1c43-45cb-8790-e85f1c6bd530",
     "title": "Trek To Yomi Switch",
-    "price": "80",
+    "price": "75",
     "img": "https://a.allegroimg.com/s180x180/1e1a33/e45c74c94fb2999d4bfb2b97d8e0",
     "url": "https://allegrolokalnie.pl//oferta/trek-to-yomi-switch?navCategoryId=256922",
     "promoted": false,
@@ -1592,7 +1572,7 @@
   {
     "id": "a9acce3f-79f5-44b1-87d2-8cc1b36602c9",
     "title": "Hotline Miami Collection Switch Nowa",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1e78cf/9f86288c425a8eedc736933069fa",
     "url": "https://allegrolokalnie.pl//oferta/hotline-miami-collection-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -1602,7 +1582,7 @@
   {
     "id": "9a4c6d26-9057-4a3f-b681-0e57cbd48dd6",
     "title": "Moonscars Switch Nowa",
-    "price": "100",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1eafce/28899c79458c940f6f65c3fbc23a",
     "url": "https://allegrolokalnie.pl//oferta/moonscars-switch-nowa?navCategoryId=256922",
     "promoted": false,
@@ -5995,6 +5975,16 @@
     "price": "109",
     "img": "https://a.allegroimg.com/s180x180/1e5e23/9392012a4fdbbe68cd49a976083e",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-encodya-unikat-na-karcie?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wrocław"
+  },
+  {
+    "id": "52621ac4-31c2-49f1-b609-776d03c39575",
+    "title": "Nintendo Switch / The Binding Of Isaac Afterbirth+ / UNIKAT / Na Karcie!",
+    "price": "329",
+    "img": "https://a.allegroimg.com/s180x180/1e1f9a/7f6642bd4a6086a99a7ef695022d",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-binding-of-isaac-afterbirth-unikat-na-karcie?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław"
