@@ -1,5 +1,15 @@
 [
   {
+    "id": "b2a7833b-4d18-4539-8e21-fa61b9b30bab",
+    "title": "Nintendo switch Kirby's return to dreamland deluxe",
+    "price": "160",
+    "img": "https://a.allegroimg.com/s180x180/1efaf3/b46c241e4f20b8fd899952682ce8",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-kirbys-return-to-dreamland-deluxe?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Inowrocław"
+  },
+  {
     "id": "d023d3b7-ec86-4216-8196-eb6a720eda87",
     "title": "Monster Hunter Wings of Ruin + TMNT Mutant Unleashed Nintendo Switch",
     "price": "170",
@@ -72,7 +82,7 @@
   {
     "id": "d3be9252-9fa8-45a0-bf62-22e519da733a",
     "title": "Super Mario Maker 2gra Nintendo switch",
-    "price": "160",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e4f97/04c87ca54c049741ec04453ecb0e",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2gra-nintendo-switch?navCategoryId=256922",
     "promoted": true,
@@ -200,16 +210,6 @@
     "city": "Łódź"
   },
   {
-    "id": "5a045dd1-d78d-4feb-a972-a8748542374c",
-    "title": "Psi patrol Paw patrol grand prix po polsku",
-    "price": "59",
-    "img": "https://a.allegroimg.com/s180x180/1e1819/db3e97ac4b9089c27a44ec5e7dfc",
-    "url": "https://allegrolokalnie.pl//oferta/psi-patrol-paw-patrol-grand-prix-po-polsku?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Nowy Targ"
-  },
-  {
     "id": "c80b8e8a-c649-48d3-9740-6268efeef25f",
     "title": "JAK NOWA LEGO Adventures Horizon PL - Nintendo SWITCH",
     "price": "169",
@@ -238,16 +238,6 @@
     "promoted": true,
     "smartPost": true,
     "city": "Karpicko"
-  },
-  {
-    "id": "cda0404d-e827-4a85-b802-e40aa0abae75",
-    "title": "Nintendo Switch SPLATOON 2 .. Supercena NOWY",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e4e10/aa40c0b64c7b804e2c3a26775a92",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-splatoon-2-super-cena-nowy?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "495f5415-8ba5-4e07-a41a-057839742553",
@@ -318,6 +308,76 @@
     "promoted": true,
     "smartPost": false,
     "city": "Rzeszów "
+  },
+  {
+    "id": "fbf396ab-70a2-43ce-9dea-1c2ddbafbff3",
+    "title": "Lego Skywalker Saga Nintedo Switch",
+    "price": "79",
+    "img": "https://a.allegroimg.com/s180x180/1e779d/298e7bbb4d85b2343589253d3ff6",
+    "url": "https://allegrolokalnie.pl//oferta/lego-skywalker-saga-nintedo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
+    "id": "d1064f3e-36e0-4b2e-a568-44b798bdb583",
+    "title": "Gra Super Smash Bros. Ultimate Nintendo Switch",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e1126/8a9ff4374d4a8b45d20b5be30d07",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-smash-bros-ultimate-nintendo-switch-4ug?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
+    "id": "2b7d5929-16ff-496a-9b85-76f04f5ea416",
+    "title": "Gra Super Mario Oddysey bardzo dobry stan",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e387a/9b525f2a46f6a26f460f7967fe0a",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-oddysey-bardzo-dobry-stan?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Radom"
+  },
+  {
+    "id": "63271a4c-10c5-4bb4-aed5-c57e4dacdacc",
+    "title": "Gra Pokemon Let's Go Eeve",
+    "price": "130",
+    "img": "https://a.allegroimg.com/s180x180/1ee156/6227e95347a99cdfad52fa24d216",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pokemon-lets-go-eeve?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świdnica"
+  },
+  {
+    "id": "506d94d5-d1b8-4159-b2c1-3b2bccbc99f1",
+    "title": "Gra Super Mario Odyssey",
+    "price": "125",
+    "img": "https://a.allegroimg.com/s180x180/1e75af/5518e9fe4713ba6abf184c1a49fa",
+    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-odyssey-t3a?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świdnica"
+  },
+  {
+    "id": "7ca0f27c-61c7-4fc4-abbe-d6ea6e7112ce",
+    "title": "Pokemon Shining Pearl",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1ed1e5/e1d0127c4f25a352d62816ef8254",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-4r7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świdnica"
+  },
+  {
+    "id": "dd3a37ca-f0d0-4fb4-958d-6ce696b3f362",
+    "title": "Gra Nintendo Switch Splatoon 3",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e9caf/7fec7ac542bf81d40fe5f37cbd03",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nintendo-switch-splatoon-3-ygk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świdnica"
   },
   {
     "id": "3ada7782-2b58-454b-a539-a5eb2b9b4d67",
@@ -448,16 +508,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Wrocław, Fabryczna"
-  },
-  {
-    "id": "e7034ab7-eb4f-4c78-970a-2fd10fb89278",
-    "title": "SNK HEROINES Tag Team Frenzy Diamond Dream Collector Kolekcjonerska Switch",
-    "price": "399",
-    "img": "https://a.allegroimg.com/s180x180/1eba12/de17e39443b2b7a558ae82174014",
-    "url": "https://allegrolokalnie.pl//oferta/snk-heroines-tag-team-frenzy-diamond-dream-collector-kolekcjonerska-switch-jvy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Otwock"
   },
   {
     "id": "4642b850-192b-44d8-83cb-c8f169b7ac8c",
@@ -848,26 +898,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Częstochowa"
-  },
-  {
-    "id": "0ce64700-f599-4018-a4f4-ead496344ba0",
-    "title": "Umihara Kawase Fresh + Bazooka - Nintendo Switch",
-    "price": "259",
-    "img": "https://a.allegroimg.com/s180x180/1e79c4/a1b6dc52492292a3b2bf257bb827",
-    "url": "https://allegrolokalnie.pl//oferta/umihara-kawase-fresh-bazooka-nintendo-switch-xuy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Otwock"
-  },
-  {
-    "id": "97df191d-1a14-4d66-b683-7f8eba1417ec",
-    "title": "Cotton Guardian Force Saturn Tribute Nintendo - Nintendo Switch - FOLIA",
-    "price": "249",
-    "img": "https://a.allegroimg.com/s180x180/1e915a/6a60f03e433699bb5b821f246ed8",
-    "url": "https://allegrolokalnie.pl//oferta/cotton-guardian-force-saturn-tribute-nintendo-nintendo-switch-folia-htg?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Otwock"
   },
   {
     "id": "08d2396e-f84f-4383-828f-01cf0e80f414",
@@ -1552,7 +1582,7 @@
   {
     "id": "b7a9dbab-a23e-4f7f-96f9-8b5405875830",
     "title": "Ring fit Nintendo Switch Nowe.",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1e3eba/3e74a1fd45c79d80dfe69b3b5c5a",
     "url": "https://allegrolokalnie.pl//oferta/ring-fit-nintendo-switch-nowe?navCategoryId=256922",
     "promoted": false,
@@ -1808,6 +1838,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Zamość"
+  },
+  {
+    "id": "cda0404d-e827-4a85-b802-e40aa0abae75",
+    "title": "Nintendo Switch SPLATOON 2 .. Supercena NOWY",
+    "price": "89",
+    "img": "https://a.allegroimg.com/s180x180/1e4e10/aa40c0b64c7b804e2c3a26775a92",
+    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-splatoon-2-super-cena-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
   },
   {
     "id": "92574b35-4d74-496c-a458-5fd8a7738b09",
@@ -2088,16 +2128,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Mielec"
-  },
-  {
-    "id": "2c280f1b-91b9-4ca0-950e-4f33d6c4383e",
-    "title": "The Legend of Zelda Tears of the Kingdom na Nintendo Switch. Nowa w folii.",
-    "price": "190",
-    "img": "https://a.allegroimg.com/s180x180/1ea2d2/3e3044104b7e8a3c720692aabefa",
-    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-na-nintendo-switch-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Miechów"
   },
   {
     "id": "d1bd07b6-cf9a-433a-a3ed-fb5ca61e1b3a",
@@ -3588,6 +3618,16 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź, Śródmieście"
+  },
+  {
+    "id": "afbfa71e-3b9c-446c-ba83-f936087e34b7",
+    "title": "Fitness Boxing na konsolę Nintendo Switch",
+    "price": "120",
+    "img": "https://a.allegroimg.com/s180x180/1e5fd5/db6274fa40d5b26885c40d1f4016",
+    "url": "https://allegrolokalnie.pl//oferta/fitness-boxing-na-konsole-nintendo-switch-nny?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Gdańsk"
   },
   {
     "id": "daca6f95-ec6b-4685-8db6-1266b3aa91e4",
@@ -5958,35 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
-  },
-  {
-    "id": "009ebac6-7221-493e-a88a-e01a35078599",
-    "title": "Gothic 2 Complete Classic Nintendo Switch nowa",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e7602/47cc667a419cb539ad1bd3d6e140",
-    "url": "https://allegrolokalnie.pl//oferta/gothic-2-complete-classic-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Węgrzce Wielkie"
-  },
-  {
-    "id": "e2266b50-c7c9-4d41-b7be-0777b1afd735",
-    "title": "LEGO: Brawls Nintendo Switch NS",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1ea3c6/f7a945334984a2cc841c0d62c49c",
-    "url": "https://allegrolokalnie.pl//oferta/lego-brawls-nintendo-switch-ns?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Rumia"
-  },
-  {
-    "id": "1b6b3411-fde0-4518-9117-06911378ec94",
-    "title": "Nintendo Switch / Book of Demons / Na karcie / Unikat / Super Rare Games",
-    "price": "299",
-    "img": "https://a.allegroimg.com/s180x180/1e5588/7f52e2a04b8eadc1981bdf5c7814",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-book-of-demons-na-karcie-unikat-super-rare-games?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław"
   }
 ]
