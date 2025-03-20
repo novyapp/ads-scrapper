@@ -562,7 +562,7 @@
   {
     "id": "1d222a78-a7f1-4d63-88a7-3d401e4570c6",
     "title": "The Legend of Zelda Breathe of the wild",
-    "price": "160",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1e41da/a4fe01474ca6b0acabae8d46347f",
     "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-breathe-of-the-wild-7bi?navCategoryId=256922",
     "promoted": false,
@@ -1725,16 +1725,6 @@
     "price": "182",
     "img": "https://a.allegroimg.com/s180x180/1e3bc3/0bcee82b4b549141547a618d4e85",
     "url": "https://allegrolokalnie.pl//oferta/new-pokemon-snap-nintendo-switch-supercena-nowy-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
-  },
-  {
-    "id": "3394a5c7-450e-44a7-b309-522876a403b6",
-    "title": "LEGO HARRY POTTER COLLECTION Nintendo Switch  .. Supercena NOWY , kartridż",
-    "price": "119",
-    "img": "https://a.allegroimg.com/s180x180/1efcb6/b90e19674b758367cefe582ccae5",
-    "url": "https://allegrolokalnie.pl//oferta/lego-harry-potter-collection-nintendo-switch-supercena-nowy-kartridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
@@ -4200,16 +4190,6 @@
     "city": "Grabówka"
   },
   {
-    "id": "bdb4afaa-3d57-4f0e-8abf-fc39a2b30059",
-    "title": "Gra, Super Mario Maker 2 - Nintendo Switch",
-    "price": "200",
-    "img": "https://a.allegroimg.com/s180x180/1e6f24/199833c648f899bc2dc2769461e2",
-    "url": "https://allegrolokalnie.pl//oferta/gra-super-mario-maker-2-nintendo-switch-3xi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Grabówka"
-  },
-  {
     "id": "93da0376-59c7-4425-85c6-3f00526c0b47",
     "title": "Gra, Mario and Rabbids sparks of hope - Nintendo Switch",
     "price": "120",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Janikowo"
+  },
+  {
+    "id": "b0dc852d-3606-491a-9b2f-0880831ccd38",
+    "title": "Plakat Pokemon Legends Arceus",
+    "price": "30",
+    "img": "https://a.allegroimg.com/s180x180/1e3073/63e4bf7d4b59b6789584b192d90d",
+    "url": "https://allegrolokalnie.pl//oferta/plakat-pokemon-legends-arceus?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Zielona Góra"
   }
 ]
