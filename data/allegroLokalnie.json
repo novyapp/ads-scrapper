@@ -1,5 +1,15 @@
 [
   {
+    "id": "565e5326-6438-4f79-a654-e73e77d0f9a2",
+    "title": "Prince of Persia: The Lost Crown",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e0504/04eb204e487cb4a8d1be752a78dc",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-fj2?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Śliwice"
+  },
+  {
     "id": "050b2a13-3de4-4007-a1d6-4881a3b45b6a",
     "title": "My Sims Cozy Bundle",
     "price": "90",
@@ -270,6 +280,26 @@
     "city": "Ruszkowice"
   },
   {
+    "id": "6c490125-50c9-4901-a370-0eb91d71c86c",
+    "title": "Mario tennis aces nintendo switch",
+    "price": "149",
+    "img": "https://a.allegroimg.com/s180x180/1ea31e/ecc8645b4a67b12bd998e350fa57",
+    "url": "https://allegrolokalnie.pl//oferta/mario-tennis-aces-nintendo-switch-aiz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wojcieszyn"
+  },
+  {
+    "id": "76fd2179-f092-4c03-a030-8bc075d0e16f",
+    "title": "Super Mario Maker 2 Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1ecc3f/8a98025c4986a9bc4ba1c9019845",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-nintendo-switch-evv?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Wojcieszyn"
+  },
+  {
     "id": "bcadb5b0-d267-46ac-a3cb-516bf6ef2cff",
     "title": "UNDERTALE ( SWITCH ) + ARTBOOK // WYD US, EGZ NOWE",
     "price": "399",
@@ -428,16 +458,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Poznań"
-  },
-  {
-    "id": "f70db397-efcc-40ce-be1f-91de33409bd1",
-    "title": "Xenoblade Chronicles X pakiet dodatków przedpremierowych nowy",
-    "price": "45",
-    "img": "https://a.allegroimg.com/s180x180/1e93e0/24b4d6204c249ec38b230d969dbc",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-x-pakiet-dodatkow-przedpremierowych-nowy?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Skierniewice"
   },
   {
     "id": "a5705a1f-22ed-46b8-bffb-5f29c1324a93",
@@ -602,7 +622,7 @@
   {
     "id": "cf019f30-4e7c-47f5-85d3-d215a9c6e2ce",
     "title": "Donkey Kong Country Returns HD / Switch / Stan idealny!",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e0daf/5c156a4d47b8b70f692992c50a9c",
     "url": "https://allegrolokalnie.pl//oferta/donkey-kong-country-returns-hd-switch-stan-idealny?navCategoryId=256922",
     "promoted": false,
@@ -1262,7 +1282,7 @@
   {
     "id": "974d0450-3ddf-4e8e-9e8d-0c300a7d0063",
     "title": "Zelda Links Awakening Nintendo Switch",
-    "price": "159",
+    "price": "155",
     "img": "https://a.allegroimg.com/s180x180/1e5b83/b73730c54bc395845fd86d386bbc",
     "url": "https://allegrolokalnie.pl//oferta/zelda-links-awakening-nintendo-switch-35l?navCategoryId=256922",
     "promoted": false,
@@ -4422,7 +4442,7 @@
   {
     "id": "5d835900-b8a0-45c6-bff2-715ff38f758e",
     "title": "Red Dead Redemption Switch",
-    "price": "175",
+    "price": "165",
     "img": "https://a.allegroimg.com/s180x180/1e5516/a59730e248d1ba87da96a1280d6f",
     "url": "https://allegrolokalnie.pl//oferta/red-dead-redemption-switch-sdn?navCategoryId=256922",
     "promoted": false,
@@ -5978,25 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Janikowo"
-  },
-  {
-    "id": "b0dc852d-3606-491a-9b2f-0880831ccd38",
-    "title": "Plakat Pokemon Legends Arceus",
-    "price": "30",
-    "img": "https://a.allegroimg.com/s180x180/1e3073/63e4bf7d4b59b6789584b192d90d",
-    "url": "https://allegrolokalnie.pl//oferta/plakat-pokemon-legends-arceus?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Zielona Góra"
-  },
-  {
-    "id": "52c6481a-ce7e-4d02-ae8e-ceec3770c6d6",
-    "title": "Gra Biomutant Nintendo Switch",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e527e/d032bd884dcd9a8d41851b5413a8",
-    "url": "https://allegrolokalnie.pl//oferta/gra-biomutant-nintendo-switch-kuv?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kobierzyce"
   }
 ]
