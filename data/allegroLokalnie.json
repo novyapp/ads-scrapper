@@ -1,25 +1,5 @@
 [
   {
-    "id": "90249713-c8e9-4b56-b4f6-9aa68818e9c8",
-    "title": "Unicorn Overlord",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1ebc37/d65fe2224e0e95efd15a13d3f48d",
-    "url": "https://allegrolokalnie.pl//oferta/unicorn-overlord-lrz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zawadzkie"
-  },
-  {
-    "id": "18d688fc-4a92-4d41-8f8f-3229287e3148",
-    "title": "Zelda echoes of wisdom",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1e3fe7/52be9be141b48366929b0c73e342",
-    "url": "https://allegrolokalnie.pl//oferta/zelda-echoes-of-wisdom-kww?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Zawadzkie"
-  },
-  {
     "id": "46ac1589-bca4-4fb4-aa4d-7dd93c48fde1",
     "title": "Super mario wonder",
     "price": "170",
@@ -140,16 +120,6 @@
     "city": "Łódź"
   },
   {
-    "id": "b2a7833b-4d18-4539-8e21-fa61b9b30bab",
-    "title": "Nintendo switch Kirby's return to dreamland deluxe",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1efaf3/b46c241e4f20b8fd899952682ce8",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-kirbys-return-to-dreamland-deluxe?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Inowrocław"
-  },
-  {
     "id": "1292562b-4f62-4cc3-8255-3f43802ec121",
     "title": "Do Negocjacji Mario Party Superstars Switch",
     "price": "148",
@@ -248,16 +218,6 @@
     "promoted": true,
     "smartPost": false,
     "city": "Tarnowskie Góry"
-  },
-  {
-    "id": "6b454be0-727a-4fe5-99e1-85ae0ac8f9c1",
-    "title": "POKEMON Let's go Pikachu  Nintendo Switch  .. Supercena NOWY , kartridż",
-    "price": "189",
-    "img": "https://a.allegroimg.com/s180x180/1e21c2/c0386a82454f928dd0866dcc2b62",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-switch-supercena-nowy-kartridz?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "c9199901-bf8a-4b06-a489-11b138447557",
@@ -452,7 +412,7 @@
   {
     "id": "640d1f3e-be5c-4a7b-8574-c6788579ff0e",
     "title": "Xenoblade Chronicles 3 Nintendo Switch",
-    "price": "175",
+    "price": "165",
     "img": "https://a.allegroimg.com/s180x180/1e60ae/7ac4d2e648fcb5edf784e12686c6",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-3-nintendo-switch-amv?navCategoryId=256922",
     "promoted": false,
@@ -782,7 +742,7 @@
   {
     "id": "a666f818-21d1-4219-8345-991987af224c",
     "title": "Chrono Cross The Radical Dreamers Edition Nintendo Switch Nowe  + Gratis",
-    "price": "195",
+    "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1ed69d/4727389d4441a11c07c8d73e363e",
     "url": "https://allegrolokalnie.pl//oferta/chrono-cross-the-radical-dreamers-edition-nintendo-switch-nowe-gratis?navCategoryId=256922",
     "promoted": false,
@@ -792,7 +752,7 @@
   {
     "id": "f55f9e46-1e75-446f-be1e-e178b63769ba",
     "title": "Final Fantasy IX Nintendo Switch Nowe + Gratis",
-    "price": "215",
+    "price": "209",
     "img": "https://a.allegroimg.com/s180x180/1e7ec4/ab11e8f54bc2ba43b11e4e7addc9",
     "url": "https://allegrolokalnie.pl//oferta/final-fantasy-ix-nintendo-switch-nowe-gratis?navCategoryId=256922",
     "promoted": false,
@@ -2235,6 +2195,16 @@
     "price": "189",
     "img": "https://a.allegroimg.com/s180x180/1ea84a/63659e1844989695f8b337415432",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-scarlet-nintendo-switch-supercena-nowy-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
+    "id": "6b454be0-727a-4fe5-99e1-85ae0ac8f9c1",
+    "title": "POKEMON Let's go Pikachu  Nintendo Switch  .. Supercena NOWY , kartridż",
+    "price": "189",
+    "img": "https://a.allegroimg.com/s180x180/1e21c2/c0386a82454f928dd0866dcc2b62",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-lets-go-pikachu-nintendo-switch-supercena-nowy-kartridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
@@ -5998,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Podgórze"
+  },
+  {
+    "id": "4b709a67-7652-4c80-9b38-bdf73e1709b1",
+    "title": "Sifu Vengeance Edition Nintendo Switch NOWA",
+    "price": "109",
+    "img": "https://a.allegroimg.com/s180x180/1e7cfd/762f3d3d4f09b097ecd5186d42dc",
+    "url": "https://allegrolokalnie.pl//oferta/sifu-vengeance-edition-nintendo-switch-nowa-xey?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków"
+  },
+  {
+    "id": "248c13b1-ee85-4ce0-aaac-44d5da9e829c",
+    "title": "Mega Man 11 (Nintendo switch)",
+    "price": "110",
+    "img": "https://a.allegroimg.com/s180x180/1e4b24/4764294d45ae9929fecd8ba76563",
+    "url": "https://allegrolokalnie.pl//oferta/mega-man-11-nintendo-switch-6ha?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Będzin"
   }
 ]
