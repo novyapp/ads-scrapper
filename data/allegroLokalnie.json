@@ -280,6 +280,16 @@
     "city": "Konstancin-Jeziorna"
   },
   {
+    "id": "d00e1deb-c426-440d-8f3b-3cc6996f9941",
+    "title": "New Super Mario Bros U Delux Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1e99ad/1be5d17b45f1afb477fe498e7ca2",
+    "url": "https://allegrolokalnie.pl//oferta/new-super-mario-bros-u-delux-nintendo-switch-xow?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świebodzin"
+  },
+  {
     "id": "b275b0f5-377f-4476-b017-1ba3ea25417e",
     "title": "THE STANLEY PARABLE: ULTRA DELUXE ( SWITCH / SWITCH2 ) EGZ NOWY, W FOLII",
     "price": "248",
@@ -395,16 +405,6 @@
     "price": "165",
     "img": "https://a.allegroimg.com/s180x180/1e44a1/3c392d57460fac74b0eb3369ebf3",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-nintendo-switch-np7?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa, Mokotów"
-  },
-  {
-    "id": "29c07da5-0702-477d-ab8e-e78672afb8c9",
-    "title": "Xenoblade Chronicles 2 Torna The Golden Country Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e45dc/338a276d40249e7fa9f154f34cc4",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-torna-the-golden-country-nintendo-switch-s3e?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa, Mokotów"
@@ -762,7 +762,7 @@
   {
     "id": "b9afc1cd-dca2-4b5f-912c-7826d6547ca7",
     "title": "Legend of Mana Nintendo Switch Nowe + Gratis",
-    "price": "225",
+    "price": "219",
     "img": "https://a.allegroimg.com/s180x180/1e59a0/d7361bde47fc8f1ee75831ff2d44",
     "url": "https://allegrolokalnie.pl//oferta/legend-of-mana-nintendo-switch-nowe-gratis?navCategoryId=256922",
     "promoted": false,
@@ -2380,16 +2380,6 @@
     "city": "Ciechanów"
   },
   {
-    "id": "b7a9dbab-a23e-4f7f-96f9-8b5405875830",
-    "title": "Ring fit Nintendo Switch Nowe.",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e3eba/3e74a1fd45c79d80dfe69b3b5c5a",
-    "url": "https://allegrolokalnie.pl//oferta/ring-fit-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Kostrzyn nad Odrą"
-  },
-  {
     "id": "5bdbc3bd-0cdd-45cc-af88-72c752b1bae3",
     "title": "LEGO Horizon Adventures Switch",
     "price": "150",
@@ -2682,7 +2672,7 @@
   {
     "id": "67853ac0-5577-4509-bc37-d25c00da58f9",
     "title": "WARIO WARE GET IT TOGETHER / NINTENDO SWITCH",
-    "price": "130",
+    "price": "125",
     "img": "https://a.allegroimg.com/s180x180/1e0932/63a764854834b278e142cb07c506",
     "url": "https://allegrolokalnie.pl//oferta/wario-ware-get-it-together-nintendo-switch-m7l?navCategoryId=256922",
     "promoted": false,
@@ -3952,7 +3942,7 @@
   {
     "id": "7e0bbbc3-67cd-4d13-8112-b8028214bd22",
     "title": "Vengeful Guardian: Moonrider Nintendo Switch Stan Idealny + Gratis",
-    "price": "139",
+    "price": "135",
     "img": "https://a.allegroimg.com/s180x180/1e5930/83600092488b96ac3435deee700f",
     "url": "https://allegrolokalnie.pl//oferta/vengeful-guardian-moonrider-nintendo-switch-stan-idealny-gratis?navCategoryId=256922",
     "promoted": false,
@@ -4560,16 +4550,6 @@
     "city": "Żelazków"
   },
   {
-    "id": "b6de20bb-746d-446b-a066-507eb5915bcb",
-    "title": "CrossCode Nintendo Switch Nowe",
-    "price": "175",
-    "img": "https://a.allegroimg.com/s180x180/1efe18/dd8b0f144d13813c5e64f5565eb1",
-    "url": "https://allegrolokalnie.pl//oferta/crosscode-nintendo-switch-nowe?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gorzów Wlkp."
-  },
-  {
     "id": "39ea1336-8ec2-4cbb-8ad0-9d8df3f643b5",
     "title": "Yoshi Crafted World Nintendo Switch",
     "price": "195",
@@ -4896,7 +4876,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e6214/8c76da9443239383395177a10817",
     "url": "https://allegrolokalnie.pl//oferta/mario-party-jamboree-gadzety-switch-bcr?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Bydgoszcz"
   },
   {
@@ -5988,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Będzin"
+  },
+  {
+    "id": "5a0a5ff5-15a9-4282-9d47-8b31bff80357",
+    "title": "Splatoon 2 Nintendo Switch Kartridż",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e8e18/908f2f8f44d6a5e63bd788309098",
+    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-nintendo-switch-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "8130334c-04f7-492f-b6c2-60a1a219bbb0",
+    "title": "Mario Strikers Battle League Football Nintendo Switch",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1ef845/ef25d83f44f4af170859f6dfd8f4",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mea?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Plewiska"
+  },
+  {
+    "id": "d5de5433-53bb-498b-87f3-f5622d2b2277",
+    "title": "Story of Seasons Friends of Mineral Town Nintendo Switch",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1e6e4a/82d165c3438d8dfc1534cf8574d8",
+    "url": "https://allegrolokalnie.pl//oferta/story-of-seasons-friends-of-mineral-town-nintendo-switch-u26?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Kraków, Bieńczyce"
   }
 ]
