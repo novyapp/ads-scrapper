@@ -1,5 +1,25 @@
 [
   {
+    "id": "c0af9b8e-17b4-4e0c-8b57-b976a6d1543d",
+    "title": "The Legend of Zelda: Echoes of Wisdom",
+    "price": "150",
+    "img": "https://a.allegroimg.com/s180x180/1e32d6/d5cda58b4ea296d8b1d7bc527231",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-echoes-of-wisdom-y5e?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Mysłowice"
+  },
+  {
+    "id": "cc8c973a-c4b8-4df2-b8bf-a12b7a57e5a4",
+    "title": "Super Mario Maker 2",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1efa2f/98c6ce98455786d1c55dce651bce",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-pvu?navCategoryId=256922",
+    "promoted": true,
+    "smartPost": true,
+    "city": "Mysłowice"
+  },
+  {
     "id": "865d0d43-c259-469e-afee-4cf5f00e2a51",
     "title": "Assassin's Creed The Rebel Collection - Nintendo Switch",
     "price": "90",
@@ -188,6 +208,46 @@
     "promoted": true,
     "smartPost": true,
     "city": "Ruszkowice"
+  },
+  {
+    "id": "c5ac59e8-6f65-444b-89b3-bb76cb58c3ce",
+    "title": "Bloodstained Ritual od The Night",
+    "price": "70",
+    "img": "https://a.allegroimg.com/s180x180/1ef876/1a2164854a748ed22291ab0a89a2",
+    "url": "https://allegrolokalnie.pl//oferta/bloodstained-ritual-od-the-night-4ak?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sokołów Podlaski"
+  },
+  {
+    "id": "dc8afe04-63c6-4cd9-9f99-465a8abb06ca",
+    "title": "Dragon Quest III HD-2D Remake",
+    "price": "180",
+    "img": "https://a.allegroimg.com/s180x180/1e7a9e/cdb8ca1d43a9a6e5be91c0471326",
+    "url": "https://allegrolokalnie.pl//oferta/dragon-quest-iii-hd2d-remake-nb6?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sokołów Podlaski"
+  },
+  {
+    "id": "5f240114-24c2-40f5-ac00-e6334e393ffc",
+    "title": "Shin Megami Tensei V",
+    "price": "75",
+    "img": "https://a.allegroimg.com/s180x180/1e82f9/ed371afa4dc7b3184bc5a0f6fe9f",
+    "url": "https://allegrolokalnie.pl//oferta/shin-megami-tensei-v-we7?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sokołów Podlaski"
+  },
+  {
+    "id": "d21ce0d1-d361-4934-85a0-a770cbfca52e",
+    "title": "13 Sentinels: Aegis Rim",
+    "price": "90",
+    "img": "https://a.allegroimg.com/s180x180/1e8925/be297c1b4a7fa973737255332cdc",
+    "url": "https://allegrolokalnie.pl//oferta/13-sentinels-aegis-rim-mvr?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Sokołów Podlaski"
   },
   {
     "id": "299b97a8-10d8-448b-8d19-cf6f09688b90",
@@ -542,7 +602,7 @@
   {
     "id": "c2749bf0-7f2e-4a49-b1c3-fb16cd262af9",
     "title": "Xenoblade Chronicles 2 gra Nintendo Switch",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1ec242/c2ac86a543baa16188fadec301f3",
     "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-2-gra-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -552,7 +612,7 @@
   {
     "id": "f4f244f4-682e-495c-ba69-8b9c7aad5c34",
     "title": "Vampyr gra Nintendo Switch",
-    "price": "80",
+    "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1e7f09/349cae41480ebc9c5161827a31cd",
     "url": "https://allegrolokalnie.pl//oferta/vampyr-gra-nintendo-switch-prl?navCategoryId=256922",
     "promoted": false,
@@ -560,19 +620,9 @@
     "city": "Gdańsk"
   },
   {
-    "id": "11cf27ba-6501-4b12-a196-dcfa52ca434d",
-    "title": "Pokemon Sword gra Nintendo Switch",
-    "price": "145",
-    "img": "https://a.allegroimg.com/s180x180/1eee24/457158fa431bab0c76853b9454eb",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-sword-gra-nintendo-switch-xyx?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "a9bf563b-a9d9-46c9-bc30-bda049ed811c",
     "title": "Monster Hunter Rise gra Nintendo Switch",
-    "price": "80",
+    "price": "70",
     "img": "https://a.allegroimg.com/s180x180/1e07d1/938642ef4a79b86c21684c5c56a8",
     "url": "https://allegrolokalnie.pl//oferta/monster-hunter-rise-gra-nintendo-switch-foz?navCategoryId=256922",
     "promoted": false,
@@ -581,7 +631,7 @@
   },
   {
     "id": "f336ab60-93c1-4f3d-b127-cfb69340be4a",
-    "title": "Bayoneta 2 gra Nintendo Switch",
+    "title": "Bayonetta 2 gra Nintendo Switch",
     "price": "120",
     "img": "https://a.allegroimg.com/s180x180/1e604d/a4032b8b4de2aa8be2515af0eb82",
     "url": "https://allegrolokalnie.pl//oferta/bayoneta-2-gra-nintendo-switch?navCategoryId=256922",
@@ -612,7 +662,7 @@
   {
     "id": "08553399-e1f4-4f3d-ab6d-d6ea0977fed0",
     "title": "Ark Survival Evolved gra Nintendo Switch",
-    "price": "100",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1e26a4/9e1ffa68478183b42cc54af4a899",
     "url": "https://allegrolokalnie.pl//oferta/ark-survival-evolved-gra-nintendo-switch?navCategoryId=256922",
     "promoted": false,
@@ -642,22 +692,12 @@
   {
     "id": "4f9f3300-c166-4514-8a4e-0a1f10fd22d2",
     "title": "Animal Crossing New Horizons gra Nintendo Switch w pudełku",
-    "price": "140",
+    "price": "130",
     "img": "https://a.allegroimg.com/s180x180/1ecf69/0b886caa44d5b3d09b475c81d761",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-gra-nintendo-switch-w-pudelku?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
-  },
-  {
-    "id": "0189c4a6-554f-4f89-9a73-0e7473a10369",
-    "title": "The legends of Zelda Echoes of Wisdom Nintendo Switch",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e70d5/1117a63e4bc68267de673855723b",
-    "url": "https://allegrolokalnie.pl//oferta/the-legends-of-zelda-echoes-of-wisdom-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Krzycko Wielkie"
   },
   {
     "id": "c54cf0fc-efe3-4b3e-856b-306aaa06f71d",
@@ -982,7 +1022,7 @@
   {
     "id": "0e15b276-48e3-481b-95bf-c7d49b3b8103",
     "title": "Zestaw gier: Walking Dead Destinies, Zombie Army Trilogy, Maneater - Switch",
-    "price": "240",
+    "price": "250",
     "img": "https://a.allegroimg.com/s180x180/1ee43d/f0adfbb8445a9f685af0ff42a024",
     "url": "https://allegrolokalnie.pl//oferta/zestaw-gier-walking-dead-destinies-zombie-army-trilogy-maneater-switch?navCategoryId=256922",
     "promoted": false,
@@ -1192,7 +1232,7 @@
   {
     "id": "206e7054-491e-4004-9f98-a028defd3764",
     "title": "Super Mario 3d alls stars",
-    "price": "500",
+    "price": "398",
     "img": "https://a.allegroimg.com/s180x180/1ebe51/cd6fdde24bf0831deb69afbda011",
     "url": "https://allegrolokalnie.pl//oferta/super-mario-3d-alls-stars?navCategoryId=256922",
     "promoted": false,
@@ -1512,7 +1552,7 @@
   {
     "id": "50440829-fb3e-4dfb-a21e-5b4a511154a6",
     "title": "Game Builder Garage Nintendo Switch",
-    "price": "100",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1eea62/84ad26284678b3a6e219f3a1686e",
     "url": "https://allegrolokalnie.pl//oferta/game-builder-garage-nintendo-switch-w5t?navCategoryId=256922",
     "promoted": false,
@@ -2050,31 +2090,11 @@
     "city": "Gdańsk"
   },
   {
-    "id": "d337cc76-3899-4153-99fd-212ee56d4100",
-    "title": "Star Wars Bounty Hunter Limited Run #253",
-    "price": "429",
-    "img": "https://a.allegroimg.com/s180x180/1eb16f/7030a796407e8b3d7130eeb7b74c",
-    "url": "https://allegrolokalnie.pl//oferta/star-wars-bounty-hunter-limited-run-253?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
     "id": "d82122ec-c7f7-4b12-8f3e-ca9cd362c8f3",
     "title": "Castlevania Dominus Collection Limited Run #251",
     "price": "429",
     "img": "https://a.allegroimg.com/s180x180/1ef5b9/a71704074fa9aa32339922bf5e79",
     "url": "https://allegrolokalnie.pl//oferta/castlevania-dominus-collection-limited-run-251-r3r?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk"
-  },
-  {
-    "id": "19005a6b-797a-41c8-bbde-6ab144226983",
-    "title": "Castlevania Dominus Collection Limited Run #251",
-    "price": "429",
-    "img": "https://a.allegroimg.com/s180x180/1e9851/0835cace497da94ffad0935fc0fb",
-    "url": "https://allegrolokalnie.pl//oferta/castlevania-dominus-collection-limited-run-251?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Gdańsk"
@@ -2382,7 +2402,7 @@
   {
     "id": "d8c3ee25-ea88-439e-a785-1be419e6d54c",
     "title": "Zombie Army Trilogy - Nintendo Switch",
-    "price": "80",
+    "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1e25b9/b66d5b774c2986d3e50cce81973a",
     "url": "https://allegrolokalnie.pl//oferta/zombie-army-trilogy-nintendo-switch-fsf?navCategoryId=256922",
     "promoted": false,
@@ -2398,16 +2418,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
-  },
-  {
-    "id": "b6a75e98-d94d-4865-82a4-8fd5fd58f707",
-    "title": "Monster hunter stories 2: wings of ruin",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e7507/00fe762d4854ab64d1d3583fef89",
-    "url": "https://allegrolokalnie.pl//oferta/monster-hunter-stories-2-wings-of-ruin-63i?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Gdańsk, Osowa"
   },
   {
     "id": "a666f818-21d1-4219-8345-991987af224c",
@@ -2732,7 +2742,7 @@
   {
     "id": "245341aa-5a22-40a8-aa30-b842cddff275",
     "title": "Nintendo Switch Sport",
-    "price": "160",
+    "price": "150",
     "img": "https://a.allegroimg.com/s180x180/1e641d/e66d1a084b469c8c70164c1b7cee",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-sport-uru?navCategoryId=256922",
     "promoted": false,
@@ -5988,15 +5998,5 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rumia"
-  },
-  {
-    "id": "2aaffd71-8c3b-4e43-890a-dd414e1ac5e0",
-    "title": "Super Monkey Ball Banana Rumble NINTENDO SWITCH NOWA",
-    "price": "89",
-    "img": "https://a.allegroimg.com/s180x180/1e7b51/22196fa544549295de0c883ede10",
-    "url": "https://allegrolokalnie.pl//oferta/super-monkey-ball-banana-rumble-nintendo-switch-nowa-xbm?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Dąbrówki"
   }
 ]
