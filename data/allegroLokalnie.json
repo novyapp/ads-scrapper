@@ -360,16 +360,6 @@
     "city": "Słupsk"
   },
   {
-    "id": "5a3f7502-47ea-4b84-9e10-f12f3041db30",
-    "title": "Nintendo Switch dostęp",
-    "price": "600",
-    "img": "https://a.allegroimg.com/s180x180/1efd2f/ab503a014b59aad2188b47325820",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-dostep?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Gdańsk"
-  },
-  {
     "id": "e886fd82-cbf8-4c2e-8996-37a219bd6092",
     "title": "Gra na konsolę Nintendo Switch: Assassin's Creed The Rebel Collection.",
     "price": "65",
@@ -2400,16 +2390,6 @@
     "city": "Gdańsk"
   },
   {
-    "id": "66fd8be8-e5ad-44ec-a833-aaa2ade878ad",
-    "title": "LITTLE NIGHTMARES 2 TV Edition",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1e2ccd/3cd23595409285d775566852e576",
-    "url": "https://allegrolokalnie.pl//oferta/little-nightmares-2-tv-edition?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": false,
-    "city": "Poznań"
-  },
-  {
     "id": "25622379-71ff-479e-8802-485628ce2816",
     "title": "SAYONARA WILD HEARTS Nintendo Switch",
     "price": "75",
@@ -3010,6 +2990,16 @@
     "city": "Łódź, Bałuty"
   },
   {
+    "id": "e5609815-dd62-4795-a93e-066d0a20e717",
+    "title": "VAMPYR Nintendo Switch NS Konsola Gra Rpg",
+    "price": "85",
+    "img": "https://a.allegroimg.com/s180x180/1e1d7c/e0bef61e455ea340dab3625694dc",
+    "url": "https://allegrolokalnie.pl//oferta/gra-vampyr-nintendo-switch-fkt?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź, Bałuty"
+  },
+  {
     "id": "9a70fad8-9245-49f7-8dde-bdad8fa841ca",
     "title": "Shovel Knight: Treasure Trove (Nintendo Switch) - Stan idealny",
     "price": "110",
@@ -3598,16 +3588,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Olszanica"
-  },
-  {
-    "id": "92931350-cc61-4cba-8d6e-c6ed2cecfe4e",
-    "title": "Super Mario Party Jamboree Nintendo Switch NOWA W FOLII",
-    "price": "209",
-    "img": "https://a.allegroimg.com/s180x180/1ee958/d7c2b8c046668e55652962cd9333",
-    "url": "https://allegrolokalnie.pl//oferta/super-mario-party-jamboree-nintendo-switch-nowa-w-folii?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Bieżuń"
   },
   {
     "id": "c9199901-bf8a-4b06-a489-11b138447557",
@@ -5998,5 +5978,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Kraków, Krowodrza"
+  },
+  {
+    "id": "8130334c-04f7-492f-b6c2-60a1a219bbb0",
+    "title": "Mario Strikers Battle League Football Nintendo Switch",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1ef845/ef25d83f44f4af170859f6dfd8f4",
+    "url": "https://allegrolokalnie.pl//oferta/mario-strikers-battle-league-football-nintendo-switch-mea?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Plewiska"
   }
 ]
