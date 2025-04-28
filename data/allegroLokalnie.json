@@ -610,16 +610,6 @@
     "city": "Poznań"
   },
   {
-    "id": "22f0ba3c-9964-40b3-bd7e-83e12235b6b4",
-    "title": "Xenoblade Chronicles Definitive Edition",
-    "price": "170",
-    "img": "https://a.allegroimg.com/s180x180/1e5ad5/a83b0b5f459b95d78b5df8bc42c7",
-    "url": "https://allegrolokalnie.pl//oferta/xenoblade-chronicles-definitive-edition-vlt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łazy"
-  },
-  {
     "id": "e1cba441-5617-43d5-9ee2-fd3d9dff7f91",
     "title": "Prince of Persia - The lost Crown Switch NS",
     "price": "75",
@@ -692,7 +682,7 @@
   {
     "id": "9a7d29af-7920-43dd-9372-46c2f621a282",
     "title": "Diablo 3 Nintendo Switch",
-    "price": "100",
+    "price": "95",
     "img": "https://a.allegroimg.com/s180x180/1ec068/96ef5ffa440288733eeadea88473",
     "url": "https://allegrolokalnie.pl//oferta/diablo-3-nintendo-switch-thb?navCategoryId=256922",
     "promoted": false,
@@ -1940,16 +1930,6 @@
     "city": "Jaworzno"
   },
   {
-    "id": "f797e193-d08f-474a-8d2d-03d0fc4bbbb9",
-    "title": "Fire Emble Warriors Three Hopes Nintendo",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1ea578/56718123452bb5f39f1087eb688f",
-    "url": "https://allegrolokalnie.pl//oferta/fire-emble-warriors-three-hopes-nintendo?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Tychy, Czułów"
-  },
-  {
     "id": "3eb13137-bab4-4a66-a622-6835a4fbe0db",
     "title": "The Legend of Zelda: Tears of the Kingdom COLLECTOR EDITION NINTENDO SWITCH",
     "price": "479",
@@ -2215,16 +2195,6 @@
     "price": "90",
     "img": "https://a.allegroimg.com/s180x180/1e21be/99c316b0466fa39d9411c0de2b45",
     "url": "https://allegrolokalnie.pl//oferta/burnout-paradise-remastered-gra-na-nintendo-switch?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "MĘDRZECHÓW"
-  },
-  {
-    "id": "5b4b3257-df83-49c1-94ac-242b2a10fea7",
-    "title": "Unravel Two Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e1d25/d7f5f4584c68ba70fbb53e7b20b5",
-    "url": "https://allegrolokalnie.pl//oferta/unravel-two-nintendo-switch-m4q?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "MĘDRZECHÓW"
@@ -5998,5 +5968,15 @@
     "promoted": false,
     "smartPost": false,
     "city": "Żory"
+  },
+  {
+    "id": "f6c6b19e-6e26-4e3a-bb02-8385b1deb4d1",
+    "title": "Gra nitendo mario nowa.",
+    "price": "119",
+    "img": "https://a.allegroimg.com/s180x180/1e57e9/5158895d495c8159f2bc72b765be",
+    "url": "https://allegrolokalnie.pl//oferta/gra-nitendo-mario-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Bytom"
   }
 ]
