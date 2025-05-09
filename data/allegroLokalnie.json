@@ -330,16 +330,6 @@
     "city": "Katowice, Katowice"
   },
   {
-    "id": "73d78bd6-c8a5-40ed-b496-b3f9db930c0c",
-    "title": "The Elder Scrolls V Skyrim NS",
-    "price": "99",
-    "img": "https://a.allegroimg.com/s180x180/1e3507/8e133c1a4d84b117d7dc310b4d0b",
-    "url": "https://allegrolokalnie.pl//oferta/the-elder-scrolls-v-skyrim-ns-mgi?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Warszawa"
-  },
-  {
     "id": "e6bd4a2f-6d2c-494a-8666-a5ed6f5a861b",
     "title": "Taiko no Tatsujin Rhythm Festival",
     "price": "59",
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Rzeszów"
+  },
+  {
+    "id": "724b8b12-1c2f-4e61-9d4f-aaa38f4dad5b",
+    "title": "Fae Farm Nintendo Switch NOWA",
+    "price": "169",
+    "img": "https://a.allegroimg.com/s180x180/1e353a/24dc5f6a4e1f906926395b305efd",
+    "url": "https://allegrolokalnie.pl//oferta/fae-rarm-nintendo-switch-nowa?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Świdnica"
   }
 ]
