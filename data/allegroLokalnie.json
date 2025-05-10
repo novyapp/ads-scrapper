@@ -346,7 +346,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e0710/5cc0dd774653933e672fbb192cb2",
     "url": "https://allegrolokalnie.pl//oferta/legend-of-zelda-links-awakening-edycja-kolekcjonerska?navCategoryId=256922",
     "promoted": true,
-    "smartPost": false,
+    "smartPost": true,
     "city": "Świdnica"
   },
   {
@@ -1350,16 +1350,6 @@
     "city": "Olsztyn"
   },
   {
-    "id": "fa675377-7695-4bfb-a0b2-f38ac52aed50",
-    "title": "Metal Gear Solid Master Collection Volume 1 Nintendo Switch - Nowa",
-    "price": "149",
-    "img": "https://a.allegroimg.com/s180x180/1e4867/8867134248978f80d4eb0ffc79f2",
-    "url": "https://allegrolokalnie.pl//oferta/metal-gear-solid-master-collection-volume-1-nintendo-switch-nowa?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Olsztyn"
-  },
-  {
     "id": "f1b20069-e35f-498f-9420-bd562ec4b480",
     "title": "Daemon X Machina Nintendo Switch - Nowa",
     "price": "180",
@@ -1638,16 +1628,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Szczecin"
-  },
-  {
-    "id": "64d78658-4328-46df-b952-ef82cdf4affd",
-    "title": "CTR Crash Team Racing Nintendo Switch pudełko + kartridż",
-    "price": "70",
-    "img": "https://a.allegroimg.com/s180x180/1ebfe4/7f4e56bf45c0aa3ec937203e647c",
-    "url": "https://allegrolokalnie.pl//oferta/ctr-crash-team-racing-nintendo-switch-pudelko-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Dobczyce"
   },
   {
     "id": "bc456f28-61ec-418c-8441-0c23e910f2fe",
@@ -5998,5 +5978,25 @@
     "promoted": false,
     "smartPost": false,
     "city": "Świdnica"
+  },
+  {
+    "id": "5f0ab4e9-ad4f-4804-a247-4ba3e709c51c",
+    "title": "Fifa 22 Edycja Legacy NIntendo Switch",
+    "price": "60",
+    "img": "https://a.allegroimg.com/s180x180/1e1982/5d3a42e44adc9dab880f8e199304",
+    "url": "https://allegrolokalnie.pl//oferta/fifa-22-edycja-legacy-nintendo-switch-k2b?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Staszów"
+  },
+  {
+    "id": "5262be9f-1a27-4e2c-a62f-aee740503853",
+    "title": "Gra Pocemon Violet Nintedo Switch",
+    "price": "155",
+    "img": "https://a.allegroimg.com/s180x180/1e18aa/bc008bef4ed6bfd31fdab6e56c03",
+    "url": "https://allegrolokalnie.pl//oferta/gra-pocemon-violet-nintedo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łuków"
   }
 ]
