@@ -2212,7 +2212,7 @@
   {
     "id": "6c9f7c34-f08d-44ff-a03f-100ccba6b294",
     "title": "Animal Crossing New Horizons",
-    "price": "150",
+    "price": "140",
     "img": "https://a.allegroimg.com/s180x180/1eeab0/547aa4e34491a000d2fc3f802697",
     "url": "https://allegrolokalnie.pl//oferta/animal-crossing-new-horizons-o4w?navCategoryId=256922",
     "promoted": false,
@@ -5390,16 +5390,6 @@
     "city": "Objazda"
   },
   {
-    "id": "2a925847-adb7-4cbf-a124-196192fa96a4",
-    "title": "Ys IX: Monstrum Nox Nintendo Switch",
-    "price": "110",
-    "img": "https://a.allegroimg.com/s180x180/1ee260/87c017684129b0de8fa9cbb16f50",
-    "url": "https://allegrolokalnie.pl//oferta/ys-ix-monstrum-nox-nintendo-switch-slt?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Objazda"
-  },
-  {
     "id": "b93986f5-d95e-4d5d-87c8-3d44765db5da",
     "title": "Deadly Premonition 2 Nintendo Switch",
     "price": "110",
@@ -5978,5 +5968,25 @@
     "promoted": false,
     "smartPost": true,
     "city": "Tychy, Czułów"
+  },
+  {
+    "id": "ace8001b-1c1a-4d6b-b6a0-a8dc2f35a16f",
+    "title": "Breakout Birdie Panic 2 (Nintendo Switch)",
+    "price": "20",
+    "img": "https://a.allegroimg.com/s180x180/1ecdf5/fce9ba2e4ea0a31b7ca90dd5d3f1",
+    "url": "https://allegrolokalnie.pl//oferta/breakout-birdie-panic-2-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": false,
+    "city": "Łysa Góra"
+  },
+  {
+    "id": "21a1a55a-0089-4ba7-8d2b-15edab219b5e",
+    "title": "The Legend of Zelda: Tears of the Kingdom Collector's Edition",
+    "price": "1 500",
+    "img": "https://a.allegroimg.com/s180x180/1e3f68/5e81ce504c3a850b5a94c8ef5a8a",
+    "url": "https://allegrolokalnie.pl//oferta/the-legend-of-zelda-tears-of-the-kingdom-collectors-edition-nqp?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Racibórz"
   }
 ]
