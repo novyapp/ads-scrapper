@@ -292,7 +292,7 @@
   {
     "id": "9d4ef321-1b5d-4c1c-8256-606db094ee1e",
     "title": "Cotton Guardian Force Saturn Tribute - Nintendo Switch JPN NOWA",
-    "price": "180",
+    "price": "170",
     "img": "https://a.allegroimg.com/s180x180/1ed45e/01ac9f164809bdd7a1606b1a273b",
     "url": "https://allegrolokalnie.pl//oferta/cotton-guardian-force-saturn-tribute-nintendo-switch-jpn-nowa?navCategoryId=256922",
     "promoted": true,
@@ -302,7 +302,7 @@
   {
     "id": "086f9775-1263-42d1-a286-08dbb2bf6170",
     "title": "Kyukyoku Tiger Heli Toaplan Arcade Garage - Nintendo Switch JPN NOWA",
-    "price": "215",
+    "price": "200",
     "img": "https://a.allegroimg.com/s180x180/1ef40d/5297219346ff81d4fef0e63bc2cb",
     "url": "https://allegrolokalnie.pl//oferta/kyukyoku-tiger-heli-toaplan-arcade-garage-nintendo-switch-jpn-nowa?navCategoryId=256922",
     "promoted": true,
@@ -370,6 +370,16 @@
     "city": "Jeziory Małe"
   },
   {
+    "id": "dd1d8569-9460-4705-8548-28e1319e5fcd",
+    "title": "Gra Switch Animal Crossing New Horizons",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e4dec/861ceae54d09b069b911a5abffe6",
+    "url": "https://allegrolokalnie.pl//oferta/gra-switch-animal-crossing-new-horizons-yd3?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Tczew"
+  },
+  {
     "id": "d4775eea-7580-4f02-995b-69d936dfba25",
     "title": "Star Wars Lego Nintendo Switch",
     "price": "85",
@@ -395,16 +405,6 @@
     "price": "75",
     "img": "https://a.allegroimg.com/s180x180/1e77ad/3b60ba60431684183de469828665",
     "url": "https://allegrolokalnie.pl//oferta/spyro-reignited-trilogy-nintendo-switch-vtf?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
-    "id": "eae73b34-21b9-4c86-8552-1adbb5a79fe8",
-    "title": "Travis Strikes Again No More Heroes - Nintendo Switch",
-    "price": "80",
-    "img": "https://a.allegroimg.com/s180x180/1e1ccc/a8274596431d86f75e666909e691",
-    "url": "https://allegrolokalnie.pl//oferta/travis-strikes-again-no-more-heroes-nintendo-switch-oje?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Lublin"
@@ -680,16 +680,6 @@
     "city": "Dąbrówka Wielka"
   },
   {
-    "id": "1888ebf5-2751-44ee-917c-7a28ba5e243b",
-    "title": "Splatoon 2 Switch",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e9ef7/beea12b545e5a715604cc789b109",
-    "url": "https://allegrolokalnie.pl//oferta/splatoon-2-switch-i4x?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Wrocław, Śródmieście"
-  },
-  {
     "id": "62b766f5-2f79-4df6-8017-40332f674b4a",
     "title": "Hogwarts Legacy (SWITCH)",
     "price": "99",
@@ -952,7 +942,7 @@
   {
     "id": "428d9e7f-8362-4aee-9758-18e99d7c6c7e",
     "title": "FC24 Nintendo Switch",
-    "price": "95",
+    "price": "75",
     "img": "https://a.allegroimg.com/s180x180/1ecf70/e704a123493da5bbd2239a169a51",
     "url": "https://allegrolokalnie.pl//oferta/fc24-nintendo-switch-ohp?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5988,15 @@
     "promoted": false,
     "smartPost": true,
     "city": "Piaseczno"
+  },
+  {
+    "id": "64ba2318-6c78-462f-bd70-d0bc71d12094",
+    "title": "Paskudy gra na Nintendo switch",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e85f2/ed92009b430bbb33a9ba68adfdd1",
+    "url": "https://allegrolokalnie.pl//oferta/paskudy-gra-na-nintendo-switch?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Lipowo"
   }
 ]
