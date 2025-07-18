@@ -80,16 +80,6 @@
     "city": "Mława"
   },
   {
-    "id": "aab5d63c-04bf-48ff-95ee-cb99475d0702",
-    "title": "Maneater - Nintendo Switch",
-    "price": "55",
-    "img": "https://a.allegroimg.com/s180x180/1e3de3/4246ea844befb9edffbcf34bb718",
-    "url": "https://allegrolokalnie.pl//oferta/maneater-nintendo-switch-pys?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Lublin"
-  },
-  {
     "id": "23ca4142-8987-4fa6-84ee-806e3b077703",
     "title": "Spongebob SquarePants: Battle for Bikini Bottom - Rehydrated Nintendo Switc",
     "price": "78",
@@ -330,8 +320,18 @@
     "city": "Pińczów"
   },
   {
+    "id": "dbffb875-0b70-434d-91d1-8023ab1f35b1",
+    "title": "Super Mario Maker 2 na Nintendo Switch",
+    "price": "175",
+    "img": "https://a.allegroimg.com/s180x180/1ef6e3/342436e44467bdae740d259f2a1d",
+    "url": "https://allegrolokalnie.pl//oferta/super-mario-maker-2-na-nintendo-switch-v55?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Koszalin"
+  },
+  {
     "id": "f952b9ee-02af-49c3-9aca-2f1d260db31a",
-    "title": "Pokémon Shield Nintendo switch",
+    "title": "Pokémon schild Nintendo switch",
     "price": "145",
     "img": "https://a.allegroimg.com/s180x180/1e2d5f/33ade1d844479e09a3f947b0dc70",
     "url": "https://allegrolokalnie.pl//oferta/pokemon-shield-nintendo-switch-swb?navCategoryId=256922",
@@ -2430,16 +2430,6 @@
     "city": "Śledziejowice"
   },
   {
-    "id": "8077df0b-5fbd-407e-bf84-ce621e53a846",
-    "title": "Brok the investigator Nintendo Switch",
-    "price": "125",
-    "img": "https://a.allegroimg.com/s180x180/1e6945/47f18e2044508628b34a2b43cc38",
-    "url": "https://allegrolokalnie.pl//oferta/brok-the-investigator-nintendo-switch-ola?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Sanniki"
-  },
-  {
     "id": "ca35e420-719e-4d20-b70b-854f624e2edc",
     "title": "Rusty Rabbit Nintendo Switch",
     "price": "130",
@@ -2462,22 +2452,12 @@
   {
     "id": "6a72a374-4ebd-4baa-b4ac-0f2d741d9a36",
     "title": "Nintendo switch gry: 1-2 switch, splatoon 2, mario kart 8 deluxe (no boxes)",
-    "price": "229",
+    "price": "215",
     "img": "https://a.allegroimg.com/s180x180/1efeae/777c3a6243a7807224dedd41e655",
     "url": "https://allegrolokalnie.pl//oferta/12-switch-splatoon-2-mario-kart-8-deluxe-no-boxes?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "c34ab588-39c3-4111-b451-dff80503b51e",
-    "title": "Mario Kart 8 Deluxe Nintendo Switch  .. Supercena NOWY",
-    "price": "194",
-    "img": "https://a.allegroimg.com/s180x180/1e719d/982b69d148a8b5c3557819e32794",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-nintendo-switch-supercena-nowy-2zd?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Łódź"
   },
   {
     "id": "bfcbd0e6-5a12-42d0-9b59-432f6ac653b9",
@@ -2648,16 +2628,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Mikołów"
-  },
-  {
-    "id": "62b1ac55-8a75-497a-849c-501a35f967dd",
-    "title": "Minecraft Legends Deluxe Edition (Gra Nintendo Switch) - Kartridż",
-    "price": "90",
-    "img": "https://a.allegroimg.com/s180x180/1e887d/1f5f556d446ea38e006f9aa96a26",
-    "url": "https://allegrolokalnie.pl//oferta/minecraft-legends-deluxe-edition-gra-nintendo-switch-kartridz?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Lublin, Czuby"
   },
   {
     "id": "4cdbc1b4-0d5d-45e1-af21-0faf185ebca9",
@@ -3482,7 +3452,7 @@
   {
     "id": "7d8ecef8-4490-4c7f-8303-8d5a25cb1e16",
     "title": "Nintendo World Championships: NES Edition (Deluxe Set)",
-    "price": "500",
+    "price": "700",
     "img": "https://a.allegroimg.com/s180x180/1e6e65/54f6d57c448b8a5ab50617476ffc",
     "url": "https://allegrolokalnie.pl//oferta/nintendo-world-championships-nes-edition-deluxe-set-ss2?navCategoryId=256922",
     "promoted": false,
@@ -5998,5 +5968,35 @@
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
+  },
+  {
+    "id": "939dadee-6e90-4ce4-a2b9-46dec068c1b4",
+    "title": "My Universe School Teacher  Nintendo Switch  .. Supercena NOWY , kartridż",
+    "price": "59",
+    "img": "https://a.allegroimg.com/s180x180/1eab00/beee01ce489faa40cb034de7d70c",
+    "url": "https://allegrolokalnie.pl//oferta/my-universe-school-teacher-nintendo-switch-supercena-nowy-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
+    "id": "388e1964-8e8f-42c6-80a4-4b9042fe1a7f",
+    "title": "Just Dance 2020 Nintendo Switch kartridż .. Supercena NOWY",
+    "price": "99",
+    "img": "https://a.allegroimg.com/s180x180/1ecacb/b880e5d841c8bb8c3d6dadf4b3cb",
+    "url": "https://allegrolokalnie.pl//oferta/just-dance-2020-nintendo-switch-kartridz-supercena-nowy?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
+    "id": "72beba55-c44d-4387-bc83-3572f8622935",
+    "title": "Nintendo Switch FIFA22",
+    "price": "100",
+    "img": "https://a.allegroimg.com/s180x180/1e8859/2b7613e143b5aa34a5a19f9d82f7",
+    "url": "https://allegrolokalnie.pl//oferta/gry-nintendo-switch-wfk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Ciechanów"
   }
 ]
