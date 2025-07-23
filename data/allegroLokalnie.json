@@ -170,16 +170,6 @@
     "city": "Nowa Wola"
   },
   {
-    "id": "c8a53d79-695e-487a-bc29-632d0d8bfd22",
-    "title": "Pokemon Shining Pearl / Nintendo Switch",
-    "price": "148",
-    "img": "https://a.allegroimg.com/s180x180/1e6682/322718774298aa24e07925453ffa",
-    "url": "https://allegrolokalnie.pl//oferta/pokemon-shining-pearl-nintendo-switch-aa6?navCategoryId=256922",
-    "promoted": true,
-    "smartPost": true,
-    "city": "Nowa Wola"
-  },
-  {
     "id": "393bebd2-35f3-4cf5-8608-320816e53807",
     "title": "Xenoblade Chronicles 3 Nintendo Switch",
     "price": "190",
@@ -250,6 +240,26 @@
     "city": "Pińczów"
   },
   {
+    "id": "9d7333f9-741f-47dd-b703-c857b53e5ffe",
+    "title": "POKEMON BRILLIANT DIAMOND NINTENDO SWITCH",
+    "price": "140",
+    "img": "https://a.allegroimg.com/s180x180/1e1b91/05fbaf144bc5ad33f6c50fc9a727",
+    "url": "https://allegrolokalnie.pl//oferta/pokemon-brilliant-diamond-nintendo-switch-6fk?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
+    "id": "e1f26766-74bc-44ef-8eb2-a12ce8cb1140",
+    "title": "Prince of Persia The Lost Crown Nintendo Switch",
+    "price": "80",
+    "img": "https://a.allegroimg.com/s180x180/1e1994/78e5d45c4138af019036179a8d7b",
+    "url": "https://allegrolokalnie.pl//oferta/prince-of-persia-the-lost-crown-nintendo-switch-6ry?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Poznań"
+  },
+  {
     "id": "9dca693b-59f0-4310-8eb4-307d0bd0b377",
     "title": "Mario Rabbids Sparks Of Hope - Cosmic Edition - Switch - Kartridż - NOWA",
     "price": "99",
@@ -268,16 +278,6 @@
     "promoted": false,
     "smartPost": true,
     "city": "Warszawa"
-  },
-  {
-    "id": "a4371803-35aa-4771-9316-78ca6c662da9",
-    "title": "Mario Kart 8 Deluxe Switch",
-    "price": "159",
-    "img": "https://a.allegroimg.com/s180x180/1eda15/1a5bf55048e0ac926db78c9c38bd",
-    "url": "https://allegrolokalnie.pl//oferta/mario-kart-8-deluxe-switch-rv6?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Toruń, Na Skarpie"
   },
   {
     "id": "7b21fcd5-df0e-461d-a3e0-d2951c9880d0",
@@ -1396,7 +1396,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e8fbf/66e1d38243afa6d178cd8b7263fe",
     "url": "https://allegrolokalnie.pl//oferta/lego-worlds-switch-gra?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Zgorzelec"
   },
   {
@@ -1406,7 +1406,7 @@
     "img": "https://a.allegroimg.com/s180x180/1e4e4c/d06d9f5045e99a224a07c875d54b",
     "url": "https://allegrolokalnie.pl//oferta/just-dance-2020-switch-pa4?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Zgorzelec"
   },
   {
@@ -1416,7 +1416,7 @@
     "img": "https://a.allegroimg.com/s180x180/1ea58e/8a97b949424888a2a676739dede4",
     "url": "https://allegrolokalnie.pl//oferta/cars-3-nintendo-switch-gnj?navCategoryId=256922",
     "promoted": false,
-    "smartPost": true,
+    "smartPost": false,
     "city": "Zgorzelec"
   },
   {
@@ -4930,16 +4930,6 @@
     "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
   },
   {
-    "id": "e709641e-f9cf-410a-996f-5529687a372a",
-    "title": "Nintendo Switch The Wonderful 101 Remastered",
-    "price": "150",
-    "img": "https://a.allegroimg.com/s180x180/1ea8dc/a509c0ba4356800894e720e07974",
-    "url": "https://allegrolokalnie.pl//oferta/nintendo-switch-the-wonderful-101-remastered?navCategoryId=256922",
-    "promoted": false,
-    "smartPost": true,
-    "city": "Ożarów Mazowiecki, Ożarów Mazowiecki gmina"
-  },
-  {
     "id": "5e92e920-0c19-4b65-bfd6-a9a89d5dd1c8",
     "title": "Xenoblade Chronicles 3 Switch",
     "price": "189",
@@ -5995,6 +5985,16 @@
     "price": "89",
     "img": "https://a.allegroimg.com/s180x180/1e4d17/6f701dd34fb28dd058c668a0bab8",
     "url": "https://allegrolokalnie.pl//oferta/little-friends-dogs-cats-switch-tylko-kartridz?navCategoryId=256922",
+    "promoted": false,
+    "smartPost": true,
+    "city": "Łódź"
+  },
+  {
+    "id": "3b742854-265b-470f-aa97-12e5c6236a60",
+    "title": "AUTOBAHN POLICE SIMULATOR 2 Nintendo Switch ... tylko kartridż",
+    "price": "139",
+    "img": "https://a.allegroimg.com/s180x180/1e20af/85ef9ac54967a0ec969250b27991",
+    "url": "https://allegrolokalnie.pl//oferta/autobahn-police-simulator-2-nintendo-switch-tylko-kartridz?navCategoryId=256922",
     "promoted": false,
     "smartPost": true,
     "city": "Łódź"
